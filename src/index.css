@@ -1,0 +1,207 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    /* Noble Lab palette, light theme: bone paper with terracotta, sage, ochre
+       and rust. Values mirror tailwind.config.cjs and src/content/palette.ts;
+       change all three. */
+    --gold: #b04826; /* terracotta */
+    --cyan: #587248; /* sage / olive */
+    --ember: #8c6518; /* ochre */
+    --crimson: #8f3620; /* rust */
+    --ink: #f5f1e7; /* page ground, bone paper */
+    --charcoal: #1f2419; /* primary text */
+
+    /* Section eyebrows and rules read this; gradients read the stops. */
+    --accent: #b04826;
+
+    /* Every gradient on the site reads its stops from here:
+       deep olive -> sage -> light olive -> ochre -> terracotta -> rust.
+       There is deliberately no pale stop: bone would vanish on the paper. */
+    --brand-stops: #3e4a2e 0%, #587248 22%, #7a9060 40%, #8c6518 58%, #b04826 78%,
+      #8f3620 100%;
+  }
+
+  html {
+    scroll-behavior: smooth;
+    /* the fixed header must never cover an anchor target */
+    scroll-padding-top: 110px;
+  }
+
+  html,
+  body,
+  #root {
+    background: #f5f1e7;
+    color: #1f2419;
+    min-height: 100%;
+  }
+
+  body {
+    font-family: Inter, system-ui, -apple-system, "Segoe UI", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    overflow-x: hidden;
+  }
+
+  h1,
+  h2,
+  h3,
+  .font-display {
+    font-family: "Space Grotesk", Inter, system-ui, sans-serif;
+    letter-spacing: -0.02em;
+  }
+
+  ::selection {
+    background: var(--gold);
+    color: #f5f1e7;
+  }
+
+  /* Focus ring that stays visible on the bone page and on white panels */
+  :focus-visible {
+    outline: 2px solid var(--gold);
+    outline-offset: 3px;
+  }
+
+  ::-webkit-scrollbar {
+    width: 11px;
+    height: 11px;
+  }
+  ::-webkit-scrollbar-track {
+    background: #f5f1e7;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #ded7c6;
+    border-radius: 99px;
+  }
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--gold);
+  }
+}
+
+@layer components {
+  /*
+   * Pulls the hero logo left of the text column so it sits over the
+   * photograph rather than inside the copy.
+   *
+   * The pull is capped at the gutter that actually exists. A fixed -11rem
+   * pushed the mark past the left edge on every viewport below about 1590px,
+   * where the hero's overflow-hidden then clipped it. 1180px is max-w-content
+   * and 2rem is the Container's padding, held back as a safety inset because
+   * 100vw counts the scrollbar and the gutter does not.
+   *
+   * The -0.5rem floor keeps the small-screen nudge that -ml-2 used to give.
+   */
+  .hero-mark-bleed {
+    margin-left: max(-11rem, min(-0.5rem, calc((1180px - 100vw) / 2 + 2rem)));
+  }
+
+  /* The brand ramp used across TEA, reused here for rules and pills. */
+  .brand-gradient {
+    background-image: linear-gradient(90deg, var(--brand-stops));
+  }
+
+  /* Gradient lettering, same ramp as the rules. */
+  .brand-text {
+    background-image: linear-gradient(95deg, var(--brand-stops));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+  }
+
+  /* Angled a little more, so the colour reads across a long heading. */
+  .brand-title {
+    background-image: linear-gradient(100deg, var(--brand-stops));
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    /* descenders get clipped without a little breathing room */
+    padding-bottom: 0.08em;
+  }
+
+  /*
+   * Fades an image into the page on every edge. The radial pass softens the
+   * corners; the two linear passes guarantee the straight edges reach zero,
+   * which a radial alone does not do on a wide image. These are alpha masks,
+   * so the image dissolves into whatever the page colour is: bone paper here.
+   */
+  .feather-edges {
+    -webkit-mask-image: radial-gradient(
+        ellipse 72% 70% at 50% 50%,
+        #000 30%,
+        rgba(0, 0, 0, 0.6) 60%,
+        transparent 82%
+      ),
+      linear-gradient(to right, transparent 0%, #000 16%, #000 84%, transparent 100%),
+      linear-gradient(to bottom, transparent 0%, #000 14%, #000 82%, transparent 100%);
+    -webkit-mask-composite: source-in;
+    mask-image: radial-gradient(
+        ellipse 72% 70% at 50% 50%,
+        #000 30%,
+        rgba(0, 0, 0, 0.6) 60%,
+        transparent 82%
+      ),
+      linear-gradient(to right, transparent 0%, #000 16%, #000 84%, transparent 100%),
+      linear-gradient(to bottom, transparent 0%, #000 14%, #000 82%, transparent 100%);
+    mask-composite: intersect;
+  }
+
+  /* Card surface: near-white panel, hairline olive edge, soft shadow; the
+     edge warms to terracotta on hover. */
+  .card {
+    @apply relative rounded-2xl border border-edge bg-panel transition duration-300;
+    box-shadow:
+      0 1px 2px rgba(31, 36, 25, 0.06),
+      0 8px 24px rgba(31, 36, 25, 0.06);
+  }
+  .card:hover {
+    @apply border-gold/50;
+    box-shadow:
+      0 1px 2px rgba(31, 36, 25, 0.08),
+      0 12px 32px rgba(31, 36, 25, 0.1);
+  }
+
+  /* Underline that grows from the left, used by the nav and inline links. */
+  .link-underline {
+    position: relative;
+  }
+  .link-underline::after {
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -4px;
+    height: 2px;
+    width: 100%;
+    background: var(--gold);
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.32s cubic-bezier(0.22, 1, 0.36, 1);
+  }
+  .link-underline:hover::after,
+  .link-underline[data-active="true"]::after {
+    transform: scaleX(1);
+  }
+
+  /* Body copy inside cards and intros. The class name predates the light
+     theme; it is the site's ordinary prose style, not a dark variant. */
+  .prose-dark p {
+    @apply text-[17px] leading-[1.75] text-neutral-300;
+  }
+  .prose-dark p + p {
+    @apply mt-4;
+  }
+  .prose-dark a {
+    @apply text-gold underline decoration-gold/40 underline-offset-4 transition hover:text-brick hover:decoration-brick;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

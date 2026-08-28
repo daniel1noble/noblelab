@@ -1,0 +1,49 @@
+{
+  "siteUrl": "https://noblelab.org",
+  "routes": {
+    "/": {
+      "title": "Noble Lab | Daniel Noble, ANU",
+      "description": "The Noble Lab, led by Daniel Noble in the Research School of Biology at the Australian National University, studies evolutionary, ecological and conservation physiology: how organisms and populations adapt to changing environments."
+    },
+    "/research": {
+      "title": "Research | Noble Lab | Daniel Noble, ANU",
+      "description": "How the Noble Lab combines theory, modelling and meta-analysis with experimentation to understand how organisms respond and adapt to changing environments, from extreme heat to early developmental environments."
+    },
+    "/people": {
+      "title": "People | Noble Lab | Daniel Noble, ANU",
+      "description": "Daniel Noble leads the Noble Lab at the Australian National University. Meet the PhD, MSc and Honours students and past postdoctoral researchers in the group."
+    },
+    "/publications": {
+      "title": "Publications | Noble Lab | Daniel Noble, ANU",
+      "description": "Peer-reviewed papers and preprints by Daniel Noble and the Noble Lab on plasticity, developmental environments, extreme heat and meta-analysis."
+    },
+    "/software": {
+      "title": "Software | Noble Lab | Daniel Noble, ANU",
+      "description": "Software packages developed by or with the Noble Lab: orchaRd, metaDigitise and shinyDigitise, for meta-analysis and extracting data from figures."
+    },
+    "/teaching": {
+      "title": "Teaching | Noble Lab | Daniel Noble, ANU",
+      "description": "Daniel Noble's meta-analysis workshop material, Introduction to Meta-Analysis in Comparative Physiology, run at the Society for Experimental Biology and used for teaching at various universities."
+    },
+    "/gallery": {
+      "title": "Gallery | Noble Lab | Daniel Noble, ANU",
+      "description": "Research photos from the Noble Lab: fieldwork on lizards and other critters, and the lab's animal facilities at the Australian National University."
+    },
+    "/opportunities": {
+      "title": "Join us | Noble Lab | Daniel Noble, ANU",
+      "description": "The Noble Lab welcomes new students, postdocs and lab visitors. Get in touch with Daniel Noble at the Australian National University in Canberra."
+    },
+    "/news": {
+      "title": "News | Noble Lab | Daniel Noble, ANU",
+      "description": "News from the Noble Lab at the Australian National University."
+    },
+    "/contact": {
+      "title": "Contact | Noble Lab | Daniel Noble, ANU",
+      "description": "Contact Daniel Noble and the Noble Lab in the Division of Ecology and Evolution, Research School of Biology, Australian National University, Canberra."
+    }
+  },
+  "notFound": {
+    "title": "Page not found | Noble Lab | Daniel Noble, ANU",
+    "description": "That page does not exist. Use the navigation to find your way back."
+  }
+}

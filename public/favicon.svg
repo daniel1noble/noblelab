@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="14" fill="#F5F1E7"/>
+  <path d="M8 56h48" stroke="#587248" stroke-width="5" stroke-linecap="round"/>
+  <text x="32" y="43" font-family="Space Grotesk, Inter, system-ui, sans-serif" font-size="36" font-weight="700"
+        fill="#B04826" text-anchor="middle">N</text>
+</svg>

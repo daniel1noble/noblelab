@@ -1,0 +1,954 @@
+[
+  {
+    "file": "hero-animal-room.jpg",
+    "width": 2400,
+    "height": 1600,
+    "bytes": 400080,
+    "alt": "Rows of labelled clear plastic enclosures on black shelving in the lizard animal room",
+    "use": "hero"
+  },
+  {
+    "file": "hero-heat-lamps.jpg",
+    "width": 2400,
+    "height": 1600,
+    "bytes": 189669,
+    "alt": "Clear plastic enclosures beneath strip lights and heat lamps",
+    "use": "hero"
+  },
+  {
+    "file": "hero-lab-shelving.jpg",
+    "width": 2400,
+    "height": 1600,
+    "bytes": 303106,
+    "alt": "Shelving units of clear plastic lizard enclosures under strip lights and heat lamps in the animal facility",
+    "use": "hero"
+  },
+  {
+    "file": "research-crickets.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 99583,
+    "alt": "Crickets in a plastic container",
+    "use": "research"
+  },
+  {
+    "file": "research-egg-cups.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 229388,
+    "alt": "Labelled cups of vermiculite, covered with film, on incubator racks",
+    "use": "research"
+  },
+  {
+    "file": "research-eggs.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 219457,
+    "alt": "Four small white eggs on vermiculite in a plastic container",
+    "use": "research"
+  },
+  {
+    "file": "research-enclosures.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 126091,
+    "alt": "Labelled clear plastic enclosures with record cards on a shelf",
+    "use": "research"
+  },
+  {
+    "file": "research-handling.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 88698,
+    "alt": "A small lizard held gently between a researcher's fingers",
+    "use": "research"
+  },
+  {
+    "file": "research-hatchling.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 114244,
+    "alt": "A hatchling lizard in a labelled cup of vermiculite held in a hand",
+    "use": "research"
+  },
+  {
+    "file": "research-incubator.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 205515,
+    "alt": "Hands adjusting labelled cups on an incubator rack",
+    "use": "research"
+  },
+  {
+    "file": "research-lizard-bark.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 140042,
+    "alt": "A small lizard sheltering under a piece of bark beside a pipe hide",
+    "use": "research"
+  },
+  {
+    "file": "research-lizard-pipe.jpg",
+    "width": 1600,
+    "height": 1600,
+    "bytes": 222166,
+    "alt": "A small lizard emerging from a pipe hide onto green mesh in its enclosure",
+    "use": "research"
+  },
+  {
+    "file": "gallery-01-lab-shelving-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 41583,
+    "alt": "Shelving units of clear plastic lizard enclosures under strip lights and heat lamps",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-01-lab-shelving.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 166203,
+    "alt": "Shelving units of clear plastic lizard enclosures under strip lights and heat lamps",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-02-animal-room-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 50822,
+    "alt": "Rows of labelled clear plastic enclosures on black shelving in the lizard animal room",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-02-animal-room.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 214497,
+    "alt": "Rows of labelled clear plastic enclosures on black shelving in the lizard animal room",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-03-heat-lamps-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 27764,
+    "alt": "Clear plastic enclosures beneath strip lights and heat lamps",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-03-heat-lamps.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 107342,
+    "alt": "Clear plastic enclosures beneath strip lights and heat lamps",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-04-enclosures-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 31950,
+    "alt": "Labelled clear plastic enclosures with record cards on a shelf",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-04-enclosures.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 125855,
+    "alt": "Labelled clear plastic enclosures with record cards on a shelf",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-05-shelving-tall-thumb.jpg",
+    "width": 400,
+    "height": 600,
+    "bytes": 40060,
+    "alt": "Tall shelving of clear enclosures and heat lamps, viewed from below",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-05-shelving-tall.jpg",
+    "width": 1067,
+    "height": 1600,
+    "bytes": 156616,
+    "alt": "Tall shelving of clear enclosures and heat lamps, viewed from below",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-06-lizard-bark-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 25901,
+    "alt": "A small lizard sheltering under a piece of bark beside a pipe hide",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-06-lizard-bark.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 139326,
+    "alt": "A small lizard sheltering under a piece of bark beside a pipe hide",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-07-lizard-pipe-thumb.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 49358,
+    "alt": "A small lizard emerging from a pipe hide onto green mesh in its enclosure",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-07-lizard-pipe.jpg",
+    "width": 1600,
+    "height": 1600,
+    "bytes": 222166,
+    "alt": "A small lizard emerging from a pipe hide onto green mesh in its enclosure",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-08-lizard-in-hand-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 15171,
+    "alt": "A small lizard held gently between a researcher's fingers",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-08-lizard-in-hand.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 88233,
+    "alt": "A small lizard held gently between a researcher's fingers",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-09-hatchling-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 22151,
+    "alt": "A hatchling lizard in a labelled cup of vermiculite held in a hand",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-09-hatchling.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 113859,
+    "alt": "A hatchling lizard in a labelled cup of vermiculite held in a hand",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-10-egg-cups-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 43425,
+    "alt": "Labelled cups of vermiculite, covered with film, on incubator racks",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-10-egg-cups.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 228461,
+    "alt": "Labelled cups of vermiculite, covered with film, on incubator racks",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-11-incubator-hands-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 39199,
+    "alt": "Hands adjusting labelled cups on an incubator rack",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-11-incubator-hands.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 204633,
+    "alt": "Hands adjusting labelled cups on an incubator rack",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-12-incubator-check-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 30992,
+    "alt": "A researcher examining a small cup beside laboratory incubators",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-12-incubator-check.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 147537,
+    "alt": "A researcher examining a small cup beside laboratory incubators",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-13-incubator-loading-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 32723,
+    "alt": "A researcher placing cups of vermiculite into an incubator",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-13-incubator-loading.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 157300,
+    "alt": "A researcher placing cups of vermiculite into an incubator",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-14-crickets-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 20581,
+    "alt": "Crickets in a plastic container",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-14-crickets.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 99218,
+    "alt": "Crickets in a plastic container",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-15-animal-room-work-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 52717,
+    "alt": "A researcher working at a bench in the lizard animal room, surrounded by shelves of enclosures",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-15-animal-room-work.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 237085,
+    "alt": "A researcher working at a bench in the lizard animal room, surrounded by shelves of enclosures",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-16-checking-tubs-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 37418,
+    "alt": "A researcher checking enclosures at a bench",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-16-checking-tubs.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 171422,
+    "alt": "A researcher checking enclosures at a bench",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-17-shelf-tub-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 34369,
+    "alt": "A researcher reaching into a shelf of enclosures, holding a small tub",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-17-shelf-tub.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 145477,
+    "alt": "A researcher reaching into a shelf of enclosures, holding a small tub",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-18-stack-of-tubs-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 43401,
+    "alt": "A researcher smiling while holding a stack of small tubs beside shelves of enclosures",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-18-stack-of-tubs.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 197604,
+    "alt": "A researcher smiling while holding a stack of small tubs beside shelves of enclosures",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-19-lab-bench-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 35829,
+    "alt": "Two researchers preparing small tubs at a laboratory bench",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-19-lab-bench.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 161361,
+    "alt": "Two researchers preparing small tubs at a laboratory bench",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-20-holding-tubs-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 42239,
+    "alt": "A researcher holding a stack of small tubs in the animal room",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-20-holding-tubs.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 183575,
+    "alt": "A researcher holding a stack of small tubs in the animal room",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-21-inspecting-tubs-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 36159,
+    "alt": "A researcher inspecting a stack of small tubs",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-21-inspecting-tubs.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 157524,
+    "alt": "A researcher inspecting a stack of small tubs",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-22-conversation-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 23296,
+    "alt": "A researcher in conversation in the laboratory",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-22-conversation.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 109947,
+    "alt": "A researcher in conversation in the laboratory",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-23-researcher-cup-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 41315,
+    "alt": "A researcher holding a small cup in front of shelves of enclosures",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-23-researcher-cup.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 173423,
+    "alt": "A researcher holding a small cup in front of shelves of enclosures",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-24-lab-doorway-thumb.jpg",
+    "width": 400,
+    "height": 600,
+    "bytes": 33894,
+    "alt": "Doorway into laboratory room G.31 with shelves of enclosures visible",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-24-lab-doorway.jpg",
+    "width": 1067,
+    "height": 1600,
+    "bytes": 138667,
+    "alt": "Doorway into laboratory room G.31 with shelves of enclosures visible",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-25-eggs-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 45813,
+    "alt": "Four small white eggs on vermiculite in a plastic container",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-25-eggs.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 218787,
+    "alt": "Four small white eggs on vermiculite in a plastic container",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-26-animal-room-wide-thumb.jpg",
+    "width": 600,
+    "height": 600,
+    "bytes": 60932,
+    "alt": "Wide view of the lizard animal room with shelving units of enclosures and a work trolley",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-26-animal-room-wide.jpg",
+    "width": 1600,
+    "height": 1600,
+    "bytes": 270812,
+    "alt": "Wide view of the lizard animal room with shelving units of enclosures and a work trolley",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-27-bench-prep-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 37742,
+    "alt": "Two researchers preparing tubs at a laboratory sink bench",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-27-bench-prep.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 164321,
+    "alt": "Two researchers preparing tubs at a laboratory sink bench",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-28-incubator-researcher-thumb.jpg",
+    "width": 600,
+    "height": 400,
+    "bytes": 32912,
+    "alt": "A researcher beside a laboratory incubator",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-28-incubator-researcher.jpg",
+    "width": 1600,
+    "height": 1067,
+    "bytes": 169838,
+    "alt": "A researcher beside a laboratory incubator",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-29-lab-outing-thumb.jpg",
+    "width": 600,
+    "height": 450,
+    "bytes": 62044,
+    "alt": "Seven people standing in front of a Riddle Room Canberra sign, two of them holding small signs",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-29-lab-outing.jpg",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 316214,
+    "alt": "Seven people standing in front of a Riddle Room Canberra sign, two of them holding small signs",
+    "use": "gallery"
+  },
+  {
+    "file": "people-daniel-noble-2025.jpg",
+    "width": 600,
+    "height": 900,
+    "bytes": 54923,
+    "alt": "Portrait of Daniel Noble in a grey jacket and white shirt",
+    "use": "portrait"
+  },
+  {
+    "file": "people-daniel-noble.jpg",
+    "width": 617,
+    "height": 900,
+    "bytes": 82242,
+    "alt": "Head-and-shoulders portrait of Daniel Noble",
+    "use": "portrait"
+  },
+  {
+    "file": "gallery-field-02-painted-dragon-thumb.jpg",
+    "width": 450,
+    "height": 600,
+    "bytes": 65551,
+    "alt": "A dragon lizard on a weathered log in red sand country",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-02-painted-dragon.jpg",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 380772,
+    "alt": "A dragon lizard on a weathered log in red sand country",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-23-unhappy-sleepy-lizard-thumb.jpg",
+    "width": 450,
+    "height": 600,
+    "bytes": 70211,
+    "alt": "A large stout-bodied lizard on red sand with its mouth open",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-23-unhappy-sleepy-lizard.jpg",
+    "width": 1050,
+    "height": 1400,
+    "bytes": 396049,
+    "alt": "A large stout-bodied lizard on red sand with its mouth open",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-24-sand-monitor-thumb.jpg",
+    "width": 450,
+    "height": 600,
+    "bytes": 84104,
+    "alt": "A long-tailed lizard on red earth beside a pale-leaved shrub, casting a shadow",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-24-sand-monitor.jpg",
+    "width": 1050,
+    "height": 1400,
+    "bytes": 386450,
+    "alt": "A long-tailed lizard on red earth beside a pale-leaved shrub, casting a shadow",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-25-pygmy-bluetongue-thumb.jpg",
+    "width": 450,
+    "height": 600,
+    "bytes": 49832,
+    "alt": "A small lizard resting in an open hand",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-25-pygmy-bluetongue.jpg",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 256414,
+    "alt": "A small lizard resting in an open hand",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-26-maria-island-tasmania-thumb.jpg",
+    "width": 600,
+    "height": 176,
+    "bytes": 18884,
+    "alt": "Panorama of grassland and scattered trees running to sea cliffs under cloud",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-26-maria-island-tasmania.jpg",
+    "width": 1600,
+    "height": 469,
+    "bytes": 120623,
+    "alt": "Panorama of grassland and scattered trees running to sea cliffs under cloud",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-28-sleepy-lizard-thumb.jpg",
+    "width": 450,
+    "height": 600,
+    "bytes": 92209,
+    "alt": "A large stout-bodied lizard on red soil among leaf litter, mouth open",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-28-sleepy-lizard.jpg",
+    "width": 1050,
+    "height": 1400,
+    "bytes": 392805,
+    "alt": "A large stout-bodied lizard on red soil among leaf litter, mouth open",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-37-lab-experiments-thumb.jpg",
+    "width": 450,
+    "height": 600,
+    "bytes": 56464,
+    "alt": "A blue trolley of small yellow-capped cups in a laboratory, with a person working at the far bench",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-37-lab-experiments.jpg",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 256019,
+    "alt": "A blue trolley of small yellow-capped cups in a laboratory, with a person working at the far bench",
+    "use": "gallery"
+  },
+  {
+    "file": "people-amelia-peardon.jpg",
+    "width": 600,
+    "height": 500,
+    "bytes": 54620,
+    "alt": "Portrait of Amelia Peardon in the lizard animal room",
+    "use": "portrait"
+  },
+  {
+    "file": "people-dalton-leibold.jpg",
+    "width": 400,
+    "height": 373,
+    "bytes": 31172,
+    "alt": "Portrait of Dalton Leibold, holding a lizard",
+    "use": "portrait"
+  },
+  {
+    "file": "people-essie-rodgers.jpg",
+    "width": 225,
+    "height": 225,
+    "bytes": 10349,
+    "alt": "Portrait of Essie Rodgers, holding a small crocodile",
+    "use": "portrait"
+  },
+  {
+    "file": "people-joel-treutlein.jpg",
+    "width": 575,
+    "height": 537,
+    "bytes": 51520,
+    "alt": "Portrait of Joel Treutlein",
+    "use": "portrait"
+  },
+  {
+    "file": "people-kris-wild.jpg",
+    "width": 600,
+    "height": 596,
+    "bytes": 118335,
+    "alt": "Portrait of Kris Wild, seated on the forest floor",
+    "use": "portrait"
+  },
+  {
+    "file": "people-naomi-laven.jpg",
+    "width": 400,
+    "height": 371,
+    "bytes": 23361,
+    "alt": "Portrait of Naomi Laven",
+    "use": "portrait"
+  },
+  {
+    "file": "people-niamh-okelly.jpg",
+    "width": 600,
+    "height": 497,
+    "bytes": 54375,
+    "alt": "Portrait of Niamh O'Kelly",
+    "use": "portrait"
+  },
+  {
+    "file": "people-ondi-crino.jpg",
+    "width": 384,
+    "height": 384,
+    "bytes": 39598,
+    "alt": "Portrait of Ondi Crino",
+    "use": "portrait"
+  },
+  {
+    "file": "people-pablo-recio.jpg",
+    "width": 300,
+    "height": 281,
+    "bytes": 23101,
+    "alt": "Portrait of Pablo Recio, handling a snake",
+    "use": "portrait"
+  },
+  {
+    "file": "people-patrice-pottier.jpg",
+    "width": 258,
+    "height": 259,
+    "bytes": 28157,
+    "alt": "Portrait of Patrice Pottier",
+    "use": "portrait"
+  },
+  {
+    "file": "people-xingyi-xiu.jpg",
+    "width": 214,
+    "height": 177,
+    "bytes": 6197,
+    "alt": "Portrait of Xingyi Xiu",
+    "use": "portrait"
+  },
+  {
+    "file": "bg-hero-red-rock-lizard.jpg",
+    "width": 2048,
+    "height": 1360,
+    "bytes": 147105,
+    "alt": "Small pale lizard perched on a red sandstone rock against blurred orange ground",
+    "use": "background"
+  },
+  {
+    "file": "bg-hero-red-rock-lizard-mobile.jpg",
+    "width": 1080,
+    "height": 1360,
+    "bytes": 96014,
+    "alt": "Small pale lizard perched on a red sandstone rock against blurred orange ground",
+    "use": "background"
+  },
+  {
+    "file": "bg-hero-scales.jpg",
+    "width": 2048,
+    "height": 1174,
+    "bytes": 445681,
+    "alt": "Close-up of patterned reptile scales, dark with pale and orange blotches",
+    "use": "background"
+  },
+  {
+    "file": "bg-hero-lizard-mesh.jpg",
+    "width": 2400,
+    "height": 1600,
+    "bytes": 327453,
+    "alt": "A small lizard emerging from a white pipe onto green mesh",
+    "use": "background"
+  },
+  {
+    "file": "bg-research-rock-lizard.jpg",
+    "width": 2048,
+    "height": 1360,
+    "bytes": 428762,
+    "alt": "Large spotted lizard emerging from beneath a red rock overhang among dry grass",
+    "use": "background"
+  },
+  {
+    "file": "bg-people-grass-lizard.jpg",
+    "width": 2048,
+    "height": 1360,
+    "bytes": 300308,
+    "alt": "Small lizard basking on a red rock among dry grass stems",
+    "use": "background"
+  },
+  {
+    "file": "bg-publications-leaf-frog.jpg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 439868,
+    "alt": "Mottled green-brown frog sitting on a large green leaf",
+    "use": "background"
+  },
+  {
+    "file": "bg-software-green-beetle.jpg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 255127,
+    "alt": "Metallic green beetle on mossy, lichen-covered bark",
+    "use": "background"
+  },
+  {
+    "file": "bg-teaching-spotted-frogs.jpg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 443770,
+    "alt": "Two yellow-brown spotted frogs on a wet rock",
+    "use": "background"
+  },
+  {
+    "file": "bg-gallery-painted-dragon.jpg",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 355221,
+    "alt": "Painted dragon on a weathered log in red-sand country",
+    "use": "background"
+  },
+  {
+    "file": "bg-opportunities-sleepy-lizard.jpg",
+    "width": 1536,
+    "height": 1024,
+    "bytes": 444692,
+    "alt": "Sleepy lizard on red soil among leaf litter, mouth open",
+    "use": "background"
+  },
+  {
+    "file": "bg-news-maria-island.jpg",
+    "width": 2048,
+    "height": 600,
+    "bytes": 198623,
+    "alt": "Panorama of open grassland running to coastal hills under low cloud, Maria Island, Tasmania",
+    "use": "background"
+  },
+  {
+    "file": "bg-contact-karst-lake.jpg",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 323790,
+    "alt": "Limestone karst hills and trees reflected in a still lake under a pale sky",
+    "use": "background"
+  },
+  {
+    "file": "theme-1-1.png",
+    "width": 1600,
+    "height": 1120,
+    "bytes": 206951,
+    "alt": "Figure: coupled mechanistic models of thermal exposure/sensitivity",
+    "use": "theme-figure"
+  },
+  {
+    "file": "theme-1-2.jpg",
+    "width": 1600,
+    "height": 705,
+    "bytes": 247193,
+    "alt": "Figure: plant/grasshopper multi-panel diagram",
+    "use": "theme-figure"
+  },
+  {
+    "file": "theme-2-1.jpg",
+    "width": 1305,
+    "height": 1600,
+    "bytes": 271656,
+    "alt": "Figure: population ecology / energy allocation / mitochondrial bioenergetics flow diagram",
+    "use": "theme-figure"
+  },
+  {
+    "file": "theme-2-2.jpg",
+    "width": 1600,
+    "height": 1312,
+    "bytes": 328366,
+    "alt": "Figure: orchard plot of lnRR Q10 by habitat",
+    "use": "theme-figure"
+  },
+  {
+    "file": "theme-3-1.jpg",
+    "width": 1121,
+    "height": 1600,
+    "bytes": 140576,
+    "alt": "Figure: polar plot and trait-space diagram of plasticity vectors",
+    "use": "theme-figure"
+  },
+  {
+    "file": "theme-3-2.png",
+    "width": 540,
+    "height": 425,
+    "bytes": 24346,
+    "alt": "Figure: stacked bar chart of variance components",
+    "use": "theme-figure"
+  },
+  {
+    "file": "theme-3-3.png",
+    "width": 1600,
+    "height": 895,
+    "bytes": 334429,
+    "alt": "Figure: luminance/chromatic contrast vs background environment with chameleon illustrations",
+    "use": "theme-figure"
+  },
+  {
+    "file": "theme-4-1.png",
+    "width": 1600,
+    "height": 774,
+    "bytes": 201243,
+    "alt": "Figure: effect-size taxonomy",
+    "use": "theme-figure"
+  },
+  {
+    "file": "theme-4-2.jpg",
+    "width": 1600,
+    "height": 1268,
+    "bytes": 193903,
+    "alt": "Figure: \"nuisance heterogeneity\" standardising effects diagram with animal silhouettes and temperature bubbles",
+    "use": "theme-figure"
+  }
+]

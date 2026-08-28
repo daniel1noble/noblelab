@@ -1,0 +1,8 @@
+# Everything here is public. The sitemap matters more than the rules: the site
+# is a single-page app, so a crawler that does not run JavaScript sees only the
+# empty shell and would otherwise find no routes at all.
+
+User-agent: *
+Allow: /
+
+Sitemap: https://noblelab.org/sitemap.xml

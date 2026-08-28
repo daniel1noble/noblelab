@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <!-- PageMeta in src/App.tsx rewrites the title, description, canonical and
+         og tags on every navigation. What follows is the home page, and what a
+         crawler sees before the JavaScript runs. -->
+    <title>Noble Lab | Daniel Noble, ANU</title>
+    <meta
+      name="description"
+      content="The Noble Lab, led by Daniel Noble in the Research School of Biology at the Australian National University, studies evolutionary, ecological and conservation physiology: how organisms and populations adapt to changing environments."
+    />
+    <meta name="author" content="Daniel Noble" />
+    <link rel="canonical" href="https://noblelab.org/" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Noble Lab" />
+    <meta property="og:url" content="https://noblelab.org/" />
+    <meta property="og:title" content="Noble Lab | Daniel Noble, ANU" />
+    <meta
+      property="og:description"
+      content="Evolutionary, Ecological and Conservation Physiology at the Australian National University: how organisms and populations adapt to changing environments."
+    />
+    <!-- Absolute, because link previews are fetched by servers that have no
+         page context to resolve a relative path against. -->
+    <meta property="og:image" content="https://noblelab.org/images/bg-hero-red-rock-lizard.jpg" />
+    <meta
+      property="og:image:alt"
+      content="Small pale lizard perched on a red sandstone rock against blurred orange ground"
+    />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:image" content="https://noblelab.org/images/bg-hero-red-rock-lizard.jpg" />
+
+    <!-- Tells a search engine that this domain and the person already known
+         from ORCID, Scholar and GitHub are the same entity. Without sameAs
+         there is nothing tying a new domain to an existing name. -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Person",
+        "name": "Daniel Noble",
+        "givenName": "Daniel",
+        "familyName": "Noble",
+        "url": "https://noblelab.org/",
+        "image": "https://noblelab.org/images/people-daniel-noble-2025.jpg",
+        "jobTitle": "ARC Future Fellow (2023–2027) and Associate Professor",
+        "email": "daniel.noble@anu.edu.au",
+        "worksFor": {
+          "@type": "CollegeOrUniversity",
+          "name": "The Australian National University"
+        },
+        "affiliation": {
+          "@type": "Organization",
+          "name": "Division of Ecology & Evolution, Research School of Biology, The Australian National University"
+        },
+        "knowsAbout": [
+          "Evolutionary physiology",
+          "Ecological physiology",
+          "Conservation physiology",
+          "Phenotypic plasticity",
+          "Extreme heat",
+          "Meta-analysis"
+        ],
+        "identifier": "https://orcid.org/0000-0001-9460-8743",
+        "sameAs": [
+          "https://orcid.org/0000-0001-9460-8743",
+          "https://scholar.google.com/citations?user=w69ezLIAAAAJ",
+          "https://github.com/daniel1noble"
+        ]
+      }
+    </script>
+
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "ResearchOrganization",
+        "name": "Noble Lab",
+        "description": "Evolutionary, Ecological and Conservation Physiology",
+        "url": "https://noblelab.org/",
+        "founder": { "@type": "Person", "name": "Daniel Noble" },
+        "parentOrganization": {
+          "@type": "CollegeOrUniversity",
+          "name": "The Australian National University"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Canberra",
+          "addressRegion": "ACT",
+          "postalCode": "2600",
+          "addressCountry": "AU"
+        }
+      }
+    </script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.tsx"></script>
+  </body>
+</html>

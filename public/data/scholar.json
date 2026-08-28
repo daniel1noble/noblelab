@@ -1,0 +1,845 @@
+{
+ "updated": "2026-08-28",
+ "source": "Google Scholar via scholarly",
+ "scholarId": "w69ezLIAAAAJ",
+ "citations": 8761,
+ "citations5y": 7223,
+ "hIndex": 44,
+ "i10Index": 100,
+ "publications": [
+  {
+   "title": "Preferred reporting items for systematic reviews and meta‐analyses in ecology and evolutionary biology: a PRISMA extension",
+   "key": "preferred reporting items systematic reviews meta analyses ecology evolutionary biology prisma extension",
+   "year": 2021,
+   "citations": 873
+  },
+  {
+   "title": "Meta-evaluation of meta-analysis: ten appraisal questions for biologists",
+   "key": "meta evaluation meta analysis ten appraisal questions biologists",
+   "year": 2017,
+   "citations": 629
+  },
+  {
+   "title": "Methods for testing publication bias in ecological and evolutionary meta‐analyses",
+   "key": "methods testing publication bias ecological evolutionary meta analyses",
+   "year": 2022,
+   "citations": 504
+  },
+  {
+   "title": "Developmental temperatures and phenotypic plasticity in reptiles: a systematic review and meta‐analysis",
+   "key": "developmental temperatures phenotypic plasticity reptiles systematic review meta analysis",
+   "year": 2018,
+   "citations": 354
+  },
+  {
+   "title": "Research weaving: visualizing the future of research synthesis",
+   "key": "research weaving visualizing future research synthesis",
+   "year": 2019,
+   "citations": 298
+  },
+  {
+   "title": "Non‐independence and sensitivity analyses in ecological and evolutionary meta‐analyses",
+   "key": "non independence sensitivity analyses ecological evolutionary meta analyses",
+   "year": 2017,
+   "citations": 291
+  },
+  {
+   "title": "Reproducible, flexible and high throughput data extraction from primary literature: The metaDigitise R package",
+   "key": "reproducible flexible high throughput data extraction primary literature metadigitise package",
+   "year": 2019,
+   "citations": 284
+  },
+  {
+   "title": "The Orchard Plot: Cultivating forest plots for use in ecology, evolution and beyond",
+   "key": "orchard plot cultivating forest plots use ecology evolution beyond",
+   "year": 2021,
+   "citations": 251
+  },
+  {
+   "title": "Integrating mitochondrial aerobic metabolism into ecology and evolution",
+   "key": "integrating mitochondrial aerobic metabolism into ecology evolution",
+   "year": 2021,
+   "citations": 226
+  },
+  {
+   "title": "Unisexual salamanders (genus Ambystoma) present a new reproductive mode for eukaryotes",
+   "key": "unisexual salamanders genus ambystoma present new reproductive mode eukaryotes",
+   "year": 2007,
+   "citations": 219
+  },
+  {
+   "title": "orchaRd 2.0: An R package for visualizing meta-analyses with orchard plots",
+   "key": "orchard package visualizing meta analyses orchard plots",
+   "year": 2023,
+   "citations": 217
+  },
+  {
+   "title": "The role of non-genetic inheritance in evolutionary rescue: epigenetic buffering, heritable bet hedging and epigenetic traps",
+   "key": "role non genetic inheritance evolutionary rescue epigenetic buffering heritable bet hedging epigenetic traps",
+   "year": 2016,
+   "citations": 200
+  },
+  {
+   "title": "Sex and boldness explain individual differences in spatial learning in a lizard",
+   "key": "sex boldness explain individual differences spatial learning lizard",
+   "year": 2014,
+   "citations": 189
+  },
+  {
+   "title": "Developmental plasticity in thermal tolerance: Ontogenetic variation, persistence, and future directions",
+   "key": "developmental plasticity thermal tolerance ontogenetic variation persistence future directions",
+   "year": 2022,
+   "citations": 171
+  },
+  {
+   "title": "Plastic responses to novel environments are biased towards phenotype dimensions with high additive genetic variation",
+   "key": "plastic responses novel environments biased towards phenotype dimensions high additive genetic variation",
+   "year": 2019,
+   "citations": 150
+  },
+  {
+   "title": "Temperature as a modulator of sexual selection",
+   "key": "temperature modulator sexual selection",
+   "year": 2020,
+   "citations": 143
+  },
+  {
+   "title": "Patterns of developmental plasticity in response to incubation temperature in reptiles",
+   "key": "patterns developmental plasticity response incubation temperature reptiles",
+   "year": 2018,
+   "citations": 127
+  },
+  {
+   "title": "Sex differences in life history, behavior, and physiology along a slow-fast continuum: a meta-analysis",
+   "key": "sex differences life history behavior physiology along slow fast continuum meta analysis",
+   "year": 2018,
+   "citations": 126
+  },
+  {
+   "title": "Unifying individual differences in personality, predictability, and plasticity: a practical guide",
+   "key": "unifying individual differences personality predictability plasticity practical guide",
+   "year": 2022,
+   "citations": 115
+  },
+  {
+   "title": "Age-dependent social learning in a lizard",
+   "key": "age dependent social learning lizard",
+   "year": 2014,
+   "citations": 115
+  },
+  {
+   "title": "A robust and readily implementable method for the meta‐analysis of response ratios with and without missing standard deviations",
+   "key": "robust readily implementable method meta analysis response ratios without missing standard deviations",
+   "year": 2023,
+   "citations": 114
+  },
+  {
+   "title": "Sexual dimorphism in trait variability and its eco-evolutionary and statistical implications",
+   "key": "sexual dimorphism trait variability its eco evolutionary statistical implications",
+   "year": 2020,
+   "citations": 114
+  },
+  {
+   "title": "Publication bias impacts on effect size, statistical power, and magnitude (Type M) and sign (Type S) errors in ecology and evolutionary biology",
+   "key": "publication bias impacts effect size statistical power magnitude type sign type errors ecology evolutionary biology",
+   "year": 2023,
+   "citations": 112
+  },
+  {
+   "title": "When and how can we predict adaptive responses to climate change?",
+   "key": "when how can predict adaptive responses climate change",
+   "year": 2024,
+   "citations": 110
+  },
+  {
+   "title": "Plasticity leaves a phenotypic signature during local adaptation",
+   "key": "plasticity leaves phenotypic signature during local adaptation",
+   "year": 2020,
+   "citations": 102
+  },
+  {
+   "title": "Learning in non‐avian reptiles 40 years on: advances and promising new directions",
+   "key": "learning non avian reptiles years advances promising new directions",
+   "year": 2021,
+   "citations": 100
+  },
+  {
+   "title": "Learning outdoors: male lizards show flexible spatial learning under semi-natural conditions",
+   "key": "learning outdoors male lizards show flexible spatial learning under semi natural conditions",
+   "year": 2012,
+   "citations": 95
+  },
+  {
+   "title": "The jury is still out regarding the generality of adaptive\" transgenerational\" effects",
+   "key": "jury still out regarding generality adaptive transgenerational effects",
+   "year": 2020,
+   "citations": 90
+  },
+  {
+   "title": "Colour discrimination and associative learning in hatchling lizards incubated at ‘hot’ and ‘cold’ temperatures",
+   "key": "colour discrimination associative learning hatchling lizards incubated hot cold temperatures",
+   "year": 2014,
+   "citations": 83
+  },
+  {
+   "title": "A meta‐analysis of sex differences in animal personality: No evidence for the greater male variability hypothesis",
+   "key": "meta analysis sex differences animal personality evidence greater male variability hypothesis",
+   "year": 2022,
+   "citations": 81
+  },
+  {
+   "title": "Sex in unisexual salamanders: discovery of a new sperm donor with ancient affinities",
+   "key": "sex unisexual salamanders discovery new sperm donor ancient affinities",
+   "year": 2009,
+   "citations": 80
+  },
+  {
+   "title": "A new ecosystem for evidence synthesis",
+   "key": "new ecosystem evidence synthesis",
+   "year": 2020,
+   "citations": 71
+  },
+  {
+   "title": "Early social environment influences the behaviour of a family-living lizard",
+   "key": "early social environment influences behaviour family living lizard",
+   "year": 2017,
+   "citations": 63
+  },
+  {
+   "title": "Reproducible research in the study of biological coloration",
+   "key": "reproducible research study biological coloration",
+   "year": 2015,
+   "citations": 62
+  },
+  {
+   "title": "Meta-analytic approaches and effect sizes to account for ‘nuisance heterogeneity’ in comparative physiology",
+   "key": "meta analytic approaches effect sizes account nuisance heterogeneity comparative physiology",
+   "year": 2022,
+   "citations": 52
+  },
+  {
+   "title": "Behavioral and morphological traits interact to promote the evolution of alternative reproductive tactics in a lizard",
+   "key": "behavioral morphological traits interact promote evolution alternative reproductive tactics lizard",
+   "year": 2013,
+   "citations": 51
+  },
+  {
+   "title": "Subproblem learning and reversal of a multidimensional visual cue in a lizard: evidence for behavioural flexibility?",
+   "key": "subproblem learning reversal multidimensional visual cue lizard evidence behavioural flexibility",
+   "year": 2018,
+   "citations": 49
+  },
+  {
+   "title": "Spatial and social organization in a burrow-dwelling lizard (Phrynocephalus vlangalii) from China",
+   "key": "spatial social organization burrow dwelling lizard phrynocephalus vlangalii china",
+   "year": 2012,
+   "citations": 49
+  },
+  {
+   "title": "A comprehensive database of thermal developmental plasticity in reptiles",
+   "key": "comprehensive database thermal developmental plasticity reptiles",
+   "year": 2018,
+   "citations": 48
+  },
+  {
+   "title": "A systematic map of studies testing the relationship between temperature and animal reproduction",
+   "key": "systematic map studies testing relationship between temperature animal reproduction",
+   "year": 2024,
+   "citations": 47
+  },
+  {
+   "title": "Timing of maternal exposure to toxic cyanobacteria and offspring fitness in Daphnia magna: Implications for the evolution of anticipatory maternal effects",
+   "key": "timing maternal exposure toxic cyanobacteria offspring fitness daphnia magna implications evolution anticipatory maternal effects",
+   "year": 2018,
+   "citations": 46
+  },
+  {
+   "title": "Multiple mating in a lizard increases fecundity but provides no evidence for genetic benefits",
+   "key": "multiple mating lizard increases fecundity but provides evidence genetic benefits",
+   "year": 2013,
+   "citations": 46
+  },
+  {
+   "title": "Activity predicts male reproductive success in a polygynous lizard",
+   "key": "activity predicts male reproductive success polygynous lizard",
+   "year": 2012,
+   "citations": 46
+  },
+  {
+   "title": "Context-specific response inhibition and differential impact of a learning bias in a lizard",
+   "key": "context specific response inhibition differential impact learning bias lizard",
+   "year": 2019,
+   "citations": 44
+  },
+  {
+   "title": "Planned missing data designs and methods: options for strengthening inference, increasing research efficiency and improving animal welfare in ecological and evolutionary research",
+   "key": "planned missing data designs methods options strengthening inference increasing research efficiency improving animal welfare ecological evolutionary research",
+   "year": 2021,
+   "citations": 43
+  },
+  {
+   "title": "Maternal and additive genetic effects contribute to variation in offspring traits in a lizard",
+   "key": "maternal additive genetic effects contribute variation offspring traits lizard",
+   "year": 2014,
+   "citations": 43
+  },
+  {
+   "title": "A framework for modelling thermal load sensitivity across life",
+   "key": "framework modelling thermal load sensitivity life",
+   "year": 2025,
+   "citations": 39
+  },
+  {
+   "title": "Species delineation using Bayesian model-based assignment tests: a case study using Chinese toad-headed agamas (genus Phrynocephalus)",
+   "key": "species delineation bayesian model based assignment tests case study chinese toad headed agamas genus phrynocephalus",
+   "year": 2010,
+   "citations": 39
+  },
+  {
+   "title": "Does social environment influence learning ability in a family-living lizard?",
+   "key": "does social environment influence learning ability family living lizard",
+   "year": 2017,
+   "citations": 38
+  },
+  {
+   "title": "Impact of fluctuating developmental temperatures on phenotypic traits in reptiles: a meta-analysis",
+   "key": "impact fluctuating developmental temperatures phenotypic traits reptiles meta analysis",
+   "year": 2022,
+   "citations": 37
+  },
+  {
+   "title": "Maternal effects impact decision-making in a viviparous lizard",
+   "key": "maternal effects impact decision making viviparous lizard",
+   "year": 2018,
+   "citations": 36
+  },
+  {
+   "title": "Learning ability is unaffected by isolation rearing in a family-living lizard",
+   "key": "learning ability unaffected isolation rearing family living lizard",
+   "year": 2018,
+   "citations": 35
+  },
+  {
+   "title": "Robust point and variance estimation for meta‐analyses with selective reporting and dependent effect sizes",
+   "key": "robust point variance estimation meta analyses selective reporting dependent effect sizes",
+   "year": 2024,
+   "citations": 34
+  },
+  {
+   "title": "An efficient new assay for measuring zebrafish anxiety: tall tanks that better characterize between-individual differences",
+   "key": "efficient new assay measuring zebrafish anxiety tall tanks better characterize between individual differences",
+   "year": 2021,
+   "citations": 34
+  },
+  {
+   "title": "Dominance and social information use in a lizard",
+   "key": "dominance social information use lizard",
+   "year": 2017,
+   "citations": 34
+  },
+  {
+   "title": "Hybridization between two gartersnake species (Thamnophis) of conservation concern: a threat or an important natural interaction?",
+   "key": "hybridization between two gartersnake species thamnophis conservation concern threat important natural interaction",
+   "year": 2012,
+   "citations": 33
+  },
+  {
+   "title": "Beneficial intergenerational effects of exercise on brain and cognition: a multilevel meta‐analysis of mean and variance",
+   "key": "beneficial intergenerational effects exercise brain cognition multilevel meta analysis mean variance",
+   "year": 2021,
+   "citations": 32
+  },
+  {
+   "title": "The effect of temperature variability on biological responses of ectothermic animals—a meta‐analysis",
+   "key": "effect temperature variability biological responses ectothermic animals meta analysis",
+   "year": 2024,
+   "citations": 31
+  },
+  {
+   "title": "A conceptual framework for understanding stress-induced physiological and transgenerational effects on population responses to climate change",
+   "key": "conceptual framework understanding stress induced physiological transgenerational effects population responses climate change",
+   "year": 2024,
+   "citations": 31
+  },
+  {
+   "title": "Male harm suppresses female fitness to affect the dynamics of adaptation and evolutionary rescue",
+   "key": "male harm suppresses female fitness affect dynamics adaptation evolutionary rescue",
+   "year": 2024,
+   "citations": 30
+  },
+  {
+   "title": "Spontaneous quantity discrimination in a family-living lizard",
+   "key": "spontaneous quantity discrimination family living lizard",
+   "year": 2021,
+   "citations": 30
+  },
+  {
+   "title": "The role of oxidative stress in postcopulatory selection",
+   "key": "role oxidative stress postcopulatory selection",
+   "year": 2020,
+   "citations": 30
+  },
+  {
+   "title": "Testing domain general learning in an Australian lizard",
+   "key": "testing domain general learning australian lizard",
+   "year": 2018,
+   "citations": 30
+  },
+  {
+   "title": "A pluralistic framework for measuring, interpreting and decomposing heterogeneity in meta‐analysis",
+   "key": "pluralistic framework measuring interpreting decomposing heterogeneity meta analysis",
+   "year": 2025,
+   "citations": 29
+  },
+  {
+   "title": "An assessment of statistical methods for non-independent data in ecological meta-analyses",
+   "key": "assessment statistical methods non independent data ecological meta analyses",
+   "year": 2022,
+   "citations": 28
+  },
+  {
+   "title": "Influence of prior contest experience and level of escalation on contest outcome",
+   "key": "influence prior contest experience level escalation contest outcome",
+   "year": 2016,
+   "citations": 28
+  },
+  {
+   "title": "Systematic approaches to assessing high-temperature limits to fertility in animals",
+   "key": "systematic approaches assessing high temperature limits fertility animals",
+   "year": 2024,
+   "citations": 27
+  },
+  {
+   "title": "New horizons for comparative studies and meta-analyses",
+   "key": "new horizons comparative studies meta analyses",
+   "year": 2024,
+   "citations": 27
+  },
+  {
+   "title": "Baiting in conservation and pest management: a systematic review of its global applications in a changing world",
+   "key": "baiting conservation pest management systematic review its global applications changing world",
+   "year": 2023,
+   "citations": 27
+  },
+  {
+   "title": "Maternal presence facilitates plasticity in offspring behavior: insights into the evolution of parental care",
+   "key": "maternal presence facilitates plasticity offspring behavior insights into evolution parental care",
+   "year": 2018,
+   "citations": 27
+  },
+  {
+   "title": "Dietary restriction increases variability in longevity",
+   "key": "dietary restriction increases variability longevity",
+   "year": 2017,
+   "citations": 27
+  },
+  {
+   "title": "Precocial juvenile lizards show adult level learning and behavioural flexibility",
+   "key": "precocial juvenile lizards show adult level learning behavioural flexibility",
+   "year": 2019,
+   "citations": 26
+  },
+  {
+   "title": "Evidence for social learning in a family living lizard",
+   "key": "evidence social learning family living lizard",
+   "year": 2018,
+   "citations": 26
+  },
+  {
+   "title": "Invasive chameleons released from predation display more conspicuous colors",
+   "key": "invasive chameleons released predation display more conspicuous colors",
+   "year": 2022,
+   "citations": 25
+  },
+  {
+   "title": "Physiological plasticity in lizard embryos exposed to high‐altitude hypoxia",
+   "key": "physiological plasticity lizard embryos exposed high altitude hypoxia",
+   "year": 2017,
+   "citations": 25
+  },
+  {
+   "title": "Advice for improving the reproducibility of data extraction in meta-analysis",
+   "key": "advice improving reproducibility data extraction meta analysis",
+   "year": 2023,
+   "citations": 24
+  },
+  {
+   "title": "Sex-dependent discrimination learning in lizards: a meta-analysis",
+   "key": "sex dependent discrimination learning lizards meta analysis",
+   "year": 2019,
+   "citations": 24
+  },
+  {
+   "title": "Sex-and performance-based escape behaviour in an Asian agamid lizard, Phrynocephalus vlangalii",
+   "key": "sex performance based escape behaviour asian agamid lizard phrynocephalus vlangalii",
+   "year": 2014,
+   "citations": 24
+  },
+  {
+   "title": "Mate familiarity and social learning in a monogamous lizard",
+   "key": "mate familiarity social learning monogamous lizard",
+   "year": 2018,
+   "citations": 22
+  },
+  {
+   "title": "Limited plasticity but increased variance in physiological rates across ectotherm populations under climate change",
+   "key": "limited plasticity but increased variance physiological rates ectotherm populations under climate change",
+   "year": 2025,
+   "citations": 21
+  },
+  {
+   "title": "Sexual dimorphism in conspicuousness and ornamentation in the enigmatic leaf-nosed lizard Ceratophora tennentii from Sri Lanka",
+   "key": "sexual dimorphism conspicuousness ornamentation enigmatic leaf nosed lizard ceratophora tennentii sri lanka",
+   "year": 2015,
+   "citations": 21
+  },
+  {
+   "title": "Sex, androgens, and whole‐organism performance in an Australian lizard",
+   "key": "sex androgens whole organism performance australian lizard",
+   "year": 2014,
+   "citations": 21
+  },
+  {
+   "title": "Maternal behavioral thermoregulation facilitated evolutionary transitions from egg laying to live birth",
+   "key": "maternal behavioral thermoregulation facilitated evolutionary transitions egg laying live birth",
+   "year": 2023,
+   "citations": 20
+  },
+  {
+   "title": "Impact of developmental temperatures on thermal plasticity and repeatability of metabolic rate",
+   "key": "impact developmental temperatures thermal plasticity repeatability metabolic rate",
+   "year": 2022,
+   "citations": 20
+  },
+  {
+   "title": "Double trouble: host behaviour influences and is influenced by co-infection with parasites",
+   "key": "double trouble host behaviour influences influenced infection parasites",
+   "year": 2024,
+   "citations": 19
+  },
+  {
+   "title": "Individual variation in thermal plasticity and its impact on mass-scaling",
+   "key": "individual variation thermal plasticity its impact mass scaling",
+   "year": 2021,
+   "citations": 18
+  },
+  {
+   "title": "From eggs to adulthood: sustained effects of early developmental temperature and corticosterone exposure on physiology and body size in an Australian lizard",
+   "key": "eggs adulthood sustained effects early developmental temperature corticosterone exposure physiology body size australian lizard",
+   "year": 2024,
+   "citations": 17
+  },
+  {
+   "title": "Developmental environments do not affect thermal physiological traits in reptiles: an experimental test and meta-analysis",
+   "key": "developmental environments not affect thermal physiological traits reptiles experimental test meta analysis",
+   "year": 2023,
+   "citations": 17
+  },
+  {
+   "title": "Transgenerational effects of obesogenic diets in rodents: a meta-analysis",
+   "key": "transgenerational effects obesogenic diets rodents meta analysis",
+   "year": 2022,
+   "citations": 17
+  },
+  {
+   "title": "Lizards–Measuring Cognition: Practical Challenges and the Influence of Ecology and Social Behaviour",
+   "key": "lizards measuring cognition practical challenges influence ecology social behaviour",
+   "year": 2018,
+   "citations": 17
+  },
+  {
+   "title": "Isolation rearing does not constrain social plasticity in a family-living lizard",
+   "key": "isolation rearing does not constrain social plasticity family living lizard",
+   "year": 2018,
+   "citations": 17
+  },
+  {
+   "title": "Computer animation technology in behavioral sciences: A sequential, automatic, and high-throughput approach to quantifying personality in Zebrafish (Danio rerio)",
+   "key": "computer animation technology behavioral sciences sequential automatic high throughput approach quantifying personality zebrafish danio rerio",
+   "year": 2018,
+   "citations": 15
+  },
+  {
+   "title": "Fluctuating salinity during development impacts fish life histories",
+   "key": "fluctuating salinity during development impacts fish life histories",
+   "year": 2025,
+   "citations": 14
+  },
+  {
+   "title": "Strategies for integrating animal social learning and culture into conservation translocation practice",
+   "key": "strategies integrating animal social learning culture into conservation translocation practice",
+   "year": 2025,
+   "citations": 14
+  },
+  {
+   "title": "The effects of an obesogenic diet on behavior and cognition in zebrafish (Danio rerio): Trait average, variability, repeatability, and behavioral syndromes",
+   "key": "effects obesogenic diet behavior cognition zebrafish danio rerio trait average variability repeatability behavioral syndromes",
+   "year": 2022,
+   "citations": 13
+  },
+  {
+   "title": "Diving in hot water: a meta-analytic review of how diving vertebrate ectotherms will fare in a warmer world",
+   "key": "diving hot water meta analytic review how diving vertebrate ectotherms will fare warmer world",
+   "year": 2021,
+   "citations": 13
+  },
+  {
+   "title": "The effect of moisture during development on phenotypes of egg-laying reptiles: a systematic review and meta-analysis",
+   "key": "effect moisture during development phenotypes egg laying reptiles systematic review meta analysis",
+   "year": 2025,
+   "citations": 12
+  },
+  {
+   "title": "The French press: A repeatable and high-throughput approach to exercising zebrafish (Danio rerio)",
+   "key": "french press repeatable high throughput approach exercising zebrafish danio rerio",
+   "year": 2018,
+   "citations": 11
+  },
+  {
+   "title": "Effectiveness of toxic baiting for the control of canines and felines",
+   "key": "effectiveness toxic baiting control canines felines",
+   "year": 2025,
+   "citations": 10
+  },
+  {
+   "title": "A potential deimatic display revealed in a lizard",
+   "key": "potential deimatic display revealed lizard",
+   "year": 2022,
+   "citations": 10
+  },
+  {
+   "title": "Heritability and developmental plasticity of growth in an oviparous lizard",
+   "key": "heritability developmental plasticity growth oviparous lizard",
+   "year": 2024,
+   "citations": 9
+  },
+  {
+   "title": "Learning simple and compound stimuli in a social lizard (Egernia stokesii).",
+   "key": "learning simple compound stimuli social lizard egernia stokesii",
+   "year": 2021,
+   "citations": 9
+  },
+  {
+   "title": "Heightened among-individual variation in life history but not morphology is related to developmental temperature in reptiles",
+   "key": "heightened among individual variation life history but not morphology related developmental temperature reptiles",
+   "year": 2021,
+   "citations": 9
+  },
+  {
+   "title": "A systems modelling approach to predict biological responses to extreme heat",
+   "key": "systems modelling approach predict biological responses extreme heat",
+   "year": 2026,
+   "citations": 7
+  },
+  {
+   "title": "Environmental factors have a greater influence on photosynthetic capacity in C4 plants than biochemical subtypes or growth forms",
+   "key": "environmental factors have greater influence photosynthetic capacity plants than biochemical subtypes growth forms",
+   "year": 2025,
+   "citations": 7
+  },
+  {
+   "title": "Interpreting prediction intervals and distributions for decoding biological generality in meta-analyses",
+   "key": "interpreting prediction intervals distributions decoding biological generality meta analyses",
+   "year": 2025,
+   "citations": 7
+  },
+  {
+   "title": "Metabolic consequences of sex reversal in two lizard species: a test of the like-genotype and like-phenotype hypotheses",
+   "key": "metabolic consequences sex reversal two lizard species test like genotype like phenotype hypotheses",
+   "year": 2023,
+   "citations": 7
+  },
+  {
+   "title": "Socioecology of the Australian Tree Skink (Egernia striolata)",
+   "key": "socioecology australian tree skink egernia striolata",
+   "year": 2021,
+   "citations": 7
+  },
+  {
+   "title": "The promise of community-driven preprints in ecology and evolution",
+   "key": "promise community driven preprints ecology evolution",
+   "year": 2025,
+   "citations": 6
+  },
+  {
+   "title": "Intergenerational effects of overfeeding on aversive learning in zebrafish (Danio rerio)",
+   "key": "intergenerational effects overfeeding aversive learning zebrafish danio rerio",
+   "year": 2022,
+   "citations": 5
+  },
+  {
+   "title": "Extreme heat as the new normal: A methodological roadmap incorporating behavior, physiology, and species distributions",
+   "key": "extreme heat new normal methodological roadmap incorporating behavior physiology species distributions",
+   "year": 2026,
+   "citations": 4
+  },
+  {
+   "title": "Do environmental fluctuations during development affect trait variation? An experimental test with salinity",
+   "key": "environmental fluctuations during development affect trait variation experimental test salinity",
+   "year": 2025,
+   "citations": 4
+  },
+  {
+   "title": "Defying decline: Very low chytrid prevalence in tadpoles, yet high infection in adults in a naturally recovering frog species",
+   "key": "defying decline very low chytrid prevalence tadpoles yet high infection adults naturally recovering frog species",
+   "year": 2025,
+   "citations": 4
+  },
+  {
+   "title": "Early environmental conditions do not impact behavioural flexibility in an invasive and noninvasive lizard species",
+   "key": "early environmental conditions not impact behavioural flexibility invasive noninvasive lizard species",
+   "year": 2025,
+   "citations": 4
+  },
+  {
+   "title": "Mitochondrial function and sexual selection: can physiology resolve the ‘lek paradox’?",
+   "key": "mitochondrial function sexual selection can physiology resolve lek paradox",
+   "year": 2024,
+   "citations": 4
+  },
+  {
+   "title": "Cognitive processes are robust to early environmental conditions in two lizard species",
+   "key": "cognitive processes robust early environmental conditions two lizard species",
+   "year": 2025,
+   "citations": 3
+  },
+  {
+   "title": "Maternal investment and early thermal conditions affect performance and antipredator responses",
+   "key": "maternal investment early thermal conditions affect performance antipredator responses",
+   "year": 2024,
+   "citations": 3
+  },
+  {
+   "title": "Population genetic structure of the endangered Butler’s Gartersnake (Thamnophis butleri): does the Short-headed Gartersnake (Thamnophis brachystoma) exist in Canada?",
+   "key": "population genetic structure endangered butler gartersnake thamnophis butleri does short headed gartersnake thamnophis brachystoma exist canada",
+   "year": 2013,
+   "citations": 3
+  },
+  {
+   "title": "New approaches to meta-analyze differences in skewness, kurtosis, and correlation",
+   "key": "new approaches meta analyze differences skewness kurtosis correlation",
+   "year": 2026,
+   "citations": 2
+  },
+  {
+   "title": "Prenatal conditions do not affect brain physiology and learning in a lizard",
+   "key": "prenatal conditions not affect brain physiology learning lizard",
+   "year": 2025,
+   "citations": 2
+  },
+  {
+   "title": "Condition-transfer maternal effects modulate inter-locus sexual conflict",
+   "key": "condition transfer maternal effects modulate inter locus sexual conflict",
+   "year": 2024,
+   "citations": 2
+  },
+  {
+   "title": "Sexual selection on performance traits in an Australian lizard with alternative reproductive tactics",
+   "key": "sexual selection performance traits australian lizard alternative reproductive tactics",
+   "year": 2021,
+   "citations": 2
+  },
+  {
+   "title": "Life-history strategy mediates the effects of multiple developmental stressors on Australian lizards",
+   "key": "life history strategy mediates effects multiple developmental stressors australian lizards",
+   "year": 2026,
+   "citations": 1
+  },
+  {
+   "title": "Mastering an Accurate and Generalizable Simulation-Based Method to Obtain Bias-corrected Point Estimates and Sampling Variance for Any Effect Sizes",
+   "key": "mastering accurate generalizable simulation based method obtain bias corrected point estimates sampling variance any effect sizes",
+   "year": 2025,
+   "citations": 1
+  },
+  {
+   "title": "Reproduction is more sensitive to warming than adult lifespan across invertebrates",
+   "key": "reproduction more sensitive warming than adult lifespan invertebrates",
+   "year": 2026,
+   "citations": 0
+  },
+  {
+   "title": "Quantity discrimination, decision-making, and the role of early-life conditions in a lizard",
+   "key": "quantity discrimination decision making role early life conditions lizard",
+   "year": 2026,
+   "citations": 0
+  },
+  {
+   "title": "Life cycle complexity drives variation in thermal tolerance and plasticity",
+   "key": "life cycle complexity drives variation thermal tolerance plasticity",
+   "year": 2026,
+   "citations": 0
+  },
+  {
+   "title": "Global meta-analysis shows that immunisation reduces amphibian susceptibility to the chytrid fungus",
+   "key": "global meta analysis shows immunisation reduces amphibian susceptibility chytrid fungus",
+   "year": 2026,
+   "citations": 0
+  },
+  {
+   "title": "A new effect size for meta-analysis of magnitude: lnM",
+   "key": "new effect size meta analysis magnitude lnm",
+   "year": 2026,
+   "citations": 0
+  },
+  {
+   "title": "A flexible modelling framework for estimating thermal tolerance and sensitivity",
+   "key": "flexible modelling framework estimating thermal tolerance sensitivity",
+   "year": 2026,
+   "citations": 0
+  },
+  {
+   "title": "How developmental stressors affect mitochondrial respiratory function: a systematic review and meta-analysis",
+   "key": "how developmental stressors affect mitochondrial respiratory function systematic review meta analysis",
+   "year": 2026,
+   "citations": 0
+  },
+  {
+   "title": "Temperature variability has limited effects on phenotypic plasticity in ectotherms—a meta‐analysis",
+   "key": "temperature variability has limited effects phenotypic plasticity ectotherms meta analysis",
+   "year": 2025,
+   "citations": 0
+  },
+  {
+   "title": "Sex steroid profiles align with phenotype in sex-reversed female lizards",
+   "key": "sex steroid profiles align phenotype sex reversed female lizards",
+   "year": 2025,
+   "citations": 0
+  },
+  {
+   "title": "Do early environmental experiences impact numerical discrimination abilities in a lizard?",
+   "key": "early environmental experiences impact numerical discrimination abilities lizard",
+   "year": 2024,
+   "citations": 0
+  },
+  {
+   "title": "What predicts pace-of-life? Distinguishing among multiple hypotheses in terrestrial ectotherms",
+   "key": "what predicts pace life distinguishing among multiple hypotheses terrestrial ectotherms",
+   "year": 2020,
+   "citations": 0
+  },
+  {
+   "title": "Data from: isolation rearing does not constrain social plasticity in a family-living lizard",
+   "key": "data isolation rearing does not constrain social plasticity family living lizard",
+   "year": 2018,
+   "citations": 0
+  },
+  {
+   "title": "Evolutionary Behavioural Ecology of an Australian Lizard with Alternative Reproductive Tactics",
+   "key": "evolutionary behavioural ecology australian lizard alternative reproductive tactics",
+   "year": 2014,
+   "citations": 0
+  },
+  {
+   "title": "Geographic distribution: Plestiodon fasciatus.",
+   "key": "geographic distribution plestiodon fasciatus",
+   "year": 2010,
+   "citations": 0
+  },
+  {
+   "title": "A global meta-analysis of non-lethal mammal browsing control in forests",
+   "key": "global meta analysis non lethal mammal browsing control forests",
+   "year": null,
+   "citations": 0
+  }
+ ]
+}

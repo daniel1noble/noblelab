@@ -1,59 +1,90 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/greenelab/lab-website-template)
+<div align="center">
 
-<h1 align="center">Lab Website Template</h1>
-<p align="center">
-<img height="200" src="https://raw.githubusercontent.com/greenelab/lab-website-template/main/favicons/share-thumbnail.jpg?raw=true" alt="Lab Website Template">
-</p>
-An easy-to-use, flexible website template for labs, including automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel and more time running your lab.
+# Noble Lab
 
-#### 🔔 Still in pre-release/preview. We need testers! 🔔
+**Evolutionary, Ecological and Conservation Physiology**
 
-Please help us out!
-How easy is the template to use?
-How flexible is it?
-How's our documentation?
+Division of Ecology & Evolution, Research School of Biology<br>
+The Australian National University, Canberra
 
-## Features
+[**noblelab.org**](https://noblelab.org)
 
-- **Automatically generated citations** (using [Manubot](https://manubot.org)) from **just an identifier** (DOI, PubMed ID, and many more)
-- Automatically pull in and display tags from GitHub repositories
-- Works and looks good on all major desktop and mobile browsers
-- A suite of pre-built components:
-  - formatted tables and code blocks
-  - social media links with icons
-  - figures with captions
-  - image galleries
-  - multi-size cards with image and text
-  - citations
-  - ...and many more!
-- A **home page**, where you can highlight the most important things that make your lab special
-- A **research page**, with a sorted, searchable list of all your published works
-- A **tools page**, where you can show off your software, datasets, or other useful things
-- A **team** page, compiled automatically from individual members
-- Individual **team member pages** with bios, assignable roles, and social media links
-- A **blog page**, with a sorted, grouped, tagged list of all your posts
+</div>
 
-## Gallery
+---
 
-[🖼️ See who else is using the template and what it can do!](https://github.com/greenelab/lab-website-template/wiki/Gallery)
+We are interested in how organisms respond and adapt to changing environments.
+Our work is highly integrative: we combine theory, modelling and meta-analysis
+with experimentation to understand and predict how and why populations are able
+to adapt (or not) to changing environments. Our study systems are diverse, but
+generally focus on lizards, insects, fish and amphibians.
 
-## Documentation
+The lab is led by [Daniel Noble](https://noblelab.org/people/) at the
+Australian National University.
 
-[▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
+## What we work on
 
-[🗚 Basic Formatting](https://github.com/greenelab/lab-website-template/wiki/Basic-Formatting)
+- Predicting the effects of extreme heat on organisms
+- How different early developmental environments interact to impact physiology and life history
+- Relative role of phenotypic plasticity and adaptive genetic evolution to population divergence
+- Developing new statistical approaches and software for meta-analysis and experimental data
 
-[📝 Basic Editing](https://github.com/greenelab/lab-website-template/wiki/Basic-Editing)
+Each theme is written up, with selected publications, on the
+[research page](https://noblelab.org/research/). The software we have developed
+or contributed to (orchaRd, metaDigitise, shinyDigitise) is on the
+[software page](https://noblelab.org/software/).
 
-[🤖 Citations](https://github.com/greenelab/lab-website-template/wiki/Citations)
+## Join us
 
-[⚙️ Advanced Editing](https://github.com/greenelab/lab-website-template/wiki/Advanced-Editing)
+We welcome new students, postdocs and lab visitors. Get in touch at
+[daniel.noble@anu.edu.au](mailto:daniel.noble@anu.edu.au).
 
-[🧱 Components](https://github.com/greenelab/lab-website-template/wiki/Components)
+## About this repository
 
-[🧠 Background Knowledge](https://github.com/greenelab/lab-website-template/wiki/Background-Knowledge)
+This repository holds the source of the lab website: a React and Vite
+application, styled with Tailwind, deployed to GitHub Pages by the workflow in
+`.github/workflows/pages.yml` on every push to `main`. The custom domain comes
+from `public/CNAME` (`noblelab.org`), which Vite copies into `dist/` so it
+survives each deploy. Built from the open-source lab_website by Patrice Pottier
+(github.com/p-pottier/lab_website).
 
-[💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips)
+### Editing the content
 
-[❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
+Everything written by hand lives in one file, `src/content/site.ts`: the lab
+name and address, research themes and their selected publications, people,
+software, the teaching workshop, gallery captions and news. Page titles and
+descriptions for search engines live in `src/content/route-meta.json`, which
+also drives the prerendered route directories and the sitemap. Photographs are
+in `public/images/`, with `public/images/manifest.json` recording their public
+metadata and accessibility text.
+
+```bash
+npm install
+npm run dev        # local preview
+npm run typecheck  # tsc
+npm run build      # production build, then prerender + sitemap
+```
+
+### How the data refresh works
+
+Publications, citation counts and the collaborator map are not edited by hand.
+`scripts/fetch-data.mjs` reads the works on Daniel's ORCID record, looks each
+DOI up in Crossref and OpenAlex, and writes `public/data/publications.json`,
+`metrics.json` and `collaborators.json`. The workflow in
+`.github/workflows/refresh-data.yml` runs it nightly and commits any change, so
+the site stays current without anyone editing it. `public/data/scholar.json`
+is an optional Google Scholar snapshot produced by `scripts/scholar_refresh.py`.
+
+The optional browser utilities in `scripts/` (`smoke.mjs`, `shot.mjs`,
+`make-favicon.mjs`, `prepare-logo.mjs`, `render-ai.mjs`) drive a headless
+Chromium through Playwright, which is not a declared dependency. Install it
+first with `npm i -D playwright && npx playwright install chromium`; the build,
+lint and workflows do not need it.
+
+## Elsewhere
+
+[Website](https://noblelab.org) ·
+[Google Scholar](https://scholar.google.com/citations?user=w69ezLIAAAAJ) ·
+[ORCID](https://orcid.org/0000-0001-9460-8743) ·
+[GitHub](https://github.com/daniel1noble) ·
+[Bluesky](https://bsky.app/profile/danielwanoble.bsky.social)

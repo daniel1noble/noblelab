@@ -1,8 +1,20 @@
-_site
-.sass-cache
-.jekyll-cache
-.jekyll-metadata
-vendor
-debug.log
-__pycache__/
-.DS_STORE
+node_modules
+.claude
+dist
+dist-ssr
+*.local
+.DS_Store
+.vscode/*
+!.vscode/extensions.json
+*.tsbuildinfo
+
+# Playwright screenshots from scripts/smoke.mjs
+.smoke
+
+# The original photographs pulled off the old Owlstown site. The twelve in use
+# live in public/images; these are kept locally in case another is wanted.
+source-images
+
+# Working notes on how the site is built and kept current. Kept local so the
+# repository front page stays a public introduction to the lab.
+MAINTENANCE.md
