@@ -44,11 +44,16 @@ function Hero() {
         {/* bg-hero-face.jpg is bg-hero-red-rock-lizard.jpg cropped so the
             lizard's head sits at 59% of the frame, clear of the left wash.
             bg-hero-scales.jpg and bg-hero-lizard-mesh.jpg are alternatives.
-            Phones get a portrait crop of the same frame with the lizard centred. */}
+            Phones get their own crop of the same frame: -mobile-face.jpg is
+            573x1141, the aspect of a 390x776 hero, so object-cover shows the
+            whole crop and the head lands near the middle of the screen at
+            roughly two and a half times the width the older -mobile.jpg gave
+            (that file is kept, unused, alongside it). Both axes are inert at
+            that size, so the crop, not object-position, does the work. */}
         <picture className="block h-full w-full">
           <source
             media="(max-width: 640px)"
-            srcSet={publicUrl("/images/bg-hero-red-rock-lizard-mobile.jpg")}
+            srcSet={publicUrl("/images/bg-hero-red-rock-lizard-mobile-face.jpg")}
           />
           <img
             src={publicUrl("/images/bg-hero-face.jpg")}

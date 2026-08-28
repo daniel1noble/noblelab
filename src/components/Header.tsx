@@ -83,7 +83,7 @@ export default function Header() {
           <Link to="/" className="group flex items-center gap-3.5" aria-label="Noble Lab, home">
             <LogoMark size={62} priority />
             <span className="block">
-              <Wordmark className="text-[28px] sm:text-[34px]" />
+              <Wordmark className="text-[31px] sm:text-[34px]" />
               <span className="mt-1 hidden whitespace-nowrap text-[11px] font-medium leading-tight tracking-wide text-charcoal transition-all duration-200 group-hover:font-semibold sm:block">
                 {SITE.strapline}
               </span>

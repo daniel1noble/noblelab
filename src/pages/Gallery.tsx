@@ -180,6 +180,10 @@ const ALL_PHOTOS: GalleryPhoto[] = GALLERY.flatMap((s) => s.photos);
 const SLOTS = 3;
 const STEP_MS = 2000;
 const FADE_S = 0.9;
+/** The caption is swapped, not crossfaded: two captions at the same opacity
+ *  print on top of each other and the words become unreadable. It leaves and
+ *  arrives quickly so the pause inside the slower image crossfade is short. */
+const CAPTION_FADE_S = 0.25;
 
 /** A tiny deterministic generator. The opening three photographs are therefore
  *  identical in the prerendered HTML and in the first client render, so no
@@ -263,9 +267,12 @@ function MovingGallery({ onOpen }: { onOpen: (photoIndex: number) => void }) {
     return () => window.clearInterval(id);
   }, [still, paused, total]);
 
-  // One box on a phone, two on a small tablet, three from large up. The hidden
-  // boxes stay in the DOM so the rotation keeps its rhythm.
-  const visibility = ["", "hidden sm:block", "hidden lg:block"];
+  // One box on a phone, two from 640px, three from 768px up — Daniel asked for
+  // three at once, so the third arrives as early as it can while the cards stay
+  // wider than 200px. The hidden boxes stay in the DOM so the rotation keeps
+  // its rhythm. On a phone that means the one visible card changes every third
+  // tick, i.e. every 6 s.
+  const visibility = ["", "hidden sm:block", "hidden md:block"];
 
   return (
     <section
@@ -276,7 +283,7 @@ function MovingGallery({ onOpen }: { onOpen: (photoIndex: number) => void }) {
       onFocusCapture={() => setPaused(true)}
       onBlurCapture={() => setPaused(false)}
     >
-      <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
+      <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-3">
         {rot.slots.map((position, slot) => {
           const photo = ALL_PHOTOS[order[position]];
           return (
@@ -290,7 +297,10 @@ function MovingGallery({ onOpen }: { onOpen: (photoIndex: number) => void }) {
                 className="group block w-full overflow-hidden rounded-xl border border-edge bg-panel text-left transition hover:border-gold/60"
               >
                 {/* A fixed 4:3 box, so nothing on the page moves when the
-                    photograph inside it changes. */}
+                    photograph inside it changes. The caption rides on the
+                    bottom of the photograph rather than in a bar below it: only
+                    15 of the 35 photographs carry one, and a reserved bar left
+                    an empty strip under the other 20 that read as a fault. */}
                 <span className="relative block aspect-[4/3] w-full overflow-hidden">
                   <AnimatePresence initial={false}>
                     <motion.img
@@ -307,21 +317,22 @@ function MovingGallery({ onOpen }: { onOpen: (photoIndex: number) => void }) {
                       className="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
                     />
                   </AnimatePresence>
-                </span>
-                {/* The caption bar keeps its height whether or not this
-                    photograph carries a caption. */}
-                <span className="relative block h-9">
-                  <AnimatePresence initial={false}>
-                    <motion.span
-                      key={photo.src}
-                      initial={{ opacity: 0 }}
-                      animate={{ opacity: 1 }}
-                      exit={{ opacity: 0 }}
-                      transition={{ duration: still ? 0 : FADE_S, ease: "easeInOut" }}
-                      className="absolute inset-x-3 top-2.5 block truncate text-xs font-medium text-neutral-300"
-                    >
-                      {photo.caption ?? ""}
-                    </motion.span>
+                  <AnimatePresence initial={false} mode="wait">
+                    {photo.caption && (
+                      <motion.span
+                        key={photo.src}
+                        initial={{ opacity: 0 }}
+                        animate={{ opacity: 1 }}
+                        exit={{ opacity: 0 }}
+                        transition={{
+                          duration: still ? 0 : CAPTION_FADE_S,
+                          ease: "easeInOut",
+                        }}
+                        className="absolute inset-x-0 bottom-0 block truncate bg-gradient-to-t from-ink from-40% via-ink/85 to-transparent px-3 pb-2 pt-7 text-xs font-medium text-charcoal"
+                      >
+                        {photo.caption}
+                      </motion.span>
+                    )}
                   </AnimatePresence>
                 </span>
               </button>
@@ -347,6 +358,19 @@ export default function Gallery() {
   const [open, setOpen] = useState<Opened | null>(null);
   const [showAll, setShowAll] = useState(false);
   const lastTrigger = useRef<HTMLElement | null>(null);
+  const grids = useRef<HTMLDivElement>(null);
+  const followExpand = useRef(false);
+
+  // Opening the grids adds about 2600px ABOVE the button that opened them, so
+  // the button lands far below the fold and the reader is left looking at the
+  // same screen. Bring the photographs to them. Only on the way open, and only
+  // when the button was the trigger — not when #all opened the page.
+  useEffect(() => {
+    if (!showAll || !followExpand.current) return;
+    followExpand.current = false;
+    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
+    grids.current?.scrollIntoView({ behavior: reduce ? "auto" : "smooth", block: "start" });
+  }, [showAll]);
 
   // #all opens the full grid straight away, so the whole set stays linkable.
   useEffect(() => {
@@ -400,7 +424,11 @@ export default function Gallery() {
           </div>
         </Reveal>
 
-        <div id="all-photos" className={`mt-14 ${showAll ? "space-y-20" : "space-y-12"}`}>
+        <div
+          ref={grids}
+          id="all-photos"
+          className={`mt-14 scroll-mt-28 ${showAll ? "space-y-20" : "space-y-12"}`}
+        >
           {GALLERY.map((section, s) => (
             <section key={section.section}>
               <Reveal>
@@ -436,9 +464,14 @@ export default function Gallery() {
           <button
             type="button"
             className={ghost}
+            /* No aria-controls: #all-photos holds both headings and both
+               intros, which are on screen either way, so naming it would have
+               aria-expanded="false" describe a region that is not collapsed. */
             aria-expanded={showAll}
-            aria-controls="all-photos"
-            onClick={() => setShowAll((v) => !v)}
+            onClick={() => {
+              followExpand.current = !showAll;
+              setShowAll((v) => !v);
+            }}
           >
             {showAll ? "Hide photos" : `See all ${ALL_PHOTOS.length} photos`}
           </button>

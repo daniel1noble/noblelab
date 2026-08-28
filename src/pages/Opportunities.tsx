@@ -15,11 +15,19 @@ export default function Opportunities() {
 
   return (
     <>
+      {/* Not the sleepy lizard: all three frames of that animal on this site
+          (bg-opportunities-sleepy-lizard, gallery-field-23, gallery-field-28)
+          catch it mid-gape with the tongue out, which read as a threat display
+          beside a headline inviting students to apply. This band is a crop of
+          gallery-field-25-pygmy-bluetongue.jpg (the site captions it "Pygmy
+          Bluetongue", "A small lizard resting in an open hand"), cut to
+          1200x370 with the head at 61% of the width, so the face sits well
+          right of the h1. x only bites below ~1024px, y only above it. */}
       <PageHero
         eyebrow="Join us"
         title="Join the Lab!"
-        image="/images/bg-opportunities-sleepy-lizard.jpg"
-        imagePosition="0% 88%"
+        image="/images/bg-opportunities-pygmy-bluetongue.jpg"
+        imagePosition="67% 50%"
       />
 
       <Container className="pb-16 pt-8">

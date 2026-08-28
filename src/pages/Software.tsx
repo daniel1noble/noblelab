@@ -64,7 +64,17 @@ export default function Software() {
         title="Software"
         lead={SOFTWARE_INTRO}
         image="/images/bg-software-face.jpg"
-        imagePosition="55% 48%"
+        /* The crocodile lies diagonally with its head to the right: the
+           jawline and tooth row run from about 65% to 97% of the width and
+           45% to 78% of the height, the shoulder and back fill the left half.
+           From ~500px up the band uses the photograph's full width and only y
+           bites; 62% lifts the head into the strip where the wash is thinnest,
+           so it reads as a head rather than as scales, and lets the jaw feather
+           out at the bottom instead of ending on a cut. Below ~500px only x
+           bites, and 100% keeps the snout on screen. Opacity is up from the
+           0.6 default because this animal is grey on a grey-brown creek bank. */
+        imagePosition="100% 62%"
+        imageOpacity={0.72}
         height="min-h-[380px]"
       />
 
