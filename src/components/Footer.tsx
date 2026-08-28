@@ -1,6 +1,7 @@
 import { LINKS, SITE, type IconName } from "../content/site";
 import { Icon } from "./Icons";
 import { Wordmark } from "./Header";
+import { publicUrl } from "../lib/publicUrl";
 import LogoMark from "./LogoMark";
 import { Container } from "./ui";
 
@@ -86,6 +87,21 @@ export default function Footer() {
               className="mt-2 inline-block text-sm text-neutral-400 transition hover:text-gold"
             >
               {SITE.email}
+            </a>
+            <a
+              href="https://www.anu.edu.au/"
+              target="_blank"
+              rel="noreferrer"
+              className="mt-6 block w-fit opacity-90 transition hover:opacity-100"
+            >
+              <img
+                src={publicUrl("/images/anu-logo.png")}
+                alt="The Australian National University"
+                width={576}
+                height={221}
+                loading="lazy"
+                className="h-14 w-auto"
+              />
             </a>
           </div>
 

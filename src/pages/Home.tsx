@@ -176,6 +176,29 @@ function Overview() {
           />
         </Reveal>
 
+        <Reveal delay={0.05}>
+          <a
+            href="https://www.anu.edu.au/"
+            target="_blank"
+            rel="noreferrer"
+            className="mt-6 inline-flex flex-wrap items-center gap-4 opacity-90 transition hover:opacity-100"
+          >
+            <img
+              src={publicUrl("/images/anu-logo.png")}
+              alt="The Australian National University"
+              width={576}
+              height={221}
+              loading="lazy"
+              className="h-12 w-auto sm:h-14"
+            />
+            <span className="text-sm leading-snug text-neutral-500">
+              {SITE.institution}
+              <br />
+              {SITE.university}
+            </span>
+          </a>
+        </Reveal>
+
         <div className="mt-7 grid gap-5 md:grid-cols-2">
           {HOME_SECTIONS.map((s, i) => (
             <Reveal key={s.heading} delay={0.1 + i * 0.08}>

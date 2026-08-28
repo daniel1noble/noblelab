@@ -974,5 +974,25 @@
     "bytes": 193903,
     "alt": "Figure: \"nuisance heterogeneity\" standardising effects diagram with animal silhouettes and temperature bubbles",
     "use": "theme-figure"
+  },
+  {
+    "file": "anu-logo.png",
+    "width": 576,
+    "height": 221,
+    "bytes": 110988,
+    "alt": "The Australian National University",
+    "use": "logo",
+    "source": ".claude/assets/anu_logo.png (ANU letterhead logo; white background made transparent)",
+    "notes": "Footer and home-page affiliation row; links to anu.edu.au"
+  },
+  {
+    "file": "people-daniel-noble-garden.jpg",
+    "width": 900,
+    "height": 900,
+    "bytes": 127583,
+    "alt": "Portrait of Daniel Noble",
+    "use": "portrait",
+    "source": "ANU_Profile_Pics/IMG_6889.jpg (square centre crop, EXIF/GPS stripped)",
+    "notes": "PI photo from 29 Aug 2026 at Daniel's request; replaces people-daniel-noble-2025.jpg"
   }
 ]

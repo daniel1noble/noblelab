@@ -317,7 +317,7 @@ export const PI: Person = {
   name: "Daniel Noble",
   role: "ARC Future Fellow (2023–2027) and Associate Professor",
   affiliation: `${SITE.institution}, ${SITE.university}`,
-  photo: "/images/people-daniel-noble-2025.jpg",
+  photo: "/images/people-daniel-noble-garden.jpg",
   links: [
     { label: "Google Scholar", href: "https://scholar.google.com/citations?user=w69ezLIAAAAJ" },
     { label: "ORCID", href: "https://orcid.org/0000-0001-9460-8743" },
