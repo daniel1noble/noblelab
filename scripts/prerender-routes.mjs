@@ -85,12 +85,51 @@ function pageFor(path, { title, description }, { canonical = true, assetPrefix }
   // Vite emits relative entry assets so one artifact works both below the
   // GitHub project path and at the custom-domain root. Real route documents
   // sit one directory below index.html, so their entry assets move up once.
+  if (assetPrefix === "runtime") return runtimeAssets(html);
   const prefix = assetPrefix ?? (path === "/" ? "./" : "../");
   html = html.replace(
     /((?:src|href)=")\.\/(?=(?:assets\/|favicon\.svg))/g,
     `$1${prefix}`,
   );
   return html;
+}
+
+/**
+ * 404.html is served at whatever path was missing, so a relative "./assets/"
+ * would resolve below that path (/people/foo -> /people/assets/...) and the
+ * page would stay blank. The entry assets are instead written by an inline
+ * script that picks the site base from the hostname, mirroring
+ * src/lib/publicUrl.ts: "/noblelab/" on the GitHub project host, "/" on the
+ * custom domain. A <base> element was rejected because it would also redirect
+ * in-page links such as the skip link's "#main".
+ */
+const GITHUB_PROJECT_BASE = "/noblelab/";
+function runtimeAssets(html) {
+  const tags = [];
+  const tagPattern =
+    /<(?:script|link)\b[^>]*\b(?:src|href)="\.\/(?:assets\/|favicon\.svg)[^"]*"[^>]*>(?:<\/script>)?/g;
+  html = html.replace(tagPattern, (tag) => {
+    tags.push(tag);
+    return tags.length === 1 ? "__RUNTIME_ASSETS__" : "";
+  });
+  if (tags.length === 0) {
+    throw new Error("prerender: no relative entry assets found for 404.html");
+  }
+  const lines = tags.map((tag) => {
+    const withBase = tag.replace(/((?:src|href)=")\.\//g, "$1__BASE__");
+    const literal = JSON.stringify(withBase)
+      .split("__BASE__")
+      .join('" + base + "')
+      .replace(/<\/script>/g, "<\\/script>");
+    return `      document.write(${literal});`;
+  });
+  const loader = [
+    "<script>",
+    `      var base = location.hostname.endsWith(".github.io") ? ${JSON.stringify(GITHUB_PROJECT_BASE)} : "/";`,
+    ...lines,
+    "    </script>",
+  ].join("\n");
+  return html.replace("__RUNTIME_ASSETS__", loader);
 }
 
 const written = [];
@@ -101,10 +140,10 @@ for (const [path, routeMeta] of Object.entries(routes)) {
   written.push(path);
 }
 
-// 404.html is what Pages serves for anything genuinely missing.
+// 404.html is what Pages serves for anything genuinely missing, at any depth.
 await writeFile(
   resolve(DIST, "404.html"),
-  pageFor("/404", notFound, { canonical: false, assetPrefix: "./" }),
+  pageFor("/404", notFound, { canonical: false, assetPrefix: "runtime" }),
 );
 
 const lastmod = new Date().toISOString().slice(0, 10);

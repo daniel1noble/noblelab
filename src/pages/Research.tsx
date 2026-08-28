@@ -14,7 +14,8 @@ export default function Research() {
         eyebrow="Research"
         title="What we do?"
         image="/images/bg-research-rock-lizard.jpg"
-        imagePosition="60% 55%"
+        imageOpacity={0.8}
+        imagePosition="42% 50%"
       />
 
       <Container className="py-16">
@@ -37,17 +38,25 @@ export default function Research() {
                       i % 2 === 1 ? "lg:[&>*:first-child]:order-2" : ""
                     }`}
                   >
-                    {/* One figure per theme, from the old site, feathering into
-                        the page on every edge rather than sitting in a frame;
-                        shown whole (object-contain), never cropped. The accent
-                        bar keeps each theme's colour. */}
+                    {/* One figure per theme, from the old site, shown whole
+                        (object-contain), never cropped, and printed onto the
+                        page rather than sitting in a frame: multiply blending
+                        turns the figure's white ground into the bone paper,
+                        and the padded wrapper feathers into the page on every
+                        edge so the fade never reaches the figure's own labels.
+                        The wrapper paints and isolates its own bone ground so
+                        the blend does not depend on the reveal animation's
+                        stacking context. The accent bar keeps each theme's
+                        colour. */}
                     <div className="relative">
-                      <img
-                        src={publicUrl(t.image)}
-                        alt={t.images[0]?.alt ?? ""}
-                        loading="lazy"
-                        className="feather-edges aspect-[4/3] w-full object-contain opacity-90 transition duration-700 hover:opacity-100"
-                      />
+                      <div className="feather-edges isolate bg-ink p-6 sm:p-8">
+                        <img
+                          src={publicUrl(t.image)}
+                          alt={t.images[0]?.alt ?? ""}
+                          loading="lazy"
+                          className="aspect-[4/3] w-full object-contain opacity-90 mix-blend-multiply transition duration-700 hover:opacity-100"
+                        />
+                      </div>
                       <div
                         className="mx-auto mt-2 h-1 w-24 rounded-full"
                         style={{ backgroundColor: t.accent }}

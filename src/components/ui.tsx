@@ -148,7 +148,7 @@ export function GhostButton({
   href?: string;
   className?: string;
 }) {
-  const cls = `inline-flex items-center gap-2 rounded-full border border-neutral-700 px-6 py-3 text-[15px] font-medium text-neutral-200 transition hover:border-gold hover:text-gold ${className}`;
+  const cls = `inline-flex items-center gap-2 rounded-full border border-neutral-600 px-6 py-3 text-[15px] font-medium text-neutral-200 transition hover:border-gold hover:text-gold ${className}`;
   if (to) return <Link to={to} className={cls}>{children}</Link>;
   return (
     <a href={href} target="_blank" rel="noreferrer" className={cls}>

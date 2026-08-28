@@ -201,8 +201,10 @@ function PrincipalInvestigator() {
 
 /* ------------------------------------------------------------------- page */
 
-/** Current groups take terracotta; the "Past …" groups take sage. */
-const groupAccent = (name: string) => (/^past/i.test(name) ? PALETTE.sage : PALETTE.terracotta);
+/** Current groups take terracotta; the "Past …" and "Lab alumni" groups take
+    sage. Same predicate as CURRENT_MEMBERS in content/site.ts. */
+const groupAccent = (name: string) =>
+  /^(past|lab alumni)/i.test(name) ? PALETTE.sage : PALETTE.terracotta;
 
 export default function People() {
   return (

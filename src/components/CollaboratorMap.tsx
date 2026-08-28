@@ -215,7 +215,7 @@ export default function CollaboratorMap() {
             </div>
             <button
               onClick={() => setSelected(null)}
-              className="rounded-full border border-neutral-700 px-3 py-1.5 text-xs text-neutral-300 transition hover:border-gold hover:text-gold"
+              className="rounded-full border border-neutral-600 px-3 py-1.5 text-xs text-neutral-300 transition hover:border-gold hover:text-gold"
             >
               Close
             </button>
@@ -237,7 +237,7 @@ export default function CollaboratorMap() {
                   <span className="text-sm font-medium text-charcoal">{c.name}</span>
                 )}
                 <p className="mt-0.5 text-xs leading-snug text-neutral-500">{c.institution}</p>
-                <p className="mt-1 text-[11px] text-neutral-600">
+                <p className="mt-1 text-[11px] text-neutral-500">
                   {c.works} joint {c.works === 1 ? "work" : "works"}
                 </p>
               </li>

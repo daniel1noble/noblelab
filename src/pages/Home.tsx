@@ -50,7 +50,7 @@ function Hero() {
           />
           <img
             src={publicUrl("/images/bg-hero-red-rock-lizard.jpg")}
-            alt="Small pale lizard perched on a red sandstone rock against blurred orange ground"
+            alt="Small pale lizard perched on a red rock against blurred orange ground"
             className="h-full w-full object-cover object-[55%_45%]"
           />
         </picture>

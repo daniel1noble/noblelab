@@ -120,29 +120,19 @@
   }
 
   /*
-   * Fades an image into the page on every edge. The radial pass softens the
-   * corners; the two linear passes guarantee the straight edges reach zero,
-   * which a radial alone does not do on a wide image. These are alpha masks,
-   * so the image dissolves into whatever the page colour is: bone paper here.
+   * Fades the outer 6% of a box into the page on every edge. It is an alpha
+   * mask, so the box dissolves into whatever the page colour is: bone paper
+   * here. The band is deliberately narrow: the research figures carry titles,
+   * panel letters and axis labels right at their edges, and a wider or radial
+   * mask erased them. Put it on a padded wrapper, not on the image itself, so
+   * the fade falls on empty margin.
    */
   .feather-edges {
-    -webkit-mask-image: radial-gradient(
-        ellipse 72% 70% at 50% 50%,
-        #000 30%,
-        rgba(0, 0, 0, 0.6) 60%,
-        transparent 82%
-      ),
-      linear-gradient(to right, transparent 0%, #000 16%, #000 84%, transparent 100%),
-      linear-gradient(to bottom, transparent 0%, #000 14%, #000 82%, transparent 100%);
+    -webkit-mask-image: linear-gradient(to right, transparent 0%, #000 6%, #000 94%, transparent 100%),
+      linear-gradient(to bottom, transparent 0%, #000 6%, #000 94%, transparent 100%);
     -webkit-mask-composite: source-in;
-    mask-image: radial-gradient(
-        ellipse 72% 70% at 50% 50%,
-        #000 30%,
-        rgba(0, 0, 0, 0.6) 60%,
-        transparent 82%
-      ),
-      linear-gradient(to right, transparent 0%, #000 16%, #000 84%, transparent 100%),
-      linear-gradient(to bottom, transparent 0%, #000 14%, #000 82%, transparent 100%);
+    mask-image: linear-gradient(to right, transparent 0%, #000 6%, #000 94%, transparent 100%),
+      linear-gradient(to bottom, transparent 0%, #000 6%, #000 94%, transparent 100%);
     mask-composite: intersect;
   }
 

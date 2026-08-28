@@ -136,7 +136,7 @@ function NewsFeed() {
               className={`rounded-full border px-4 py-2 text-sm font-medium transition ${
                 tag === t
                   ? "border-gold bg-gold text-ink"
-                  : "border-neutral-700 text-neutral-300 hover:border-neutral-500 hover:text-charcoal"
+                  : "border-neutral-600 text-neutral-300 hover:border-neutral-500 hover:text-charcoal"
               }`}
             >
               {t}

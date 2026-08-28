@@ -372,7 +372,7 @@ export default function Publications() {
                 className={`rounded-full border px-4 py-2 text-sm font-medium transition ${
                   year === "all"
                     ? "border-gold bg-gold text-ink"
-                    : "border-neutral-700 text-neutral-300 hover:border-neutral-500 hover:text-charcoal"
+                    : "border-neutral-600 text-neutral-300 hover:border-neutral-500 hover:text-charcoal"
                 }`}
               >
                 All years
@@ -384,7 +384,7 @@ export default function Publications() {
                   className={`rounded-full border px-3.5 py-2 text-sm font-medium transition ${
                     year === y
                       ? "border-gold bg-gold text-ink"
-                      : "border-neutral-700 text-neutral-300 hover:border-neutral-500 hover:text-charcoal"
+                      : "border-neutral-600 text-neutral-300 hover:border-neutral-500 hover:text-charcoal"
                   }`}
                 >
                   {y}
@@ -398,7 +398,7 @@ export default function Publications() {
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
                 placeholder="Search title, author, journal…"
-                className="ml-auto w-full rounded-full border border-neutral-700 bg-panel px-4 py-2 text-sm text-charcoal placeholder:text-neutral-600 focus:border-gold focus:outline-none sm:w-64"
+                className="ml-auto w-full rounded-full border border-neutral-600 bg-panel px-4 py-2 text-sm text-charcoal placeholder:text-neutral-500 focus:border-gold focus:outline-none sm:w-64"
               />
             </div>
           </div>

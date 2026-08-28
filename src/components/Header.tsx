@@ -112,7 +112,7 @@ export default function Header() {
 
           <button
             onClick={() => setOpen((v) => !v)}
-            className="relative z-50 flex h-10 w-10 items-center justify-center rounded-full border border-neutral-700 text-neutral-200 transition hover:border-gold hover:text-gold lg:hidden"
+            className="relative z-50 flex h-10 w-10 items-center justify-center rounded-full border border-neutral-600 text-neutral-200 transition hover:border-gold hover:text-gold lg:hidden"
             aria-label={open ? "Close menu" : "Open menu"}
             aria-expanded={open}
           >
@@ -143,13 +143,15 @@ export default function Header() {
       <AnimatePresence>
         {open && (
           <motion.div
-            className="fixed inset-0 z-40 bg-ink/98 backdrop-blur-xl lg:hidden"
+            className="fixed inset-0 z-40 overflow-y-auto bg-ink/95 backdrop-blur-xl lg:hidden"
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             exit={{ opacity: 0 }}
             transition={{ duration: 0.25 }}
           >
-            <nav className="flex h-full flex-col justify-center gap-1 px-8">
+            {/* Starts below the 98px fixed header and scrolls if the list is taller
+                than the viewport, so every link is reachable on a short phone. */}
+            <nav className="flex min-h-full flex-col justify-start gap-0.5 px-8 pb-10 pt-[116px]">
               <motion.div
                 initial={{ opacity: 0, x: -24 }}
                 animate={{ opacity: 1, x: 0 }}
@@ -159,7 +161,7 @@ export default function Header() {
                   to="/"
                   end
                   className={({ isActive }) =>
-                    `block border-b border-edge py-3.5 font-display text-[1.75rem] font-semibold ${
+                    `block border-b border-edge py-2.5 font-display text-2xl font-semibold ${
                       isActive ? "text-gold" : "text-neutral-200"
                     }`
                   }
@@ -177,7 +179,7 @@ export default function Header() {
                   <NavLink
                     to={item.to}
                     className={({ isActive }) =>
-                      `block border-b border-edge py-3.5 font-display text-[1.75rem] font-semibold ${
+                      `block border-b border-edge py-2.5 font-display text-2xl font-semibold ${
                         isActive ? "text-gold" : "text-neutral-200"
                       }`
                     }

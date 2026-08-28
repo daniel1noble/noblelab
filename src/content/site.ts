@@ -360,7 +360,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
       {
         name: "Dalton Leibold",
         role: "PhD student",
-        years: "(2022-Present)",
+        years: "(2022 – Present)",
         photo: "/images/people-dalton-leibold.jpg",
         bio: [
           "Evolutionary ecologist by passion, physiologist by profession. I use reptiles as a system for identifying relationships between the environment, physiological processes, and fitness and all of its associated phenotypes. During my PhD I aim testing the programmatic effects of early-life experiences (i.e., maternal effects and the developmental environment) on physiological biomarkers of fitness (mitochondrial function, oxidative stress, and DNA damage), life-history tradeoffs, and lifetime reproductive success.",
@@ -370,7 +370,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
       {
         name: "Joel Treutlein",
         role: "PhD student",
-        years: "(2024-Present)",
+        years: "(2024 – Present)",
         note: "Co-advised with Sarah Perkins-Kirkpatrick",
         photo: "/images/people-joel-treutlein.jpg",
         bio: [
@@ -396,7 +396,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
       {
         name: "Niamh O'Kelly",
         role: "MSc/Honours student",
-        years: "2025-2026",
+        years: "(2025 – 2026)",
         photo: "/images/people-niamh-okelly.jpg",
         bio: [
           "Niamh is co-advised by Bernd Gruber at UC. She's working on developing eDNA sampling protocols for detecting the critically endangered Canberra Earless Dragon",
@@ -411,7 +411,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
       {
         name: "Dr. Patrice Pottier",
         role: "Past postdoctoral researcher",
-        years: "(2024-2025)",
+        years: "(2024 – 2025)",
         photo: "/images/people-patrice-pottier.jpg",
         bio: [
           "I’m an evolutionary ecologist exploring how rapid environmental change shapes the physiology, life-history, and behaviour of ectothermic animals. My interests are broad, and I use a combination of evidence synthesis, comparative analyses, and laboratory experiments to address exciting questions in a broad range of organisms. Patrice is now working with Fredrik Jutfelt at Gothenburg University, Sweden",
@@ -421,7 +421,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
       {
         name: "Dr. Ondi Crino",
         role: "Past postdoctoral researcher",
-        years: "(2020-2022)",
+        years: "(2020 – 2022)",
         photo: "/images/people-ondi-crino.jpg",
         bio: [
           "Ondi was a postdoctoral researcher working on early environmental effects on physiology and is now running her own lab at Flinder’s University!",
@@ -431,7 +431,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
       {
         name: "Dr. Kris Wild",
         role: "Past postdoctoral researcher",
-        years: "(2022-2023)",
+        years: "(2022 – 2023)",
         photo: "/images/people-kris-wild.jpg",
         bio: [
           // typo fixed: "extraordinaireand" -> "extraordinaire and" (two adjacent spans with no space on the site)
@@ -442,7 +442,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
       {
         name: "Dr. Essie Rodgers",
         role: "Past postdoctoral researcher",
-        years: "(2019-2020)",
+        years: "(2019 – 2020)",
         photo: "/images/people-essie-rodgers.jpg",
         bio: [
           "Ecophysiology and Conservation Physiology of all things big (crocodiles to be exact) and small (lizards, fish and insects!). Now runs her own physiology lab at the Murdoch University!",
@@ -457,18 +457,18 @@ export const MEMBER_GROUPS: MemberGroup[] = [
       {
         name: "Pablo Recio",
         role: "Past PhD student",
-        years: "(2022-2025)",
+        years: "(2022 – 2025)",
         now: "Now a postdoctoral researcher at Flinders University",
         photo: "/images/people-pablo-recio.jpg",
         bio: [
-          "My research focuses mainly on the evolution of animal behaviour, using reptiles as a model species. During my PhD I aim to unravel how maternal condition together with early environment affect cognitive abilities of the delicate skink. I am highly skilled at catching lizards with a fishing rod. You can find out more about my research here.",
+          "My research focuses mainly on the evolution of animal behaviour, using reptiles as a model species. During my PhD I aim to unravel how maternal condition together with early environment affect cognitive abilities of the delicate skink. I am highly skilled at catching lizards with a fishing rod.",
         ],
         links: [{ label: "ResearchGate", href: "https://www.researchgate.net/profile/Pablo-Recio" }],
       },
       {
         name: "Amelia Peardon",
         role: "Past Honours student",
-        years: "2024-2025",
+        years: "(2024 – 2025)",
         photo: "/images/people-amelia-peardon.jpg",
         // typo fixed: "challanges" -> "challenges"
         bio: [
@@ -479,7 +479,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
       {
         name: "Aidan Lowe",
         role: "Past Honours student",
-        years: "2024-2025",
+        years: "(2024 – 2025)",
         photo: null,
         bio: [
           "Aidan is looking at how mito-nuclear discordance impacts mitochondrial function in grasshoppers and flour beetles",
@@ -836,7 +836,7 @@ export const GALLERY: GallerySection[] = [
         "A blue trolley of small yellow-capped cups in a laboratory, with a person working at the far bench",
         1200,
         1600,
-        "Fonti Kar doing experiments",
+        "Dr. Kar doing experiments",
       ),
     ],
   },
