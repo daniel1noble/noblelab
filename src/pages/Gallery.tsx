@@ -3,6 +3,7 @@ import { AnimatePresence, motion } from "framer-motion";
 import { GALLERY, type GalleryPhoto } from "../content/site";
 import { Container, PageHero, Reveal, SectionHeading } from "../components/ui";
 import { ArrowLeft, ArrowRight, Close } from "../components/Icons";
+import { publicUrl } from "../lib/publicUrl";
 
 /* -------------------------------------------------------------- lightbox */
 
@@ -113,7 +114,7 @@ function Lightbox({
       >
         <motion.img
           key={photo.src}
-          src={photo.src}
+          src={publicUrl(photo.src)}
           alt={photo.alt}
           width={photo.width}
           height={photo.height}
@@ -149,7 +150,7 @@ function PhotoGrid({ photos, onOpen }: { photos: GalleryPhoto[]; onOpen: (i: num
           className="group mb-4 block w-full break-inside-avoid overflow-hidden rounded-xl border border-edge bg-panel text-left transition hover:border-gold/60"
         >
           <img
-            src={p.thumb}
+            src={publicUrl(p.thumb)}
             alt={p.alt}
             width={p.width}
             height={p.height}

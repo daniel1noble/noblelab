@@ -20,6 +20,7 @@ import {
   SectionHeading,
 } from "../components/ui";
 import { ArrowRight, Icon } from "../components/Icons";
+import { publicUrl } from "../lib/publicUrl";
 
 /** Initials stand in where the site has no photograph. */
 function Avatar({ person, large = false }: { person: Person; large?: boolean }) {
@@ -34,7 +35,7 @@ function Avatar({ person, large = false }: { person: Person; large?: boolean }) 
   if (person.photo) {
     return (
       <img
-        src={person.photo}
+        src={publicUrl(person.photo)}
         alt={`Portrait of ${person.name}`}
         loading={large ? "eager" : "lazy"}
         className={`aspect-square w-full ${size} rounded-2xl border border-edge object-cover object-top`}
@@ -92,6 +93,7 @@ function MemberCard({ person, accent }: { person: Person; accent: string }) {
           </h3>
           {person.years && <p className="mt-1 text-sm text-neutral-500">{person.years}</p>}
           {person.note && <p className="mt-1 text-sm text-neutral-400">{person.note}</p>}
+          {person.now && <p className="mt-1 text-sm text-neutral-400">{person.now}</p>}
 
           {person.bio && person.bio.length > 0 && (
             <div className="mt-5 space-y-3">
@@ -168,7 +170,7 @@ function PrincipalInvestigator() {
                           {PI_PHOTOS.map((photo) => (
                             <img
                               key={photo.src}
-                              src={photo.src}
+                              src={publicUrl(photo.src)}
                               alt={photo.alt}
                               loading="lazy"
                               className="aspect-[3/4] w-full rounded-xl border border-edge object-cover"

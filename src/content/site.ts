@@ -379,14 +379,14 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         links: [],
       },
       {
-        name: "Pablo Recio",
+        name: "Xingyi Xiu",
         role: "PhD student",
-        years: "(2022-2025)",
-        photo: "/images/people-pablo-recio.jpg",
+        years: "(2026 – Present)",
+        photo: "/images/people-xingyi-xiu.jpg",
         bio: [
-          "My research focuses mainly on the evolution of animal behaviour, using reptiles as a model species. During my PhD I aim to unravel how maternal condition together with early environment affect cognitive abilities of the delicate skink. I am highly skilled at catching lizards with a fishing rod. You can find out more about my research here.",
+          "Xingyi just finished doing a big meta-analysis on microplastic impacts on aquatic organisms. Now time to publish!",
         ],
-        links: [{ label: "ResearchGate", href: "https://www.researchgate.net/profile/Pablo-Recio" }],
+        links: [],
       },
     ],
   },
@@ -394,43 +394,12 @@ export const MEMBER_GROUPS: MemberGroup[] = [
     name: "MSc/Honours Students",
     members: [
       {
-        name: "Amelia Peardon",
-        role: "MSc/Honours student",
-        years: "2024-2025",
-        photo: "/images/people-amelia-peardon.jpg",
-        // typo fixed: "challanges" -> "challenges"
-        bio: [
-          "Amelia is exploring new approaches to measuring thermal load sensitivity for cells to overcome challenges in applying these methods in vertebrates",
-        ],
-        links: [],
-      },
-      {
-        name: "Aidan Lowe",
-        role: "MSc/Honours student",
-        years: "2024-2025",
-        photo: null,
-        bio: [
-          "Aidan is looking at how mito-nuclear discordance impacts mitochondrial function in grasshoppers and flour beetles",
-        ],
-        links: [],
-      },
-      {
         name: "Niamh O'Kelly",
         role: "MSc/Honours student",
         years: "2025-2026",
         photo: "/images/people-niamh-okelly.jpg",
         bio: [
           "Niamh is co-advised by Bernd Gruber at UC. She's working on developing eDNA sampling protocols for detecting the critically endangered Canberra Earless Dragon",
-        ],
-        links: [],
-      },
-      {
-        name: "Xingyi Xiu",
-        role: "MSc/Honours student",
-        years: "2023-2024",
-        photo: "/images/people-xingyi-xiu.jpg",
-        bio: [
-          "Xingyi just finished doing a big meta-analysis on microplastic impacts on aquatic organisms. Now time to publish!",
         ],
         links: [],
       },
@@ -482,6 +451,43 @@ export const MEMBER_GROUPS: MemberGroup[] = [
       },
     ],
   },
+  {
+    name: "Lab alumni",
+    members: [
+      {
+        name: "Pablo Recio",
+        role: "Past PhD student",
+        years: "(2022-2025)",
+        now: "Now a postdoctoral researcher at Flinders University",
+        photo: "/images/people-pablo-recio.jpg",
+        bio: [
+          "My research focuses mainly on the evolution of animal behaviour, using reptiles as a model species. During my PhD I aim to unravel how maternal condition together with early environment affect cognitive abilities of the delicate skink. I am highly skilled at catching lizards with a fishing rod. You can find out more about my research here.",
+        ],
+        links: [{ label: "ResearchGate", href: "https://www.researchgate.net/profile/Pablo-Recio" }],
+      },
+      {
+        name: "Amelia Peardon",
+        role: "Past Honours student",
+        years: "2024-2025",
+        photo: "/images/people-amelia-peardon.jpg",
+        // typo fixed: "challanges" -> "challenges"
+        bio: [
+          "Amelia is exploring new approaches to measuring thermal load sensitivity for cells to overcome challenges in applying these methods in vertebrates",
+        ],
+        links: [],
+      },
+      {
+        name: "Aidan Lowe",
+        role: "Past Honours student",
+        years: "2024-2025",
+        photo: null,
+        bio: [
+          "Aidan is looking at how mito-nuclear discordance impacts mitochondrial function in grasshoppers and flour beetles",
+        ],
+        links: [],
+      },
+    ],
+  },
 ].map((group) => ({
   ...group,
   members: group.members.map((m) => ({ ...m, blurb: m.bio.join("\n\n") })),
@@ -489,10 +495,10 @@ export const MEMBER_GROUPS: MemberGroup[] = [
 
 /** Derived aliases: everyone not under a "Past …" heading counts as current. */
 export const CURRENT_MEMBERS: Person[] = MEMBER_GROUPS.filter(
-  (g) => !/^past/i.test(g.name),
+  (g) => !/^(past|lab alumni)/i.test(g.name),
 ).flatMap((g) => g.members);
 
-export const PAST_MEMBERS: Person[] = MEMBER_GROUPS.filter((g) => /^past/i.test(g.name)).flatMap(
+export const PAST_MEMBERS: Person[] = MEMBER_GROUPS.filter((g) => /^(past|lab alumni)/i.test(g.name)).flatMap(
   (g) => g.members,
 );
 

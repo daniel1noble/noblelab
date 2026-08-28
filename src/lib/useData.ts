@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { publicUrl } from "./publicUrl";
 
 /* ------------------------------------------------------------------ types */
 
@@ -99,19 +100,19 @@ function useJSON<T>(path: string): T | null {
 }
 
 export function usePublications() {
-  return useJSON<{ updated: string; publications: Publication[] }>("/data/publications.json");
+  return useJSON<{ updated: string; publications: Publication[] }>(publicUrl("/data/publications.json"));
 }
 
 export function useMetrics() {
-  return useJSON<Metrics>("/data/metrics.json");
+  return useJSON<Metrics>(publicUrl("/data/metrics.json"));
 }
 
 export function useCollaborators() {
-  return useJSON<CollaboratorData>("/data/collaborators.json");
+  return useJSON<CollaboratorData>(publicUrl("/data/collaborators.json"));
 }
 
 export function useWorldAtlas() {
-  return useJSON<any>("/data/countries-110m.json");
+  return useJSON<any>(publicUrl("/data/countries-110m.json"));
 }
 
 /* --------------------------------------------------------------- scholar */
@@ -132,7 +133,7 @@ export type ScholarData = {
  * The file is optional: without it the site falls back to OpenAlex.
  */
 export function useScholar() {
-  return useJSON<ScholarData>("/data/scholar.json");
+  return useJSON<ScholarData>(publicUrl("/data/scholar.json"));
 }
 
 const STOP = new Set([

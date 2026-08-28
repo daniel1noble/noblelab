@@ -45,7 +45,7 @@ function urlFor(path) {
   return path === "/" ? `${siteUrl}/` : `${siteUrl}${path}/`;
 }
 
-function pageFor(path, { title, description }, { canonical = true } = {}) {
+function pageFor(path, { title, description }, { canonical = true, assetPrefix } = {}) {
   const url = urlFor(path);
   let html = shell;
   html = swap(html, /<title>[^<]*<\/title>/, `<title>${title}</title>`, "title");
@@ -81,6 +81,15 @@ function pageFor(path, { title, description }, { canonical = true } = {}) {
     html = html.replace(/<link rel="canonical" href="[^"]*" \/>\s*/, "");
     html = html.replace(/<title>/, '<meta name="robots" content="noindex" />\n    <title>');
   }
+
+  // Vite emits relative entry assets so one artifact works both below the
+  // GitHub project path and at the custom-domain root. Real route documents
+  // sit one directory below index.html, so their entry assets move up once.
+  const prefix = assetPrefix ?? (path === "/" ? "./" : "../");
+  html = html.replace(
+    /((?:src|href)=")\.\/(?=(?:assets\/|favicon\.svg))/g,
+    `$1${prefix}`,
+  );
   return html;
 }
 
@@ -93,7 +102,10 @@ for (const [path, routeMeta] of Object.entries(routes)) {
 }
 
 // 404.html is what Pages serves for anything genuinely missing.
-await writeFile(resolve(DIST, "404.html"), pageFor("/404", notFound, { canonical: false }));
+await writeFile(
+  resolve(DIST, "404.html"),
+  pageFor("/404", notFound, { canonical: false, assetPrefix: "./" }),
+);
 
 const lastmod = new Date().toISOString().slice(0, 10);
 const sitemap = `<?xml version="1.0" encoding="UTF-8"?>

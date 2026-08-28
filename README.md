@@ -7,7 +7,7 @@
 Division of Ecology & Evolution, Research School of Biology<br>
 The Australian National University, Canberra
 
-[**noblelab.org**](https://noblelab.org)
+[**www.noblelab.org**](https://www.noblelab.org)
 
 </div>
 
@@ -19,7 +19,7 @@ with experimentation to understand and predict how and why populations are able
 to adapt (or not) to changing environments. Our study systems are diverse, but
 generally focus on lizards, insects, fish and amphibians.
 
-The lab is led by [Daniel Noble](https://noblelab.org/people/) at the
+The lab is led by [Daniel Noble](https://www.noblelab.org/people/) at the
 Australian National University.
 
 ## What we work on
@@ -30,9 +30,9 @@ Australian National University.
 - Developing new statistical approaches and software for meta-analysis and experimental data
 
 Each theme is written up, with selected publications, on the
-[research page](https://noblelab.org/research/). The software we have developed
+[research page](https://www.noblelab.org/research/). The software we have developed
 or contributed to (orchaRd, metaDigitise, shinyDigitise) is on the
-[software page](https://noblelab.org/software/).
+[software page](https://www.noblelab.org/software/).
 
 ## Join us
 
@@ -43,9 +43,11 @@ We welcome new students, postdocs and lab visitors. Get in touch at
 
 This repository holds the source of the lab website: a React and Vite
 application, styled with Tailwind, deployed to GitHub Pages by the workflow in
-`.github/workflows/pages.yml` on every push to `main`. The custom domain comes
-from `public/CNAME` (`noblelab.org`), which Vite copies into `dist/` so it
-survives each deploy. Built from the open-source lab_website by Patrice Pottier
+`.github/workflows/pages.yml` on every push to `main`. The release uses relative
+entry assets plus a runtime public-asset base, so it works both at
+`daniel1noble.github.io/noblelab/` and at the custom-domain root once DNS is
+active. `public/CNAME` records that custom domain (`www.noblelab.org`). Built
+from the open-source lab_website by Patrice Pottier
 (github.com/p-pottier/lab_website).
 
 ### Editing the content
@@ -83,7 +85,7 @@ lint and workflows do not need it.
 
 ## Elsewhere
 
-[Website](https://noblelab.org) ·
+[Website](https://www.noblelab.org) ·
 [Google Scholar](https://scholar.google.com/citations?user=w69ezLIAAAAJ) ·
 [ORCID](https://orcid.org/0000-0001-9460-8743) ·
 [GitHub](https://github.com/daniel1noble) ·

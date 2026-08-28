@@ -1,5 +1,6 @@
 import { useState } from "react";
 import { LOGO_MARK } from "../content/site";
+import { publicUrl } from "../lib/publicUrl";
 
 /**
  * Optional logo mark shown beside the wordmark. Drop an export at
@@ -23,7 +24,7 @@ export default function LogoMark({
 
   return (
     <img
-      src={LOGO_MARK}
+      src={publicUrl(LOGO_MARK)}
       alt=""
       aria-hidden
       width={size}

@@ -3,6 +3,7 @@ import { useRef, type CSSProperties, type ReactNode } from "react";
 import { Link } from "react-router-dom";
 import { ArrowRight } from "./Icons";
 import { GLOW, PALETTE } from "../content/palette";
+import { publicUrl } from "../lib/publicUrl";
 
 /* ------------------------------------------------------------- container */
 
@@ -267,7 +268,7 @@ export function PageHero({
     >
       <div className="absolute inset-0">
         <img
-          src={image}
+          src={publicUrl(image)}
           alt=""
           className="h-full w-full animate-slow-zoom object-cover"
           style={{ opacity: imageOpacity, objectPosition: imagePosition }}

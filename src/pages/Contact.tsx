@@ -1,6 +1,7 @@
 import { LINKS, PI, SITE } from "../content/site";
 import { ArrowRight, Icon } from "../components/Icons";
 import { Container, GhostButton, GradientButton, PageHero, Reveal, SectionHeading } from "../components/ui";
+import { publicUrl } from "../lib/publicUrl";
 
 export default function Contact() {
   return (
@@ -19,7 +20,7 @@ export default function Contact() {
             <div>
               {PI.photo && (
                 <img
-                  src={PI.photo}
+                  src={publicUrl(PI.photo)}
                   alt={`Portrait of ${PI.name}`}
                   className="mb-8 w-full max-w-xs rounded-2xl border border-edge object-cover"
                 />

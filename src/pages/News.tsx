@@ -6,6 +6,7 @@ import { PALETTE } from "../content/palette";
 import { usePublications, type Publication } from "../lib/useData";
 import { Chip, Container, GhostButton, PageHero, Reveal, SectionHeading } from "../components/ui";
 import { ArrowRight } from "../components/Icons";
+import { publicUrl } from "../lib/publicUrl";
 
 const TAG_COLOUR: Record<NewsItem["tag"], string> = {
   Paper: PALETTE.terracotta,
@@ -37,7 +38,7 @@ function NewsCard({ item, index }: { item: NewsItem; index: number }) {
         (item.imageFit === "contain" ? (
           <div className="flex h-44 items-center justify-center bg-charcoal/5 px-10">
             <img
-              src={item.image}
+              src={publicUrl(item.image)}
               alt=""
               loading="lazy"
               className="max-h-16 w-full object-contain opacity-90 transition duration-500 group-hover:opacity-100"
@@ -46,7 +47,7 @@ function NewsCard({ item, index }: { item: NewsItem; index: number }) {
         ) : (
           <div className="h-44 overflow-hidden">
             <img
-              src={item.image}
+              src={publicUrl(item.image)}
               alt=""
               loading="lazy"
               className="h-full w-full object-cover opacity-70 transition duration-700 group-hover:scale-105 group-hover:opacity-100"

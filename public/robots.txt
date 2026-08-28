@@ -5,4 +5,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://noblelab.org/sitemap.xml
+Sitemap: https://www.noblelab.org/sitemap.xml

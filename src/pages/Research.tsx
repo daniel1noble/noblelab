@@ -1,5 +1,6 @@
 import { RESEARCH_INTRO, THEMES, THEME_PAPERS } from "../content/site";
 import { Container, PageHero, Reveal } from "../components/ui";
+import { publicUrl } from "../lib/publicUrl";
 
 /** The fourth theme heads its list differently on the Google Site. */
 const PAPERS_HEADING: Record<string, string> = {
@@ -36,36 +37,19 @@ export default function Research() {
                       i % 2 === 1 ? "lg:[&>*:first-child]:order-2" : ""
                     }`}
                   >
-                    {/* The figures the Google Site carried for this theme.
-                        They are scientific figures, not photographs, so each
-                        sits whole (object-contain, never cropped or feathered)
-                        on a pale panel and opens at full size in a new tab.
-                        The accent bar keeps each theme's colour. */}
-                    <div className="space-y-4">
-                      {t.images.map((f) => (
-                        <a
-                          key={f.src}
-                          href={f.src}
-                          target="_blank"
-                          rel="noreferrer"
-                          title="Open the figure at full size"
-                          className="group block rounded-2xl border border-edge bg-panel p-3 transition hover:border-gold/50 sm:p-4"
-                        >
-                          <img
-                            src={f.src}
-                            alt={f.alt}
-                            width={f.width}
-                            height={f.height}
-                            loading="lazy"
-                            className="mx-auto h-auto max-h-[26rem] w-auto max-w-full object-contain"
-                          />
-                          <span className="mt-2 block text-right text-[11px] font-medium uppercase tracking-[0.14em] text-neutral-500 transition group-hover:text-gold">
-                            Full size
-                          </span>
-                        </a>
-                      ))}
+                    {/* One figure per theme, from the old site, feathering into
+                        the page on every edge rather than sitting in a frame;
+                        shown whole (object-contain), never cropped. The accent
+                        bar keeps each theme's colour. */}
+                    <div className="relative">
+                      <img
+                        src={publicUrl(t.image)}
+                        alt={t.images[0]?.alt ?? ""}
+                        loading="lazy"
+                        className="feather-edges aspect-[4/3] w-full object-contain opacity-90 transition duration-700 hover:opacity-100"
+                      />
                       <div
-                        className="mx-auto h-1 w-24 rounded-full"
+                        className="mx-auto mt-2 h-1 w-24 rounded-full"
                         style={{ backgroundColor: t.accent }}
                       />
                     </div>

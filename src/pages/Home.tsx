@@ -14,6 +14,7 @@ import {
 } from "../content/site";
 import { PALETTE } from "../content/palette";
 import { useCollaborators, usePublications, type Publication } from "../lib/useData";
+import { publicUrl } from "../lib/publicUrl";
 import {
   Chip,
   Container,
@@ -43,9 +44,12 @@ function Hero() {
         {/* bg-hero-scales.jpg and bg-hero-lizard-mesh.jpg are alternatives.
             Phones get a portrait crop of the same frame with the lizard centred. */}
         <picture className="block h-full w-full">
-          <source media="(max-width: 640px)" srcSet="/images/bg-hero-red-rock-lizard-mobile.jpg" />
+          <source
+            media="(max-width: 640px)"
+            srcSet={publicUrl("/images/bg-hero-red-rock-lizard-mobile.jpg")}
+          />
           <img
-            src="/images/bg-hero-red-rock-lizard.jpg"
+            src={publicUrl("/images/bg-hero-red-rock-lizard.jpg")}
             alt="Small pale lizard perched on a red sandstone rock against blurred orange ground"
             className="h-full w-full object-cover object-[55%_45%]"
           />
@@ -217,7 +221,7 @@ function Themes() {
                     than cropped like a photograph. */}
                 <div className="relative flex h-44 items-center justify-center overflow-hidden border-b border-edge bg-panel px-5 pb-5 pt-4">
                   <img
-                    src={t.image}
+                    src={publicUrl(t.image)}
                     alt=""
                     loading="lazy"
                     className="max-h-full w-auto max-w-full object-contain transition duration-700 group-hover:scale-[1.03]"
@@ -456,7 +460,7 @@ function LatestNews() {
                   (n.imageFit === "contain" ? (
                     <div className="flex h-36 items-center justify-center bg-charcoal/5 px-10">
                       <img
-                        src={n.image}
+                        src={publicUrl(n.image)}
                         alt=""
                         loading="lazy"
                         className="max-h-14 w-full object-contain opacity-90"
@@ -465,7 +469,7 @@ function LatestNews() {
                   ) : (
                     <div className="h-36 overflow-hidden">
                       <img
-                        src={n.image}
+                        src={publicUrl(n.image)}
                         alt=""
                         loading="lazy"
                         className="h-full w-full object-cover opacity-70 transition duration-700 group-hover:scale-105 group-hover:opacity-100"
