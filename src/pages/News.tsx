@@ -253,11 +253,11 @@ export default function News() {
         eyebrow="News"
         title="What is happening"
         image="/images/bg-news-maria-island.jpg"
-        imagePosition="30% 50%"
+        imagePosition="15% 50%"
         height="min-h-[380px]"
       />
 
-      <Container className="py-16">{NEWS.length > 0 ? <NewsFeed /> : <LatestPapers />}</Container>
+      <Container className="pb-16 pt-8">{NEWS.length > 0 ? <NewsFeed /> : <LatestPapers />}</Container>
     </>
   );
 }

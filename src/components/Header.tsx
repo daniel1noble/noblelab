@@ -83,20 +83,20 @@ export default function Header() {
           <Link to="/" className="group flex items-center gap-3.5" aria-label="Noble Lab, home">
             <LogoMark size={62} priority />
             <span className="block">
-              <Wordmark className="text-[27px]" />
-              <span className="mt-1 hidden text-[11px] font-medium leading-tight tracking-wide text-charcoal transition-all duration-200 group-hover:font-semibold sm:block">
+              <Wordmark className="text-[28px] sm:text-[34px]" />
+              <span className="mt-1 hidden whitespace-nowrap text-[11px] font-medium leading-tight tracking-wide text-charcoal transition-all duration-200 group-hover:font-semibold sm:block">
                 {SITE.strapline}
               </span>
             </span>
           </Link>
 
-          <nav className="hidden items-center gap-7 lg:flex">
+          <nav className="hidden items-center gap-4 lg:flex xl:gap-6">
             {NAV.map((item) => (
               <NavLink
                 key={item.to}
                 to={item.to}
                 className={({ isActive }) =>
-                  `link-underline text-[15px] font-medium transition-colors ${
+                  `link-underline whitespace-nowrap text-[14px] font-medium transition-colors xl:text-[15px] ${
                     isActive ? "text-gold" : "text-neutral-300 hover:text-charcoal"
                   }`
                 }

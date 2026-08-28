@@ -302,11 +302,11 @@ export default function Publications() {
         eyebrow="Publications"
         title="Papers and preprints"
         image="/images/bg-publications-leaf-frog.jpg"
-        imagePosition="55% 60%"
+        imagePosition="70% 50%"
         height="min-h-[380px]"
       />
 
-      <Container className="py-14">
+      <Container className="pb-14 pt-6">
         {/* ------------------------------------------------------ highlights */}
         {highlights.length > 0 && (
           <section className="mb-16">

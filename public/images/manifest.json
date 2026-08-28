@@ -792,6 +792,14 @@
     "use": "background"
   },
   {
+    "file": "bg-hero-face.jpg",
+    "width": 1600,
+    "height": 1000,
+    "bytes": 127954,
+    "alt": "Small pale lizard perched on a red rock against blurred orange ground",
+    "use": "background"
+  },
+  {
     "file": "bg-hero-scales.jpg",
     "width": 2048,
     "height": 1174,
@@ -840,6 +848,14 @@
     "use": "background"
   },
   {
+    "file": "bg-software-face.jpg",
+    "width": 1768,
+    "height": 1079,
+    "bytes": 417676,
+    "alt": "Large crocodilian lying on damp bare ground among leaf litter and grass",
+    "use": "background"
+  },
+  {
     "file": "bg-teaching-spotted-frogs.jpg",
     "width": 2048,
     "height": 1536,
@@ -852,6 +868,14 @@
     "width": 1536,
     "height": 1024,
     "bytes": 355221,
+    "alt": "Painted dragon on a weathered log in red-sand country",
+    "use": "background"
+  },
+  {
+    "file": "bg-gallery-painted-dragon-mobile.jpg",
+    "width": 1097,
+    "height": 900,
+    "bytes": 264970,
     "alt": "Painted dragon on a weathered log in red-sand country",
     "use": "background"
   },

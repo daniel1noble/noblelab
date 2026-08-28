@@ -63,12 +63,12 @@ export default function Software() {
         eyebrow="Software"
         title="Software"
         lead={SOFTWARE_INTRO}
-        image="/images/bg-software-green-beetle.jpg"
-        imagePosition="50% 45%"
+        image="/images/bg-software-face.jpg"
+        imagePosition="55% 48%"
         height="min-h-[380px]"
       />
 
-      <Container className="py-16">
+      <Container className="pb-16 pt-8">
         <div className="space-y-6">
           {SOFTWARE.map((pkg, i) => (
             <Reveal key={pkg.name} delay={i * 0.08}>

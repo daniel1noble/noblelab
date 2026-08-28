@@ -11,11 +11,11 @@ export default function Teaching() {
         eyebrow="Teaching"
         title="Teaching"
         image="/images/bg-teaching-spotted-frogs.jpg"
-        imagePosition="50% 50%"
+        imagePosition="0% 34%"
         height="min-h-[380px]"
       />
 
-      <Container className="py-16">
+      <Container className="pb-16 pt-8">
         <Reveal>
           <div className="prose-dark max-w-3xl">
             {intro.map((p) => (

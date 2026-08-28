@@ -41,7 +41,9 @@ function Hero() {
   return (
     <section ref={ref} className="relative flex min-h-[92vh] items-center overflow-hidden">
       <motion.div className="absolute inset-0" style={{ y, opacity }}>
-        {/* bg-hero-scales.jpg and bg-hero-lizard-mesh.jpg are alternatives.
+        {/* bg-hero-face.jpg is bg-hero-red-rock-lizard.jpg cropped so the
+            lizard's head sits at 59% of the frame, clear of the left wash.
+            bg-hero-scales.jpg and bg-hero-lizard-mesh.jpg are alternatives.
             Phones get a portrait crop of the same frame with the lizard centred. */}
         <picture className="block h-full w-full">
           <source
@@ -49,20 +51,22 @@ function Hero() {
             srcSet={publicUrl("/images/bg-hero-red-rock-lizard-mobile.jpg")}
           />
           <img
-            src={publicUrl("/images/bg-hero-red-rock-lizard.jpg")}
+            src={publicUrl("/images/bg-hero-face.jpg")}
             alt="Small pale lizard perched on a red rock against blurred orange ground"
-            className="h-full w-full object-cover object-[55%_45%]"
+            className="h-full w-full object-cover object-[20%_50%]"
           />
         </picture>
         {/* Three overlapping washes so the photograph dissolves into the paper
             on every side rather than ending on a visible edge. The left wash
-            holds about 95% ink across the first third, where the copy sits. */}
-        <div className="absolute inset-0 bg-gradient-to-r from-ink from-20% via-ink/90 via-45% to-ink/10" />
+            holds about 90% ink across the width of the copy and thins from
+            there; the mid stop was pulled in from 45% to 34% so the lizard's
+            head, at 59% of the frame, reads rather than ghosting. */}
+        <div className="absolute inset-0 bg-gradient-to-r from-ink from-16% via-ink/90 via-34% to-ink/10" />
         <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/25 to-ink/75" />
         <div className="absolute inset-x-0 bottom-0 h-56 bg-gradient-to-t from-ink to-transparent" />
       </motion.div>
 
-      <Container className="relative pb-16 pt-28">
+      <Container className="relative pb-12 pt-20">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
@@ -167,7 +171,7 @@ function Overview() {
           />
         </Reveal>
 
-        <div className="mt-10 grid gap-5 md:grid-cols-2">
+        <div className="mt-7 grid gap-5 md:grid-cols-2">
           {HOME_SECTIONS.map((s, i) => (
             <Reveal key={s.heading} delay={0.1 + i * 0.08}>
               <div className="card flex h-full flex-col p-7 sm:p-8">
@@ -210,7 +214,7 @@ function Themes() {
           </div>
         </Reveal>
 
-        <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {THEMES.map((t, i) => (
             <Reveal key={t.id} delay={i * 0.07}>
               <Link
@@ -264,7 +268,7 @@ function Video() {
           <SectionHeading eyebrow="Watch" title={HOME_VIDEO_TITLE} />
         </Reveal>
         <Reveal delay={0.1}>
-          <div className="mt-10 overflow-hidden rounded-2xl border border-edge bg-panel">
+          <div className="mt-7 overflow-hidden rounded-2xl border border-edge bg-panel">
             <iframe
               className="aspect-video w-full"
               src={`https://www.youtube-nocookie.com/embed/${HOME_VIDEO}`}
@@ -295,7 +299,7 @@ function Network() {
           <SectionHeading eyebrow="Collaboration" title="A global collaborative network" />
         </Reveal>
         <Reveal delay={0.1}>
-          <div className="mt-10 grid grid-cols-1 gap-4 sm:grid-cols-3">
+          <div className="mt-7 grid grid-cols-1 gap-4 sm:grid-cols-3">
             <StatTile value={collab.total} label="Co-authors" color={PALETTE.sage} />
             <StatTile value={collab.institutions} label="Institutions" color={PALETTE.terracotta} />
             <StatTile value={collab.countries} label="Countries" color={PALETTE.ochre} />
@@ -337,7 +341,7 @@ function LatestPapers() {
           </div>
         </Reveal>
 
-        <div className="mt-12 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
+        <div className="mt-8 grid gap-5 sm:grid-cols-2 lg:grid-cols-4">
           {latest.map((p, i) => (
             <Reveal key={p.id} delay={i * 0.07}>
               <article className="card flex h-full flex-col p-5">
@@ -452,7 +456,7 @@ function LatestNews() {
           </div>
         </Reveal>
 
-        <div className="mt-12 grid gap-5 md:grid-cols-3">
+        <div className="mt-8 grid gap-5 md:grid-cols-3">
           {items.map((n, i) => (
             <Reveal key={n.title} delay={i * 0.07}>
               <article className="card group flex h-full flex-col overflow-hidden">

@@ -19,10 +19,10 @@ export default function Opportunities() {
         eyebrow="Join us"
         title="Join the Lab!"
         image="/images/bg-opportunities-sleepy-lizard.jpg"
-        imagePosition="35% 45%"
+        imagePosition="0% 88%"
       />
 
-      <Container className="py-16">
+      <Container className="pb-16 pt-8">
         <Reveal>
           <div className="prose-dark max-w-3xl">
             {JOIN.intro.map((p) => (

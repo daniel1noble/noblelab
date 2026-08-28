@@ -10,11 +10,11 @@ export default function Contact() {
         eyebrow="Contact"
         title="Get in touch"
         image="/images/bg-contact-karst-lake.jpg"
-        imagePosition="50% 60%"
+        imagePosition="50% 31%"
         height="min-h-[380px]"
       />
 
-      <Container className="py-16">
+      <Container className="pb-16 pt-8">
         <div className="grid gap-10 lg:grid-cols-[1.1fr_1fr]">
           <Reveal>
             <div>

@@ -15,10 +15,10 @@ export default function Research() {
         title="What we do?"
         image="/images/bg-research-rock-lizard.jpg"
         imageOpacity={0.8}
-        imagePosition="42% 50%"
+        imagePosition="0% 32%"
       />
 
-      <Container className="py-16">
+      <Container className="pb-16 pt-8">
         <Reveal>
           <div className="prose-dark max-w-3xl">
             {RESEARCH_INTRO.map((p) => (

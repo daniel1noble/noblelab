@@ -213,10 +213,10 @@ export default function People() {
         eyebrow="People"
         title="Our research group"
         image="/images/bg-people-grass-lizard.jpg"
-        imagePosition="55% 60%"
+        imagePosition="0% 46%"
       />
 
-      <Container className="py-16">
+      <Container className="pb-16 pt-8">
         <section>
           <Reveal>
             <SectionHeading eyebrow="Principal investigator" title="Lab head" />

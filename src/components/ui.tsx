@@ -79,7 +79,7 @@ export function SectionHeading({
       <h2 className="font-display text-3xl font-bold leading-[1.12] text-charcoal sm:text-4xl md:text-[2.75rem]">
         {title}
       </h2>
-      {lead && <p className="mt-4 text-[17px] leading-relaxed text-neutral-400">{lead}</p>}
+      {lead && <p className="mt-3 text-[17px] leading-relaxed text-neutral-400">{lead}</p>}
     </div>
   );
 }
@@ -241,7 +241,8 @@ export function PageHero({
   title,
   lead,
   image,
-  height = "min-h-[420px]",
+  mobileImage,
+  height = "min-h-[320px]",
   imageOpacity = 0.6,
   imagePosition = "50% 50%",
 }: {
@@ -249,6 +250,13 @@ export function PageHero({
   title: string;
   lead?: string;
   image: string;
+  /** A phone crop of the same photograph. On a 390px band the banner is only
+   *  a little wider than it is tall, so object-cover scales a landscape frame
+   *  by height and the vertical object-position stops working: an animal whose
+   *  head sits high in the frame disappears behind the navigation. Where that
+   *  happens, a portrait-ish crop with the head near the middle is served
+   *  instead. object-position stays on the <img>, so one string covers both. */
+  mobileImage?: string;
   /** A minimum height. The banner grows if the text needs more room. */
   height?: string;
   /** Raise this for a dark photograph that would otherwise read as texture. */
@@ -256,26 +264,38 @@ export function PageHero({
   /** CSS object-position, so the animal stays in frame when the banner crops. */
   imagePosition?: string;
 }) {
+  // Six pages still pass height="min-h-[380px]", a value chosen against the
+  // old 420px default. Daniel asked (29 Aug 2026) for the space between a page
+  // title and the text under it to close up, so that legacy value is mapped
+  // onto the new, shallower band here and every page shows the same 320px
+  // banner. Any other value is used as given.
+  const band = height === "min-h-[380px]" ? "min-h-[320px]" : height;
+
   // A <section>, not a <header>: the site navigation is already the page banner.
   //
   // The text is anchored to the TOP, not the bottom. Bottom-anchoring inside a
   // fixed height made the gap below the navigation depend on how many lines the
   // lead ran to, so it varied from 71px to 174px between pages. The padding is
-  // the 98px header plus a 96px gap, which is identical on every page.
+  // the 99px header plus a 65px gap, which is identical on every page.
   return (
     <section
-      className={`relative flex items-start overflow-hidden pb-14 pt-[194px] ${height}`}
+      className={`relative flex items-start overflow-hidden pb-10 pt-[164px] ${band}`}
     >
       <div className="absolute inset-0">
-        <img
-          src={publicUrl(image)}
-          alt=""
-          className="h-full w-full animate-slow-zoom object-cover"
-          style={{ opacity: imageOpacity, objectPosition: imagePosition }}
-        />
+        <picture className="block h-full w-full">
+          {mobileImage && (
+            <source media="(max-width: 640px)" srcSet={publicUrl(mobileImage)} />
+          )}
+          <img
+            src={publicUrl(image)}
+            alt=""
+            className="h-full w-full animate-slow-zoom object-cover"
+            style={{ opacity: imageOpacity, objectPosition: imagePosition }}
+          />
+        </picture>
         <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/70 to-ink/25" />
         {/* keeps the navigation legible over a pale or busy photograph */}
-        <div className="absolute inset-x-0 top-0 h-32 bg-gradient-to-b from-ink to-transparent" />
+        <div className="absolute inset-x-0 top-0 h-[104px] bg-gradient-to-b from-ink to-transparent" />
       </div>
       <Container className="relative">
         <motion.div
