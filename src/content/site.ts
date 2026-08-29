@@ -449,12 +449,12 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         links: [],
       },
       {
-        name: "Xingyi Xiu",
+        name: "Xinyi Liu",
         role: "PhD student",
         years: "(2026 – Present)",
         photo: "/images/people-xingyi-xiu.jpg",
         bio: [
-          "Xingyi just finished doing a big meta-analysis on microplastic impacts on aquatic organisms. Now time to publish!",
+          "I moved from my MSc into a PhD at ANU, where I study the effects of micro-plastics on freshwater aquatic insects. My current research focuses on how plastic pollution and temperature interact to affect life-history traits such as survival, growth, development, and emergence. Using chironomid midges as a model system, I am interested in understanding how responses to micro-plastics vary across life stages and environmental conditions. My work combines experimental approaches with evidence synthesis to better understand the ecological impacts of plastic pollution in freshwater ecosystems.",
         ],
         links: [],
       },
