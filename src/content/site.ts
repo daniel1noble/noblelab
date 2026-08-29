@@ -752,9 +752,10 @@ export const SOFTWARE: SoftwarePackage[] = [
     // quoted as written. authors: the Author field of the same page; the
     // package is written and maintained by Shinichi Nakagawa, not by the lab.
     // No hex sticker exists.
+    // Description follows CRAN's wording except that Nakagawa is named among the bayesTLS authors (Daniel, 30 Aug 2026; matches bayesTLS's CRAN Author field).
     name: "freqTLS",
     description:
-      "A maximum-likelihood implementation of the thermal-load-sensitivity framework for thermal death-time modelling introduced by Noble, Arnold and Pottier in the 'bayesTLS' package, providing the frequentist counterpart to that Bayesian workflow.",
+      "A maximum-likelihood implementation of the thermal-load-sensitivity framework for thermal death-time modelling introduced by Noble, Arnold, Nakagawa and Pottier in the 'bayesTLS' package, providing the frequentist counterpart to that Bayesian workflow.",
     href: "https://itchyshin.github.io/freqTLS/",
     github: "https://github.com/itchyshin/freqTLS",
     cran: "https://CRAN.R-project.org/package=freqTLS",
