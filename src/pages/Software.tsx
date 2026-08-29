@@ -2,6 +2,7 @@ import { SOFTWARE, SOFTWARE_INTRO, type SoftwarePackage } from "../content/site"
 import { PALETTE } from "../content/palette";
 import { Container, GhostButton, GradientButton, PageHero, Reveal } from "../components/ui";
 import { ArrowRight, Icon } from "../components/Icons";
+import { publicUrl } from "../lib/publicUrl";
 
 const ACCENTS = [PALETTE.terracotta, PALETTE.sage, PALETTE.ochre];
 
@@ -30,7 +31,7 @@ function PackageCard({ pkg, accent }: { pkg: SoftwarePackage; accent: string }) 
           <div className="flex items-start gap-5">
             {pkg.hex && (
               <img
-                src={pkg.hex}
+                src={publicUrl(pkg.hex)}
                 alt={`${pkg.name} hex sticker`}
                 width={259}
                 height={300}

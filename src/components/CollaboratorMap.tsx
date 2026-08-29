@@ -114,10 +114,15 @@ export default function CollaboratorMap() {
 
   return (
     <div>
-      <div className="grid grid-cols-3 gap-4">
+      {/* Three tiles across a 390px phone leaves ~65px of text width, which
+          wraps "Co-authors" onto two lines. Two up plus one full-width below
+          sm; unchanged from sm up, including on the People page. */}
+      <div className="grid grid-cols-2 gap-4 sm:grid-cols-3">
         <StatTile value={data.total} label="Co-authors" color={PALETTE.sage} />
         <StatTile value={data.institutions} label="Institutions" color={PALETTE.terracotta} />
-        <StatTile value={data.countries} label="Countries" color={PALETTE.ochre} />
+        <div className="col-span-2 sm:col-span-1">
+          <StatTile value={data.countries} label="Countries" color={PALETTE.ochre} />
+        </div>
       </div>
 
       <div
@@ -176,8 +181,9 @@ export default function CollaboratorMap() {
             })}
           </g>
 
-          {/* legend */}
-          <g transform={`translate(${WIDTH - 210}, ${HEIGHT - 42})`}>
+          {/* legend: hidden below sm, where the viewBox scale shrinks this
+              type to under 4px. Restated as HTML under the map instead. */}
+          <g className="hidden sm:block" transform={`translate(${WIDTH - 210}, ${HEIGHT - 42})`}>
             <text x={0} y={-6} fontSize="11" fill={NEUTRAL[400]} fontWeight={600}>
               Co-authors per country
             </text>
@@ -202,6 +208,19 @@ export default function CollaboratorMap() {
             </div>
           </div>
         )}
+      </div>
+
+      {/* Phone legend: the same MAP_STOPS ramp, at a readable size. */}
+      <div className="mt-3 sm:hidden">
+        <div className="text-[11px] font-semibold text-neutral-400">Co-authors per country</div>
+        <div
+          className="mt-1.5 h-2.5 w-full rounded-full"
+          style={{ backgroundImage: `linear-gradient(to right, ${STOPS.join(", ")})` }}
+        />
+        <div className="mt-1 flex justify-between text-[11px] text-neutral-500">
+          <span>1</span>
+          <span>{maxCount}</span>
+        </div>
       </div>
 
       {selected && (
