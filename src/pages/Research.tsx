@@ -188,18 +188,20 @@ export default function Research() {
       <PageHero
         eyebrow="Research"
         title="What we do?"
-        image="/images/bg-research-goanna-right.jpg"
-        /* Sand monitor under a red rock overhang, cut down from the full frame to the
-           left 1440px at native pixels so the animal reads roughly 1.4x larger and most
-           of the empty rock is gone. Its head lands just right of the title at about
-           40-53% across; it cannot go further right without upscaling, because the head
-           already sits only a third of the way into the source frame. */
-        imageOpacity={0.8}
-        imagePosition="70% 0%"
+        image="/images/bg-research-goanna-ledge.jpg"
+        /* A different Alice Springs monitor (2010-05-29 20.07.05, 4288x2848): this one
+           lies along a sandstone ledge in full side profile with its head already at the
+           right of the frame, which the overhang frame never allowed. Cut from the left
+           3700x1028px of the native file - a 3.6:1 slice, the banner's own ratio, so the
+           whole crop lands in the band and nothing is scaled up. The lizard runs the full
+           width of the band with the eye at 72% and the snout at about 85% across, well
+           clear of the title. y is inert at this ratio; x steers phones. */
+        imageOpacity={0.85}
+        imagePosition="81% 50%"
         height="min-h-[400px]"
       />
 
-      <Container className="pb-16 pt-8">
+      <Container className="relative -mt-20 pb-16 pt-0">
         {/* The introduction and the animals it describes, side by side from
             the large breakpoint up and stacked below it. */}
         <div className="grid items-center gap-10 lg:grid-cols-[minmax(0,1.05fr)_minmax(0,1fr)] lg:gap-14">

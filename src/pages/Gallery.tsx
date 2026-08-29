@@ -488,18 +488,21 @@ export default function Gallery() {
       <PageHero
         eyebrow="Gallery"
         title="Research photos"
-        image="/images/bg-gallery-painted-dragon-right.jpg"
-        /* Painted dragon on a weathered log. The source is portrait 1536x2048, so the
-           widest crop that never upscales is barely a band wide: taking the left 1440px
-           pushes the dragon as far right as the pixels allow, head at about 50-64% across
-           with only log and sand behind the title. The band is deepened to 400px so the
-           head, forelegs and shoulders all clear the fixed header. */
-        imageOpacity={0.85}
-        imagePosition="30% 37%"
+        image="/images/bg-gallery-dragon-rock.jpg"
+        /* The painted-dragon frame was portrait and only 1536px wide, which capped the
+           head at about 64% across; it is replaced by a landscape dragon from Alice
+           Springs (2010-05-29 18.24.30, 4288x2848). Cut from the left 3700x1028px of the
+           native file - the band's own 3.6:1 - which puts the eye at 78% and the snout at
+           about 88% across, well right of the title and clear of the fixed header. The
+           frame is a pale lizard on pale rock, so opacity is 1 rather than 0.85: the head
+           and eye read, the body behind them stays faint and there is no crop of this
+           animal that fixes that. y is inert at this ratio; x steers phones. */
+        imageOpacity={1}
+        imagePosition="87% 50%"
         height="min-h-[400px]"
       />
 
-      <Container className="pt-8 pb-16">
+      <Container className="relative -mt-20 pb-16 pt-0">
         <div className="space-y-20">
           {GALLERY.map((section, s) => {
             const gridId = `${slug(section.section)}-photos`;

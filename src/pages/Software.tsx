@@ -93,7 +93,7 @@ function PackageCard({ pkg, accent }: { pkg: SoftwarePackage; accent: string }) 
               alt={pkg.figure.alt}
               loading="lazy"
               decoding="async"
-              className="max-h-[22rem] w-auto max-w-full object-contain"
+              className="max-h-[30rem] w-auto max-w-full object-contain"
             />
           </a>
         )}
@@ -123,18 +123,22 @@ export default function Software() {
         eyebrow="Software"
         title="Software"
         lead={SOFTWARE_INTRO}
-        image="/images/bg-software-green-snake-hires.jpg"
-        /* Green snake with a small lizard on a leaf. Re-cut from the sharper of the two
-           variants of this scene (photos_10 measures a Laplacian variance of 451 over the
-           snake's head against 88 for photos_20) at native pixels, 1500px wide, so the band
-           never upscales it. The crop puts the head at about 76% across, whole and well
-           right of the title; y steers the desktop band, x steers phones. */
-        imagePosition="85% 42%"
-        imageOpacity={0.85}
+        image="/images/bg-software-broad-headed-snake.jpg"
+        /* The green snake was soft even in its sharpest frame, so it is replaced by a
+           broad-headed snake from Morton National Park (2010-07-05 05.51.43, 3888x2592),
+           which is tack sharp and carries far more contrast for a band this pale: a black
+           body banded in yellow on flat grey ground. Cut from the left 3600x1000px of the
+           native file - the band's own 3.6:1 - so the whole coil lands in frame, running
+           from about 30% to 86% across with the flattened head at 82%, right of the title
+           and above the bottom fade. Opacity is 0.95 rather than 0.85 because at 0.85 the
+           bands on the body dissolved into the grey ground. y is inert at this ratio; x
+           steers phones. */
+        imagePosition="82% 50%"
+        imageOpacity={0.95}
         height="min-h-[400px]"
       />
 
-      <Container className="pb-16 pt-8">
+      <Container className="pb-16 pt-4">
         <div className="space-y-6">
           {SOFTWARE.map((pkg, i) => (
             <Reveal key={pkg.name} delay={i * 0.08}>

@@ -19,7 +19,7 @@ export default function Teaching() {
         height="min-h-[400px]"
       />
 
-      <Container className="pb-16 pt-8">
+      <Container className="relative -mt-20 pb-16 pt-0">
         <Reveal>
           <div className="prose-dark max-w-3xl">
             {intro.map((p) => (

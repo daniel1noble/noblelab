@@ -311,18 +311,21 @@ export default function Publications() {
       <PageHero
         eyebrow="Publications"
         title="Papers and preprints"
-        image="/images/bg-publications-leaf-frog-right.jpg"
-        /* Camouflaged frog on a leaf, cropped at native pixels so the frog moves off the
-           title and fills the space to its right: it runs from about 49% to 94% across,
-           head and eye at the far right. The crop is 1600px wide rather than 1440 so the
-           1.09 slow-zoom does not push the head off the right edge. y steers the desktop
-           band, x steers phones. */
+        image="/images/bg-publications-leaf-frog-wide.jpg"
+        /* Camouflaged frog on a leaf. Daniel asked (29 Aug 2026) for more frog and less
+           leaf, and the old 1800px crop could not give it: the band only ever shows a
+           3.6:1 slice, and in that crop the frog was taller than the slice, so raising y
+           traded head for haunches. Re-cut wider from the 2304x1728 original instead
+           (left 2100x583px, the band's own 3.6:1), which shrinks the frog against the
+           frame and lets far more of it through - head, eye, speckled back and flank now
+           fill the band from just under the header down to the bottom fade, with the eye
+           at 76% across. y is inert at this ratio; x steers phones. */
         imageOpacity={0.85}
-        imagePosition="100% 20%"
+        imagePosition="86% 50%"
         height="min-h-[400px]"
       />
 
-      <Container className="pb-14 pt-6">
+      <Container className="relative -mt-20 pb-14 pt-0">
         {/* ------------------------------------------------------ highlights */}
         {highlights.length > 0 && (
           <section className="mb-16">

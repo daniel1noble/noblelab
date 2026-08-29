@@ -15,22 +15,30 @@ export default function Opportunities() {
 
   return (
     <>
-      {/* Not the sleepy lizard: all three frames of that animal on this site
-          (bg-opportunities-sleepy-lizard, gallery-field-23, gallery-field-28)
-          catch it mid-gape with the tongue out, which read as a threat display
-          beside a headline inviting students to apply. This band is a crop of
-          gallery-field-25-pygmy-bluetongue.jpg (the site captions it "Pygmy
-          Bluetongue", "A small lizard resting in an open hand"), cut to
-          1200x370 with the head at 61% of the width, so the face sits well
-          right of the h1. x only bites below ~1024px, y only above it. */}
+      {/* An insect this time, not another lizard: a grasshopper from the Panama
+          album (2006-06-18 15.00.00, 2304x1728), black with orange edging on a
+          pale branch against sunlit green - the strongest tonal contrast of any
+          invertebrate frame in the local albums, which matters because this band
+          renders very pale. 2304px is the widest any insect frame gets: the four
+          albums that shoot larger (Alice Springs, both Morton parks, Fowler's
+          Gap) hold no insect that works here - their best, a mantid at
+          2848x4288, is vertical and cannot fit a 3.6:1 band.
+          Cut from the left 2160x600px of the native file - the band's own 3.6:1 -
+          so the whole animal lands in frame, antennae to hind foot, with the head
+          at 73% across. The band is deepened from 320 to the 400px the other four
+          photographic heroes use, because at 320 the band's slice is shorter than
+          the insect and clips it top and bottom. y is inert at this ratio; x
+          steers phones. */}
       <PageHero
         eyebrow="Join us"
         title="Join the Lab!"
-        image="/images/bg-opportunities-pygmy-bluetongue.jpg"
-        imagePosition="67% 50%"
+        image="/images/bg-opportunities-grasshopper.jpg"
+        imageOpacity={0.85}
+        imagePosition="79% 50%"
+        height="min-h-[400px]"
       />
 
-      <Container className="pb-16 pt-8">
+      <Container className="relative -mt-20 pb-16 pt-0">
         <Reveal>
           <div className="prose-dark max-w-3xl">
             {JOIN.intro.map((p) => (

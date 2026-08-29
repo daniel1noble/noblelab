@@ -704,6 +704,43 @@ export type SoftwarePackage = {
  */
 export const SOFTWARE: SoftwarePackage[] = [
   {
+    // description: the repository's own one-line description on GitHub.
+    // Version and authors: https://CRAN.R-project.org/package=bayesTLS
+    // (1.0.0, published 2026-07-21). No hex sticker exists.
+    name: "bayesTLS",
+    description: "A flexible model for estimating thermal tolerance and sensitivity",
+    href: "https://daniel1noble.github.io/bayesTLS/",
+    github: "https://github.com/daniel1noble/bayesTLS",
+    cran: "https://CRAN.R-project.org/package=bayesTLS",
+    version: "1.0.0",
+    authors:
+      "Daniel W. A. Noble [aut, cre], Pieter A. Arnold [aut], Shinichi Nakagawa [aut], Patrice Pottier [aut]",
+    figure: {
+      src: "/images/figure-bayestls.webp",
+      alt: "Heat-injury accumulation and predicted survival under field temperature–time series, panels for a vinegar fly by sex and three cereal aphid species",
+    },
+  },
+  {
+    // description: the first sentence of the Description field on
+    // https://CRAN.R-project.org/package=freqTLS (0.1.0, published 2026-07-21),
+    // quoted as written. authors: the Author field of the same page; the
+    // package is written and maintained by Shinichi Nakagawa, not by the lab.
+    // No hex sticker exists.
+    name: "freqTLS",
+    description:
+      "A maximum-likelihood implementation of the thermal-load-sensitivity framework for thermal death-time modelling introduced by Noble, Arnold and Pottier in the 'bayesTLS' package, providing the frequentist counterpart to that Bayesian workflow.",
+    href: "https://itchyshin.github.io/freqTLS/",
+    github: "https://github.com/itchyshin/freqTLS",
+    cran: "https://CRAN.R-project.org/package=freqTLS",
+    version: "0.1.0",
+    authors:
+      "Shinichi Nakagawa [aut, cre, cph], Pieter A. Arnold [aut] (co-author of the bayesTLS framework), Patrice Pottier [aut] (co-author of the bayesTLS framework), Daniel W. A. Noble [aut] (senior author of the bayesTLS thermal-load-sensitivity framework)",
+    figure: {
+      src: "/images/figure-freqtls.webp",
+      alt: "Posterior densities of thermal sensitivity (z) and the critical thermal limit (CTmax) across four case studies",
+    },
+  },
+  {
     // description: the old Google Site, unchanged. Version and links:
     // https://CRAN.R-project.org/package=orchaRd and the repository.
     name: "orchaRd",
@@ -747,43 +784,6 @@ export const SOFTWARE: SoftwarePackage[] = [
     hex: "/images/hex-shinydigitise.png",
     video: "b9KvRsO8SPY",
     videoTitle: "ESMARConf2023: {shinyDigitise} tutorial",
-  },
-  {
-    // description: the repository's own one-line description on GitHub.
-    // Version and authors: https://CRAN.R-project.org/package=bayesTLS
-    // (1.0.0, published 2026-07-21). No hex sticker exists.
-    name: "bayesTLS",
-    description: "A flexible model for estimating thermal tolerance and sensitivity",
-    href: "https://daniel1noble.github.io/bayesTLS/",
-    github: "https://github.com/daniel1noble/bayesTLS",
-    cran: "https://CRAN.R-project.org/package=bayesTLS",
-    version: "1.0.0",
-    authors:
-      "Daniel W. A. Noble [aut, cre], Pieter A. Arnold [aut], Shinichi Nakagawa [aut], Patrice Pottier [aut]",
-    figure: {
-      src: "/images/figure-bayestls.webp",
-      alt: "Thermal death-time landscape: predicted survival shaded across assay temperature and exposure duration, with fitted contour lines and observed points",
-    },
-  },
-  {
-    // description: the first sentence of the Description field on
-    // https://CRAN.R-project.org/package=freqTLS (0.1.0, published 2026-07-21),
-    // quoted as written. authors: the Author field of the same page; the
-    // package is written and maintained by Shinichi Nakagawa, not by the lab.
-    // No hex sticker exists.
-    name: "freqTLS",
-    description:
-      "A maximum-likelihood implementation of the thermal-load-sensitivity framework for thermal death-time modelling introduced by Noble, Arnold and Pottier in the 'bayesTLS' package, providing the frequentist counterpart to that Bayesian workflow.",
-    href: "https://itchyshin.github.io/freqTLS/",
-    github: "https://github.com/itchyshin/freqTLS",
-    cran: "https://CRAN.R-project.org/package=freqTLS",
-    version: "0.1.0",
-    authors:
-      "Shinichi Nakagawa [aut, cre, cph], Pieter A. Arnold [aut] (co-author of the bayesTLS framework), Patrice Pottier [aut] (co-author of the bayesTLS framework), Daniel W. A. Noble [aut] (senior author of the bayesTLS thermal-load-sensitivity framework)",
-    figure: {
-      src: "/images/figure-freqtls.webp",
-      alt: "Fitted survival probability against exposure duration for a range of temperatures, for sensitive and tolerant groups",
-    },
   },
 ];
 

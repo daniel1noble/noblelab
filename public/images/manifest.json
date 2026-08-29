@@ -1274,22 +1274,72 @@
   },
   {
     "file": "figure-freqtls.webp",
-    "source": "man/figures/README-grouped-shape-curves-1.png in github.com/itchyshin/freqTLS (README figure); white ground made transparent",
-    "width": 672,
-    "height": 307,
-    "bytes": 38906,
-    "alt": "Fitted survival probability against exposure duration for a range of temperatures, for sensitive and tolerant groups",
+    "source": "Figure 5 of the 2026 preprint (10.64898/2026.07.16.738378): thermal sensitivity (z) and critical thermal limit (CTmax) estimated across four case studies — from the manuscript folder output/figs/fig4_case_study_densities.png; white ground made transparent",
+    "width": 1800,
+    "height": 1280,
+    "bytes": 261844,
+    "alt": "Posterior densities of thermal sensitivity (z) and the critical thermal limit (CTmax) across four case studies",
     "use": "figure",
     "notes": "Software page, freqTLS card; source is only 672 px wide"
   },
   {
     "file": "figure-bayestls.webp",
-    "source": "fig/shrimp_lethal_tdt_landscape.png in github.com/daniel1noble/bayesTLS; pure-white ground made transparent; downscaled to 1600 px",
-    "width": 1600,
-    "height": 1200,
-    "bytes": 86472,
-    "alt": "Thermal death-time landscape: predicted survival shaded across assay temperature and exposure duration, with fitted contour lines and observed points",
+    "source": "Figure 6 of the 2026 preprint (10.64898/2026.07.16.738378): heat-injury accumulation and predicted survival under field temperature series, for a vinegar fly by sex and three cereal aphid species — from the manuscript folder output/figs/fig5_heat_injury.png; white ground made transparent",
+    "width": 1800,
+    "height": 1469,
+    "bytes": 449352,
+    "alt": "Heat-injury accumulation and predicted survival under field temperature–time series, panels for a vinegar fly by sex and three cereal aphid species",
     "use": "figure",
     "notes": "Software page, bayesTLS card"
+  },
+  {
+    "file": "bg-research-goanna-ledge.jpg",
+    "source": "Camera Uploads/Photos/Alice Springs Photos/2010-05-29 20.07.05.jpg (4288x2848 native; crop (0, 1087, 3300, 2004); resampled to 2000 px wide; EXIF stripped)",
+    "width": 2000,
+    "height": 556,
+    "bytes": 158370,
+    "alt": "Large monitor lizard lying along a red sandstone ledge in side profile, head and neck lit against deep shade",
+    "use": "background",
+    "notes": "Research page header, replacing bg-research-goanna-right.jpg. Daniel said the monitor was still not positioned correctly and asked for a frame more focused on the lizard (29 Aug 2026). Every Alice Springs frame containing a monitor was contact-sheeted; this one is the only one where the animal already faces right with its head near the right of the frame, so the crop does not have to fight the composition. The crop is the band's own 3.6:1, which makes the vertical object-position inert on desktop and leaves x free to steer phones. Eye at 72% and snout at about 85% of the band, well clear of the title; the animal runs the full width."
+  },
+  {
+    "file": "bg-publications-leaf-frog-wide.jpg",
+    "source": "Camera Uploads/Photos/Vietnam 2007/2007-05-22 08.12.53.jpg (2304x1728 native; crop (0, 529, 2100, 1112); resampled to 2000 px wide; EXIF stripped)",
+    "width": 2000,
+    "height": 555,
+    "bytes": 273177,
+    "alt": "Mottled green-brown frog resting on a large green leaf, its eye and speckled flank facing the camera",
+    "use": "background",
+    "notes": "Publications page header, replacing bg-publications-leaf-frog-right.jpg. Daniel asked for the frog moved up so more of it shows and less leaf (29 Aug 2026). Raising the vertical object-position on the old 1800 px crop could not do it: the band only ever shows a 3.6:1 slice, and the frog was taller than that slice, so every step down traded head for haunches. Cutting wider from the 2304 px original shrinks the frog against the frame instead, and now head, eye, back and flank all fit. Eye at about 76% across."
+  },
+  {
+    "file": "bg-software-broad-headed-snake.jpg",
+    "source": "Camera Uploads/Photos/Morton National Park- Broad-headed Snakes/2010-07-05 05.51.43.jpg (3888x2592 native; crop (0, 950, 3100, 1811); resampled to 2000 px wide; EXIF stripped)",
+    "width": 2000,
+    "height": 555,
+    "bytes": 227343,
+    "alt": "Broad-headed snake coiled on flat grey ground, its dark body banded and spotted with pale yellow",
+    "use": "background",
+    "notes": "Software page header, replacing bg-software-green-snake-hires.jpg, which Daniel still found blurry (29 Aug 2026). Both Morton National Park albums were contact-sheeted; the only snake frames in either are six of this animal, and this is the frame where the flattened head lies clear of the coils rather than tucked under them. It is also far sharper and much higher in contrast than the Vietnam frame, which matters because this band renders very pale. Coil fills the band from about 30% to 86% across with the head at 82%; imageOpacity raised to 0.95 so the pattern reads rather than dissolving into texture."
+  },
+  {
+    "file": "bg-gallery-dragon-rock.jpg",
+    "source": "Camera Uploads/Photos/Alice Springs Photos/2010-05-29 18.24.30.jpg (4288x2848 native; crop (0, 430, 3700, 1458); resampled to 2000 px wide; EXIF stripped)",
+    "width": 2000,
+    "height": 556,
+    "bytes": 99158,
+    "alt": "Small dragon lizard on a red sandstone boulder, head raised, against blurred grass",
+    "use": "background",
+    "notes": "Gallery page header, replacing bg-gallery-painted-dragon-right.jpg. Daniel asked for the lizard further right again (29 Aug 2026), which the old portrait 1536 px source could not give: its head could not pass about 64% without upscaling. This landscape 4288 px frame puts the eye at 78% and the snout at about 88%. The source is intrinsically low in contrast - a pale orange lizard on pale orange rock - so imageOpacity is 1: the head and eye read clearly, the body behind it stays faint."
+  },
+  {
+    "file": "bg-opportunities-grasshopper.jpg",
+    "source": "Camera Uploads/Photos/Panama/2006-06-18 15.00.00.jpg (2304x1728 native; crop (0, 460, 2160, 1060); resampled to 2000 px wide; EXIF stripped)",
+    "width": 2000,
+    "height": 556,
+    "bytes": 129048,
+    "alt": "Large dark grasshopper edged with orange walking along a pale bare stem, long antennae raised",
+    "use": "background",
+    "notes": "Join the lab page header, replacing bg-opportunities-pygmy-bluetongue.jpg. Daniel asked for a new header image, an insect if possible, high resolution (29 Aug 2026). All seven fully downloaded Camera Uploads albums (1211 frames) were contact-sheeted for insects. Nothing usable exists above 2304 px: the four albums that shoot larger hold only a mantid (2848x4288) which is vertical and cannot fit a 3.6:1 band, and hand-held frames that show a person. This is the strongest of the 2304 px frames - the same resolution as the Vietnam originals - and the boldest tonally, which the pale band needs. Whole animal in frame, antennae to hind foot, head at 73% across. The band is deepened from 320 to the 400 px the other photographic heroes use; at 320 the band's slice is shorter than the insect and clips it."
   }
 ]
