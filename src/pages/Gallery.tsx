@@ -1,4 +1,11 @@
-import { useCallback, useEffect, useRef, useState, type MouseEvent } from "react";
+import {
+  useCallback,
+  useEffect,
+  useRef,
+  useState,
+  type MouseEvent,
+  type ReactNode,
+} from "react";
 import { AnimatePresence, motion } from "framer-motion";
 import { GALLERY, type GalleryPhoto } from "../content/site";
 import { Container, PageHero, Reveal, SectionHeading } from "../components/ui";
@@ -170,10 +177,15 @@ function PhotoGrid({ photos, onOpen }: { photos: GalleryPhoto[]; onOpen: (i: num
 
 /* -------------------------------------------------------- moving gallery */
 
-/** Three photographs on screen at once. One slot changes every STEP_MS, so a
- *  given photograph holds its place for SLOTS * STEP_MS = 6 s and the three
+/** Four photographs on screen at once: one standing beside the section's
+ *  introduction, three in a row underneath. One slot changes every STEP_MS, so
+ *  a given photograph holds its place for SLOTS * STEP_MS = 8 s and the four
  *  never turn over together. */
-const SLOTS = 3;
+const SLOTS = 4;
+/** The box that sits beside the introduction; 0 to SIDE_SLOT - 1 are the row
+ *  underneath. Putting it last in the rotation means the reader's eye is drawn
+ *  across the row before the large photograph beside the text changes. */
+const SIDE_SLOT = SLOTS - 1;
 const STEP_MS = 2000;
 const FADE_S = 0.9;
 /** The caption is swapped, not crossfaded: two captions at the same opacity
@@ -181,7 +193,7 @@ const FADE_S = 0.9;
  *  arrives quickly so the pause inside the slower image crossfade is short. */
 const CAPTION_FADE_S = 0.25;
 
-/** A tiny deterministic generator. The opening three photographs of a carousel
+/** A tiny deterministic generator. The opening four photographs of a carousel
  *  are therefore identical in the prerendered HTML and in the first client
  *  render, so no hydration mismatch is possible; the rest of the order is
  *  reshuffled once the page is live (see the effect in Carousel). */
@@ -220,11 +232,93 @@ function usePrefersReducedMotion() {
   return still;
 }
 
-/** Three photographs drawn from one set, one of which quietly changes every
- *  couple of seconds. Hovering or tabbing into it holds it still, and a reader
- *  who has asked for reduced motion gets three photographs that never move at
- *  all. `seed` fixes the opening three, so the two carousels on the page do not
- *  start on the same position of their own lists.
+/** What the four boxes are showing and what is waiting to come on. Both hold
+ *  indices into the section's `photos`. */
+type Rotation = {
+  /** One photograph index per box; never two the same. */
+  slots: number[];
+  /** Photographs waiting their turn, in order, none of them on screen. */
+  queue: number[];
+  /** Counts the changes, and so picks the box that changes next. */
+  tick: number;
+};
+
+/** Everything that is not on screen, in a fresh random order. Fieldwork has six
+ *  photographs for four boxes, so its queue runs dry after two changes; drawing
+ *  the next queue from what is off screen is both what keeps two boxes from
+ *  showing the same photograph and what stops the run settling into a loop. */
+function offScreenQueue(slots: number[], total: number, rand: () => number) {
+  const showing = new Set(slots);
+  const rest: number[] = [];
+  for (let i = 0; i < total; i += 1) if (!showing.has(i)) rest.push(i);
+  return shuffle(rest, rand);
+}
+
+/** One box of a carousel: a fixed 4:3 frame that crossfades whatever the
+ *  rotation has put in it, and opens the lightbox when clicked. */
+function Slide({
+  photo,
+  still,
+  onOpen,
+}: {
+  photo: GalleryPhoto;
+  still: boolean;
+  onOpen: () => void;
+}) {
+  return (
+    <button
+      type="button"
+      onClick={onOpen}
+      aria-label={photo.caption ? `Open photo: ${photo.caption}` : `Open photo: ${photo.alt}`}
+      className="group block w-full overflow-hidden rounded-xl border border-edge bg-panel text-left transition hover:border-gold/60"
+    >
+      {/* A fixed 4:3 box, so nothing on the page moves when the photograph
+          inside it changes. The caption rides on the bottom of the photograph
+          rather than in a bar below it: only some of the photographs carry one,
+          and a reserved bar left an empty strip under the rest that read as a
+          fault. */}
+      <span className="relative block aspect-[4/3] w-full overflow-hidden">
+        <AnimatePresence initial={false}>
+          <motion.img
+            key={photo.src}
+            src={publicUrl(photo.thumb)}
+            alt={photo.alt}
+            width={photo.width}
+            height={photo.height}
+            loading="lazy"
+            initial={{ opacity: 0 }}
+            animate={{ opacity: 1 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: still ? 0 : FADE_S, ease: "easeInOut" }}
+            className="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
+          />
+        </AnimatePresence>
+        <AnimatePresence initial={false} mode="wait">
+          {photo.caption && (
+            <motion.span
+              key={photo.src}
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              exit={{ opacity: 0 }}
+              transition={{ duration: still ? 0 : CAPTION_FADE_S, ease: "easeInOut" }}
+              className="absolute inset-x-0 bottom-0 block truncate bg-gradient-to-t from-ink from-40% via-ink/85 to-transparent px-3 pb-2 pt-7 text-xs font-medium text-charcoal"
+            >
+              {photo.caption}
+            </motion.span>
+          )}
+        </AnimatePresence>
+      </span>
+    </button>
+  );
+}
+
+/** Four photographs drawn from one set, one of which quietly changes every
+ *  couple of seconds: the section's introduction and one photograph side by
+ *  side, with the other three in a row beneath them. Hovering or tabbing into
+ *  it holds it still, and a reader who has asked for reduced motion gets four
+ *  photographs that never move at all. `seed` fixes the opening four, so the
+ *  two carousels on the page do not start on the same position of their own
+ *  lists.
  *
  *  Photograph indices are into `photos`, and that is what `onOpen` hands back,
  *  so the lightbox it opens steps through this section alone. */
@@ -232,62 +326,83 @@ function Carousel({
   photos,
   seed,
   label,
+  intro,
   onOpen,
 }: {
   photos: GalleryPhoto[];
   seed: number;
   label: string;
+  intro: ReactNode;
   onOpen: (photoIndex: number) => void;
 }) {
   const total = photos.length;
 
-  // `order` is a permutation of indices into `photos`; `slots` holds the
-  // position in that order each of the three boxes is showing, and `head` is
-  // the next position to hand out.
-  const [order, setOrder] = useState<number[]>(() =>
-    shuffle(
+  const [rot, setRot] = useState<Rotation>(() => {
+    const deck = shuffle(
       photos.map((_, i) => i),
       mulberry32(seed),
-    ),
-  );
-  const [rot, setRot] = useState(() => ({
-    slots: Array.from({ length: SLOTS }, (_, i) => i % total),
-    head: SLOTS % total,
-    tick: 0,
-  }));
+    );
+    return {
+      // The modulo only bites for a section of fewer than four photographs,
+      // which would not rotate anyway.
+      slots: Array.from({ length: SLOTS }, (_, i) => deck[i % deck.length]),
+      queue: deck.slice(SLOTS),
+      tick: 0,
+    };
+  });
   const [paused, setPaused] = useState(false);
   const still = usePrefersReducedMotion();
 
-  // Reshuffle everything the three opening boxes are not already showing, so
-  // the run of photographs differs from load to load without anything swapping
-  // under the reader at hydration.
+  // Reshuffle the queue behind the four opening boxes, so the run of
+  // photographs differs from load to load without anything swapping under the
+  // reader at hydration.
   useEffect(() => {
-    setOrder((prev) => [...prev.slice(0, SLOTS), ...shuffle(prev.slice(SLOTS), Math.random)]);
+    setRot((prev) => ({ ...prev, queue: shuffle(prev.queue, Math.random) }));
   }, []);
+
+  // Top the queue back up the moment it empties, from whatever the four boxes
+  // are not showing. It runs between two ticks, so the next tick always has a
+  // photograph waiting for it.
+  useEffect(() => {
+    if (total <= SLOTS || rot.queue.length > 0) return;
+    const fresh = offScreenQueue(rot.slots, total, Math.random);
+    setRot((prev) => (prev.queue.length === 0 ? { ...prev, queue: fresh } : prev));
+  }, [rot, total]);
 
   // Warm the photograph that is next in the queue, so a crossfade never lands
   // on an empty box while its thumbnail is still on the wire.
   useEffect(() => {
-    const upcoming = photos[order[rot.head]];
+    const upcoming = photos[rot.queue[0]];
     if (upcoming) new Image().src = publicUrl(upcoming.thumb);
-  }, [photos, order, rot.head]);
+  }, [photos, rot.queue]);
 
   useEffect(() => {
     if (still || paused || total <= SLOTS) return;
     const id = window.setInterval(() => {
-      setRot(({ slots, head, tick }) => {
+      setRot(({ slots, queue, tick }) => {
+        // Only if the refill above has not landed yet: hold this beat rather
+        // than repeat a photograph that is already on screen.
+        if (queue.length === 0) return { slots, queue, tick };
         const next = slots.slice();
-        next[tick % SLOTS] = head;
-        return { slots: next, head: (head + 1) % total, tick: tick + 1 };
+        next[tick % SLOTS] = queue[0];
+        return { slots: next, queue: queue.slice(1), tick: tick + 1 };
       });
     }, STEP_MS);
     return () => window.clearInterval(id);
   }, [still, paused, total]);
 
-  // One box on a phone, two from 640px, three from 768px up. The hidden boxes
-  // stay in the DOM so the rotation keeps its rhythm. On a phone that means the
-  // one visible card changes every third tick, i.e. every 6 s.
+  // One box of the row on a phone, two from 640px, three from 768px up. The
+  // hidden boxes stay in the DOM so the rotation keeps its rhythm. The
+  // photograph beside the text is shown at every width.
   const visibility = ["", "hidden sm:block", "hidden md:block"];
+
+  const slide = (slot: number) => (
+    <Slide
+      photo={photos[rot.slots[slot]]}
+      still={still}
+      onOpen={() => onOpen(rot.slots[slot])}
+    />
+  );
 
   return (
     <section
@@ -298,62 +413,19 @@ function Carousel({
       onFocusCapture={() => setPaused(true)}
       onBlurCapture={() => setPaused(false)}
     >
-      <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-3">
-        {rot.slots.map((position, slot) => {
-          const photo = photos[order[position]];
-          return (
-            <div key={slot} aria-live="off" className={visibility[slot]}>
-              <button
-                type="button"
-                onClick={() => onOpen(order[position])}
-                aria-label={
-                  photo.caption ? `Open photo: ${photo.caption}` : `Open photo: ${photo.alt}`
-                }
-                className="group block w-full overflow-hidden rounded-xl border border-edge bg-panel text-left transition hover:border-gold/60"
-              >
-                {/* A fixed 4:3 box, so nothing on the page moves when the
-                    photograph inside it changes. The caption rides on the
-                    bottom of the photograph rather than in a bar below it: only
-                    some of the photographs carry one, and a reserved bar left
-                    an empty strip under the rest that read as a fault. */}
-                <span className="relative block aspect-[4/3] w-full overflow-hidden">
-                  <AnimatePresence initial={false}>
-                    <motion.img
-                      key={photo.src}
-                      src={publicUrl(photo.thumb)}
-                      alt={photo.alt}
-                      width={photo.width}
-                      height={photo.height}
-                      loading="lazy"
-                      initial={{ opacity: 0 }}
-                      animate={{ opacity: 1 }}
-                      exit={{ opacity: 0 }}
-                      transition={{ duration: still ? 0 : FADE_S, ease: "easeInOut" }}
-                      className="absolute inset-0 h-full w-full object-cover transition-transform duration-500 group-hover:scale-[1.03]"
-                    />
-                  </AnimatePresence>
-                  <AnimatePresence initial={false} mode="wait">
-                    {photo.caption && (
-                      <motion.span
-                        key={photo.src}
-                        initial={{ opacity: 0 }}
-                        animate={{ opacity: 1 }}
-                        exit={{ opacity: 0 }}
-                        transition={{
-                          duration: still ? 0 : CAPTION_FADE_S,
-                          ease: "easeInOut",
-                        }}
-                        className="absolute inset-x-0 bottom-0 block truncate bg-gradient-to-t from-ink from-40% via-ink/85 to-transparent px-3 pb-2 pt-7 text-xs font-medium text-charcoal"
-                      >
-                        {photo.caption}
-                      </motion.span>
-                    )}
-                  </AnimatePresence>
-                </span>
-              </button>
-            </div>
-          );
-        })}
+      {/* The introduction and the fourth photograph side by side on a wide
+          screen, stacked on a narrow one. */}
+      <div className="grid gap-6 lg:grid-cols-[55fr_45fr] lg:items-center lg:gap-10">
+        <div>{intro}</div>
+        <div aria-live="off">{slide(SIDE_SLOT)}</div>
+      </div>
+
+      <div className="mt-8 grid gap-4 sm:grid-cols-2 md:grid-cols-3">
+        {rot.slots.slice(0, SIDE_SLOT).map((_, slot) => (
+          <div key={slot} aria-live="off" className={visibility[slot]}>
+            {slide(slot)}
+          </div>
+        ))}
       </div>
     </section>
   );
@@ -427,27 +499,36 @@ export default function Gallery() {
           {GALLERY.map((section, s) => {
             const gridId = `${slug(section.section)}-photos`;
             const isOpen = showAll[s];
+            // The introduction is handed to the carousel, which sets it beside
+            // the photograph that stands next to it.
+            const intro =
+              section.intro.length > 0 ? (
+                <div className="prose-dark">
+                  {section.intro.map((p) => (
+                    <p key={p}>{p}</p>
+                  ))}
+                </div>
+              ) : null;
             return (
               <section key={section.section}>
                 <Reveal>
                   <SectionHeading eyebrow="Photos" title={section.section} />
-                  {section.intro.length > 0 && (
-                    <div className="prose-dark mt-6 max-w-3xl">
-                      {section.intro.map((p) => (
-                        <p key={p}>{p}</p>
-                      ))}
-                    </div>
+                  {/* With no photographs there is no carousel to carry the
+                      introduction, so it stays under the heading. */}
+                  {section.photos.length === 0 && intro && (
+                    <div className="mt-6 max-w-3xl">{intro}</div>
                   )}
                 </Reveal>
 
                 {section.photos.length > 0 && (
                   <>
                     <Reveal delay={0.1}>
-                      <div className="mt-8" onClickCapture={rememberTrigger}>
+                      <div className="mt-6" onClickCapture={rememberTrigger}>
                         <Carousel
                           photos={section.photos}
                           seed={s + 1}
                           label={`A rotating selection of ${section.section} photographs`}
+                          intro={intro}
                           onOpen={(index) => setOpen({ section: s, index })}
                         />
                       </div>

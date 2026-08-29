@@ -1102,5 +1102,95 @@
     "alt": "A bright green snake and a small lizard on a large green leaf",
     "use": "background",
     "notes": "Software page header (Daniel asked for the animal's full head in view, 29 Aug 2026); crocodile crop kept as bg-software-croc-head.jpg"
+  },
+  {
+    "file": "theme-1-1.webp",
+    "source": "theme-1-1.png with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+    "width": 1400,
+    "height": 980,
+    "bytes": 443798,
+    "alt": "Figure: coupled mechanistic models of thermal exposure/sensitivity",
+    "use": "theme-figure",
+    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+  },
+  {
+    "file": "theme-1-2.webp",
+    "source": "theme-1-2.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+    "width": 1400,
+    "height": 617,
+    "bytes": 264056,
+    "alt": "Figure: plant/grasshopper multi-panel diagram",
+    "use": "theme-figure",
+    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+  },
+  {
+    "file": "theme-2-1.webp",
+    "source": "theme-2-1.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+    "width": 1142,
+    "height": 1400,
+    "bytes": 323428,
+    "alt": "Figure: population ecology / energy allocation / mitochondrial bioenergetics flow diagram",
+    "use": "theme-figure",
+    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+  },
+  {
+    "file": "theme-2-2.webp",
+    "source": "theme-2-2.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+    "width": 1400,
+    "height": 1148,
+    "bytes": 457138,
+    "alt": "Figure: orchard plot of lnRR Q10 by habitat",
+    "use": "theme-figure",
+    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+  },
+  {
+    "file": "theme-3-1.webp",
+    "source": "theme-3-1.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+    "width": 981,
+    "height": 1400,
+    "bytes": 198140,
+    "alt": "Figure: polar plot and trait-space diagram of plasticity vectors",
+    "use": "theme-figure",
+    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+  },
+  {
+    "file": "theme-3-2.webp",
+    "source": "theme-3-2.png with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+    "width": 540,
+    "height": 425,
+    "bytes": 12490,
+    "alt": "Figure: stacked bar chart of variance components",
+    "use": "theme-figure",
+    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+  },
+  {
+    "file": "theme-3-3.webp",
+    "source": "theme-3-3.png with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+    "width": 1400,
+    "height": 783,
+    "bytes": 152770,
+    "alt": "Figure: luminance/chromatic contrast vs background environment with chameleon illustrations",
+    "use": "theme-figure",
+    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+  },
+  {
+    "file": "theme-4-1.webp",
+    "source": "theme-4-1.png with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+    "width": 1400,
+    "height": 677,
+    "bytes": 87512,
+    "alt": "Figure: effect-size taxonomy",
+    "use": "theme-figure",
+    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+  },
+  {
+    "file": "theme-4-2.webp",
+    "source": "theme-4-2.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+    "width": 1400,
+    "height": 1110,
+    "bytes": 221946,
+    "alt": "Figure: \"nuisance heterogeneity\" standardising effects diagram with animal silhouettes and temperature bubbles",
+    "use": "theme-figure",
+    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
   }
 ]

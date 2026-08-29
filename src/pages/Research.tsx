@@ -149,7 +149,7 @@ function ThemeFigures({ theme }: { theme: Theme }) {
               animate={{ opacity: 1 }}
               exit={{ opacity: 0 }}
               transition={{ duration: still ? 0 : FIGURE_FADE_S, ease: "easeInOut" }}
-              className="absolute inset-0 h-full w-full object-contain mix-blend-multiply"
+              className="absolute inset-0 h-full w-full object-contain"
             />
           </AnimatePresence>
         </span>
