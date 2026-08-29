@@ -1467,5 +1467,113 @@
     "bytes": 73223,
     "alt": "A broad-headed snake coiled on dark rock, banded head clear at the edge of the coil",
     "use": "gallery"
+  },
+  {
+    "file": "gallery-field-41-india-viper.jpg",
+    "source": "Camera Uploads/India/2023-06-18 02.05.43.jpg (EXIF/GPS stripped)",
+    "width": 1600,
+    "height": 1023,
+    "bytes": 436913,
+    "alt": "A patterned snake coiled on granite at night",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-41-india-viper-thumb.jpg",
+    "source": "Camera Uploads/India/2023-06-18 02.05.43.jpg (EXIF/GPS stripped)",
+    "width": 600,
+    "height": 384,
+    "bytes": 75324,
+    "alt": "A patterned snake coiled on granite at night",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-42-india-gecko.jpg",
+    "source": "Camera Uploads/India/2023-06-18 02.32.29.jpg (EXIF/GPS stripped)",
+    "width": 1600,
+    "height": 991,
+    "bytes": 493593,
+    "alt": "A marbled gecko in profile on pale granite at night",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-42-india-gecko-thumb.jpg",
+    "source": "Camera Uploads/India/2023-06-18 02.32.29.jpg (EXIF/GPS stripped)",
+    "width": 600,
+    "height": 371,
+    "bytes": 78755,
+    "alt": "A marbled gecko in profile on pale granite at night",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-43-india-golden-frog.jpg",
+    "source": "Camera Uploads/India/2023-06-18 01.51.16.jpg (EXIF/GPS stripped)",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 409087,
+    "alt": "A golden-brown frog sitting on a rock among grass at night",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-43-india-golden-frog-thumb.jpg",
+    "source": "Camera Uploads/India/2023-06-18 01.51.16.jpg (EXIF/GPS stripped)",
+    "width": 600,
+    "height": 450,
+    "bytes": 82174,
+    "alt": "A golden-brown frog sitting on a rock among grass at night",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-44-india-rock-lizard.jpg",
+    "source": "Camera Uploads/India/2023-06-18 02.34.13.jpg (EXIF/GPS stripped)",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 522444,
+    "alt": "A lizard with orange limbs pressed against granite at night",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-44-india-rock-lizard-thumb.jpg",
+    "source": "Camera Uploads/India/2023-06-18 02.34.13.jpg (EXIF/GPS stripped)",
+    "width": 450,
+    "height": 600,
+    "bytes": 90724,
+    "alt": "A lizard with orange limbs pressed against granite at night",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-45-india-toad.jpg",
+    "source": "Camera Uploads/India/2023-06-14 19.28.03.jpg (EXIF/GPS stripped)",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 339293,
+    "alt": "A warty toad in profile on a concrete step",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-45-india-toad-thumb.jpg",
+    "source": "Camera Uploads/India/2023-06-14 19.28.03.jpg (EXIF/GPS stripped)",
+    "width": 600,
+    "height": 450,
+    "bytes": 56277,
+    "alt": "A warty toad in profile on a concrete step",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-46-india-moth.jpg",
+    "source": "Camera Uploads/India/2023-06-13 07.19.48.jpg (EXIF/GPS stripped)",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 486777,
+    "alt": "A moth with eyespot wing markings resting on a rendered wall",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-46-india-moth-thumb.jpg",
+    "source": "Camera Uploads/India/2023-06-13 07.19.48.jpg (EXIF/GPS stripped)",
+    "width": 600,
+    "height": 450,
+    "bytes": 101232,
+    "alt": "A moth with eyespot wing markings resting on a rendered wall",
+    "use": "gallery"
   }
 ]
