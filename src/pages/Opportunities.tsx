@@ -64,34 +64,6 @@ export default function Opportunities() {
 
         <section className="mt-20">
           <Reveal>
-            <SectionHeading eyebrow={TEA.eyebrow} title={TEA.title} />
-          </Reveal>
-          <Reveal delay={0.1}>
-            <div className="card mt-8 flex flex-col gap-6 p-8 sm:flex-row sm:items-center sm:p-10">
-              <span
-                className="flex h-16 w-16 shrink-0 items-center justify-center rounded-full border border-edge bg-ink text-gold"
-                aria-hidden
-              >
-                <Icon name="tea" size={34} />
-              </span>
-              <div className="flex-1">
-                {TEA.text.map((t) => (
-                  <p key={t} className="text-[16px] leading-relaxed text-neutral-300 [&+&]:mt-2">
-                    {t}
-                  </p>
-                ))}
-                <div className="mt-5">
-                  <GhostButton href={TEA.href}>
-                    {TEA.label} <ArrowRight />
-                  </GhostButton>
-                </div>
-              </div>
-            </div>
-          </Reveal>
-        </section>
-
-        <section className="mt-20">
-          <Reveal>
             <SectionHeading eyebrow="Next step" title="How to get in touch" />
           </Reveal>
           <Reveal delay={0.1}>
@@ -118,6 +90,34 @@ export default function Opportunities() {
             </div>
           </Reveal>
         </section>
+        <section className="mt-20">
+          <Reveal>
+            <SectionHeading eyebrow={TEA.eyebrow} title={TEA.title} />
+          </Reveal>
+          <Reveal delay={0.1}>
+            <div className="card mt-8 flex flex-col gap-6 p-8 sm:flex-row sm:items-center sm:p-10">
+              <span
+                className="flex h-16 w-16 shrink-0 items-center justify-center rounded-full border border-edge bg-ink text-gold"
+                aria-hidden
+              >
+                <Icon name="tea" size={34} />
+              </span>
+              <div className="flex-1">
+                {TEA.text.map((t) => (
+                  <p key={t} className="text-[16px] leading-relaxed text-neutral-300 [&+&]:mt-2">
+                    {t}
+                  </p>
+                ))}
+                <div className="mt-5">
+                  <GhostButton href={TEA.href}>
+                    {TEA.label} <ArrowRight />
+                  </GhostButton>
+                </div>
+              </div>
+            </div>
+          </Reveal>
+        </section>
+
       </Container>
     </>
   );
