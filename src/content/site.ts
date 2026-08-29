@@ -616,7 +616,7 @@ export const JOIN: { intro: string[]; cta: { label: string; href: string }[] } =
 /** The two lines under the home-page banner. */
 export const HOME_INTRO: string[] = [
   "Welcome to the Noble Lab webpage!",
-  "We are located in the Division of Ecology and Evolution in the Research School of Biology at the Australian National University (ANU)",
+  "We study how ectotherms adapt to a changing environment. Explore our research and team to find out more about the kinds of questions we ask." // Daniel's wording, 30 Aug 2026,
 ];
 
 /** The two short home-page columns, each with its button. */
