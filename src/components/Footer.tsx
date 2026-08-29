@@ -85,7 +85,7 @@ export default function Footer() {
             href="https://www.anu.edu.au/"
             target="_blank"
             rel="noreferrer"
-            className="block w-fit opacity-90 transition hover:opacity-100 md:justify-self-end"
+            className="block w-fit opacity-90 transition hover:opacity-100 md:justify-self-end lg:-mr-8"
           >
             <img
               src={publicUrl("/images/anu-logo.png")}

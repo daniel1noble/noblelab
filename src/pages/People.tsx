@@ -215,13 +215,15 @@ export default function People() {
         image="/images/bg-people-grass-lizard-right.jpg"
         /* Cropped from x=100px of the frame so the lizard's head sits at ~84%
            across and the body fills the band right of the title; the band is
-           taller here so the whole animal fits. y steers desktop, x phones. */
-        imagePosition="75% 28%"
+           a little taller than elsewhere (440px) so head and body show; the
+           feet run into the bottom fade so the title-to-text gap stays
+           consistent with the other pages. y steers desktop, x phones. */
+        imagePosition="75% 22%"
         imageOpacity={0.85}
-        height="min-h-[600px]"
+        height="min-h-[440px]"
       />
 
-      <Container className="pb-16 pt-8">
+      <Container className="relative -mt-24 pb-16 pt-0">
         <section>
           <Reveal>
             <SectionHeading eyebrow="Principal investigator" title="Lab head" />
