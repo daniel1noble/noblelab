@@ -1,5 +1,5 @@
 {
- "updated": "2026-08-28",
+ "updated": "2026-08-29",
  "total": 419,
  "countries": 29,
  "institutions": 161,
@@ -45,8 +45,8 @@
    "city": "Onna",
    "country": "Japan",
    "countryCode": "JP",
-   "lat": 26.475950241088867,
-   "lon": 127.852783203125
+   "lat": 26.47595,
+   "lon": 127.85278
   },
   {
    "name": "Martin J. Whiting",
@@ -84,8 +84,8 @@
    "city": "Berlin",
    "country": "Germany",
    "countryCode": "DE",
-   "lat": 52.491519927978516,
-   "lon": 13.276505470275879
+   "lat": 52.52437,
+   "lon": 13.41053
   },
   {
    "name": "Alistair M. Senior",
@@ -396,8 +396,8 @@
    "city": "Darlinghurst",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.878360748291016,
-   "lon": 151.22164916992188
+   "lat": -33.87939,
+   "lon": 151.21925
   },
   {
    "name": "Susanne Zajitschek",
@@ -409,8 +409,8 @@
    "city": "Darlinghurst",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.878360748291016,
-   "lon": 151.22164916992188
+   "lat": -33.87939,
+   "lon": 151.21925
   },
   {
    "name": "Yin Qi",
@@ -552,8 +552,8 @@
    "city": "Darlinghurst",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.878360748291016,
-   "lon": 151.22164916992188
+   "lat": -33.87939,
+   "lon": 151.21925
   },
   {
    "name": "Erik Wapstra",
@@ -617,8 +617,8 @@
    "city": "Egham",
    "country": "United Kingdom",
    "countryCode": "GB",
-   "lat": 51.43157958984375,
-   "lon": -0.5523899793624878
+   "lat": 51.43158,
+   "lon": -0.55239
   },
   {
    "name": "Julian Baur",
@@ -1085,8 +1085,8 @@
    "city": "Melbourne",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -37.81399917602539,
-   "lon": 144.96331787109375
+   "lat": -37.814,
+   "lon": 144.96332
   },
   {
    "name": "Melissa L. Fangmeier",
@@ -1098,8 +1098,8 @@
    "city": "Darlinghurst",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.878360748291016,
-   "lon": 151.22164916992188
+   "lat": -33.87939,
+   "lon": 151.21925
   },
   {
    "name": "Melissah Rowe",
@@ -1176,8 +1176,8 @@
    "city": "Richmond",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.59955978393555,
-   "lon": 150.7514190673828
+   "lat": -33.59956,
+   "lon": 150.75142
   },
   {
    "name": "Patrick L. Taggart",
@@ -1332,8 +1332,8 @@
    "city": "Darlinghurst",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.878360748291016,
-   "lon": 151.22164916992188
+   "lat": -33.87939,
+   "lon": 151.21925
   },
   {
    "name": "Thomas E. White",
@@ -1514,8 +1514,8 @@
    "city": "Gold Coast",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -28.07398223876953,
-   "lon": 153.41648864746094
+   "lat": -28.00029,
+   "lon": 153.43088
   },
   {
    "name": "Alexandra Pavlova",
@@ -1826,8 +1826,8 @@
    "city": "Richmond",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.59955978393555,
-   "lon": 150.7514190673828
+   "lat": -33.59956,
+   "lon": 150.75142
   },
   {
    "name": "Belinda E. Medlyn",
@@ -1839,8 +1839,8 @@
    "city": "Richmond",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.59955978393555,
-   "lon": 150.7514190673828
+   "lat": -33.59956,
+   "lon": 150.75142
   },
   {
    "name": "Ben Halliwell",
@@ -1930,8 +1930,8 @@
    "city": "Richmond",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.59955978393555,
-   "lon": 150.7514190673828
+   "lat": -33.59956,
+   "lon": 150.75142
   },
   {
    "name": "Brenden S. Holland",
@@ -2671,8 +2671,8 @@
    "city": "Gold Coast",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -28.07398223876953,
-   "lon": 153.41648864746094
+   "lat": -28.00029,
+   "lon": 153.43088
   },
   {
    "name": "Fabien Aubret",
@@ -2801,8 +2801,8 @@
    "city": "Milwaukee",
    "country": "United States",
    "countryCode": "US",
-   "lat": 43.03889846801758,
-   "lon": -87.9064712524414
+   "lat": 43.0389,
+   "lon": -87.90647
   },
   {
    "name": "Gavin C. Hossack",
@@ -2996,8 +2996,8 @@
    "city": "Richmond",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.59955978393555,
-   "lon": 150.7514190673828
+   "lat": -33.59956,
+   "lon": 150.75142
   },
   {
    "name": "Ilha Byrne",
@@ -3152,8 +3152,8 @@
    "city": "Richmond",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.59955978393555,
-   "lon": 150.7514190673828
+   "lat": -33.59956,
+   "lon": 150.75142
   },
   {
    "name": "James M. Williams",
@@ -3321,8 +3321,8 @@
    "city": "Bristol",
    "country": "United Kingdom",
    "countryCode": "GB",
-   "lat": 51.45125198364258,
-   "lon": -2.599884033203125
+   "lat": 51.45523,
+   "lon": -2.59665
   },
   {
    "name": "Johann Mourier",
@@ -3399,8 +3399,8 @@
    "city": "Dayton",
    "country": "United States",
    "countryCode": "US",
-   "lat": 39.758949279785156,
-   "lon": -84.19161224365234
+   "lat": 39.75895,
+   "lon": -84.19161
   },
   {
    "name": "Joshua J. Amiel",
@@ -3607,8 +3607,8 @@
    "city": "Darwin",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -12.461130142211914,
-   "lon": 130.8418426513672
+   "lat": -12.46113,
+   "lon": 130.84185
   },
   {
    "name": "Kerrie Mengersen",
@@ -3698,8 +3698,8 @@
    "city": "Trondheim",
    "country": "Norway",
    "countryCode": "NO",
-   "lat": 63.43048858642578,
-   "lon": 10.395059585571289
+   "lat": 63.43049,
+   "lon": 10.39506
   },
   {
    "name": "Kristoffer H. Wild",
@@ -3815,8 +3815,8 @@
    "city": "Bristol",
    "country": "United Kingdom",
    "countryCode": "GB",
-   "lat": 51.45125198364258,
-   "lon": -2.599884033203125
+   "lat": 51.45523,
+   "lon": -2.59665
   },
   {
    "name": "Luke Budd",
@@ -3880,8 +3880,8 @@
    "city": "Darlinghurst",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.878360748291016,
-   "lon": 151.22164916992188
+   "lat": -33.87939,
+   "lon": 151.21925
   },
   {
    "name": "Mads F. Schou",
@@ -3906,8 +3906,8 @@
    "city": "Bayreuth",
    "country": "Germany",
    "countryCode": "DE",
-   "lat": 49.947818756103516,
-   "lon": 11.578929901123047
+   "lat": 49.94782,
+   "lon": 11.57893
   },
   {
    "name": "Maja Tarka",
@@ -4023,8 +4023,8 @@
    "city": "Helsinki",
    "country": "Finland",
    "countryCode": "FI",
-   "lat": 60.16952133178711,
-   "lon": 24.935449600219727
+   "lat": 60.16952,
+   "lon": 24.93545
   },
   {
    "name": "María Moirón",
@@ -4439,8 +4439,8 @@
    "city": "Richmond",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.59955978393555,
-   "lon": 150.7514190673828
+   "lat": -33.59956,
+   "lon": 150.75142
   },
   {
    "name": "Owen Forbes",
@@ -4712,8 +4712,8 @@
    "city": "Richmond",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.59955978393555,
-   "lon": 150.7514190673828
+   "lat": -33.59956,
+   "lon": 150.75142
   },
   {
    "name": "Rhiannon L. Dalrymple",
@@ -4829,8 +4829,8 @@
    "city": "Boulder",
    "country": "United States",
    "countryCode": "US",
-   "lat": 40.014991760253906,
-   "lon": -105.27055358886719
+   "lat": 40.01499,
+   "lon": -105.27055
   },
   {
    "name": "Russell Woodford",
@@ -4868,8 +4868,8 @@
    "city": "Rasht",
    "country": "Iran",
    "countryCode": "IR",
-   "lat": 37.19422149658203,
-   "lon": 49.63624954223633
+   "lat": 37.27611,
+   "lon": 49.58862
   },
   {
    "name": "Samuel C. Andrew",
@@ -5297,8 +5297,8 @@
    "city": "Richmond",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.59955978393555,
-   "lon": 150.7514190673828
+   "lat": -33.59956,
+   "lon": 150.75142
   },
   {
    "name": "Vivian Welch",
@@ -5466,8 +5466,8 @@
    "city": "Richmond",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.59955978393555,
-   "lon": 150.7514190673828
+   "lat": -33.59956,
+   "lon": 150.75142
   },
   {
    "name": "Zoe A. Xirocostas",
