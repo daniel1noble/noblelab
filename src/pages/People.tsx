@@ -212,8 +212,13 @@ export default function People() {
       <PageHero
         eyebrow="People"
         title="Our research group"
-        image="/images/bg-people-grass-lizard.jpg"
-        imagePosition="0% 46%"
+        image="/images/bg-people-grass-lizard-right.jpg"
+        /* Cropped from x=100px of the frame so the lizard's head sits at ~84%
+           across and the body fills the band right of the title; the band is
+           taller here so the whole animal fits. y steers desktop, x phones. */
+        imagePosition="75% 28%"
+        imageOpacity={0.85}
+        height="min-h-[600px]"
       />
 
       <Container className="pb-16 pt-8">

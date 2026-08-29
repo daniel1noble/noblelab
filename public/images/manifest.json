@@ -1192,5 +1192,15 @@
     "alt": "Figure: \"nuisance heterogeneity\" standardising effects diagram with animal silhouettes and temperature bubbles",
     "use": "theme-figure",
     "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+  },
+  {
+    "file": "bg-people-grass-lizard-right.jpg",
+    "source": "content/gs_images/home_02_research-systems-carousel.jpg (crop 100,300–1400,1360; EXIF stripped)",
+    "width": 1300,
+    "height": 1060,
+    "bytes": 213028,
+    "alt": "Small lizard basking on a red rock among dry grass",
+    "use": "background",
+    "notes": "People page header; lizard across the right of the band (Daniel, 29 Aug 2026)"
   }
 ]
