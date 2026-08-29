@@ -73,6 +73,12 @@ function PersonLinks({ person }: { person: Person }) {
 
 /** One card per group member: photo, name, years, co-advisor note, biography. */
 function MemberCard({ person, accent }: { person: Person; accent: string }) {
+  // Bios start collapsed to three lines with a "Learn more" toggle, as on the
+  // PI card, so the grid stays tight (Daniel, 30 Aug 2026). Short bios that fit
+  // in three lines get no toggle.
+  const [open, setOpen] = useState(false);
+  const bio = person.bio ?? [];
+  const longBio = bio.length > 1 || (bio[0]?.length ?? 0) > 110;
   return (
     <div className="card h-full overflow-hidden">
       <div className="grid gap-6 p-6 sm:grid-cols-[180px_1fr] sm:p-7">
@@ -95,13 +101,30 @@ function MemberCard({ person, accent }: { person: Person; accent: string }) {
           {person.note && <p className="mt-1 text-sm text-neutral-400">{person.note}</p>}
           {person.now && <p className="mt-1 text-sm text-neutral-400">{person.now}</p>}
 
-          {person.bio && person.bio.length > 0 && (
-            <div className="mt-5 space-y-3">
-              {person.bio.map((p) => (
-                <p key={p} className="text-[15px] leading-relaxed text-neutral-300">
-                  {p}
-                </p>
-              ))}
+          {bio.length > 0 && (
+            <div className="mt-5">
+              <div className={`space-y-3 ${open ? "" : "line-clamp-3"}`}>
+                {bio.map((p) => (
+                  <p key={p} className="text-[15px] leading-relaxed text-neutral-300">
+                    {p}
+                  </p>
+                ))}
+              </div>
+              {longBio && (
+                <button
+                  type="button"
+                  onClick={() => setOpen((v) => !v)}
+                  aria-expanded={open}
+                  className="group mt-3 inline-flex items-center gap-2 text-sm font-semibold text-cyan transition hover:text-charcoal"
+                >
+                  {open ? "Show less" : "Learn more"}
+                  <ArrowRight
+                    className={`transition-transform duration-300 ${
+                      open ? "rotate-90" : "group-hover:translate-x-1"
+                    }`}
+                  />
+                </button>
+              )}
             </div>
           )}
         </div>
