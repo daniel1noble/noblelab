@@ -562,8 +562,9 @@ export default function Home() {
       <Hero />
       <Overview />
       <Themes />
-      <Video />
+      {/* directly under the themes (Daniel, 30 Aug 2026) */}
       <LatestPapers />
+      <Video />
       <JoinTheLab />
       <LabLife />
       <LatestNews />
