@@ -173,7 +173,7 @@ function Overview() {
   const accents = [PALETTE.sage, PALETTE.terracotta];
 
   return (
-    <section className="relative py-24">
+    <section className="relative py-14">
       <Container>
         <Reveal>
           <SectionHeading
@@ -219,7 +219,7 @@ function Overview() {
 
 function Themes() {
   return (
-    <section className="py-20">
+    <section className="py-12">
       <Container>
         <Reveal>
           <div className="flex flex-wrap items-end justify-between gap-6">
@@ -278,7 +278,7 @@ function Video() {
   if (!HOME_VIDEO) return null;
 
   return (
-    <section className="py-20">
+    <section className="py-12">
       <Container>
         <Reveal>
           <SectionHeading eyebrow="Watch" title={HOME_VIDEO_TITLE} />
@@ -317,7 +317,7 @@ function Network() {
   if (!collab) return null;
 
   return (
-    <section className="py-20">
+    <section className="py-12">
       <Container>
         <Reveal>
           <SectionHeading eyebrow="Collaboration" title="A global collaborative network" />
@@ -345,7 +345,7 @@ function LatestPapers() {
   if (latest.length === 0) return null;
 
   return (
-    <section className="py-20">
+    <section className="py-12">
       <Container>
         <Reveal>
           <div className="flex flex-wrap items-end justify-between gap-6">
@@ -397,7 +397,7 @@ function JoinTheLab() {
   const [primary, ...rest] = JOIN.cta;
 
   return (
-    <section className="py-20">
+    <section className="py-12">
       <Container>
         <Reveal>
           <div
@@ -460,7 +460,7 @@ function LatestNews() {
   if (items.length === 0) return null;
 
   return (
-    <section className="py-20">
+    <section className="py-12">
       <Container>
         <Reveal>
           <div className="flex flex-wrap items-end justify-between gap-6">
@@ -528,7 +528,7 @@ function LatestNews() {
 function LabLife() {
   if (LAB_LIFE.length === 0) return null;
   return (
-    <section className="py-20">
+    <section className="py-12">
       <Container>
         <Reveal>
           <SectionHeading eyebrow="Lab life" title="Beyond the bench" />
@@ -565,11 +565,11 @@ export default function Home() {
       {/* directly under the themes (Daniel, 30 Aug 2026) */}
       <LatestPapers />
       <Video />
-      <JoinTheLab />
       <LabLife />
       <LatestNews />
-      {/* last section before the footer (Daniel, 29 Aug 2026) */}
       <Network />
+      {/* last section before the footer (Daniel, 30 Aug 2026) */}
+      <JoinTheLab />
     </>
   );
 }
