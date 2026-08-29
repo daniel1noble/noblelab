@@ -1474,8 +1474,9 @@
     "width": 1600,
     "height": 1023,
     "bytes": 436913,
-    "alt": "A patterned snake coiled on granite at night",
-    "use": "gallery"
+    "alt": "A saw-scaled viper coiled on granite at night",
+    "use": "gallery",
+    "notes": "Species confirmed by Daniel, 29 Aug 2026"
   },
   {
     "file": "gallery-field-41-india-viper-thumb.jpg",
@@ -1483,8 +1484,9 @@
     "width": 600,
     "height": 384,
     "bytes": 75324,
-    "alt": "A patterned snake coiled on granite at night",
-    "use": "gallery"
+    "alt": "A saw-scaled viper coiled on granite at night",
+    "use": "gallery",
+    "notes": "Species confirmed by Daniel, 29 Aug 2026"
   },
   {
     "file": "gallery-field-42-india-gecko.jpg",
@@ -1574,6 +1576,60 @@
     "height": 450,
     "bytes": 101232,
     "alt": "A moth with eyespot wing markings resting on a rendered wall",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-35-fms-unit.jpg",
+    "source": "Miscellaneous/resp_pics/2016-01-13 15.09.00.jpg (EXIF stripped)",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 247031,
+    "alt": "A Sable Systems Field Metabolic System unit in its case",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-35-fms-unit-thumb.jpg",
+    "source": "Miscellaneous/resp_pics/2016-01-13 15.09.00.jpg (EXIF stripped)",
+    "width": 600,
+    "height": 450,
+    "bytes": 52568,
+    "alt": "A Sable Systems Field Metabolic System unit in its case",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-36-respirometry-rig.jpg",
+    "source": "Miscellaneous/resp_pics/2016-03-02 11.25.07.jpg (EXIF stripped)",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 210821,
+    "alt": "A flow multiplexer and gas analyser with tubing on a lab bench",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-36-respirometry-rig-thumb.jpg",
+    "source": "Miscellaneous/resp_pics/2016-03-02 11.25.07.jpg (EXIF stripped)",
+    "width": 600,
+    "height": 450,
+    "bytes": 44122,
+    "alt": "A flow multiplexer and gas analyser with tubing on a lab bench",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-37-respirometry-chambers.jpg",
+    "source": "Miscellaneous/resp_pics/2016-03-02 17.05.12.jpg (EXIF stripped)",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 228655,
+    "alt": "A row of small respirometry chambers connected by tubing to a multiplexer",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-37-respirometry-chambers-thumb.jpg",
+    "source": "Miscellaneous/resp_pics/2016-03-02 17.05.12.jpg (EXIF stripped)",
+    "width": 600,
+    "height": 450,
+    "bytes": 47760,
+    "alt": "A row of small respirometry chambers connected by tubing to a multiplexer",
     "use": "gallery"
   }
 ]
