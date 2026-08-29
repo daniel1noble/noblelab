@@ -311,9 +311,15 @@ export default function Publications() {
       <PageHero
         eyebrow="Publications"
         title="Papers and preprints"
-        image="/images/bg-publications-leaf-frog.jpg"
-        imagePosition="70% 50%"
-        height="min-h-[380px]"
+        image="/images/bg-publications-leaf-frog-right.jpg"
+        /* Camouflaged frog on a leaf, cropped at native pixels so the frog moves off the
+           title and fills the space to its right: it runs from about 49% to 94% across,
+           head and eye at the far right. The crop is 1600px wide rather than 1440 so the
+           1.09 slow-zoom does not push the head off the right edge. y steers the desktop
+           band, x steers phones. */
+        imageOpacity={0.85}
+        imagePosition="100% 20%"
+        height="min-h-[400px]"
       />
 
       <Container className="pb-14 pt-6">

@@ -188,9 +188,15 @@ export default function Research() {
       <PageHero
         eyebrow="Research"
         title="What we do?"
-        image="/images/bg-research-rock-lizard.jpg"
+        image="/images/bg-research-goanna-right.jpg"
+        /* Sand monitor under a red rock overhang, cut down from the full frame to the
+           left 1440px at native pixels so the animal reads roughly 1.4x larger and most
+           of the empty rock is gone. Its head lands just right of the title at about
+           40-53% across; it cannot go further right without upscaling, because the head
+           already sits only a third of the way into the source frame. */
         imageOpacity={0.8}
-        imagePosition="0% 32%"
+        imagePosition="70% 0%"
+        height="min-h-[400px]"
       />
 
       <Container className="pb-16 pt-8">

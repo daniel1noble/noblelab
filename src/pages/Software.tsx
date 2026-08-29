@@ -26,7 +26,7 @@ function PackageCard({ pkg, accent }: { pkg: SoftwarePackage; accent: string }) 
 
   return (
     <article className="card overflow-hidden">
-      <div className={`grid gap-8 p-7 sm:p-9 ${pkg.video ? "lg:grid-cols-[1fr_1.1fr]" : ""}`}>
+      <div className={`grid gap-8 p-7 sm:p-9 ${pkg.video || pkg.figure ? "lg:grid-cols-[1fr_1.1fr]" : ""}`}>
         <div>
           <div className="flex items-start gap-5">
             {pkg.hex && (
@@ -80,6 +80,24 @@ function PackageCard({ pkg, accent }: { pkg: SoftwarePackage; accent: string }) 
           </div>
         </div>
 
+        {!pkg.video && pkg.figure && (
+          <a
+            href={pkg.href}
+            target="_blank"
+            rel="noreferrer"
+            className="flex items-center justify-center self-center"
+            title={`Open the ${pkg.name} website`}
+          >
+            <img
+              src={publicUrl(pkg.figure.src)}
+              alt={pkg.figure.alt}
+              loading="lazy"
+              decoding="async"
+              className="max-h-[22rem] w-auto max-w-full object-contain"
+            />
+          </a>
+        )}
+
         {pkg.video && (
           <div className="overflow-hidden rounded-2xl border border-edge bg-ink">
             <iframe
@@ -105,11 +123,13 @@ export default function Software() {
         eyebrow="Software"
         title="Software"
         lead={SOFTWARE_INTRO}
-        image="/images/bg-software-green-snake.jpg"
-        /* Green snake with a small lizard on a leaf: the frame is cropped so the snake's
-           head sits at about 72% across and 58% down, well right of the title. y steers the
-           desktop band, x steers phones. */
-        imagePosition="72% 46%"
+        image="/images/bg-software-green-snake-hires.jpg"
+        /* Green snake with a small lizard on a leaf. Re-cut from the sharper of the two
+           variants of this scene (photos_10 measures a Laplacian variance of 451 over the
+           snake's head against 88 for photos_20) at native pixels, 1500px wide, so the band
+           never upscales it. The crop puts the head at about 76% across, whole and well
+           right of the title; y steers the desktop band, x steers phones. */
+        imagePosition="85% 42%"
         imageOpacity={0.85}
         height="min-h-[400px]"
       />

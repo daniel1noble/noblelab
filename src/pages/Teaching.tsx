@@ -10,9 +10,13 @@ export default function Teaching() {
       <PageHero
         eyebrow="Teaching"
         title="Teaching"
-        image="/images/bg-teaching-spotted-frogs.jpg"
-        imagePosition="0% 34%"
-        height="min-h-[380px]"
+        image="/images/bg-teaching-red-frog.jpg"
+        /* Bright red frog with blue legs on a mossy trunk, cropped at native pixels to the
+           left 1440px of the frame so the frog sits at about 65-80% across, head in view
+           and well clear of the title. y steers the desktop band, x steers phones. */
+        imageOpacity={0.85}
+        imagePosition="70% 44%"
+        height="min-h-[400px]"
       />
 
       <Container className="pb-16 pt-8">

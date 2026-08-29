@@ -488,10 +488,15 @@ export default function Gallery() {
       <PageHero
         eyebrow="Gallery"
         title="Research photos"
-        image="/images/bg-gallery-painted-dragon.jpg"
-        mobileImage="/images/bg-gallery-painted-dragon-mobile.jpg"
-        imagePosition="0% 1%"
-        height="min-h-[380px]"
+        image="/images/bg-gallery-painted-dragon-right.jpg"
+        /* Painted dragon on a weathered log. The source is portrait 1536x2048, so the
+           widest crop that never upscales is barely a band wide: taking the left 1440px
+           pushes the dragon as far right as the pixels allow, head at about 50-64% across
+           with only log and sand behind the title. The band is deepened to 400px so the
+           head, forelegs and shoulders all clear the fixed header. */
+        imageOpacity={0.85}
+        imagePosition="30% 37%"
+        height="min-h-[400px]"
       />
 
       <Container className="pt-8 pb-16">

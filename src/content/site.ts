@@ -688,6 +688,8 @@ export type SoftwarePackage = {
   /** YouTube id, where the site embeds a video for the package. */
   video?: string;
   videoTitle?: string;
+  /** A figure shown where a package has no video (public path + alt text). */
+  figure?: { src: string; alt: string };
   /**
    * Verbatim from the Author field of the CRAN page, where the site should not
    * leave the reader to guess who wrote and maintains the package.
@@ -711,6 +713,13 @@ export const SOFTWARE: SoftwarePackage[] = [
     github: "https://github.com/daniel1noble/orchaRd",
     cran: "https://CRAN.R-project.org/package=orchaRd",
     version: "2.2.1",
+    // Hex sticker: hex/orchaRd_hex.png in github.com/daniel1noble/orchaRd (added 29 Aug 2026).
+    hex: "/images/hex-orchard.png",
+    // Figure: from the package README on daniel1noble.github.io/orchaRd (orchard plot of lnRR by trait category).
+    figure: {
+      src: "/images/figure-orchard.webp",
+      alt: "Orchard plot of log response ratios for four trait categories, with precision-scaled points, mean estimates and intervals",
+    },
   },
   {
     // description: the old Google Site, unchanged. Version and links:
@@ -751,6 +760,10 @@ export const SOFTWARE: SoftwarePackage[] = [
     version: "1.0.0",
     authors:
       "Daniel W. A. Noble [aut, cre], Pieter A. Arnold [aut], Shinichi Nakagawa [aut], Patrice Pottier [aut]",
+    figure: {
+      src: "/images/figure-bayestls.webp",
+      alt: "Thermal death-time landscape: predicted survival shaded across assay temperature and exposure duration, with fitted contour lines and observed points",
+    },
   },
   {
     // description: the first sentence of the Description field on
@@ -767,6 +780,10 @@ export const SOFTWARE: SoftwarePackage[] = [
     version: "0.1.0",
     authors:
       "Shinichi Nakagawa [aut, cre, cph], Pieter A. Arnold [aut] (co-author of the bayesTLS framework), Patrice Pottier [aut] (co-author of the bayesTLS framework), Daniel W. A. Noble [aut] (senior author of the bayesTLS thermal-load-sensitivity framework)",
+    figure: {
+      src: "/images/figure-freqtls.webp",
+      alt: "Fitted survival probability against exposure duration for a range of temperatures, for sensitive and tolerant groups",
+    },
   },
 ];
 

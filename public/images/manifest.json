@@ -1017,10 +1017,10 @@
   },
   {
     "file": "bg-hero-lizard-right.jpg",
-    "source": "content/gs_images/photos_01_banner.jpg (crop 169,237–1469,988; EXIF stripped)",
-    "width": 1300,
-    "height": 751,
-    "bytes": 74222,
+    "source": "photos_01_banner__2010-05-29 18.22.41.jpg (full-resolution original from Camera Uploads/Photos; crop (353, 496, 3075, 2068); EXIF stripped)",
+    "width": 2722,
+    "height": 1572,
+    "bytes": 252915,
     "alt": "Small pale lizard perched on a red rock against blurred orange ground",
     "use": "background",
     "notes": "Home hero at desktop: 1.73:1 crop with the whole lizard across the right 40% of the band"
@@ -1195,12 +1195,101 @@
   },
   {
     "file": "bg-people-grass-lizard-right.jpg",
-    "source": "content/gs_images/home_02_research-systems-carousel.jpg (crop 100,300–1400,1360; EXIF stripped)",
-    "width": 1300,
-    "height": 1060,
-    "bytes": 213028,
+    "source": "home_02__2010-05-29 18.23.52.jpg (full-resolution original from Camera Uploads/Photos; crop (209, 628, 2931, 2847); EXIF stripped)",
+    "width": 2600,
+    "height": 2119,
+    "bytes": 642975,
     "alt": "Small lizard basking on a red rock among dry grass",
     "use": "background",
     "notes": "People page header; lizard across the right of the band (Daniel, 29 Aug 2026)"
+  },
+  {
+    "file": "bg-software-green-snake-hires.jpg",
+    "source": "photos_10__2007-05-28 01.55.21.jpg (full-resolution original from Camera Uploads/Photos; crop (0, 337, 1687, 1350); EXIF stripped)",
+    "width": 1687,
+    "height": 1013,
+    "bytes": 237957,
+    "alt": "A bright green snake and a small lizard on a large green leaf",
+    "use": "background",
+    "notes": "Software page header, replacing bg-software-green-snake.jpg, which Daniel found soft (29 Aug 2026). photos_10 is the sharper of the two frames of this scene: Laplacian variance over the snake's head is 451 against 88 for photos_20, and 46 against 19 over the whole frame. Exported at native pixels and 1500 px wide so the 1440 band never upscales it; head at about 66-85% across, clear of the title."
+  },
+  {
+    "file": "bg-research-goanna-right.jpg",
+    "source": "home_03__2010-05-29 21.55.59.jpg (full-resolution original from Camera Uploads/Photos; crop (0, 560, 2000, 1810); EXIF stripped)",
+    "width": 2000,
+    "height": 1250,
+    "bytes": 417459,
+    "alt": "Large spotted lizard emerging from beneath a red rock overhang among dry grass",
+    "use": "background",
+    "notes": "Research page header (Daniel asked for less background and the head right of the title, 29 Aug 2026). Native-pixel crop of the left 1440 px, so the animal reads about 1.4x larger than the full frame did. Its head lands at 40-53% of the band: it cannot go further right without upscaling, because the head sits only a third of the way into the source frame."
+  },
+  {
+    "file": "bg-publications-leaf-frog-right.jpg",
+    "source": "photos_21__2007-05-22 08.12.53.jpg (full-resolution original from Camera Uploads/Photos; crop (0, 337, 1800, 1462); EXIF stripped)",
+    "width": 1800,
+    "height": 1125,
+    "bytes": 484744,
+    "alt": "Mottled green-brown frog sitting on a large green leaf",
+    "use": "background",
+    "notes": "Publications page header (Daniel asked for the frog moved right to fill the space beside the title, 29 Aug 2026). 1600 px wide so the frog's head is not clipped by the 1.09 slow-zoom; frog runs from about 49% to 94% across, head and eye at the right."
+  },
+  {
+    "file": "bg-teaching-red-frog.jpg",
+    "source": "photos_03__2005-02-23 18.51.39.jpg (full-resolution original from Camera Uploads/Photos; crop (0, 0, 1440, 700); EXIF stripped)",
+    "width": 1440,
+    "height": 700,
+    "bytes": 169263,
+    "alt": "Bright red frog with blue legs on a mossy tree trunk",
+    "use": "background",
+    "notes": "Teaching page header, replacing bg-teaching-spotted-frogs.jpg (Daniel, 29 Aug 2026). Native-pixel crop of the left 1440 px; frog at about 64-80% across with the head in view, mossy bark behind the title."
+  },
+  {
+    "file": "bg-gallery-painted-dragon-right.jpg",
+    "source": "content/gs_images/photos_02_fieldwork-painted-dragon.jpg (crop 0,250–1440,1250; EXIF stripped)",
+    "width": 1440,
+    "height": 1000,
+    "bytes": 413784,
+    "alt": "Painted dragon on a weathered log in red-sand country",
+    "use": "background",
+    "notes": "Gallery page header (Daniel asked for the dragon featured on the right, 29 Aug 2026). The source is portrait 1536x2048, so 1440 px is the narrowest crop that still avoids upscaling and pushes the animal as far right as the pixels allow: head at 50-64% across, only log and sand behind the title. The band is deepened to 400 px so the head and forelegs clear the fixed header."
+  },
+  {
+    "file": "hex-orchard.png",
+    "source": "https://raw.githubusercontent.com/daniel1noble/orchaRd/HEAD/hex/orchaRd_hex.png (repo commit \"Adding hex sticker\", 29 Aug 2026); downscaled to 300 px, metadata stripped",
+    "width": 260,
+    "height": 300,
+    "bytes": 54392,
+    "alt": "orchaRd hex sticker",
+    "use": "logo"
+  },
+  {
+    "file": "figure-orchard.webp",
+    "source": "Figure embedded in the orchaRd package README at https://daniel1noble.github.io/orchaRd/ (figure 20 of 36); white ground made transparent",
+    "width": 1344,
+    "height": 960,
+    "bytes": 42554,
+    "alt": "Orchard plot of log response ratios for four trait categories, with precision-scaled points, mean estimates and intervals",
+    "use": "figure",
+    "notes": "Software page, orchaRd card, in place of a video"
+  },
+  {
+    "file": "figure-freqtls.webp",
+    "source": "man/figures/README-grouped-shape-curves-1.png in github.com/itchyshin/freqTLS (README figure); white ground made transparent",
+    "width": 672,
+    "height": 307,
+    "bytes": 38906,
+    "alt": "Fitted survival probability against exposure duration for a range of temperatures, for sensitive and tolerant groups",
+    "use": "figure",
+    "notes": "Software page, freqTLS card; source is only 672 px wide"
+  },
+  {
+    "file": "figure-bayestls.webp",
+    "source": "fig/shrimp_lethal_tdt_landscape.png in github.com/daniel1noble/bayesTLS; pure-white ground made transparent; downscaled to 1600 px",
+    "width": 1600,
+    "height": 1200,
+    "bytes": 86472,
+    "alt": "Thermal death-time landscape: predicted survival shaded across assay temperature and exposure duration, with fitted contour lines and observed points",
+    "use": "figure",
+    "notes": "Software page, bayesTLS card"
   }
 ]
