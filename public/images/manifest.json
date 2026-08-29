@@ -1294,10 +1294,10 @@
   },
   {
     "file": "bg-research-goanna-ledge.jpg",
-    "source": "Camera Uploads/Photos/Alice Springs Photos/2010-05-29 20.07.05.jpg (4288x2848 native; crop (0, 1087, 3300, 2004); resampled to 2000 px wide; EXIF stripped)",
-    "width": 2000,
-    "height": 556,
-    "bytes": 158370,
+    "source": "Camera Uploads/Photos/Alice Springs Photos/2010-05-29 20.07.05.jpg (4288x2848 native; crop (0, 1087, 3300, 2004); resampled to 2000 px wide; EXIF stripped) (crop (0, 1040, 4288, 2350), full frame width so the whole head clears the bottom fade; EXIF stripped)",
+    "width": 2400,
+    "height": 733,
+    "bytes": 192082,
     "alt": "Large monitor lizard lying along a red sandstone ledge in side profile, head and neck lit against deep shade",
     "use": "background",
     "notes": "Research page header, replacing bg-research-goanna-right.jpg. Daniel said the monitor was still not positioned correctly and asked for a frame more focused on the lizard (29 Aug 2026). Every Alice Springs frame containing a monitor was contact-sheeted; this one is the only one where the animal already faces right with its head near the right of the frame, so the crop does not have to fight the composition. The crop is the band's own 3.6:1, which makes the vertical object-position inert on desktop and leaves x free to steer phones. Eye at 72% and snout at about 85% of the band, well clear of the title; the animal runs the full width."

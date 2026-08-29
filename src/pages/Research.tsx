@@ -197,8 +197,8 @@ export default function Research() {
            width of the band with the eye at 72% and the snout at about 85% across, well
            clear of the title. y is inert at this ratio; x steers phones. */
         imageOpacity={0.85}
-        imagePosition="81% 50%"
-        height="min-h-[400px]"
+        imagePosition="68% 50%"
+        height="min-h-[440px]"
       />
 
       <Container className="relative -mt-20 pb-16 pt-0">
