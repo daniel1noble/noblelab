@@ -1024,5 +1024,63 @@
     "alt": "Small pale lizard perched on a red rock against blurred orange ground",
     "use": "background",
     "notes": "Home hero at desktop: 1.73:1 crop with the whole lizard across the right 40% of the band"
+  },
+  {
+    "file": "collage-painted-dragon.jpg",
+    "width": 900,
+    "height": 900,
+    "bytes": 211230,
+    "alt": "A painted dragon on a weathered log in red-sand country",
+    "use": "collage"
+  },
+  {
+    "file": "collage-red-frog.jpg",
+    "width": 900,
+    "height": 900,
+    "bytes": 135259,
+    "alt": "A small bright red frog with pale blue legs on a mossy tree trunk",
+    "use": "collage"
+  },
+  {
+    "file": "collage-green-beetle.jpg",
+    "width": 900,
+    "height": 900,
+    "bytes": 125668,
+    "alt": "A metallic green beetle on lichen-covered bark",
+    "use": "collage"
+  },
+  {
+    "file": "collage-caterpillar.jpg",
+    "width": 900,
+    "height": 900,
+    "bytes": 150885,
+    "alt": "A bright orange hairy caterpillar on a green plant stem",
+    "use": "collage"
+  },
+  {
+    "file": "collage-crested-lizard.jpg",
+    "width": 900,
+    "height": 900,
+    "bytes": 127069,
+    "alt": "A crested lizard gripping a plant stem at night",
+    "use": "collage"
+  },
+  {
+    "file": "collage-butterfly.jpg",
+    "width": 900,
+    "height": 900,
+    "bytes": 237065,
+    "alt": "A brown and white butterfly resting on stony ground",
+    "use": "collage"
+  },
+  {
+    "file": "bg-news-karst-bay.jpg",
+    "source": "content/gs_images/photos_14_fieldwork-uncaptioned.jpg (old-site fieldwork photo; EXIF stripped)",
+    "width": 2048,
+    "height": 1536,
+    "bytes": 356458,
+    "alt": "Steep forested hills rising from a calm bay with mangroves under a blue sky",
+    "use": "background",
+    "notes": "News page header (replaces the Maria Island panorama); swap for an Australian coastal landscape when Daniel supplies one"
   }
 ]

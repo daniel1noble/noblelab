@@ -252,8 +252,8 @@ export default function News() {
       <PageHero
         eyebrow="News"
         title="What is happening"
-        image="/images/bg-news-maria-island.jpg"
-        imagePosition="15% 50%"
+        image="/images/bg-news-karst-bay.jpg"
+        imagePosition="50% 62%"
         height="min-h-[380px]"
       />
 

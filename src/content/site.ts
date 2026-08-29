@@ -31,7 +31,18 @@ export const SITE = {
 /* ------------------------------------------------------------------ links */
 
 export type LinkItem = { label: string; href: string; icon: IconName };
-export type IconName = "scholar" | "orcid" | "github" | "bluesky" | "x" | "youtube" | "mail" | "cv";
+export type IconName =
+  | "scholar"
+  | "orcid"
+  | "github"
+  | "researchgate"
+  | "bluesky"
+  | "x"
+  | "tea"
+  | "globe"
+  | "youtube"
+  | "mail"
+  | "cv";
 
 export const LINKS: LinkItem[] = [
   {
@@ -43,7 +54,24 @@ export const LINKS: LinkItem[] = [
   { label: "GitHub", href: "https://github.com/daniel1noble", icon: "github" },
   { label: "Bluesky", href: "https://bsky.app/profile/danielwanoble.bsky.social", icon: "bluesky" },
   { label: "X", href: "https://x.com/DanielWANoble", icon: "x" },
+  {
+    label: "Thermal Ecology Alliance",
+    href: "https://www.thermalecologyalliance.org/",
+    icon: "tea",
+  },
 ];
+
+/** Daniel's own wording (29 Aug 2026); shown on the Join us page. */
+export const TEA = {
+  eyebrow: "Thermal Ecology Alliance",
+  title: "Joining the Thermal Ecology Alliance",
+  text: [
+    "Daniel is one of the organisers of the Thermal Ecology Alliance.",
+    "Anyone interested in how temperature shapes life can join the Thermal Ecology Alliance. Please sign up through the Alliance's website.",
+  ],
+  href: "https://www.thermalecologyalliance.org/",
+  label: "thermalecologyalliance.org",
+};
 
 /** No CV file is published; pages hide the CV button while this is null. */
 export const CV_URL: string | null = null;
@@ -64,6 +92,48 @@ export const RESEARCH_INTRO: string[] = [
   "Our work focuses on the impacts of diverse environmental stressors, from extreme heat to novel anthropogenic stressors (e.g., pesticides, plastics), and how they interact across an individuals life cycle to affect physiology, growth, fitness and ultimately population growth and adaptive evolution.",
   "Our study systems are diverse, but generally focus on lizards, insects, fish and amphibians.",
   "Below we detail some of the major (more recent) research themes in our group.",
+];
+
+/**
+ * The photographs shown beside that introduction: a small collage of the
+ * animals the lab works on and photographs from the field, so the opening
+ * paragraphs are not a wall of text. Reptiles, an amphibian and insects, to
+ * match the study systems the last paragraph names.
+ *
+ * Square 900px crops of the fieldwork photographs from the Google Site, in
+ * public/images (see that folder's manifest). `alt` describes only what is
+ * visible; the painted dragon is the one animal the site's own captions name.
+ * `span` is the tile's place in the three-column mosaic: the first photograph
+ * takes a two-by-two block, the rest are single cells.
+ */
+export type CollagePhoto = { src: string; alt: string; span?: string };
+
+export const RESEARCH_COLLAGE: CollagePhoto[] = [
+  {
+    src: "/images/collage-painted-dragon.jpg",
+    alt: "A painted dragon on a weathered log in red-sand country",
+    span: "col-span-2 row-span-2",
+  },
+  {
+    src: "/images/collage-red-frog.jpg",
+    alt: "A small bright red frog with pale blue legs on a mossy tree trunk",
+  },
+  {
+    src: "/images/collage-green-beetle.jpg",
+    alt: "A metallic green beetle on lichen-covered bark",
+  },
+  {
+    src: "/images/collage-caterpillar.jpg",
+    alt: "A bright orange hairy caterpillar on a green plant stem",
+  },
+  {
+    src: "/images/collage-crested-lizard.jpg",
+    alt: "A crested lizard gripping a plant stem at night",
+  },
+  {
+    src: "/images/collage-butterfly.jpg",
+    alt: "A brown and white butterfly resting on stony ground",
+  },
 ];
 
 /** A scientific figure from the Google Site's per-theme carousel. */

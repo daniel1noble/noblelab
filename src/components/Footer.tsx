@@ -1,4 +1,4 @@
-import { LINKS, SITE, type IconName } from "../content/site";
+import { LINKS, SITE } from "../content/site";
 import { Icon } from "./Icons";
 import { Wordmark } from "./Header";
 import { publicUrl } from "../lib/publicUrl";
@@ -6,29 +6,18 @@ import LogoMark from "./LogoMark";
 import { Container } from "./ui";
 
 /**
- * The two link columns, named by icon so they follow whatever LINKS holds.
- * Email is appended because it is a mailto rather than a profile.
+ * Every profile in LINKS, in its own order, plus email at the end because it is
+ * a mailto rather than a profile. One list, one column (Daniel, 29 Aug 2026).
  */
-const COLUMN_ONE: IconName[] = ["scholar", "orcid", "github"];
-const COLUMN_TWO: IconName[] = ["bluesky", "x"];
-
-const ORCID_URL = LINKS.find((l) => l.icon === "orcid")?.href ?? "https://orcid.org/";
-
-function LinkColumn({ icons, withEmail = false }: { icons: IconName[]; withEmail?: boolean }) {
-  const items = icons
-    .map((icon) => LINKS.find((l) => l.icon === icon))
-    .filter((l): l is (typeof LINKS)[number] => Boolean(l));
-
+function LinkList() {
+  const items = LINKS;
+  const cls =
+    "group inline-flex items-center gap-2.5 text-sm text-neutral-300 transition hover:text-gold";
   return (
-    <ul className="space-y-2.5">
+    <ul className="grid grid-cols-2 gap-x-8 gap-y-2.5 sm:grid-cols-1">
       {items.map((l) => (
         <li key={l.href}>
-          <a
-            href={l.href}
-            target="_blank"
-            rel="noreferrer"
-            className="group inline-flex items-center gap-2.5 text-sm text-neutral-300 transition hover:text-gold"
-          >
+          <a href={l.href} target="_blank" rel="noreferrer" className={cls}>
             <span className="text-neutral-500 transition group-hover:text-gold">
               <Icon name={l.icon} size={16} />
             </span>
@@ -36,22 +25,19 @@ function LinkColumn({ icons, withEmail = false }: { icons: IconName[]; withEmail
           </a>
         </li>
       ))}
-      {withEmail && (
-        <li>
-          <a
-            href={`mailto:${SITE.email}`}
-            className="group inline-flex items-center gap-2.5 text-sm text-neutral-300 transition hover:text-gold"
-          >
-            <span className="text-neutral-500 transition group-hover:text-gold">
-              <Icon name="mail" size={16} />
-            </span>
-            Email
-          </a>
-        </li>
-      )}
+      <li>
+        <a href={`mailto:${SITE.email}`} className={cls}>
+          <span className="text-neutral-500 transition group-hover:text-gold">
+            <Icon name="mail" size={16} />
+          </span>
+          Email
+        </a>
+      </li>
     </ul>
   );
 }
+
+const ORCID_URL = LINKS.find((l) => l.icon === "orcid")?.href ?? "https://orcid.org/";
 
 const SMALL_LINK =
   "text-neutral-400 underline decoration-neutral-700 underline-offset-2 transition hover:text-gold";
@@ -61,11 +47,9 @@ export default function Footer() {
     <footer className="relative mt-24 border-t border-edge bg-panel">
       <div className="brand-gradient absolute inset-x-0 top-0 h-[2px] opacity-60" />
       <Container className="py-14">
-        {/* Two rows on desktop: the address column spans both, and the second
-            row (1fr) is the empty space left beside it, which the ANU logo fills
-            under the two link columns (Daniel, 29 Aug 2026). */}
-        <div className="grid gap-10 md:grid-cols-[1.5fr_1fr_1fr] md:grid-rows-[auto_1fr]">
-          <div className="md:row-span-2">
+        {/* Three columns (Daniel, 29 Aug 2026): the lab, every link, the ANU crest. */}
+        <div className="grid gap-10 md:grid-cols-[1.4fr_1fr_1fr] md:items-center">
+          <div>
             {/* matches the header wordmark exactly */}
             <div className="flex items-center gap-3.5">
               <LogoMark size={62} />
@@ -93,19 +77,15 @@ export default function Footer() {
             </a>
           </div>
 
-          <div className="md:pt-1">
-            <LinkColumn icons={COLUMN_ONE} />
-          </div>
-
-          <div className="md:pt-1">
-            <LinkColumn icons={COLUMN_TWO} withEmail />
+          <div className="md:justify-self-center">
+            <LinkList />
           </div>
 
           <a
             href="https://www.anu.edu.au/"
             target="_blank"
             rel="noreferrer"
-            className="block w-fit opacity-90 transition hover:opacity-100 md:col-span-2 md:col-start-2 md:mt-2 md:self-end md:justify-self-end"
+            className="block w-fit opacity-90 transition hover:opacity-100 md:justify-self-end"
           >
             <img
               src={publicUrl("/images/anu-logo.png")}
@@ -113,7 +93,7 @@ export default function Footer() {
               width={576}
               height={221}
               loading="lazy"
-              className="h-16 w-auto sm:h-20"
+              className="h-16 w-auto sm:h-20 lg:h-24"
             />
           </a>
         </div>
