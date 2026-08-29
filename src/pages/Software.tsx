@@ -5,34 +5,75 @@ import { ArrowRight, Icon } from "../components/Icons";
 
 const ACCENTS = [PALETTE.terracotta, PALETTE.sage, PALETTE.ochre];
 
+/** CRAN version, in the accent of the card. Chip is not reused because it
+ *  upper-cases its label, which would render "v2.2.1" as "V2.2.1". */
+function VersionPill({ version, accent }: { version: string; accent: string }) {
+  return (
+    <span
+      className="inline-flex items-center rounded-full border px-2.5 py-1 text-[11px] font-semibold tracking-[0.06em]"
+      style={{ color: accent, borderColor: `${accent}59`, backgroundColor: `${accent}14` }}
+    >
+      v{version}
+    </span>
+  );
+}
+
 function PackageCard({ pkg, accent }: { pkg: SoftwarePackage; accent: string }) {
-  // A package whose website is its repository gets one button, not two.
-  const repoIsSite = pkg.repo === pkg.href;
-  const siteIsGitHub = /github\.com/.test(pkg.href);
+  // A package whose website is its repository gets one button, not two: the
+  // repository becomes the primary action instead of being repeated.
+  const siteIsRepo = pkg.href === pkg.github;
 
   return (
     <article className="card overflow-hidden">
       <div className={`grid gap-8 p-7 sm:p-9 ${pkg.video ? "lg:grid-cols-[1fr_1.1fr]" : ""}`}>
         <div>
-          <div className="mb-4 h-1 w-10 rounded-full" style={{ backgroundColor: accent }} />
-          <h2 className="font-display text-3xl font-bold text-charcoal">{pkg.name}</h2>
+          <div className="flex items-start gap-5">
+            {pkg.hex && (
+              <img
+                src={pkg.hex}
+                alt={`${pkg.name} hex sticker`}
+                width={259}
+                height={300}
+                loading="lazy"
+                decoding="async"
+                className="w-[76px] shrink-0 sm:w-[92px]"
+              />
+            )}
+            <div className="min-w-0">
+              <div className="mb-4 h-1 w-10 rounded-full" style={{ backgroundColor: accent }} />
+              <div className="flex flex-wrap items-center gap-x-3 gap-y-2">
+                <h2 className="font-display text-3xl font-bold text-charcoal">{pkg.name}</h2>
+                {pkg.version && <VersionPill version={pkg.version} accent={accent} />}
+              </div>
+            </div>
+          </div>
+
           <p className="mt-4 text-[16px] leading-relaxed text-neutral-300">{pkg.description}</p>
 
+          {pkg.authors && (
+            <p className="mt-3 text-[13px] leading-relaxed text-neutral-500">
+              Authors: {pkg.authors}
+            </p>
+          )}
+
           <div className="mt-7 flex flex-wrap gap-3">
-            <GradientButton href={pkg.href}>
-              {siteIsGitHub ? (
-                <>
-                  <Icon name="github" size={16} /> GitHub
-                </>
-              ) : (
-                <>
-                  Website <ArrowRight />
-                </>
-              )}
-            </GradientButton>
-            {pkg.repo && !repoIsSite && (
-              <GhostButton href={pkg.repo}>
+            {siteIsRepo ? (
+              <GradientButton href={pkg.github}>
                 <Icon name="github" size={16} /> GitHub
+              </GradientButton>
+            ) : (
+              <>
+                <GradientButton href={pkg.href}>
+                  Website <ArrowRight />
+                </GradientButton>
+                <GhostButton href={pkg.github}>
+                  <Icon name="github" size={16} /> GitHub
+                </GhostButton>
+              </>
+            )}
+            {pkg.cran && (
+              <GhostButton href={pkg.cran}>
+                CRAN <ArrowRight />
               </GhostButton>
             )}
           </div>

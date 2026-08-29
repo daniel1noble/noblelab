@@ -170,10 +170,6 @@ function PhotoGrid({ photos, onOpen }: { photos: GalleryPhoto[]; onOpen: (i: num
 
 /* -------------------------------------------------------- moving gallery */
 
-/** Every photograph on the page, in section order. The moving gallery draws
- *  from all of it, and so does the lightbox it opens. */
-const ALL_PHOTOS: GalleryPhoto[] = GALLERY.flatMap((s) => s.photos);
-
 /** Three photographs on screen at once. One slot changes every STEP_MS, so a
  *  given photograph holds its place for SLOTS * STEP_MS = 6 s and the three
  *  never turn over together. */
@@ -185,10 +181,10 @@ const FADE_S = 0.9;
  *  arrives quickly so the pause inside the slower image crossfade is short. */
 const CAPTION_FADE_S = 0.25;
 
-/** A tiny deterministic generator. The opening three photographs are therefore
- *  identical in the prerendered HTML and in the first client render, so no
- *  hydration mismatch is possible; the rest of the order is reshuffled once the
- *  page is live (see the effect in MovingGallery). */
+/** A tiny deterministic generator. The opening three photographs of a carousel
+ *  are therefore identical in the prerendered HTML and in the first client
+ *  render, so no hydration mismatch is possible; the rest of the order is
+ *  reshuffled once the page is live (see the effect in Carousel). */
 function mulberry32(seed: number) {
   let a = seed >>> 0;
   return () => {
@@ -210,28 +206,57 @@ function shuffle(items: number[], rand: () => number): number[] {
   return a;
 }
 
-const INITIAL_ORDER = shuffle(
-  ALL_PHOTOS.map((_, i) => i),
-  mulberry32(ALL_PHOTOS.length),
-);
+/** One listener per carousel would be two listeners for the same query; this
+ *  keeps the reading in one place and each instance simply asks for it. */
+function usePrefersReducedMotion() {
+  const [still, setStill] = useState(false);
+  useEffect(() => {
+    const query = window.matchMedia("(prefers-reduced-motion: reduce)");
+    const apply = () => setStill(query.matches);
+    apply();
+    query.addEventListener("change", apply);
+    return () => query.removeEventListener("change", apply);
+  }, []);
+  return still;
+}
 
-/** Three photographs, one of which quietly changes every couple of seconds.
- *  Hovering or tabbing into it holds it still, and a reader who has asked for
- *  reduced motion gets three photographs that never move at all. */
-function MovingGallery({ onOpen }: { onOpen: (photoIndex: number) => void }) {
-  const total = ALL_PHOTOS.length;
+/** Three photographs drawn from one set, one of which quietly changes every
+ *  couple of seconds. Hovering or tabbing into it holds it still, and a reader
+ *  who has asked for reduced motion gets three photographs that never move at
+ *  all. `seed` fixes the opening three, so the two carousels on the page do not
+ *  start on the same position of their own lists.
+ *
+ *  Photograph indices are into `photos`, and that is what `onOpen` hands back,
+ *  so the lightbox it opens steps through this section alone. */
+function Carousel({
+  photos,
+  seed,
+  label,
+  onOpen,
+}: {
+  photos: GalleryPhoto[];
+  seed: number;
+  label: string;
+  onOpen: (photoIndex: number) => void;
+}) {
+  const total = photos.length;
 
-  // `order` is a permutation of indices into ALL_PHOTOS; `slots` holds the
+  // `order` is a permutation of indices into `photos`; `slots` holds the
   // position in that order each of the three boxes is showing, and `head` is
   // the next position to hand out.
-  const [order, setOrder] = useState<number[]>(INITIAL_ORDER);
+  const [order, setOrder] = useState<number[]>(() =>
+    shuffle(
+      photos.map((_, i) => i),
+      mulberry32(seed),
+    ),
+  );
   const [rot, setRot] = useState(() => ({
     slots: Array.from({ length: SLOTS }, (_, i) => i % total),
     head: SLOTS % total,
     tick: 0,
   }));
   const [paused, setPaused] = useState(false);
-  const [still, setStill] = useState(false);
+  const still = usePrefersReducedMotion();
 
   // Reshuffle everything the three opening boxes are not already showing, so
   // the run of photographs differs from load to load without anything swapping
@@ -240,20 +265,12 @@ function MovingGallery({ onOpen }: { onOpen: (photoIndex: number) => void }) {
     setOrder((prev) => [...prev.slice(0, SLOTS), ...shuffle(prev.slice(SLOTS), Math.random)]);
   }, []);
 
-  useEffect(() => {
-    const query = window.matchMedia("(prefers-reduced-motion: reduce)");
-    const apply = () => setStill(query.matches);
-    apply();
-    query.addEventListener("change", apply);
-    return () => query.removeEventListener("change", apply);
-  }, []);
-
   // Warm the photograph that is next in the queue, so a crossfade never lands
   // on an empty box while its thumbnail is still on the wire.
   useEffect(() => {
-    const upcoming = ALL_PHOTOS[order[rot.head]];
+    const upcoming = photos[order[rot.head]];
     if (upcoming) new Image().src = publicUrl(upcoming.thumb);
-  }, [order, rot.head]);
+  }, [photos, order, rot.head]);
 
   useEffect(() => {
     if (still || paused || total <= SLOTS) return;
@@ -267,17 +284,15 @@ function MovingGallery({ onOpen }: { onOpen: (photoIndex: number) => void }) {
     return () => window.clearInterval(id);
   }, [still, paused, total]);
 
-  // One box on a phone, two from 640px, three from 768px up — Daniel asked for
-  // three at once, so the third arrives as early as it can while the cards stay
-  // wider than 200px. The hidden boxes stay in the DOM so the rotation keeps
-  // its rhythm. On a phone that means the one visible card changes every third
-  // tick, i.e. every 6 s.
+  // One box on a phone, two from 640px, three from 768px up. The hidden boxes
+  // stay in the DOM so the rotation keeps its rhythm. On a phone that means the
+  // one visible card changes every third tick, i.e. every 6 s.
   const visibility = ["", "hidden sm:block", "hidden md:block"];
 
   return (
     <section
       aria-roledescription="carousel"
-      aria-label="A rotating selection of photographs from the lab and the field"
+      aria-label={label}
       onMouseEnter={() => setPaused(true)}
       onMouseLeave={() => setPaused(false)}
       onFocusCapture={() => setPaused(true)}
@@ -285,7 +300,7 @@ function MovingGallery({ onOpen }: { onOpen: (photoIndex: number) => void }) {
     >
       <div className="grid gap-4 sm:grid-cols-2 md:grid-cols-3">
         {rot.slots.map((position, slot) => {
-          const photo = ALL_PHOTOS[order[position]];
+          const photo = photos[order[position]];
           return (
             <div key={slot} aria-live="off" className={visibility[slot]}>
               <button
@@ -299,8 +314,8 @@ function MovingGallery({ onOpen }: { onOpen: (photoIndex: number) => void }) {
                 {/* A fixed 4:3 box, so nothing on the page moves when the
                     photograph inside it changes. The caption rides on the
                     bottom of the photograph rather than in a bar below it: only
-                    15 of the 35 photographs carry one, and a reserved bar left
-                    an empty strip under the other 20 that read as a fault. */}
+                    some of the photographs carry one, and a reserved bar left
+                    an empty strip under the rest that read as a fault. */}
                 <span className="relative block aspect-[4/3] w-full overflow-hidden">
                   <AnimatePresence initial={false}>
                     <motion.img
@@ -346,36 +361,26 @@ function MovingGallery({ onOpen }: { onOpen: (photoIndex: number) => void }) {
 
 /* ------------------------------------------------------------------ page */
 
-/** Which set of photographs the lightbox is stepping through: one section's,
- *  or every photograph on the page when it was opened from the carousel. */
-type Opened = { scope: "all" | number; index: number };
+/** Which section's photographs the lightbox is stepping through, and where in
+ *  that section it is. Every thumbnail on the page — carousel or grid — belongs
+ *  to exactly one section, so the lightbox never crosses between them. */
+type Opened = { section: number; index: number };
 
-function photosIn(o: Opened): GalleryPhoto[] {
-  return o.scope === "all" ? ALL_PHOTOS : GALLERY[o.scope].photos;
-}
+/** "Lab facilities" -> "lab-facilities", for the grid ids the reveal buttons
+ *  name in aria-controls. */
+const slug = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/^-|-$/g, "");
 
 export default function Gallery() {
   const [open, setOpen] = useState<Opened | null>(null);
-  const [showAll, setShowAll] = useState(false);
+  // One flag per section: the two reveals are independent, so opening the
+  // fieldwork grid leaves the lab facilities grid closed.
+  const [showAll, setShowAll] = useState<boolean[]>(() => GALLERY.map(() => false));
   const lastTrigger = useRef<HTMLElement | null>(null);
-  const grids = useRef<HTMLDivElement>(null);
-  const followExpand = useRef(false);
 
-  // Opening the grids adds about 2600px ABOVE the button that opened them, so
-  // the button lands far below the fold and the reader is left looking at the
-  // same screen. Bring the photographs to them. Only on the way open, and only
-  // when the button was the trigger — not when #all opened the page.
-  useEffect(() => {
-    if (!showAll || !followExpand.current) return;
-    followExpand.current = false;
-    const reduce = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
-    grids.current?.scrollIntoView({ behavior: reduce ? "auto" : "smooth", block: "start" });
-  }, [showAll]);
-
-  // #all opens the full grid straight away, so the whole set stays linkable.
+  // #all opens every grid straight away, so the whole set stays linkable.
   useEffect(() => {
     const sync = () => {
-      if (window.location.hash === "#all") setShowAll(true);
+      if (window.location.hash === "#all") setShowAll(GALLERY.map(() => true));
     };
     sync();
     window.addEventListener("hashchange", sync);
@@ -391,7 +396,7 @@ export default function Gallery() {
   const step = useCallback((delta: number) => {
     setOpen((o) => {
       if (!o) return o;
-      const n = photosIn(o).length;
+      const n = GALLERY[o.section].photos.length;
       return { ...o, index: (o.index + delta + n) % n };
     });
   }, []);
@@ -418,70 +423,80 @@ export default function Gallery() {
       />
 
       <Container className="pt-8 pb-16">
-        <Reveal>
-          <div onClickCapture={rememberTrigger}>
-            <MovingGallery onOpen={(index) => setOpen({ scope: "all", index })} />
-          </div>
-        </Reveal>
-
-        <div
-          ref={grids}
-          id="all-photos"
-          className={`mt-14 scroll-mt-28 ${showAll ? "space-y-20" : "space-y-12"}`}
-        >
-          {GALLERY.map((section, s) => (
-            <section key={section.section}>
-              <Reveal>
-                <SectionHeading eyebrow="Photos" title={section.section} />
-                {section.intro.length > 0 && (
-                  <div className="prose-dark mt-6 max-w-3xl">
-                    {section.intro.map((p) => (
-                      <p key={p}>{p}</p>
-                    ))}
-                  </div>
-                )}
-              </Reveal>
-              {showAll && (
-                <Reveal delay={0.1}>
-                  <div className="mt-8" onClickCapture={rememberTrigger}>
-                    <PhotoGrid
-                      photos={section.photos}
-                      onOpen={(index) => setOpen({ scope: s, index })}
-                    />
-                  </div>
+        <div className="space-y-20">
+          {GALLERY.map((section, s) => {
+            const gridId = `${slug(section.section)}-photos`;
+            const isOpen = showAll[s];
+            return (
+              <section key={section.section}>
+                <Reveal>
+                  <SectionHeading eyebrow="Photos" title={section.section} />
+                  {section.intro.length > 0 && (
+                    <div className="prose-dark mt-6 max-w-3xl">
+                      {section.intro.map((p) => (
+                        <p key={p}>{p}</p>
+                      ))}
+                    </div>
+                  )}
                 </Reveal>
-              )}
-            </section>
-          ))}
-        </div>
 
-        {/* The reveal sits AFTER both section intros, not under the moving
-            gallery: with the grids collapsed a mid-page button left two
-            headings standing over empty space, which read as an unfinished
-            page. Here the intros describe the two sets and the button opens
-            them. */}
-        <div className="mt-12 flex justify-center">
-          <button
-            type="button"
-            className={ghost}
-            /* No aria-controls: #all-photos holds both headings and both
-               intros, which are on screen either way, so naming it would have
-               aria-expanded="false" describe a region that is not collapsed. */
-            aria-expanded={showAll}
-            onClick={() => {
-              followExpand.current = !showAll;
-              setShowAll((v) => !v);
-            }}
-          >
-            {showAll ? "Hide photos" : `See all ${ALL_PHOTOS.length} photos`}
-          </button>
+                {section.photos.length > 0 && (
+                  <>
+                    <Reveal delay={0.1}>
+                      <div className="mt-8" onClickCapture={rememberTrigger}>
+                        <Carousel
+                          photos={section.photos}
+                          seed={s + 1}
+                          label={`A rotating selection of ${section.section} photographs`}
+                          onOpen={(index) => setOpen({ section: s, index })}
+                        />
+                      </div>
+                    </Reveal>
+
+                    {/* The button sits between the carousel and the grid it
+                        opens, so the photographs arrive directly underneath it
+                        and the reader is not left looking at the same screen. */}
+                    <div className="mt-8 flex justify-center">
+                      <button
+                        type="button"
+                        className={ghost}
+                        aria-controls={gridId}
+                        aria-expanded={isOpen}
+                        onClick={() =>
+                          setShowAll((v) => v.map((on, i) => (i === s ? !on : on)))
+                        }
+                      >
+                        {isOpen ? "Hide photos" : `See all ${section.photos.length} photos`}
+                      </button>
+                    </div>
+
+                    {/* The container is always in the DOM so aria-controls
+                        above always names something real; only its contents
+                        come and go. */}
+                    <div id={gridId} className="scroll-mt-28">
+                      {isOpen && (
+                        <Reveal delay={0.05}>
+                          <div className="mt-10" onClickCapture={rememberTrigger}>
+                            <PhotoGrid
+                              photos={section.photos}
+                              onOpen={(index) => setOpen({ section: s, index })}
+                            />
+                          </div>
+                        </Reveal>
+                      )}
+                    </div>
+                  </>
+                )}
+              </section>
+            );
+          })}
         </div>
       </Container>
 
       <AnimatePresence>
         {open && (
           <Lightbox
-            photos={photosIn(open)}
+            photos={GALLERY[open.section].photos}
             index={open.index}
             onClose={close}
             onStep={step}

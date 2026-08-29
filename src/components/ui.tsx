@@ -1,7 +1,8 @@
 import { motion, useInView } from "framer-motion";
 import { useRef, type CSSProperties, type ReactNode } from "react";
 import { Link } from "react-router-dom";
-import { ArrowRight } from "./Icons";
+import { ArrowRight, Icon } from "./Icons";
+import type { IconName } from "../content/site";
 import { GLOW, PALETTE } from "../content/palette";
 import { publicUrl } from "../lib/publicUrl";
 
@@ -203,6 +204,73 @@ export function StatTile({
       <div className="mt-2 text-sm font-medium text-neutral-300">{label}</div>
       {sub && <div className="mt-1 text-xs text-neutral-500">{sub}</div>}
     </div>
+  );
+}
+
+/* ------------------------------------------------------------ icon links */
+
+/**
+ * Link label -> glyph name, lower-cased so a person's hand-written label in
+ * site.ts ("Google Scholar", "ResearchGate") finds its icon. Values are plain
+ * strings because Icons.tsx keys its glyph table by string: it draws
+ * researchgate and globe, which the narrower IconName union in site.ts does not
+ * list yet. A label with no entry here falls back to a small text pill.
+ */
+const LINK_ICONS: Record<string, string> = {
+  "google scholar": "scholar",
+  scholar: "scholar",
+  orcid: "orcid",
+  email: "mail",
+  mail: "mail",
+  github: "github",
+  researchgate: "researchgate",
+  "research gate": "researchgate",
+  bluesky: "bluesky",
+  x: "x",
+  twitter: "x",
+  youtube: "youtube",
+  cv: "cv",
+  website: "globe",
+  "personal website": "globe",
+  "lab website": "globe",
+};
+
+/**
+ * One profile link as a round icon button: hairline edge, glyph, terracotta on
+ * hover, with the label carried by aria-label (screen readers) and title (the
+ * pointer tooltip), since the glyph alone names nothing.
+ */
+export function IconLink({ label, href }: { label: string; href: string }) {
+  const icon = LINK_ICONS[label.trim().toLowerCase()];
+  const external = !href.startsWith("mailto:");
+  const shared = {
+    href,
+    target: external ? "_blank" : undefined,
+    rel: external ? "noreferrer" : undefined,
+    "aria-label": label,
+    title: label,
+  };
+  const focus =
+    "focus:outline-none focus-visible:ring-2 focus-visible:ring-gold/60 focus-visible:ring-offset-2 focus-visible:ring-offset-panel";
+
+  if (!icon)
+    return (
+      <a
+        {...shared}
+        className={`inline-flex items-center gap-1.5 rounded-full border border-edge bg-panel px-3 py-1.5 text-xs font-medium text-neutral-400 transition hover:border-gold hover:text-gold ${focus}`}
+      >
+        {label}
+        <ArrowRight className="h-3.5 w-3.5" />
+      </a>
+    );
+
+  return (
+    <a
+      {...shared}
+      className={`inline-flex h-10 w-10 items-center justify-center rounded-full border border-edge bg-panel text-neutral-400 transition hover:border-gold hover:text-gold ${focus}`}
+    >
+      <Icon name={icon as IconName} size={18} />
+    </a>
   );
 }
 

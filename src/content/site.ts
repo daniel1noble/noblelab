@@ -599,37 +599,104 @@ export const SOFTWARE_INTRO =
 
 export type SoftwarePackage = {
   name: string;
+  /**
+   * Verbatim from the source named in the comment above each entry: the old
+   * Google Site for the first three packages, CRAN or the repository's own
+   * description for the rest. Never rewritten.
+   */
   description: string;
+  /** The package's front door: its website where it has one, else its repository. */
   href: string;
-  repo?: string;
+  /** Repository. Every package has one, so this is not optional. */
+  github: string;
+  /** CRAN landing page, for the packages published there. */
+  cran?: string;
+  /** Version string, verbatim from the Version field of the CRAN page. */
+  version?: string;
+  /** Public path of the hex sticker, for the packages that have one. */
+  hex?: string;
   /** YouTube id, where the site embeds a video for the package. */
   video?: string;
   videoTitle?: string;
+  /**
+   * Verbatim from the Author field of the CRAN page, where the site should not
+   * leave the reader to guess who wrote and maintains the package.
+   */
+  authors?: string;
 };
 
+/**
+ * Links, versions and authorship checked against CRAN and the repositories on
+ * 29 August 2026; the source for each entry is named in its comment. Hex
+ * stickers live in public/images and are listed in that folder's manifest.
+ */
 export const SOFTWARE: SoftwarePackage[] = [
   {
+    // description: the old Google Site, unchanged. Version and links:
+    // https://CRAN.R-project.org/package=orchaRd and the repository.
     name: "orchaRd",
     description:
       "Package for calculating marginalised or conditional meta-analytic means, calculating heterogeneity statistics, effect sizes and plotting orchard and bubble plots of meta-analytic models",
     href: "https://daniel1noble.github.io/orchaRd/",
+    github: "https://github.com/daniel1noble/orchaRd",
+    cran: "https://CRAN.R-project.org/package=orchaRd",
+    version: "2.2.1",
   },
   {
+    // description: the old Google Site, unchanged. Version and links:
+    // https://CRAN.R-project.org/package=metaDigitise and the repository.
+    // Hex sticker: inst/shinyDigitise/www/img/metaDigitise_logo.png in
+    // github.com/EIvimeyCook/shinyDigitise.
     name: "metaDigitise",
     description: "R based package for extracting summary statistics from figures for meta-analysis",
     href: "https://github.com/daniel1noble/metaDigitise",
-    repo: "https://github.com/daniel1noble/metaDigitise",
+    github: "https://github.com/daniel1noble/metaDigitise",
+    cran: "https://CRAN.R-project.org/package=metaDigitise",
+    version: "1.0.2",
+    hex: "/images/hex-metadigitise.png",
     video: "VhDrH2weyAk",
     videoTitle: "Scraping the data from graphs with {metaDigitise}",
   },
   {
-    // typo fixed: the site spells the name "shinyDigise"; the repository is shinyDigitise
+    // typo fixed: the site spells the name "shinyDigise"; the repository is shinyDigitise.
+    // Not on CRAN. Hex sticker: inst/shinyDigitise/www/img/shinyDigitise.png
+    // in the same repository.
     name: "shinyDigitise",
     description: "The Graphical User Interface (GUI) of metaDigitise.",
     href: "https://github.com/EIvimeyCook/shinyDigitise",
-    repo: "https://github.com/EIvimeyCook/shinyDigitise",
+    github: "https://github.com/EIvimeyCook/shinyDigitise",
+    hex: "/images/hex-shinydigitise.png",
     video: "b9KvRsO8SPY",
     videoTitle: "ESMARConf2023: {shinyDigitise} tutorial",
+  },
+  {
+    // description: the repository's own one-line description on GitHub.
+    // Version and authors: https://CRAN.R-project.org/package=bayesTLS
+    // (1.0.0, published 2026-07-21). No hex sticker exists.
+    name: "bayesTLS",
+    description: "A flexible model for estimating thermal tolerance and sensitivity",
+    href: "https://daniel1noble.github.io/bayesTLS/",
+    github: "https://github.com/daniel1noble/bayesTLS",
+    cran: "https://CRAN.R-project.org/package=bayesTLS",
+    version: "1.0.0",
+    authors:
+      "Daniel W. A. Noble [aut, cre], Pieter A. Arnold [aut], Shinichi Nakagawa [aut], Patrice Pottier [aut]",
+  },
+  {
+    // description: the first sentence of the Description field on
+    // https://CRAN.R-project.org/package=freqTLS (0.1.0, published 2026-07-21),
+    // quoted as written. authors: the Author field of the same page; the
+    // package is written and maintained by Shinichi Nakagawa, not by the lab.
+    // No hex sticker exists.
+    name: "freqTLS",
+    description:
+      "A maximum-likelihood implementation of the thermal-load-sensitivity framework for thermal death-time modelling introduced by Noble, Arnold and Pottier in the 'bayesTLS' package, providing the frequentist counterpart to that Bayesian workflow.",
+    href: "https://itchyshin.github.io/freqTLS/",
+    github: "https://github.com/itchyshin/freqTLS",
+    cran: "https://CRAN.R-project.org/package=freqTLS",
+    version: "0.1.0",
+    authors:
+      "Shinichi Nakagawa [aut, cre, cph], Pieter A. Arnold [aut] (co-author of the bayesTLS framework), Patrice Pottier [aut] (co-author of the bayesTLS framework), Daniel W. A. Noble [aut] (senior author of the bayesTLS thermal-load-sensitivity framework)",
   },
 ];
 

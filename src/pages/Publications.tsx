@@ -95,6 +95,9 @@ function PubLinks({ pub, showPreprint = true }: { pub: Publication; showPreprint
 /** Pinned papers are all one colour: contour, top rule and citation figure. */
 const HIGHLIGHT_BORDER = PALETTE.ochre;
 
+/** How many selected papers the section shows at most (Daniel, 29 Aug 2026). */
+const HIGHLIGHT_LIMIT = 6;
+
 function Highlight({ pub, index }: { pub: Publication; index: number }) {
   const colour = HIGHLIGHT_BORDER;
 
@@ -253,13 +256,20 @@ export default function Publications() {
     });
   }, [data, scholarData]);
 
-  const highlights = useMemo(
-    () =>
-      HIGHLIGHTED_DOIS.map((doi) => pubs.find((p) => p.doi === doi.toLowerCase())).filter(
-        (p): p is Publication => Boolean(p)
-      ),
-    [pubs]
-  );
+  /**
+   * Every pinned DOI that resolves against the fetched list, ranked by citation
+   * count with the newer paper first where two are level, cut to
+   * HIGHLIGHT_LIMIT: three across the feature row and up to three beneath it.
+   */
+  const highlights = useMemo(() => {
+    const resolved = HIGHLIGHTED_DOIS.map((doi) =>
+      pubs.find((p) => p.doi === doi.toLowerCase())
+    ).filter((p): p is Publication => Boolean(p));
+
+    return resolved
+      .sort((a, b) => b.citations - a.citations || (b.year ?? 0) - (a.year ?? 0))
+      .slice(0, HIGHLIGHT_LIMIT);
+  }, [pubs]);
 
   const years = useMemo(() => {
     const counts = new Map<number, number>();

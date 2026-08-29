@@ -15,6 +15,7 @@ import {
   Container,
   GhostButton,
   GradientButton,
+  IconLink,
   PageHero,
   Reveal,
   SectionHeading,
@@ -52,20 +53,19 @@ function Avatar({ person, large = false }: { person: Person; large?: boolean }) 
   );
 }
 
+/**
+ * Profile links as a row of round icon buttons (Daniel, 29 Aug 2026), for the
+ * PI and for every member card alike. IconLink draws the glyph where the label
+ * has one — Google Scholar, ORCID, Email, ResearchGate — and falls back to a
+ * small text pill for anything it does not recognise, so a new label is never
+ * lost.
+ */
 function PersonLinks({ person }: { person: Person }) {
   if (!person.links || person.links.length === 0) return null;
   return (
-    <div className="mt-4 flex flex-col gap-2">
+    <div className="mt-4 flex flex-wrap items-center gap-2">
       {person.links.map((l) => (
-        <a
-          key={l.href}
-          href={l.href}
-          target={l.href.startsWith("mailto") ? undefined : "_blank"}
-          rel="noreferrer"
-          className="text-sm font-medium text-neutral-300 transition hover:text-gold"
-        >
-          {l.label} →
-        </a>
+        <IconLink key={l.href} label={l.label} href={l.href} />
       ))}
     </div>
   );

@@ -8,7 +8,6 @@ import {
   HOME_VIDEO_TITLE,
   JOIN,
   NEWS,
-  PI,
   SITE,
   THEMES,
 } from "../content/site";
@@ -22,10 +21,10 @@ import {
   GradientButton,
   Reveal,
   SectionHeading,
-  StatTile,
   TextLink,
 } from "../components/ui";
 import { ArrowRight } from "../components/Icons";
+import CollaboratorMap from "../components/CollaboratorMap";
 import { Wordmark } from "../components/Header";
 import LogoMark from "../components/LogoMark";
 
@@ -113,18 +112,28 @@ function Hero() {
               ))}
             </div>
 
-            {/* Names the PI in the hero, so a first-time visitor knows whose lab
-                this is without opening the People page. */}
-            <p className="mt-5 text-[15px] leading-relaxed text-neutral-400">
-              The lab is led by{" "}
-              <Link
-                to="/people"
-                className="font-semibold text-charcoal underline decoration-[color:var(--accent)] decoration-2 underline-offset-4 transition hover:text-[color:var(--accent)]"
-              >
-                {PI.name}
-              </Link>
-              .
-            </p>
+            {/* The affiliation, given as the university's own mark rather than a
+                line of prose naming the PI (Daniel, 29 Aug 2026). The same row
+                used to sit under the "The lab" heading; it lives here only. */}
+            <a
+              href="https://www.anu.edu.au/"
+              target="_blank"
+              rel="noreferrer"
+              className="mt-7 inline-flex flex-wrap items-center gap-4 opacity-90 transition hover:opacity-100"
+            >
+              <img
+                src={publicUrl("/images/anu-logo.png")}
+                alt="The Australian National University"
+                width={576}
+                height={221}
+                className="h-12 w-auto sm:h-14"
+              />
+              <span className="text-sm leading-snug text-neutral-500">
+                {SITE.institution}
+                <br />
+                {SITE.university}
+              </span>
+            </a>
 
             <div className="mt-9 flex flex-wrap items-center gap-3">
               <GradientButton to="/research">
@@ -174,29 +183,6 @@ function Overview() {
               </>
             }
           />
-        </Reveal>
-
-        <Reveal delay={0.05}>
-          <a
-            href="https://www.anu.edu.au/"
-            target="_blank"
-            rel="noreferrer"
-            className="mt-6 inline-flex flex-wrap items-center gap-4 opacity-90 transition hover:opacity-100"
-          >
-            <img
-              src={publicUrl("/images/anu-logo.png")}
-              alt="The Australian National University"
-              width={576}
-              height={221}
-              loading="lazy"
-              className="h-12 w-auto sm:h-14"
-            />
-            <span className="text-sm leading-snug text-neutral-500">
-              {SITE.institution}
-              <br />
-              {SITE.university}
-            </span>
-          </a>
         </Reveal>
 
         <div className="mt-7 grid gap-5 md:grid-cols-2">
@@ -313,9 +299,17 @@ function Video() {
   );
 }
 
-/* --------------------------------------------------------------- numbers */
+/* --------------------------------------------------------------- network */
 
-/** Reads public/data/collaborators.json; renders nothing until it arrives. */
+/**
+ * The collaborator map itself, as Daniel asked on 29 Aug 2026, in place of the
+ * three counts and a link across to the People page. CollaboratorMap carries
+ * those same three stat tiles at its top, so they are not repeated here.
+ *
+ * The useCollaborators gate is kept: public/data/collaborators.json also feeds
+ * the map, and waiting for it here means the home page shows the finished
+ * section or nothing at all, never a loading card.
+ */
 function Network() {
   const collab = useCollaborators();
   if (!collab) return null;
@@ -327,17 +321,8 @@ function Network() {
           <SectionHeading eyebrow="Collaboration" title="A global collaborative network" />
         </Reveal>
         <Reveal delay={0.1}>
-          <div className="mt-7 grid grid-cols-1 gap-4 sm:grid-cols-3">
-            <StatTile value={collab.total} label="Co-authors" color={PALETTE.sage} />
-            <StatTile value={collab.institutions} label="Institutions" color={PALETTE.terracotta} />
-            <StatTile value={collab.countries} label="Countries" color={PALETTE.ochre} />
-          </div>
-        </Reveal>
-        <Reveal delay={0.2}>
-          <div className="mt-6">
-            <TextLink to="/people" color={PALETTE.sage}>
-              See the network
-            </TextLink>
+          <div className="mt-8">
+            <CollaboratorMap />
           </div>
         </Reveal>
       </Container>
@@ -543,9 +528,10 @@ export default function Home() {
       <Themes />
       <Video />
       <LatestPapers />
-      <Network />
       <JoinTheLab />
       <LatestNews />
+      {/* last section before the footer (Daniel, 29 Aug 2026) */}
+      <Network />
     </>
   );
 }

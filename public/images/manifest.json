@@ -994,5 +994,25 @@
     "use": "portrait",
     "source": "ANU_Profile_Pics/IMG_6889.jpg (square centre crop, EXIF/GPS stripped)",
     "notes": "PI photo from 29 Aug 2026 at Daniel's request; replaces people-daniel-noble-2025.jpg"
+  },
+  {
+    "file": "hex-metadigitise.png",
+    "width": 259,
+    "height": 300,
+    "bytes": 22164,
+    "alt": "metaDigitise hex sticker",
+    "use": "logo",
+    "source": "https://raw.githubusercontent.com/EIvimeyCook/shinyDigitise/HEAD/inst/shinyDigitise/www/img/metaDigitise_logo.png (downscaled to 300 px tall, transparency kept, metadata stripped)",
+    "notes": "Software page card for metaDigitise"
+  },
+  {
+    "file": "hex-shinydigitise.png",
+    "width": 259,
+    "height": 300,
+    "bytes": 34999,
+    "alt": "shinyDigitise hex sticker",
+    "use": "logo",
+    "source": "https://raw.githubusercontent.com/EIvimeyCook/shinyDigitise/HEAD/inst/shinyDigitise/www/img/shinyDigitise.png (downscaled to 300 px tall, transparency kept, metadata stripped)",
+    "notes": "Software page card for shinyDigitise"
   }
 ]

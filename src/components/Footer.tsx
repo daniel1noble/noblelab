@@ -61,8 +61,11 @@ export default function Footer() {
     <footer className="relative mt-24 border-t border-edge bg-panel">
       <div className="brand-gradient absolute inset-x-0 top-0 h-[2px] opacity-60" />
       <Container className="py-14">
-        <div className="grid gap-10 md:grid-cols-[1.5fr_1fr_1fr]">
-          <div>
+        {/* Two rows on desktop: the address column spans both, and the second
+            row (1fr) is the empty space left beside it, which the ANU logo fills
+            under the two link columns (Daniel, 29 Aug 2026). */}
+        <div className="grid gap-10 md:grid-cols-[1.5fr_1fr_1fr] md:grid-rows-[auto_1fr]">
+          <div className="md:row-span-2">
             {/* matches the header wordmark exactly */}
             <div className="flex items-center gap-3.5">
               <LogoMark size={62} />
@@ -88,21 +91,6 @@ export default function Footer() {
             >
               {SITE.email}
             </a>
-            <a
-              href="https://www.anu.edu.au/"
-              target="_blank"
-              rel="noreferrer"
-              className="mt-6 block w-fit opacity-90 transition hover:opacity-100"
-            >
-              <img
-                src={publicUrl("/images/anu-logo.png")}
-                alt="The Australian National University"
-                width={576}
-                height={221}
-                loading="lazy"
-                className="h-14 w-auto"
-              />
-            </a>
           </div>
 
           <div className="md:pt-1">
@@ -112,6 +100,22 @@ export default function Footer() {
           <div className="md:pt-1">
             <LinkColumn icons={COLUMN_TWO} withEmail />
           </div>
+
+          <a
+            href="https://www.anu.edu.au/"
+            target="_blank"
+            rel="noreferrer"
+            className="block w-fit opacity-90 transition hover:opacity-100 md:col-span-2 md:col-start-2 md:mt-2 md:self-end md:justify-self-end"
+          >
+            <img
+              src={publicUrl("/images/anu-logo.png")}
+              alt="The Australian National University"
+              width={576}
+              height={221}
+              loading="lazy"
+              className="h-16 w-auto sm:h-20"
+            />
+          </a>
         </div>
 
         <div className="mt-12 flex flex-col gap-3 border-t border-edge pt-6 text-xs text-neutral-500 sm:flex-row sm:items-start sm:justify-between">
