@@ -4,6 +4,7 @@ import { Link } from "react-router-dom";
 import {
   HOME_INTRO,
   HOME_SECTIONS,
+  LAB_LIFE,
   HOME_VIDEO,
   HOME_VIDEO_TITLE,
   JOIN,
@@ -521,6 +522,40 @@ function LatestNews() {
 
 /* ------------------------------------------------------------------ page */
 
+
+/* -------------------------------------------------------------- lab life */
+
+function LabLife() {
+  if (LAB_LIFE.length === 0) return null;
+  return (
+    <section className="py-20">
+      <Container>
+        <Reveal>
+          <SectionHeading eyebrow="Lab life" title="Beyond the bench" />
+        </Reveal>
+        <div className="mt-8 grid gap-6 md:grid-cols-2">
+          {LAB_LIFE.map((p, i) => (
+            <Reveal key={p.src} delay={0.08 * i}>
+              <figure className="card overflow-hidden">
+                <img
+                  src={publicUrl(p.src)}
+                  alt={p.alt}
+                  width={p.width}
+                  height={p.height}
+                  loading="lazy"
+                  decoding="async"
+                  className="aspect-[3/2] w-full object-cover"
+                />
+                <figcaption className="px-5 py-3 text-sm text-neutral-500">{p.caption}</figcaption>
+              </figure>
+            </Reveal>
+          ))}
+        </div>
+      </Container>
+    </section>
+  );
+}
+
 export default function Home() {
   return (
     <>
@@ -530,6 +565,7 @@ export default function Home() {
       <Video />
       <LatestPapers />
       <JoinTheLab />
+      <LabLife />
       <LatestNews />
       {/* last section before the footer (Daniel, 29 Aug 2026) */}
       <Network />

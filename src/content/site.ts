@@ -52,6 +52,11 @@ export const LINKS: LinkItem[] = [
   },
   { label: "ORCID", href: "https://orcid.org/0000-0001-9460-8743", icon: "orcid" },
   { label: "GitHub", href: "https://github.com/daniel1noble", icon: "github" },
+  {
+    label: "ResearchGate",
+    href: "https://www.researchgate.net/profile/Daniel-Noble-2",
+    icon: "researchgate",
+  },
   { label: "Bluesky", href: "https://bsky.app/profile/danielwanoble.bsky.social", icon: "bluesky" },
   { label: "X", href: "https://x.com/DanielWANoble", icon: "x" },
   {
@@ -391,6 +396,7 @@ export const PI: Person = {
   links: [
     { label: "Google Scholar", href: "https://scholar.google.com/citations?user=w69ezLIAAAAJ" },
     { label: "ORCID", href: "https://orcid.org/0000-0001-9460-8743" },
+    { label: "ResearchGate", href: "https://www.researchgate.net/profile/Daniel-Noble-2" },
     { label: "Email", href: "mailto:daniel.noble@anu.edu.au" },
   ],
 };
@@ -891,6 +897,14 @@ export const GALLERY: GallerySection[] = [
         1400,
         "Sleepy lizard",
       ),
+      {
+        src: "/images/gallery-field-40-broad-headed-snake.jpg",
+        thumb: "/images/gallery-field-40-broad-headed-snake-thumb.jpg",
+        alt: "A broad-headed snake coiled on dark rock, banded head clear at the edge of the coil",
+        caption: "Broad-headed snake",
+        width: 1600,
+        height: 1067,
+      },
     ],
   },
   {
@@ -992,6 +1006,68 @@ export const GALLERY: GallerySection[] = [
         1600,
         "Dr. Kar doing experiments",
       ),
+      {
+        src: "/images/gallery-30-mesocosms.jpg",
+        thumb: "/images/gallery-30-mesocosms-thumb.jpg",
+        alt: "Rows of circular outdoor mesocosm tanks under shade-cloth netting, with greenhouses behind",
+        caption: "Outdoor mesocosms",
+        width: 1600,
+        height: 1200,
+      },
+      {
+        src: "/images/gallery-31-mesocosms-netting.jpg",
+        thumb: "/images/gallery-31-mesocosms-netting-thumb.jpg",
+        alt: "Circular mesocosm tanks under fine netting on a gravel pad",
+        caption: "Outdoor mesocosms",
+        width: 1600,
+        height: 1200,
+      },
+      {
+        src: "/images/gallery-32-mesocosm-tank.jpg",
+        thumb: "/images/gallery-32-mesocosm-tank-thumb.jpg",
+        alt: "A circular mesocosm tank with a gravel and rock centre, greenhouses behind",
+        caption: "Outdoor mesocosms",
+        width: 1600,
+        height: 1200,
+      },
+      {
+        src: "/images/gallery-33-mesocosm-compound.jpg",
+        thumb: "/images/gallery-33-mesocosm-compound-thumb.jpg",
+        alt: "The mesocosm compound under construction on a gravel pad, seen from the road",
+        caption: "Outdoor mesocosms",
+        width: 1600,
+        height: 1200,
+      },
+      {
+        src: "/images/gallery-34-fms.jpg",
+        thumb: "/images/gallery-34-fms-thumb.jpg",
+        alt: "A Sable Systems FMS respirometry unit in its case, with tubing and cables connected",
+        caption: "Sable Systems FMS",
+        width: 1200,
+        height: 1600,
+      },
     ],
+  },
+];
+
+
+/**
+ * Home page "Lab life" photos (Daniel, 29 Aug 2026). The ASH caption is the old
+ * Google Site's own caption, verbatim; the outing caption is Daniel's description.
+ */
+export const LAB_LIFE: { src: string; alt: string; caption: string; width: number; height: number }[] = [
+  {
+    src: "/images/lab-life-outing.jpg",
+    alt: "Seven lab members standing in front of a 'Riddle Room Canberra' sign",
+    caption: "A lab social outing",
+    width: 1600,
+    height: 1200,
+  },
+  {
+    src: "/images/lab-life-ash-2025.jpg",
+    alt: "Five lab members under a green and black balloon arch at a conference social",
+    caption: "Part of the Noble lab @ the Australasian Society of Herpetology Meeting, Coffs Harbour, 2025",
+    width: 1600,
+    height: 998,
   },
 ];
