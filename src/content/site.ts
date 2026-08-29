@@ -177,6 +177,19 @@ export const THEMES: Theme[] = [
         width: 1400,
         height: 617,
       },
+      {
+        // Figures 6 and 5 of the 2026 thermal-tolerance preprint (transparent WebP, shared with the Software page).
+        src: "/images/figure-bayestls.webp",
+        alt: "Figure: heat-injury accumulation and predicted survival under field temperature series for a vinegar fly and three cereal aphids",
+        width: 1800,
+        height: 1469,
+      },
+      {
+        src: "/images/figure-freqtls.webp",
+        alt: "Figure: posterior densities of thermal sensitivity and critical thermal limit across four case studies",
+        width: 1800,
+        height: 1280,
+      },
     ],
     accent: PALETTE.terracotta,
   },
@@ -271,9 +284,16 @@ export type ThemePaper = { citation: string; href: string };
 export const THEME_PAPERS: Record<string, ThemePaper[]> = {
   "extreme-heat": [
     {
+      // Published version (was the EcoEvoRxiv preprint on the old site); details from publications.json.
       citation:
-        "Noble et al. 2025. A systems modelling approach to predict biological responses to extreme heat. EcoEvoRxiv",
-      href: "https://ecoevorxiv.org/repository/view/9667/",
+        "Noble et al. 2026. A systems modelling approach to predict biological responses to extreme heat. Trends in Ecology & Evolution, 41(5), 451-464.",
+      href: "https://doi.org/10.1016/j.tree.2026.01.009",
+    },
+    {
+      // bayesTLS/freqTLS preprint (Daniel, 30 Aug 2026); details from publications.json.
+      citation:
+        "Noble et al. 2026. A flexible modelling framework for estimating thermal tolerance and sensitivity. bioRxiv preprint.",
+      href: "https://doi.org/10.64898/2026.07.16.738378",
     },
     {
       citation:
