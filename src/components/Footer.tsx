@@ -12,14 +12,14 @@ import { Container } from "./ui";
 function LinkList() {
   const items = LINKS;
   const cls =
-    "group inline-flex items-center gap-2.5 whitespace-nowrap text-sm text-neutral-300 transition hover:text-gold";
+    "group inline-flex items-center gap-3 whitespace-nowrap text-[15px] text-neutral-300 transition hover:text-gold";
   return (
     <ul className="grid grid-cols-2 gap-x-10 gap-y-3">
       {items.map((l) => (
         <li key={l.href}>
           <a href={l.href} target="_blank" rel="noreferrer" className={cls}>
             <span className="text-neutral-500 transition group-hover:text-gold">
-              <Icon name={l.icon} size={16} />
+              <Icon name={l.icon} size={22} />
             </span>
             {l.label}
           </a>
@@ -28,7 +28,7 @@ function LinkList() {
       <li>
         <a href={`mailto:${SITE.email}`} className={cls}>
           <span className="text-neutral-500 transition group-hover:text-gold">
-            <Icon name="mail" size={16} />
+            <Icon name="mail" size={22} />
           </span>
           Email
         </a>
