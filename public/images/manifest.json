@@ -1631,5 +1631,69 @@
     "bytes": 47760,
     "alt": "A row of small respirometry chambers connected by tubing to a multiplexer",
     "use": "gallery"
+  },
+  {
+    "file": "bg-software-chameleon.jpg",
+    "source": "Camera Uploads/India/2023-06-18 00.54.26.jpg (full width, rows 27–50%; EXIF stripped)",
+    "width": 3024,
+    "height": 928,
+    "bytes": 574335,
+    "alt": "A bright green chameleon in profile on a hand at night, head to the right",
+    "use": "background",
+    "notes": "Software page header (Daniel, 29 Aug 2026); replaces the broad-headed snake, which stays on disk"
+  },
+  {
+    "file": "gallery-field-47-india-chameleon.jpg",
+    "source": "Camera Uploads/India/2023-06-18 00.54.24.jpg (EXIF stripped)",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 283149,
+    "alt": "A bright green chameleon in full profile held on fingers at night",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-47-india-chameleon-thumb.jpg",
+    "source": "Camera Uploads/India/2023-06-18 00.54.24.jpg (EXIF stripped)",
+    "width": 450,
+    "height": 600,
+    "bytes": 43198,
+    "alt": "A bright green chameleon in full profile held on fingers at night",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-48-india-vine-snake.jpg",
+    "source": "Camera Uploads/India/2023-06-18 00.45.12.jpg (EXIF stripped)",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 197415,
+    "alt": "A slender green vine snake looped through a hand at night, head raised",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-48-india-vine-snake-thumb.jpg",
+    "source": "Camera Uploads/India/2023-06-18 00.45.12.jpg (EXIF stripped)",
+    "width": 450,
+    "height": 600,
+    "bytes": 39078,
+    "alt": "A slender green vine snake looped through a hand at night, head raised",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-49-india-lizard.jpg",
+    "source": "Camera Uploads/India/2023-06-15 15.58.30.jpg (EXIF stripped)",
+    "width": 1200,
+    "height": 1600,
+    "bytes": 167297,
+    "alt": "A lizard held upright in a hand with its mouth open, showing an orange and black throat",
+    "use": "gallery"
+  },
+  {
+    "file": "gallery-field-49-india-lizard-thumb.jpg",
+    "source": "Camera Uploads/India/2023-06-15 15.58.30.jpg (EXIF stripped)",
+    "width": 450,
+    "height": 600,
+    "bytes": 28880,
+    "alt": "A lizard held upright in a hand with its mouth open, showing an orange and black throat",
+    "use": "gallery"
   }
 ]

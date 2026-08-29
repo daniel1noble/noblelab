@@ -123,17 +123,12 @@ export default function Software() {
         eyebrow="Software"
         title="Software"
         lead={SOFTWARE_INTRO}
-        image="/images/bg-software-broad-headed-snake.jpg"
-        /* The green snake was soft even in its sharpest frame, so it is replaced by a
-           broad-headed snake from Morton National Park (2010-07-05 05.51.43, 3888x2592),
-           which is tack sharp and carries far more contrast for a band this pale: a black
-           body banded in yellow on flat grey ground. Cut from the left 3600x1000px of the
-           native file - the band's own 3.6:1 - so the whole coil lands in frame, running
-           from about 30% to 86% across with the flattened head at 82%, right of the title
-           and above the bottom fade. Opacity is 0.95 rather than 0.85 because at 0.85 the
-           bands on the body dissolved into the grey ground. y is inert at this ratio; x
-           steers phones. */
-        imagePosition="82% 50%"
+        image="/images/bg-software-chameleon.jpg"
+        /* Chameleon in profile on a hand (India, June 2023), cut as a full-width
+           3.6:1 slice of the frame so the crop is the band: head at ~79% across,
+           eye at ~39% of the band height. bg-software-broad-headed-snake.jpg is
+           the previous band, kept on disk. */
+        imagePosition="79% 50%"
         imageOpacity={0.95}
         height="min-h-[400px]"
       />
