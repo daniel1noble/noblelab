@@ -1082,5 +1082,25 @@
     "alt": "Steep forested hills rising from a calm bay with mangroves under a blue sky",
     "use": "background",
     "notes": "News page header (replaces the Maria Island panorama); swap for an Australian coastal landscape when Daniel supplies one"
+  },
+  {
+    "file": "bg-software-croc-head.jpg",
+    "source": "content/gs_images/photos_13_fieldwork-uncaptioned.jpg (crop 0,380–1768,1229; EXIF stripped)",
+    "width": 1768,
+    "height": 849,
+    "bytes": 408872,
+    "alt": "Head and forequarters of a large crocodilian lying on damp ground among leaf litter",
+    "use": "background",
+    "notes": "Software page header; head across the right half of the band (Daniel, 29 Aug 2026)"
+  },
+  {
+    "file": "bg-software-green-snake.jpg",
+    "source": "content/gs_images/photos_10_fieldwork-uncaptioned.jpg (crop 0,0–1564,1536 so the head sits at 72% of the width; EXIF stripped)",
+    "width": 1564,
+    "height": 1536,
+    "bytes": 146835,
+    "alt": "A bright green snake and a small lizard on a large green leaf",
+    "use": "background",
+    "notes": "Software page header (Daniel asked for the animal's full head in view, 29 Aug 2026); crocodile crop kept as bg-software-croc-head.jpg"
   }
 ]
