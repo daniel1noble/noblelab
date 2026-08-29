@@ -66,7 +66,8 @@ export default function Contact() {
             <div>
               <h2 className="font-display text-xl font-semibold text-charcoal">Elsewhere on the web</h2>
               <div className="mt-5 grid gap-3 sm:grid-cols-2">
-                {LINKS.map((l) => (
+                {/* The Alliance has its own card below, so it is left out of the tiles. */}
+                {LINKS.filter((l) => l.icon !== "tea").map((l) => (
                   <a
                     key={l.href}
                     href={l.href}
