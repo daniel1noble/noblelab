@@ -40,8 +40,9 @@ function Hero() {
   return (
     <section ref={ref} className="relative flex min-h-[92vh] items-center overflow-hidden">
       <motion.div className="absolute inset-0" style={{ y, opacity }}>
-        {/* bg-hero-face.jpg is bg-hero-red-rock-lizard.jpg cropped so the
-            lizard's head sits at 59% of the frame, clear of the left wash.
+        {/* bg-hero-lizard-right.jpg is the same red-rock frame cropped at the
+            band's own 1.73:1 aspect so the whole lizard fills the right 40%
+            of the hero beside the copy (body centred at 72% of the frame).
             bg-hero-scales.jpg and bg-hero-lizard-mesh.jpg are alternatives.
             Phones get their own crop of the same frame: -mobile-face.jpg is
             573x1141, the aspect of a 390x776 hero, so object-cover shows the
@@ -55,9 +56,9 @@ function Hero() {
             srcSet={publicUrl("/images/bg-hero-red-rock-lizard-mobile-face.jpg")}
           />
           <img
-            src={publicUrl("/images/bg-hero-face.jpg")}
+            src={publicUrl("/images/bg-hero-lizard-right.jpg")}
             alt="Small pale lizard perched on a red rock against blurred orange ground"
-            className="h-full w-full object-cover object-[20%_50%]"
+            className="h-full w-full object-cover object-[50%_50%]"
           />
         </picture>
         {/* Three overlapping washes so the photograph dissolves into the paper
@@ -65,8 +66,8 @@ function Hero() {
             holds about 90% ink across the width of the copy and thins from
             there; the mid stop was pulled in from 45% to 34% so the lizard's
             head, at 59% of the frame, reads rather than ghosting. */}
-        <div className="absolute inset-0 bg-gradient-to-r from-ink from-16% via-ink/90 via-34% to-ink/10" />
-        <div className="absolute inset-0 bg-gradient-to-t from-ink via-ink/25 to-ink/75" />
+        <div className="absolute inset-0 bg-gradient-to-r from-ink from-12% via-ink/85 via-30% to-transparent to-55%" />
+        <div className="absolute inset-0 bg-gradient-to-t from-ink from-0% via-ink/10 via-40% to-ink/45" />
         <div className="absolute inset-x-0 bottom-0 h-56 bg-gradient-to-t from-ink to-transparent" />
       </motion.div>
 

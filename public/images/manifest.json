@@ -1014,5 +1014,15 @@
     "use": "logo",
     "source": "https://raw.githubusercontent.com/EIvimeyCook/shinyDigitise/HEAD/inst/shinyDigitise/www/img/shinyDigitise.png (downscaled to 300 px tall, transparency kept, metadata stripped)",
     "notes": "Software page card for shinyDigitise"
+  },
+  {
+    "file": "bg-hero-lizard-right.jpg",
+    "source": "content/gs_images/photos_01_banner.jpg (crop 169,237–1469,988; EXIF stripped)",
+    "width": 1300,
+    "height": 751,
+    "bytes": 74222,
+    "alt": "Small pale lizard perched on a red rock against blurred orange ground",
+    "use": "background",
+    "notes": "Home hero at desktop: 1.73:1 crop with the whole lizard across the right 40% of the band"
   }
 ]
