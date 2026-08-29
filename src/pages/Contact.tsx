@@ -1,4 +1,4 @@
-import { LINKS, PI, SITE } from "../content/site";
+import { LINKS, PI, SITE, TEA } from "../content/site";
 import { ArrowRight, Icon } from "../components/Icons";
 import { Container, GhostButton, GradientButton, PageHero, Reveal, SectionHeading } from "../components/ui";
 import { publicUrl } from "../lib/publicUrl";
@@ -95,6 +95,23 @@ export default function Contact() {
                 <div className="mt-4">
                   <GhostButton to="/opportunities">Join the lab</GhostButton>
                 </div>
+              </div>
+
+              <div className="card mt-4 border-ember/40 bg-ember/[0.05] p-6 hover:border-ember">
+                <h3 className="font-display text-lg font-semibold text-ember">{TEA.title}</h3>
+                {TEA.text.map((t) => (
+                  <p key={t} className="mt-2 text-sm leading-relaxed text-neutral-400">
+                    {t}
+                  </p>
+                ))}
+                <a
+                  href={TEA.href}
+                  target="_blank"
+                  rel="noreferrer"
+                  className="mt-4 inline-block text-sm font-semibold text-gold transition hover:text-brick"
+                >
+                  {TEA.label} →
+                </a>
               </div>
             </div>
           </Reveal>

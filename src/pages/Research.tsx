@@ -130,7 +130,7 @@ function ThemeFigures({ theme }: { theme: Theme }) {
         target="_blank"
         rel="noreferrer"
         aria-label={`Open the full-size figure${current.alt ? `: ${current.alt}` : ""}`}
-        className="isolate block rounded-2xl border border-edge bg-panel p-4 shadow-[0_1px_2px_rgba(31,36,25,0.05),0_16px_40px_-24px_rgba(31,36,25,0.5)] transition duration-300 hover:border-gold/50 sm:p-6"
+        className="isolate block rounded-2xl p-2 transition focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-gold/60"
       >
         <span
           aria-live="off"

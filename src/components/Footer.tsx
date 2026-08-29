@@ -12,9 +12,9 @@ import { Container } from "./ui";
 function LinkList() {
   const items = LINKS;
   const cls =
-    "group inline-flex items-center gap-2.5 text-sm text-neutral-300 transition hover:text-gold";
+    "group inline-flex items-center gap-2.5 whitespace-nowrap text-sm text-neutral-300 transition hover:text-gold";
   return (
-    <ul className="grid grid-cols-2 gap-x-8 gap-y-2.5 sm:grid-cols-1">
+    <ul className="grid grid-cols-2 gap-x-10 gap-y-3">
       {items.map((l) => (
         <li key={l.href}>
           <a href={l.href} target="_blank" rel="noreferrer" className={cls}>
@@ -48,7 +48,7 @@ export default function Footer() {
       <div className="brand-gradient absolute inset-x-0 top-0 h-[2px] opacity-60" />
       <Container className="py-14">
         {/* Three columns (Daniel, 29 Aug 2026): the lab, every link, the ANU crest. */}
-        <div className="grid gap-10 md:grid-cols-[1.4fr_1fr_1fr] md:items-center">
+        <div className="grid gap-10 md:grid-cols-[1.1fr_1.5fr_auto] md:items-center">
           <div>
             {/* matches the header wordmark exactly */}
             <div className="flex items-center gap-3.5">
@@ -77,7 +77,7 @@ export default function Footer() {
             </a>
           </div>
 
-          <div className="md:justify-self-center">
+          <div className="md:justify-self-start">
             <LinkList />
           </div>
 
