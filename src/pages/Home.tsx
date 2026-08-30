@@ -39,7 +39,7 @@ function Hero() {
   const opacity = useTransform(scrollYProgress, [0, 0.85], [1, 0.15]);
 
   return (
-    <section ref={ref} className="relative flex min-h-[92vh] items-center overflow-hidden">
+    <section ref={ref} className="relative flex min-h-[92vh] items-center overflow-hidden pt-24">
       <motion.div className="absolute inset-0" style={{ y, opacity }}>
         {/* bg-hero-lizard-right.jpg is the same red-rock frame cropped at the
             band's own 1.73:1 aspect so the whole lizard fills the right 40%
@@ -72,7 +72,7 @@ function Hero() {
         <div className="absolute inset-x-0 bottom-0 h-56 bg-gradient-to-t from-ink to-transparent" />
       </motion.div>
 
-      <Container className="relative pb-12 pt-20">
+      <Container className="relative pb-16 pt-8">
         <motion.div
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
