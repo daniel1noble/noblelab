@@ -1722,5 +1722,14 @@
     "bytes": 81097,
     "alt": "Journal of Experimental Biology cover, volume 227 issue 24, December 2024: a skink on a dead leaf",
     "use": "cover"
+  },
+  {
+    "file": "cover-evol-ecol-2022.jpg",
+    "source": "https://media.springernature.com/full/springer-static/cover-hires/journal/10682/36/2 (Springer issue cover, fetched 30 Aug 2026; matches the old site thumbnail)",
+    "width": 827,
+    "height": 1263,
+    "bytes": 233922,
+    "alt": "Evolutionary Ecology cover, volume 36 number 2, 2022: several dark skinks on pale bark",
+    "use": "cover"
   }
 ]

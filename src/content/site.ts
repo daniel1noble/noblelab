@@ -1193,8 +1193,8 @@ export const LAB_LIFE: { src: string; alt: string; caption: string; width: numbe
 /**
  * Journal covers featuring the lab's work, carried over from the old Google
  * Site's Publications page (Daniel, 30 Aug 2026). Captions name only what the
- * cover itself prints. The Evolutionary Ecology cover existed only as a
- * 138x189 thumbnail and is left out until a larger copy is available.
+ * cover itself prints. The Evolutionary Ecology cover comes from
+ * Springer's issue-cover endpoint (the old site had only a thumbnail).
  */
 export const COVERS: { src: string; alt: string; caption: string; href?: string; width: number; height: number }[] = [
   {
@@ -1218,5 +1218,13 @@ export const COVERS: { src: string; alt: string; caption: string; href?: string;
     href: "https://journals.biologists.com/jeb/issue/227/24",
     width: 520,
     height: 675,
+  },
+  {
+    src: "/images/cover-evol-ecol-2022.jpg",
+    alt: "Evolutionary Ecology cover, volume 36 number 2, 2022: several dark skinks on pale bark",
+    caption: "Evolutionary Ecology 36(2), 2022",
+    href: "https://link.springer.com/journal/10682/volumes-and-issues/36-2",
+    width: 827,
+    height: 1263,
   },
 ];

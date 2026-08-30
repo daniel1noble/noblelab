@@ -369,7 +369,7 @@ export default function Publications() {
                 <span className="h-px w-10 bg-gold" />
                 <span className="text-xs font-semibold uppercase tracking-[0.24em] text-gold">On the cover</span>
               </div>
-              <div className="grid gap-6 sm:grid-cols-3">
+              <div className="grid gap-6 sm:grid-cols-2 lg:grid-cols-4">
                 {COVERS.map((c) => {
                   const img = (
                     <img
