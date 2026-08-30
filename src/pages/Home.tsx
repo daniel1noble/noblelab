@@ -77,13 +77,8 @@ function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, ease: [0.22, 1, 0.36, 1] }}
-          className="flex max-w-3xl flex-col items-start gap-4"
+          className="flex max-w-4xl flex-col items-start gap-4"
         >
-          {/* Stacked above the copy rather than beside it: as a left-hand
-              column the mark pushed the whole hero right, under the lizard
-              (Daniel, 30 Aug 2026). */}
-          <LogoMark size={104} priority className="w-[72px] sm:w-[88px] lg:w-[104px]" />
-
           <div className="max-w-2xl">
             <div className="mb-5 flex items-center gap-3">
               <span className="h-px w-10" style={{ backgroundColor: PALETTE.terracotta }} />
@@ -95,9 +90,19 @@ function Hero() {
               </span>
             </div>
 
-            <h1 className="text-[3.1rem] leading-[0.98] sm:text-7xl md:text-[5.3rem]">
-              <Wordmark />
-            </h1>
+            {/* The mark keeps its full size and sits beside the wordmark, so the
+                rest of the copy stays on the left margin and clear of the
+                photograph (Daniel, 30 Aug 2026). */}
+            <div className="flex flex-col items-start gap-3 sm:flex-row sm:items-center sm:gap-6">
+              <LogoMark
+                size={200}
+                priority
+                className="w-[92px] shrink-0 sm:w-[150px] md:w-[200px]"
+              />
+              <h1 className="text-[3.1rem] leading-[0.98] sm:text-7xl md:text-[5.3rem]">
+                <Wordmark />
+              </h1>
+            </div>
 
             {/* The last word of the strapline drops to its own line (Daniel, 30 Aug 2026). */}
             <p className="mt-5 max-w-2xl font-display text-xl font-medium leading-snug text-charcoal sm:text-2xl">
