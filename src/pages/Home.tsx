@@ -95,9 +95,9 @@ function Hero() {
                 photograph (Daniel, 30 Aug 2026). */}
             <div className="flex flex-col items-start gap-3 sm:flex-row sm:items-center sm:gap-6">
               <LogoMark
-                size={200}
+                size={150}
                 priority
-                className="w-[92px] shrink-0 sm:w-[150px] md:w-[200px]"
+                className="w-[86px] shrink-0 sm:w-[118px] md:w-[150px]"
               />
               <h1 className="text-[3.1rem] leading-[0.98] sm:text-7xl md:text-[5.3rem]">
                 <Wordmark />

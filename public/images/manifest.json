@@ -1740,5 +1740,32 @@
     "bytes": 224449,
     "alt": "Noble Lab logo",
     "use": "logo"
+  },
+  {
+    "file": "../favicon-32.png",
+    "source": "public/images/logo-mark.png, squared and resized",
+    "width": 32,
+    "height": 32,
+    "bytes": 2708,
+    "alt": "Noble Lab logo",
+    "use": "favicon"
+  },
+  {
+    "file": "../apple-touch-icon.png",
+    "source": "public/images/logo-mark.png, squared and resized",
+    "width": 180,
+    "height": 180,
+    "bytes": 33766,
+    "alt": "Noble Lab logo",
+    "use": "favicon"
+  },
+  {
+    "file": "../icon-512.png",
+    "source": "public/images/logo-mark.png, squared and resized",
+    "width": 512,
+    "height": 512,
+    "bytes": 218979,
+    "alt": "Noble Lab logo",
+    "use": "favicon"
   }
 ]

@@ -3,7 +3,11 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="icon" type="image/svg+xml" href="%BASE_URL%favicon.svg" />
+    <!-- Browser-tab icon: the lab logo (Daniel, 30 Aug 2026). favicon.svg is
+         kept as the scalable fallback for browsers that prefer it. -->
+    <link rel="icon" type="image/png" sizes="32x32" href="%BASE_URL%favicon-32.png" />
+    <link rel="icon" type="image/png" sizes="512x512" href="%BASE_URL%icon-512.png" />
+    <link rel="apple-touch-icon" href="%BASE_URL%apple-touch-icon.png" />
     <!-- PageMeta in src/App.tsx rewrites the title, description, canonical and
          og tags on every navigation. What follows is the home page, and what a
          crawler sees before the JavaScript runs. -->
