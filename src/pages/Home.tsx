@@ -77,15 +77,12 @@ function Hero() {
           initial={{ opacity: 0, y: 30 }}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.8, ease: [0.22, 1, 0.36, 1] }}
-          className="flex max-w-4xl flex-col items-start gap-8 lg:flex-row lg:items-center lg:gap-12"
+          className="flex max-w-3xl flex-col items-start gap-4"
         >
-          {/* Renders only once LOGO_MARK (site.ts) points at a file; see LogoMark.
-              hero-mark-bleed carries the leftward pull (index.css). */}
-          <LogoMark
-            size={300}
-            priority
-            className="hero-mark-bleed w-[190px] sm:w-[240px] lg:w-[300px]"
-          />
+          {/* Stacked above the copy rather than beside it: as a left-hand
+              column the mark pushed the whole hero right, under the lizard
+              (Daniel, 30 Aug 2026). */}
+          <LogoMark size={104} priority className="w-[72px] sm:w-[88px] lg:w-[104px]" />
 
           <div className="max-w-2xl">
             <div className="mb-5 flex items-center gap-3">
