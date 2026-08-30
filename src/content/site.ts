@@ -86,7 +86,7 @@ export const CV_URL: string | null = null;
  * "/images/logo-mark.png". No mark has been drawn yet, so this stays null and
  * LogoMark renders nothing (no request, no layout shift) until a file exists.
  */
-export const LOGO_MARK: string | null = null;
+export const LOGO_MARK: string | null = "/images/logo-mark.png";
 
 /* -------------------------------------------------------------- research */
 
@@ -818,18 +818,29 @@ export const SOFTWARE: SoftwarePackage[] = [
 
 export const TEACHING: {
   intro: string[];
-  workshop: { title: string; description: string; href: string; embed: boolean };
+  workshops: { title: string; description: string; href: string; repo?: string; embed: boolean }[];
 } = {
-  // typo fixed: "BIology" -> "Biology"
+  // Daniel's wording, 30 Aug 2026.
   intro: [
-    "Below is material Dan has put together for a meta-analysis workshop that he's run at the Society for Experimental Biology, but he has also used it for teaching meta-analysis at various Universities.",
+    "Dan teaches a number of undergraduate courses including Comparative Physiology, Functional Ecology, Diversity of Life and Ecology. Dan has also taught quantitative courses such as Data Science for Biologists and given numerous workshops on meta-analysis methods and approaches in biology.",
+    "Below is access to the meta-analysis workshop materials I've taught in the past and continue to teach.",
   ],
-  workshop: {
-    title: "Introduction to Meta-Analysis in Comparative Physiology",
-    description: "Meta-analysis Workshop",
-    href: "https://daniel1noble.github.io/meta-workshop/",
-    embed: true,
-  },
+  workshops: [
+    {
+      // The SEB workshop reworked for Lund University (Daniel, 30 Aug 2026).
+      title: "Meta-Analysis Workshop",
+      description: "Lund University",
+      href: "https://daniel1noble.github.io/meta-analysis_workshop/",
+      repo: "https://github.com/daniel1noble/meta-analysis_workshop",
+      embed: true,
+    },
+    {
+      title: "Introduction to Meta-Analysis in Comparative Physiology",
+      description: "Society for Experimental Biology",
+      href: "https://daniel1noble.github.io/meta-workshop/",
+      embed: true,
+    },
+  ],
 };
 
 /* --------------------------------------------------------------- gallery */

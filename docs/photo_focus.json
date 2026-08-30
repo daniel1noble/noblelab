@@ -1,0 +1,123 @@
+[
+  {
+    "page": "home",
+    "file": "bg-hero-red-rock-lizard.jpg",
+    "face_x_pct": 59.5,
+    "face_y_pct": 42.0,
+    "desktop_position": "20% 50%",
+    "mobile_position": "20% 50%",
+    "use_file": "bg-hero-face.jpg",
+    "needs_mobile_variant": false,
+    "note": "RE-CROP REQUIRED. In the existing 2048x1360 file the lizard's eye is at x 46.5%, y 35.5%, and at 1440 wide the hero band (min-h-[92vh], ~830px) is proportionally WIDER than the photo, so object-cover scales by width and NO x% can move the face right. At 46.5% the face sits under the hero's left wash (from-ink from-20% via-ink/90 via-45%), which is ~89% ink there, so the lizard is all but erased. bg-hero-face.jpg is the same frame cropped to 1600x1000 from (0,63): the eye moves to x 59.5%, y 42.0% and the lizard is 1.28x larger. Wire as className='h-full w-full object-cover object-[20%_50%]' with src bg-hero-face.jpg; keep bg-hero-red-rock-lizard-mobile.jpg in the <source>. 59.5% is the furthest right achievable without going under 1600px wide or upscaling. One string serves both breakpoints: this band is a 4.5:1 letterbox at 1440 wide, so object-cover scales the photo by WIDTH and the x% is inert; at 390 wide the band is taller than the photo's aspect, so it scales by HEIGHT and the y% is inert. The crossover is around 430-480px viewport width. Paste the same string in both places."
+  },
+  {
+    "page": "home-mobile",
+    "file": "bg-hero-red-rock-lizard-mobile.jpg",
+    "face_x_pct": 44.0,
+    "face_y_pct": 36.0,
+    "desktop_position": "20% 50%",
+    "mobile_position": "20% 50%",
+    "use_file": "bg-hero-red-rock-lizard-mobile.jpg",
+    "needs_mobile_variant": false,
+    "note": "The <source media='(max-width: 640px)'> file. object-position lives on the <img>, so this file and the desktop file share one string. At 390x844 only the x% acts: 20% puts the eye at x 61%, y 36% of the viewport, clear of the wash. Unchanged file; current object-[55%_45%] puts it at x 38%, inside the 90%-ink part of the wash."
+  },
+  {
+    "page": "research",
+    "file": "bg-research-rock-lizard.jpg",
+    "face_x_pct": 34.0,
+    "face_y_pct": 35.0,
+    "desktop_position": "0% 32%",
+    "mobile_position": "0% 32%",
+    "use_file": "bg-research-rock-lizard.jpg",
+    "needs_mobile_variant": false,
+    "note": "Was '42% 50%', which showed the goanna's spotted flank. '0% 32%' brings the head and eye to x 34%, y 41% of the band at 1440x320. The head is horizontally over the title column but 60px ABOVE the title glyphs (measured at y 183-260), so they do not collide. Cannot be moved right: the head is at 34% of the image width and cropping the right edge to shift it would take the file under 1600px. Mobile: x 42%, y 35%. This page also sets imageOpacity={0.8}. One string serves both breakpoints: this band is a 4.5:1 letterbox at 1440 wide, so object-cover scales the photo by WIDTH and the x% is inert; at 390 wide the band is taller than the photo's aspect, so it scales by HEIGHT and the y% is inert. The crossover is around 430-480px viewport width. Paste the same string in both places."
+  },
+  {
+    "page": "people",
+    "file": "bg-people-grass-lizard.jpg",
+    "face_x_pct": 53.0,
+    "face_y_pct": 44.0,
+    "desktop_position": "0% 46%",
+    "mobile_position": "0% 46%",
+    "use_file": "bg-people-grass-lizard.jpg",
+    "needs_mobile_variant": false,
+    "note": "Was '55% 60%', which cut the head off the top of the band. '0% 46%' puts the head and eye at x 53%, y 40%. One of the strongest results: the whole head is in frame with grass behind it. Mobile x 65%, y 44%. One string serves both breakpoints: this band is a 4.5:1 letterbox at 1440 wide, so object-cover scales the photo by WIDTH and the x% is inert; at 390 wide the band is taller than the photo's aspect, so it scales by HEIGHT and the y% is inert. The crossover is around 430-480px viewport width. Paste the same string in both places."
+  },
+  {
+    "page": "publications",
+    "file": "bg-publications-leaf-frog.jpg",
+    "face_x_pct": 70.0,
+    "face_y_pct": 47.0,
+    "desktop_position": "70% 50%",
+    "mobile_position": "70% 50%",
+    "use_file": "bg-publications-leaf-frog.jpg",
+    "needs_mobile_variant": false,
+    "note": "Was '55% 60%'. '70% 50%' puts the frog's eye at x 70%, y 40% - the best-placed face of the set, well clear of the title and in the least-washed part of the band. The 70% x only acts on mobile (x 70%, y 47%); at desktop it is inert. One string serves both breakpoints: this band is a 4.5:1 letterbox at 1440 wide, so object-cover scales the photo by WIDTH and the x% is inert; at 390 wide the band is taller than the photo's aspect, so it scales by HEIGHT and the y% is inert. The crossover is around 430-480px viewport width. Paste the same string in both places."
+  },
+  {
+    "page": "software",
+    "file": "bg-software-green-beetle.jpg",
+    "face_x_pct": 65.0,
+    "face_y_pct": 45.3,
+    "desktop_position": "55% 48%",
+    "mobile_position": "55% 48%",
+    "use_file": "bg-software-face.jpg",
+    "needs_mobile_variant": false,
+    "note": "UNSUITABLE FOR A FACE FOCUS - REPLACEMENT PROPOSED, DANIEL'S CALL. The green beetle has no readable face in this frame: its head is a small dark out-of-focus wedge at x 38%, y 56%, pointing away from the camera. No object-position makes a face of it. bg-software-face.jpg is a new crop of content/gs_images/photos_13_fieldwork-uncaptioned.jpg (a large crocodilian on bare ground, from the old site's uncaptioned fieldwork gallery), 1768x1079 from (0,150), eye at x 65%, y 45.3%: at '55% 48%' the eye lands at x 65%, y 41% with the jaw and snout filling the right of the band. Second option: photos_10_fieldwork-uncaptioned.jpg (a green snake on a leaf, sharp face at x 58%, y 47%, position '0% 50%') - but it is nearly the same composition and palette as the Publications leaf frog, so the two pages would look alike. If Daniel prefers to keep the beetle, use '0% 58%', which at least centres the beetle's front third; the face request cannot be met with that photo. Neither species is named anywhere on disk, so alt text must not name one."
+  },
+  {
+    "page": "teaching",
+    "file": "bg-teaching-spotted-frogs.jpg",
+    "face_x_pct": 43.0,
+    "face_y_pct": 35.5,
+    "desktop_position": "0% 34%",
+    "mobile_position": "0% 34%",
+    "use_file": "bg-teaching-spotted-frogs.jpg",
+    "needs_mobile_variant": false,
+    "note": "Was '50% 50%', which showed the two frogs' backs and feet. '0% 34%' puts the upper frog's eye at x 43%, y 39% and brings the second frog's eye into the right of the band at x 82%. Two faces in one band. Mobile x 47%, y 36%. One string serves both breakpoints: this band is a 4.5:1 letterbox at 1440 wide, so object-cover scales the photo by WIDTH and the x% is inert; at 390 wide the band is taller than the photo's aspect, so it scales by HEIGHT and the y% is inert. The crossover is around 430-480px viewport width. Paste the same string in both places."
+  },
+  {
+    "page": "gallery",
+    "file": "bg-gallery-painted-dragon.jpg",
+    "face_x_pct": 54.0,
+    "face_y_pct": 14.0,
+    "desktop_position": "0% 1%",
+    "mobile_position": "0% 1%",
+    "use_file": "bg-gallery-painted-dragon.jpg",
+    "needs_mobile_variant": true,
+    "note": "Was '45% 50%', which showed the dragon's tail and the log. '0% 1%' is the extreme of the usable range and puts the head and eye at x 54%, y 40% at desktop - a very good result. MOBILE CAVEAT: the head sits at only 14% of the image HEIGHT, and on mobile the y% is inert, so the head lands at y 14% of the band - inside the 128px top wash (h-32 from-ink), which erases it on a 320px band. No object-position fixes this. A dedicated portrait crop from the original public/images/gallery-field-02-painted-dragon.jpg (a portrait frame) would put the head at ~35% height on a phone, but PageHero takes a single `image` prop with no <picture>, so that needs a component change. Left as is - flagging rather than guessing."
+  },
+  {
+    "page": "opportunities",
+    "file": "bg-opportunities-sleepy-lizard.jpg",
+    "face_x_pct": 48.6,
+    "face_y_pct": 72.0,
+    "desktop_position": "0% 88%",
+    "mobile_position": "0% 88%",
+    "use_file": "bg-opportunities-sleepy-lizard.jpg",
+    "needs_mobile_variant": false,
+    "note": "Was '35% 45%', which showed the lizard's scaly back. '0% 88%' puts the eye at x 49%, y 40% with the open mouth below it. CHECK WITH DANIEL: this makes a wide-open defensive gape the face of the 'Join the Lab!' page. It is striking but it reads as an angry animal. Alternatives already on disk: public/images/gallery-field-28-sleepy-lizard.jpg, or the crocodilian now saved as bg-software-face.jpg. Mobile x 60%, y 72% (head low in frame, whole animal visible). One string serves both breakpoints: this band is a 4.5:1 letterbox at 1440 wide, so object-cover scales the photo by WIDTH and the x% is inert; at 390 wide the band is taller than the photo's aspect, so it scales by HEIGHT and the y% is inert. The crossover is around 430-480px viewport width. Paste the same string in both places."
+  },
+  {
+    "page": "news",
+    "file": "bg-news-maria-island.jpg",
+    "face_x_pct": 22.0,
+    "face_y_pct": 50.0,
+    "desktop_position": "15% 50%",
+    "mobile_position": "15% 50%",
+    "use_file": "bg-news-maria-island.jpg",
+    "needs_mobile_variant": false,
+    "note": "Landscape - no face. face_x/face_y are the cloud-capped headland, the only landmark in the frame. The y stays at 50% (unchanged, it is already the best balance of sky, coast and grass). The x drops from 30% to 15% purely for MOBILE: at 30% the headland is pushed to x 8% and half cut off; at 15% it sits at x 35% and the whole cloud roll is in frame. Inert at desktop. One string serves both breakpoints: this band is a 4.5:1 letterbox at 1440 wide, so object-cover scales the photo by WIDTH and the x% is inert; at 390 wide the band is taller than the photo's aspect, so it scales by HEIGHT and the y% is inert. The crossover is around 430-480px viewport width. Paste the same string in both places."
+  },
+  {
+    "page": "contact",
+    "file": "bg-contact-karst-lake.jpg",
+    "face_x_pct": 45.0,
+    "face_y_pct": 35.0,
+    "desktop_position": "50% 31%",
+    "mobile_position": "50% 31%",
+    "use_file": "bg-contact-karst-lake.jpg",
+    "needs_mobile_variant": false,
+    "note": "Landscape - no face. face_x/face_y are the notch between the two tallest karst peaks. Was '50% 60%', which showed mostly flat water. '50% 31%' lifts the peaks and sky into the band and puts the title on quiet sky. The x is inert at desktop and moves the frame by at most 37px on mobile, so 50% is kept. One string serves both breakpoints: this band is a 4.5:1 letterbox at 1440 wide, so object-cover scales the photo by WIDTH and the x% is inert; at 390 wide the band is taller than the photo's aspect, so it scales by HEIGHT and the y% is inert. The crossover is around 430-480px viewport width. Paste the same string in both places."
+  }
+]

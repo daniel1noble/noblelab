@@ -1,0 +1,89 @@
+[
+  {
+    "themeIndex": 1,
+    "title": "Predicting the effects of extreme heat on organisms",
+    "files": [
+      {
+        "src": "/images/theme-1-1.png",
+        "width": 1600,
+        "height": 1120,
+        "source": "research_02_extreme-heat-carousel.png",
+        "observed": "scientific schematic: coupled mechanistic models of thermal exposure/sensitivity (same design as home_06; different file)"
+      },
+      {
+        "src": "/images/theme-1-2.jpg",
+        "width": 1600,
+        "height": 705,
+        "source": "research_03_extreme-heat-carousel.png",
+        "observed": "scientific figure: plant/grasshopper multi-panel diagram (identical file to home_09)"
+      }
+    ]
+  },
+  {
+    "themeIndex": 2,
+    "title": "How different early developmental environments interact to impact physiology and life history",
+    "files": [
+      {
+        "src": "/images/theme-2-1.jpg",
+        "width": 1305,
+        "height": 1600,
+        "source": "research_04_developmental-environments-carousel.png",
+        "observed": "scientific schematic: population ecology / energy allocation / mitochondrial bioenergetics flow diagram"
+      },
+      {
+        "src": "/images/theme-2-2.jpg",
+        "width": 1600,
+        "height": 1312,
+        "source": "research_05_developmental-environments-carousel.png",
+        "observed": "scientific figure: orchard plot of lnRR Q10 by habitat (terrestrial/marine/freshwater)"
+      }
+    ]
+  },
+  {
+    "themeIndex": 3,
+    "title": "Relative role of phenotypic plasticity and adaptive genetic evolution to population divergence",
+    "files": [
+      {
+        "src": "/images/theme-3-1.jpg",
+        "width": 1121,
+        "height": 1600,
+        "source": "research_06_plasticity-carousel.jpg",
+        "observed": "scientific figure: polar plot and trait-space diagram of plasticity vectors (panel A)"
+      },
+      {
+        "src": "/images/theme-3-2.png",
+        "width": 540,
+        "height": 425,
+        "source": "research_07_plasticity-carousel.png",
+        "observed": "scientific figure: stacked bar chart of variance components (environmental/permanent/maternal/heritability) for performance traits"
+      },
+      {
+        "src": "/images/theme-3-3.png",
+        "width": 1600,
+        "height": 895,
+        "source": "research_08_plasticity-carousel.png",
+        "observed": "scientific figure: luminance/chromatic contrast vs background environment with chameleon illustrations (same design as home_08)"
+      }
+    ]
+  },
+  {
+    "themeIndex": 4,
+    "title": "Developing new statistical approaches and software for meta-analysis and experimental data",
+    "files": [
+      {
+        "src": "/images/theme-4-1.png",
+        "width": 1600,
+        "height": 774,
+        "source": "research_09_statistics-software-carousel.png",
+        "observed": "scientific schematic: effect-size taxonomy (traditional / universal / comparative physiology / expanded) with animal silhouettes"
+      },
+      {
+        "src": "/images/theme-4-2.jpg",
+        "width": 1600,
+        "height": 1268,
+        "source": "research_10_statistics-software-carousel.png",
+        "observed": "scientific schematic: \"nuisance heterogeneity\" standardising effects diagram with animal silhouettes and temperature bubbles"
+      }
+    ]
+  }
+]

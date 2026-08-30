@@ -1,0 +1,1213 @@
+{
+ "_meta": {
+  "extracted": "2026-08-28",
+  "site": "https://sites.google.com/view/noblelab/",
+  "source_html_dir": "/private/tmp/claude-501/-Users-noble-Library-CloudStorage-Dropbox-ANU/92180328-e7d1-4f49-b8da-a7a06698844e/scratchpad",
+  "sources": {
+   "home": "noblelab.html",
+   "people": "gs_people.html",
+   "research": "gs_research.html",
+   "publications": "gs_publications.html",
+   "software": "gs_software.html",
+   "gallery": "gs_research-photos.html",
+   "workshop": "gs_meta-analysis-workshop.html",
+   "older_bio": "/Users/noble/Library/CloudStorage/Dropbox/ANU/ANU_Website/biography.docx",
+   "standing_details": "/Users/noble/Library/CloudStorage/Dropbox/ANU/.claude/context/identity.md"
+  },
+  "navigation_order": [
+   "Home",
+   "Research",
+   "People",
+   "Publications",
+   "Research Photos",
+   "Meta-analysis Workshop",
+   "Software"
+  ],
+  "images_dir": "/Users/noble/Library/CloudStorage/Dropbox/ANU/_admin/drafts/website/content/gs_images",
+  "conventions": "Text is verbatim from the site (typos included). '[CONFIRM: ...]' marks anything not readable from a source. 'source' names the HTML file each item came from; image_file names refer to gs_images/manifest.json."
+ },
+ "home": {
+  "source": "noblelab.html",
+  "page_title": {
+   "text": "Noble Lab @ ANU",
+   "source": "noblelab.html"
+  },
+  "title": {
+   "text": "Noble Lab",
+   "source": "noblelab.html"
+  },
+  "tagline": {
+   "text": "Evolutionary, Ecological and Conservation Physiology",
+   "source": "noblelab.html"
+  },
+  "banner_image": "home_01_banner.jpg",
+  "intro_paragraphs": [
+   {
+    "text": "Welcome to the Noble Lab webpage!",
+    "source": "noblelab.html"
+   },
+   {
+    "text": "We are located in the Division of Ecology and Evolution in the Research School of Biology at the Australian National University (ANU)",
+    "source": "noblelab.html"
+   }
+  ],
+  "sections": [
+   {
+    "heading": "Research Systems",
+    "source": "noblelab.html",
+    "text": [
+     "We work on a diverse set of model systems, mainly reptiles, but also insects, fish and amphibians. We are open to new systems",
+     "We conduct research in the field, lab and under semi-natural (mesocosm) conditions"
+    ],
+    "links": [
+     {
+      "label": "Our Facilities",
+      "url": "/view/noblelab/research-photos",
+      "source": "noblelab.html",
+      "kind": "button"
+     }
+    ],
+    "carousel_images": [
+     "home_02_research-systems-carousel.jpg",
+     "home_03_research-systems-carousel.jpg",
+     "home_04_research-systems-carousel.jpg",
+     "home_05_research-systems-carousel.jpg"
+    ],
+    "note": "carousel sits above this heading in the same column (captions hidden); association by position"
+   },
+   {
+    "heading": "Research Questions",
+    "source": "noblelab.html",
+    "text": [
+     "We are interested in how organisms and populations adapt to changing environments.",
+     "We combine experimentation with simulation modelling and meta-analysis to tackle questions across diverse systems"
+    ],
+    "links": [
+     {
+      "label": "Our Research",
+      "url": "/view/noblelab/research",
+      "source": "noblelab.html",
+      "kind": "button"
+     }
+    ],
+    "carousel_images": [
+     "home_06_research-questions-carousel.png",
+     "home_07_research-questions-carousel.png",
+     "home_08_research-questions-carousel.png",
+     "home_09_research-questions-carousel.png",
+     "home_10_research-questions-carousel.png",
+     "home_11_research-questions-carousel.png",
+     "home_12_research-questions-carousel.png"
+    ],
+    "note": "carousel sits above this heading in the same column (captions hidden); association by position"
+   },
+   {
+    "heading": "Join the Lab!",
+    "source": "noblelab.html",
+    "text": [
+     "If you're interested in joining the lab we welcome new students, postdocs and lab visitors!",
+     "Canberra is a fantastic place to live and RSB and ANU a superb environment for EMCRs to flourish and grow"
+    ],
+    "links": [
+     {
+      "label": "fantastic place to live",
+      "url": "https://study.anu.edu.au/stories/why-canberra-best-city-world-quality-life",
+      "source": "noblelab.html",
+      "kind": "inline"
+     },
+     {
+      "label": "Get in touch!",
+      "url": "mailto:daniel.noble@anu.edu.au",
+      "source": "noblelab.html",
+      "kind": "button"
+     }
+    ],
+    "carousel_images": [
+     "home_13_join-the-lab-carousel.jpg",
+     "home_14_join-the-lab-carousel.jpg",
+     "home_15_join-the-lab-carousel.jpg",
+     "home_16_join-the-lab-carousel.jpg",
+     "home_17_join-the-lab-carousel.jpg",
+     "home_18_join-the-lab-carousel.jpg"
+    ],
+    "note": "carousel sits above this heading in the same column (captions hidden); association by position"
+   },
+   {
+    "heading": "Follow us:",
+    "source": "noblelab.html",
+    "links": [
+     {
+      "platform": "X",
+      "url": "https://x.com/DanielWANoble",
+      "source": "noblelab.html",
+      "note": "icon alt text 'X'; site wraps it in a google.com/url redirect"
+     },
+     {
+      "platform": "Bluesky",
+      "url": "https://bsky.app/profile/danielwanoble.bsky.social",
+      "source": "noblelab.html",
+      "note": "icon alt text 'Link'; platform inferred from URL"
+     },
+     {
+      "platform": "GitHub",
+      "url": "https://github.com/daniel1noble",
+      "source": "noblelab.html",
+      "note": "icon alt text 'GitHub'"
+     }
+    ]
+   }
+  ],
+  "photo_captions": [
+   {
+    "caption": "Part of the Noble lab @ the Australasian Society of Herpetology Meeting, Coffs Harbour, 2025",
+    "image_file": "home_19_ash-meeting-coffs-harbour-2025.jpg",
+    "source": "noblelab.html"
+   }
+  ],
+  "embeds": [
+   {
+    "kind": "youtube",
+    "title": "How Evolution Meets Ecology: A/Prof Daniel Noble on Biodiversity and Climate Change",
+    "video_id": "2f80ttu9vdg",
+    "url": "https://www.youtube.com/watch?v=2f80ttu9vdg",
+    "source": "noblelab.html",
+    "note": "title from iframe aria-label"
+   }
+  ]
+ },
+ "research": {
+  "source": "gs_research.html",
+  "page_title": {
+   "text": "Noble Lab @ ANU - Research",
+   "source": "gs_research.html"
+  },
+  "banner_image": "research_01_banner.jpg",
+  "intro_heading": {
+   "text": "What we do?",
+   "source": "gs_research.html"
+  },
+  "intro_paragraphs": [
+   {
+    "text": "Fundamentally, we are interested in how organisms respond and adapt to changing environments.",
+    "source": "gs_research.html"
+   },
+   {
+    "text": "Our work is highly integrative. We combine theory, modelling and meta-analysis with experimentation to understand and predict how and why populations are able to adapt (or not) to changing environments.",
+    "source": "gs_research.html"
+   },
+   {
+    "text": "Our work focuses on the impacts of diverse environmental stressors, from extreme heat to novel anthropogenic stressors (e.g., pesticides, plastics), and how they interact across an individuals life cycle to affect physiology, growth, fitness and ultimately population growth and adaptive evolution.",
+    "source": "gs_research.html"
+   },
+   {
+    "text": "Our study systems are diverse, but generally focus on lizards, insects, fish and amphibians.",
+    "source": "gs_research.html"
+   },
+   {
+    "text": "Below we detail some of the major (more recent) research themes in our group.",
+    "source": "gs_research.html"
+   }
+  ],
+  "themes": [
+   {
+    "title": "Predicting the effects of extreme heat on organisms",
+    "source": "gs_research.html",
+    "paragraphs": [
+     "Extreme heat is becoming an increasing challenge to organisms. Heatwaves are set to increase with climate change and organisms are expected to be exposed to conditions that threaten physiological function and fitness. We use microclimate / biophysical models to predict temperature exposure and combine these approaches with thermal load sensitivity and dynamic energy budget theory to predict the impacts of extreme heat on organisms across life. We are also doing experiments and meta-analyses to better understand how thermal tolerance can be adjusted to protect against extreme heat."
+    ],
+    "publications_heading": "Selected Publications",
+    "selected_publications": [
+     {
+      "citation_text": "Noble et al. 2025. A systems modelling approach to predict biological responses to extreme heat. EcoEvoRxiv",
+      "url": "https://ecoevorxiv.org/repository/view/9667/",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "Arnold et al. 2025. A framework for modelling thermal load sensitivity across life. Global Change Biology, 31 (7) e70315.",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/gcb.70315",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "Pottier et al. 2022. Developmental plasticity in thermal tolerance. Ontogenetic variation, persistence, and future directions. Ecology Letters, 25, 2245-2268",
+      "url": "https://onlinelibrary.wiley.com/doi/full/10.1111/ele.14083",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "Urban et al. 2024. When and how can we predict adaptive responses to climate change? Evolution Letters, 8(1), 172-187.",
+      "url": "https://academic.oup.com/evlett/article/8/1/172/7455738?login=false",
+      "source": "gs_research.html"
+     }
+    ],
+    "carousel_images": [
+     "research_02_extreme-heat-carousel.png",
+     "research_03_extreme-heat-carousel.png"
+    ]
+   },
+   {
+    "title": "How different early developmental environments interact to impact physiology and life history",
+    "source": "gs_research.html",
+    "paragraphs": [
+     "Metabolic processes are an essential and universal feature of life; they provide all the available energy organisms have to invest in growth, reproduction and survival. We explore how early developmental experiences impact physiology and metabolic function using targeted experimental manipulations of early life stages in ectotherms combined with large-scale meta-analytic and comparative approaches. We explore how physiological changes brought about by developmental responses cascade to affect life-history and fitness – insights that are critical to ascertain the long-term consequences of such changes."
+    ],
+    "publications_heading": "Selected Publications",
+    "selected_publications": [
+     {
+      "citation_text": "Noble et al. 2018. Developmental temperatures and phenotypic plasticity in reptiles: a systematic review and meta-analysis. Biological Reviews, 93, 72-79.",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/brv.12333",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "Koch et al. 2021. Integrating mitochondrial aerobic metabolism into ecology and evolution. Trends in Ecology and Evolution, 36 (4) 321-332.",
+      "url": "https://www.cell.com/trends/ecology-evolution/abstract/S0169-5347%2820%2930354-2",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "Kar et al. 2022. Impact of developmental temperatures on thermal plasticity and repeatability in metabolic rate. Evolutionary Ecology, 36 (2), 199-216.",
+      "url": "https://link.springer.com/article/10.1007/s10682-022-10160-1",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "Crino et al. 2022. From eggs to adulthood: sustained effects of early developmental temperature and corticosterone exposure on physiology and body size in an Australian lizard. Journal of Experimental Biology, 227 (24), jeb249234.",
+      "url": "https://journals.biologists.com/jeb/article/227/24/jeb249234/363429",
+      "source": "gs_research.html"
+     }
+    ],
+    "carousel_images": [
+     "research_04_developmental-environments-carousel.png",
+     "research_05_developmental-environments-carousel.png"
+    ]
+   },
+   {
+    "title": "Relative role of phenotypic plasticity and adaptive genetic evolution to population divergence",
+    "source": "gs_research.html",
+    "paragraphs": [
+     "Understanding the relative role of phenotypic plasticity in the adaptive process is crucial in an era of unprecedented environmental change. Plasticity is thought to allow populations to cope in the face of environmental change and may 'buy' time for genetic adaption to occur. We have been exploring whether plasticity might facilitate or impede adaptation using meta-analyses and reciprocol transplant experiments."
+    ],
+    "publications_heading": "Selected Publications",
+    "selected_publications": [
+     {
+      "citation_text": "Noble et al. 2019. Plastic responses to novel environments are biased towards phenotype dimensions with high additive genetic variation. Proceedings of the National Academy of Sciences USA (PNAS), 116, 13452-13461.",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1821066116",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "Radsmera et al. 2020. Plasticity leaves a phenotypic signature during local adaptation. Evolution Letters, 4, 360-370.",
+      "url": "https://academic.oup.com/evlett/article/4/4/360/6697532?login=false",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "Whiting et al. 2022. Invasive chameleons released from predation display more conspicuous colors. Science Advances, 8 (19) eabn2414.",
+      "url": "https://www.science.org/doi/full/10.1126/sciadv.abn2415",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "Noble et al. 2025. Limited plasticity but increased variance in physiological rates across ectotherm populations under climate change. Functional Ecology, 39 (5), 1141-1317.",
+      "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/1365-2435.70031",
+      "source": "gs_research.html"
+     }
+    ],
+    "carousel_images": [
+     "research_06_plasticity-carousel.jpg",
+     "research_07_plasticity-carousel.png",
+     "research_08_plasticity-carousel.png"
+    ]
+   },
+   {
+    "title": "Developing new statistical approaches and software for meta-analysis and experimental data",
+    "source": "gs_research.html",
+    "paragraphs": [
+     "The biological questions we address often demand new methods and approaches to address and overcome the challenges of complex biological data. As such, we develop new statistical approaches, effect sizes and software to help address the need for robust statistical inference and improved prediction. We often borrow from methods in other disparate research fields to help address new problems."
+    ],
+    "inline_links": [
+     {
+      "label": "software",
+      "url": "/view/noblelab/software",
+      "source": "gs_research.html",
+      "kind": "inline"
+     }
+    ],
+    "publications_heading": "Relevant Publications",
+    "selected_publications": [
+     {
+      "citation_text": "Noble et al. 2019. Plastic responses to novel environments are biased towards phenotype dimensions with high additive genetic variation. Proceedings of the National Academy of Sciences USA (PNAS), 116, 13452-13461.",
+      "url": "https://www.pnas.org/doi/abs/10.1073/pnas.1821066116",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "Noble et al. 2022. Meta-analytic approaches and effect sizes to account for 'nuisance heterogeneity' in comparative physiology. Journal of Experimental Biology, 225, jeb243225.",
+      "url": "https://journals.biologists.com/jeb/article/225/Suppl_1/jeb243225/274278/Meta-analytic-approaches-and-effect-sizes-to",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "Pottier et al. 2024. New horizons for comparative studies and meta-analyses. Trends in Ecology and Evolution, 39 (5), 435-445.",
+      "url": "https://www.cell.com/action/doSearch?type=quicksearch&text1=New+Horizons&field1=AllField&journalCode=tree&SeriesKey=tree",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "Nakagawa et al. 2023. orchaRd 2.0: An R package for visualising meta-analyses with orchard plots. Methods in Ecology and Evolution, 14 (8), 2003-2010.",
+      "url": "https://besjournals.onlinelibrary.wiley.com/doi/10.1111/2041-210X.14152",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "Nakagawa et al. 2022. Methods for testing publication bias in ecological and evolutionary meta-analyses. Methods in Ecology and Evolution, 13, 4-21.",
+      "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13724",
+      "source": "gs_research.html"
+     },
+     {
+      "citation_text": "O'Dea, Noble & Nakagawa. 2022. Unifying individual differences in personality, predictability, and plasticity: a practical guide. Methods in Ecology and Evolution, 13, 278-293.",
+      "url": "https://besjournals.onlinelibrary.wiley.com/doi/full/10.1111/2041-210X.13755",
+      "source": "gs_research.html"
+     }
+    ],
+    "carousel_images": [
+     "research_09_statistics-software-carousel.png",
+     "research_10_statistics-software-carousel.png"
+    ]
+   }
+  ],
+  "follow_us": {
+   "heading": "Follow us:",
+   "source": "gs_research.html",
+   "links": [
+    {
+     "platform": "X",
+     "url": "https://x.com/DanielWANoble",
+     "source": "gs_research.html",
+     "note": "icon alt text 'X'; site wraps it in a google.com/url redirect"
+    },
+    {
+     "platform": "Bluesky",
+     "url": "https://bsky.app/profile/danielwanoble.bsky.social",
+     "source": "gs_research.html",
+     "note": "icon alt text 'Link'; platform inferred from URL"
+    },
+    {
+     "platform": "GitHub",
+     "url": "https://github.com/daniel1noble",
+     "source": "gs_research.html",
+     "note": "icon alt text 'GitHub'"
+    }
+   ]
+  }
+ },
+ "people": {
+  "source": "gs_people.html",
+  "page_title": {
+   "text": "Noble Lab @ ANU - People",
+   "source": "gs_people.html"
+  },
+  "banner_image": "people_01_banner.jpg",
+  "headings": [
+   {
+    "text": "People",
+    "source": "gs_people.html"
+   },
+   {
+    "text": "Meet the Team",
+    "source": "gs_people.html"
+   }
+  ],
+  "pi": {
+   "group_heading_as_written": "Principle Investigator",
+   "name": "Daniel Noble",
+   "title": "Associate Professor",
+   "email": "daniel.noble@anu.edu.au",
+   "bio_paragraphs": [
+    "Dan is currently an ARC Future Fellow (2023–2027) and Associate Professor at the ANU. Dan moved from UNSW Sydney where he was an ARC DECRA fellow in 2019 to start his lab group up.",
+    "He completed his PhD at Macquarie University in Sydney after having done an MSc and BSc at the University of Guelph, Canada.",
+    "Find out more about Dan's research by visiting our Research page"
+   ],
+   "links": [
+    {
+     "label": "Research",
+     "url": "/view/noblelab/research",
+     "source": "gs_people.html",
+     "kind": "inline"
+    }
+   ],
+   "image_file": "people_02_daniel-noble.jpg",
+   "source": "gs_people.html",
+   "note": "On the site the title and email are two spans with no separator (renders 'Associate Professordaniel.noble@anu.edu.au'); split here into title/email.",
+   "older_bio_2018": {
+    "source": "/Users/noble/Library/CloudStorage/Dropbox/ANU/ANU_Website/biography.docx",
+    "text": "I am an evolutionary ecologist and ecophysiologist interested in understanding the role that phenotypic plasticity plays in evolutionary and ecological processes. My research combines detailed experimental manipulations of early developmental environments with large-scale meta-analyses to understand how the environment orchestrates changes in physiology to subsequently affect behaviour, performance and life-history. I completed my PhD at Macquarie University in 2014, studying the evolutionary ecology of alternative reproductive tactics in lizards. In 2015, I took up an ARC DECRA fellowship at the University of New South Wales, where I have been investigating how maternal effects and offspring environments affect phenotypic development through experimental manipulations of early thermal environments using a widespread lizard species, Lampropholis delicata. I have also been exploring the impact thermal environments have on phenotype and survival across reptiles using meta-analysis in combination with large trait databases (e.g. Reptile Development Database). While much of my research has focused on lizards, I am also keen to work on other systems that lend themselves well to tackling important empirical questions (e.g. fish, water fleas) and I am passionate about developing new statistical and computational approaches to aid empirical and meta-analytic work.",
+    "trailing_lines": [
+     "Dan Noble will start at ANU in February 2019.",
+     "Dan's website is: http://nobledan.com"
+    ],
+    "note": "Pre-ANU bio (written before Feb 2019); superseded by the site bio but kept for reference. nobledan.com has no DNS record as of 2026-08-28."
+   },
+   "standing_details": {
+    "source": "/Users/noble/Library/CloudStorage/Dropbox/ANU/.claude/context/identity.md",
+    "full_name": "Daniel W. A. Noble",
+    "position": "Associate Professor; ARC Future Fellow; Lab Leader [CONFIRM: identity.md marks current title 'verify']",
+    "institution": "Division of Ecology & Evolution, Research School of Biology, The Australian National University, Canberra ACT 2600, Australia",
+    "email": "daniel.noble@anu.edu.au"
+   }
+  },
+  "groups": [
+   {
+    "group_name": "PhD Students",
+    "source": "gs_people.html",
+    "members": [
+     {
+      "name": "Naomi Laven",
+      "role": "PhD student",
+      "years": "(2023 – Present)",
+      "co_advisors": null,
+      "bio_paragraphs": [
+       "I’ve moved to Canberra after an undergrad, honours and lots of field assistant work in the Australian tropics. My research here at ANU will focus on the implications of sex-reversal in a local alpine skink species, including looking at the ways sexual phenotypes or genotypes might impact behaviour, cognition, and mating traits. Understanding how sex-reversal impacts fitness is vital for predicting the future directions of populations prone to this phenomenon"
+      ],
+      "links": [],
+      "image_file": "people_03_naomi-laven.png",
+      "source": "gs_people.html"
+     },
+     {
+      "name": "Dalton Leibold",
+      "role": "PhD student",
+      "years": "(2022-Present)",
+      "co_advisors": null,
+      "bio_paragraphs": [
+       "Evolutionary ecologist by passion, physiologist by profession. I use reptiles as a system for identifying relationships between the environment, physiological processes, and fitness and all of its associated phenotypes. During my PhD I aim testing the programmatic effects of early-life experiences (i.e., maternal effects and the developmental environment) on physiological biomarkers of fitness (mitochondrial function, oxidative stress, and DNA damage), life-history tradeoffs, and lifetime reproductive success."
+      ],
+      "links": [],
+      "image_file": "people_04_dalton-leibold.png",
+      "source": "gs_people.html"
+     },
+     {
+      "name": "Joel Treutlein",
+      "role": "PhD student",
+      "years": "(2024-Present)",
+      "co_advisors": "Sarah Perkins-Kirkpatrick",
+      "bio_paragraphs": [
+       "Joel is interested in the consequences of future heatwave trends on ecosystems given carbon emission targets. His research interests span multiple disciplines and combine high-resolution climate modelling with ecological analyses such as the use of microclimate and biophysical models. The primary objective of his work is to determine how heatwaves are changing at an ecologically-relevant fine-scale, and subsequently their predicted ecological impacts."
+      ],
+      "links": [],
+      "image_file": "people_05_joel-treutlein.jpg",
+      "source": "gs_people.html",
+      "note": "Site line reads verbatim: 'Co-advised with Sarah Perkins-Kirkpatrick (2024-Present)'"
+     },
+     {
+      "name": "Pablo Recio",
+      "role": "PhD student",
+      "years": "(2022-2025)",
+      "co_advisors": null,
+      "bio_paragraphs": [
+       "My research focuses mainly on the evolution of animal behaviour, using reptiles as a model species. During my PhD I aim to unravel how maternal condition together with early environment affect cognitive abilities of the delicate skink. I am highly skilled at catching lizards with a fishing rod. You can find out more about my research here."
+      ],
+      "links": [
+       {
+        "label": "here",
+        "url": "https://www.researchgate.net/profile/Pablo-Recio",
+        "source": "gs_people.html",
+        "kind": "inline"
+       }
+      ],
+      "image_file": "people_06_pablo-recio.jpg",
+      "source": "gs_people.html",
+      "note": "Listed under 'PhD Students' although years read 2022-2025 [CONFIRM: current vs past status]"
+     }
+    ]
+   },
+   {
+    "group_name": "MSc/Honours Students",
+    "source": "gs_people.html",
+    "members": [
+     {
+      "name": "Amelia Peardon",
+      "role": "MSc/Honours student",
+      "years": "2024-2025",
+      "co_advisors": null,
+      "bio_paragraphs": [
+       "Amelia is exploring new approaches to measuring thermal load sensitivity for cells to overcome challanges in applying these methods in vertebrates"
+      ],
+      "links": [],
+      "image_file": "people_07_amelia-peardon.jpg",
+      "source": "gs_people.html",
+      "note": "Image association by position (the image immediately precedes this entry) [CONFIRM: photo is Amelia]"
+     },
+     {
+      "name": "Aidan Lowe",
+      "role": "MSc/Honours student",
+      "years": "2024-2025",
+      "co_advisors": null,
+      "bio_paragraphs": [
+       "Aidan is looking at how mito-nuclear discordance impacts mitochondrial function in grasshoppers and flour beetles"
+      ],
+      "links": [],
+      "image_file": null,
+      "source": "gs_people.html",
+      "note": "No image on the site for this entry [CONFIRM: photo wanted?]"
+     },
+     {
+      "name": "Niamh O'Kelly",
+      "role": "MSc/Honours student",
+      "years": "2025-2026",
+      "co_advisors": "Bernd Gruber (UC)",
+      "bio_paragraphs": [
+       "Niamh is co-advised by Bernd Gruber at UC. She's working on developing eDNA sampling protocols for detecting the critically endangered Canberra Earless Dragon"
+      ],
+      "links": [],
+      "image_file": "people_08_niamh-o-kelly.jpg",
+      "source": "gs_people.html",
+      "note": "co-advisor taken from the bio sentence"
+     },
+     {
+      "name": "Xingyi Xiu",
+      "role": "MSc/Honours student",
+      "years": "2023-2024",
+      "co_advisors": null,
+      "bio_paragraphs": [
+       "Xingyi just finished doing a big meta-analysis on microplastic impacts on aquatic organisms. Now time to publish!"
+      ],
+      "links": [],
+      "image_file": "people_09_xingyi-xiu.jpg",
+      "source": "gs_people.html"
+     }
+    ]
+   },
+   {
+    "group_name": "Past Postdoctoral Researchers",
+    "source": "gs_people.html",
+    "members": [
+     {
+      "name": "Dr. Patrice Pottier",
+      "role": "Past postdoctoral researcher",
+      "years": "(2024-2025)",
+      "co_advisors": null,
+      "bio_paragraphs": [
+       "I’m an evolutionary ecologist exploring how rapid environmental change shapes the physiology, life-history, and behaviour of ectothermic animals. My interests are broad, and I use a combination of evidence synthesis, comparative analyses, and laboratory experiments to address exciting questions in a broad range of organisms. Patrice is now working with Fredrik Jutfelt at Gothenburg University, Sweden"
+      ],
+      "links": [],
+      "image_file": "people_10_patrice-pottier.png",
+      "source": "gs_people.html"
+     },
+     {
+      "name": "Dr. Ondi Crino",
+      "role": "Past postdoctoral researcher",
+      "years": "(2020-2022)",
+      "co_advisors": null,
+      "bio_paragraphs": [
+       "Ondi was a postdoctoral researcher working on early environmental effects on physiology and is now running her own lab at Flinder’s University!"
+      ],
+      "links": [],
+      "image_file": "people_11_ondi-crino.gif",
+      "source": "gs_people.html"
+     },
+     {
+      "name": "Dr. Kris Wild",
+      "role": "Past postdoctoral researcher",
+      "years": "(2022-2023)",
+      "co_advisors": null,
+      "bio_paragraphs": [
+       "Microclimate modeller extraordinaireand sex-reversal whisperer. Kris is now doing a postdoctoral fellowship with Mike Kearney at the University of Melbourne."
+      ],
+      "links": [],
+      "image_file": "people_12_kris-wild.jpg",
+      "source": "gs_people.html",
+      "note": "'extraordinaireand' is verbatim: two adjacent spans with no space/line break on the site"
+     },
+     {
+      "name": "Dr. Essie Rodgers",
+      "role": "Past postdoctoral researcher",
+      "years": "(2019-2020)",
+      "co_advisors": null,
+      "bio_paragraphs": [
+       "Ecophysiology and Conservation Physiology of all things big (crocodiles to be exact) and small (lizards, fish and insects!). Now runs her own physiology lab at the Murdoch University!"
+      ],
+      "links": [],
+      "image_file": "people_13_essie-rodgers.jpg",
+      "source": "gs_people.html"
+     }
+    ]
+   }
+  ],
+  "role_note": "'role' is derived from the group heading the member sits under; the site gives no per-person role text.",
+  "follow_us": {
+   "heading": "Follow us:",
+   "source": "gs_people.html",
+   "links": [
+    {
+     "platform": "X",
+     "url": "https://x.com/DanielWANoble",
+     "source": "gs_people.html",
+     "note": "icon alt text 'X'; site wraps it in a google.com/url redirect"
+    },
+    {
+     "platform": "Bluesky",
+     "url": "https://bsky.app/profile/danielwanoble.bsky.social",
+     "source": "gs_people.html",
+     "note": "icon alt text 'Link'; platform inferred from URL"
+    },
+    {
+     "platform": "GitHub",
+     "url": "https://github.com/daniel1noble",
+     "source": "gs_people.html",
+     "note": "icon alt text 'GitHub'"
+    }
+   ]
+  }
+ },
+ "publications": {
+  "source": "gs_publications.html",
+  "page_title": {
+   "text": "Noble Lab @ ANU - Publications",
+   "source": "gs_publications.html"
+  },
+  "heading": {
+   "text": "Publications",
+   "source": "gs_publications.html"
+  },
+  "links": [
+   {
+    "platform": "Google Scholar",
+    "url": "https://scholar.google.com.au/citations?user=w69ezLIAAAAJ&hl=en",
+    "source": "gs_publications.html",
+    "kind": "image link",
+    "image_file": "publications_01_google-scholar-link-image.png",
+    "note": "an image (no alt text) hyperlinked to the Scholar profile"
+   },
+   {
+    "label": "journals.biologists.com/jeb/issue/227/24",
+    "url": "https://journals.biologists.com/jeb/issue/227/24",
+    "source": "gs_publications.html",
+    "kind": "link preview card",
+    "image_file": "publications_04_jeb-issue-227-24-link-thumbnail.png"
+   },
+   {
+    "platform": "BibBase",
+    "kind": "custom embed (script)",
+    "source": "gs_publications.html",
+    "embed_code": "<script src=\"https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FoxuAnDjKhRevfGxrx&noBootstrap=1&jsonp=1\"></script>",
+    "url": "https://bibbase.org/show?bib=https%3A%2F%2Fbibbase.org%2Fnetwork%2Ffiles%2FoxuAnDjKhRevfGxrx&noBootstrap=1&jsonp=1",
+    "bib_file": "https://bibbase.org/network/files/oxuAnDjKhRevfGxrx",
+    "note": "The page's publication list is a BibBase embed of this .bib file; the list itself is not in the HTML."
+   }
+  ],
+  "other_images": [
+   "publications_02_unknown-a.jpg",
+   "publications_03_unknown-b.jpg",
+   "publications_05_unknown-c.jpg"
+  ],
+  "other_images_note": "three uncaptioned images in a row under the Scholar link; subjects unknown",
+  "follow_us": {
+   "heading": "Follow us:",
+   "source": "gs_publications.html",
+   "links": [
+    {
+     "platform": "X",
+     "url": "https://x.com/DanielWANoble",
+     "source": "gs_publications.html",
+     "note": "icon alt text 'X'; site wraps it in a google.com/url redirect"
+    },
+    {
+     "platform": "Bluesky",
+     "url": "https://bsky.app/profile/danielwanoble.bsky.social",
+     "source": "gs_publications.html",
+     "note": "icon alt text 'Link'; platform inferred from URL"
+    },
+    {
+     "platform": "GitHub",
+     "url": "https://github.com/daniel1noble",
+     "source": "gs_publications.html",
+     "note": "icon alt text 'GitHub'"
+    }
+   ]
+  }
+ },
+ "software": {
+  "source": "gs_software.html",
+  "page_title": {
+   "text": "Noble Lab @ ANU - Software",
+   "source": "gs_software.html"
+  },
+  "banner_image": "home_01_banner.jpg",
+  "intro_paragraphs": [
+   {
+    "text": "We have developed and/or contributed to a few different software packages which we hope are useful for the community.",
+    "source": "gs_software.html"
+   }
+  ],
+  "packages": [
+   {
+    "name": "orchaRd",
+    "url": "https://daniel1noble.github.io/orchaRd/",
+    "source": "gs_software.html",
+    "image_file": "software_02_orchard.png",
+    "description": "Package for calculating marginalised or conditional meta-analytic means, calculating heterogeneity statistics, effect sizes and plotting orchard and bubble plots of meta-analytic models"
+   },
+   {
+    "name": "metaDigitise",
+    "url": "https://github.com/daniel1noble/metaDigitise",
+    "source": "gs_software.html",
+    "image_file": "software_03_metadigitise.png",
+    "description": "R based package for extracting summary statistics from figures for meta-analysis"
+   },
+   {
+    "name": "shinyDigise",
+    "url": "https://github.com/EIvimeyCook/shinyDigitise",
+    "source": "gs_software.html",
+    "image_file": "software_04_shinydigitise.png",
+    "description": "The Graphical User Interface (GUI) of metaDigitise.",
+    "note": "name is spelt 'shinyDigise' on the site (sic); repository is shinyDigitise"
+   }
+  ],
+  "embeds": [
+   {
+    "kind": "youtube",
+    "title": "ESMARConf2023: {shinyDigitise} tutorial",
+    "video_id": "b9KvRsO8SPY",
+    "url": "https://www.youtube.com/watch?v=b9KvRsO8SPY",
+    "source": "gs_software.html",
+    "note": "title from iframe aria-label"
+   },
+   {
+    "kind": "youtube",
+    "title": "Scraping the data from graphs with {metaDigitise}",
+    "video_id": "VhDrH2weyAk",
+    "url": "https://www.youtube.com/watch?v=VhDrH2weyAk",
+    "source": "gs_software.html",
+    "note": "title from iframe aria-label"
+   }
+  ],
+  "follow_us": {
+   "heading": "Follow us:",
+   "source": "gs_software.html",
+   "links": [
+    {
+     "platform": "X",
+     "url": "https://x.com/DanielWANoble",
+     "source": "gs_software.html",
+     "note": "icon alt text 'X'; site wraps it in a google.com/url redirect"
+    },
+    {
+     "platform": "Bluesky",
+     "url": "https://bsky.app/profile/danielwanoble.bsky.social",
+     "source": "gs_software.html",
+     "note": "icon alt text 'Link'; platform inferred from URL"
+    },
+    {
+     "platform": "GitHub",
+     "url": "https://github.com/daniel1noble",
+     "source": "gs_software.html",
+     "note": "icon alt text 'GitHub'"
+    }
+   ]
+  }
+ },
+ "gallery": {
+  "source": "gs_research-photos.html",
+  "page_title": {
+   "text": "Noble Lab @ ANU - Research Photos",
+   "source": "gs_research-photos.html"
+  },
+  "heading": {
+   "text": "Research Photos",
+   "source": "gs_research-photos.html"
+  },
+  "banner_image": "photos_01_banner.jpg",
+  "intro_paragraphs": [
+   {
+    "section": "Fieldwork",
+    "text": "We've worked on a bunch of different model systems, mainly lizards, which have taken us far and wide",
+    "source": "gs_research-photos.html"
+   },
+   {
+    "section": "Fieldwork",
+    "text": "We've done fieldwork in Australia, Canada, France, China, Panama, US, UK, Costa Rica, Malaysia, and Vietnam",
+    "source": "gs_research-photos.html"
+   },
+   {
+    "section": "Fieldwork",
+    "text": "Have a look through the photos of some of the wonderful and curious critters we've have the privilege of seeing in the wild",
+    "source": "gs_research-photos.html"
+   },
+   {
+    "section": "Lab facilities",
+    "text": "We have outstanding lab facilities at the ANU.",
+    "source": "gs_research-photos.html"
+   },
+   {
+    "section": "Lab facilities",
+    "text": "Facilities include temperature controlled rooms that are capable of housing hundreds of animals as well as outdoor semi-natural enclosures",
+    "source": "gs_research-photos.html"
+   },
+   {
+    "section": "Lab facilities",
+    "text": "We are also fortunate to have outstanding Animal Lab Technicians who help take care of all the animals",
+    "source": "gs_research-photos.html"
+   }
+  ],
+  "photos": [
+   {
+    "image_file": "photos_02_fieldwork-painted-dragon.jpg",
+    "caption": "Painted Dragon",
+    "section": "Fieldwork",
+    "slide": 1,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_03_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 2,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_04_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 3,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_05_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 4,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_06_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 5,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_07_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 6,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_08_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 7,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_09_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 8,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_10_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 9,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_11_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 10,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_12_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 11,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_13_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 12,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_14_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 13,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_15_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 14,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_16_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 15,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_17_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 16,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_18_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 17,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_19_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 18,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_20_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 19,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_21_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 20,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_22_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 21,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_23_fieldwork-unhappy-sleepy-lizard.jpg",
+    "caption": "Unhappy Sleepy Lizard",
+    "section": "Fieldwork",
+    "slide": 22,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_24_fieldwork-sand-monitor.jpg",
+    "caption": "Sand Monitor",
+    "section": "Fieldwork",
+    "slide": 23,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_25_fieldwork-pygmy-bluetounge.jpg",
+    "caption": "Pygmy Bluetounge",
+    "section": "Fieldwork",
+    "slide": 24,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_26_fieldwork-maria-island-tasmania.jpg",
+    "caption": "Maria Island, Tasmania",
+    "section": "Fieldwork",
+    "slide": 25,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_27_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Fieldwork",
+    "slide": 26,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_28_fieldwork-sleepy-lizard.jpg",
+    "caption": "Sleepy lizard",
+    "section": "Fieldwork",
+    "slide": 27,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_29_lab-pablo-tending-the-eggs.jpg",
+    "caption": "Pablo tending the eggs",
+    "section": "Lab facilities",
+    "slide": 1,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_30_lab-more-lizard-enclosures.jpg",
+    "caption": "MOre lizard enclosures",
+    "section": "Lab facilities",
+    "slide": 2,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_22_fieldwork-uncaptioned.jpg",
+    "caption": "",
+    "section": "Lab facilities",
+    "slide": 3,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_32_lab-uncaptioned.jpg",
+    "caption": "",
+    "section": "Lab facilities",
+    "slide": 4,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_33_lab-uncaptioned.jpg",
+    "caption": "",
+    "section": "Lab facilities",
+    "slide": 5,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_34_lab-amelia-with-some-eggs.jpg",
+    "caption": "Amelia with some eggs",
+    "section": "Lab facilities",
+    "slide": 6,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_35_lab-lizard-lab.jpg",
+    "caption": "Lizard lab",
+    "section": "Lab facilities",
+    "slide": 7,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_36_lab-lizard-lab.jpg",
+    "caption": "Lizard lab",
+    "section": "Lab facilities",
+    "slide": 8,
+    "source": "gs_research-photos.html"
+   },
+   {
+    "image_file": "photos_37_lab-dr-kar-doing-experiments.jpg",
+    "caption": "Dr. Kar doing experiments",
+    "section": "Lab facilities",
+    "slide": 9,
+    "source": "gs_research-photos.html"
+   }
+  ],
+  "caption_note": "Captions are matched to slides by order (the carousel lists 27 slide divs then 27 caption spans, 9 and 9 for the lab carousel); empty caption = no caption on the site. Captions verbatim, including 'Pygmy Bluetounge' and 'MOre'.",
+  "follow_us": {
+   "heading": "Follow us:",
+   "source": "gs_research-photos.html",
+   "links": [
+    {
+     "platform": "X",
+     "url": "https://x.com/DanielWANoble",
+     "source": "gs_research-photos.html",
+     "note": "icon alt text 'X'; site wraps it in a google.com/url redirect"
+    },
+    {
+     "platform": "Bluesky",
+     "url": "https://bsky.app/profile/danielwanoble.bsky.social",
+     "source": "gs_research-photos.html",
+     "note": "icon alt text 'Link'; platform inferred from URL"
+    },
+    {
+     "platform": "GitHub",
+     "url": "https://github.com/daniel1noble",
+     "source": "gs_research-photos.html",
+     "note": "icon alt text 'GitHub'"
+    }
+   ]
+  }
+ },
+ "workshop": {
+  "source": "gs_meta-analysis-workshop.html",
+  "page_title": {
+   "text": "Noble Lab @ ANU - Meta-analysis Workshop",
+   "source": "gs_meta-analysis-workshop.html"
+  },
+  "heading": {
+   "text": "Meta-analysis Workshop",
+   "source": "gs_meta-analysis-workshop.html"
+  },
+  "banner_image": "home_01_banner.jpg",
+  "paragraphs": [
+   {
+    "text": "Below is material Dan has put together for a meta-analysis workshop that he's run at the Society for Experimental BIology, but he has also used it for teaching meta-analysis at various Universities.",
+    "source": "gs_meta-analysis-workshop.html"
+   }
+  ],
+  "links": [
+   {
+    "label": "Introduction to Meta-Analysis in Comparative Physiology",
+    "url": "https://daniel1noble.github.io/meta-workshop/",
+    "source": "gs_meta-analysis-workshop.html",
+    "kind": "whole-page embed (iframe)",
+    "note": "label from the embed's aria-label 'Whole page embed, Introduction to Meta-Analysis in Comparative Physiology'"
+   }
+  ],
+  "follow_us": {
+   "heading": "Follow us:",
+   "source": "gs_meta-analysis-workshop.html",
+   "links": [
+    {
+     "platform": "X",
+     "url": "https://x.com/DanielWANoble",
+     "source": "gs_meta-analysis-workshop.html",
+     "note": "icon alt text 'X'; site wraps it in a google.com/url redirect"
+    },
+    {
+     "platform": "Bluesky",
+     "url": "https://bsky.app/profile/danielwanoble.bsky.social",
+     "source": "gs_meta-analysis-workshop.html",
+     "note": "icon alt text 'Link'; platform inferred from URL"
+    },
+    {
+     "platform": "GitHub",
+     "url": "https://github.com/daniel1noble",
+     "source": "gs_meta-analysis-workshop.html",
+     "note": "icon alt text 'GitHub'"
+    }
+   ]
+  }
+ },
+ "links": {
+  "scholar": {
+   "url": "https://scholar.google.com.au/citations?user=w69ezLIAAAAJ&hl=en",
+   "scholar_id": "w69ezLIAAAAJ",
+   "source": "gs_publications.html"
+  },
+  "orcid": "[CONFIRM: ORCID iD — not on the Google Site; _admin/drafts/website/2026-08-28_lab_website_plan.md records 0000-0001-9460-8743]",
+  "other": [
+   {
+    "platform": "X",
+    "url": "https://x.com/DanielWANoble",
+    "source": "noblelab.html"
+   },
+   {
+    "platform": "Bluesky",
+    "url": "https://bsky.app/profile/danielwanoble.bsky.social",
+    "source": "noblelab.html"
+   },
+   {
+    "platform": "GitHub",
+    "url": "https://github.com/daniel1noble",
+    "source": "noblelab.html"
+   },
+   {
+    "platform": "email",
+    "url": "mailto:daniel.noble@anu.edu.au",
+    "source": "noblelab.html"
+   },
+   {
+    "platform": "old personal site",
+    "url": "http://nobledan.com",
+    "source": "/Users/noble/Library/CloudStorage/Dropbox/ANU/ANU_Website/biography.docx",
+    "note": "no DNS record on 2026-08-28; likely lapsed"
+   },
+   {
+    "platform": "current Google Site",
+    "url": "https://sites.google.com/view/noblelab/home",
+    "source": "noblelab.html"
+   }
+  ]
+ }
+}

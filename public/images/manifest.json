@@ -1731,5 +1731,14 @@
     "bytes": 233922,
     "alt": "Evolutionary Ecology cover, volume 36 number 2, 2022: several dark skinks on pale bark",
     "use": "cover"
+  },
+  {
+    "file": "logo-mark.png",
+    "source": "ANU_Website/lab_logo2.png (Daniel, 30 Aug 2026); outer ground flood-filled to transparency, trimmed, 512 px",
+    "width": 512,
+    "height": 504,
+    "bytes": 224449,
+    "alt": "Noble Lab logo",
+    "use": "logo"
   }
 ]

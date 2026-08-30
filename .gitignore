@@ -11,9 +11,14 @@ dist-ssr
 # Playwright screenshots from scripts/smoke.mjs
 .smoke
 
-# The original photographs pulled off the old Owlstown site. The twelve in use
-# live in public/images; these are kept locally in case another is wanted.
+# Source material now lives in originals/ and is tracked: originals/logos and
+# originals/photos are Daniel's own files, originals/google-site holds the
+# photographs pulled off the old Google Site.
 source-images
+
+# QA screenshots: regenerated on every build, 35 MB, and of no use to a reader
+# of the repository. The rest of docs/ is tracked.
+docs/screenshots
 
 # Working notes on how the site is built and kept current. Kept local so the
 # repository front page stays a public introduction to the lab.
