@@ -1,6 +1,7 @@
 import { useMemo, useState } from "react";
 import { motion } from "framer-motion";
-import { HIGHLIGHTED_DOIS, LINKS } from "../content/site";
+import { COVERS, HIGHLIGHTED_DOIS, LINKS } from "../content/site";
+import { publicUrl } from "../lib/publicUrl";
 import { NEUTRAL, PALETTE } from "../content/palette";
 import { titleKey, usePublications, useScholar, type Publication } from "../lib/useData";
 import { Chip, Container, GhostButton, PageHero, Reveal } from "../components/ui";
@@ -358,6 +359,45 @@ export default function Publications() {
               </div>
             )}
           </section>
+        )}
+
+        {/* ------------------------------------------------------- covers */}
+        {COVERS.length > 0 && (
+          <Reveal>
+            <section className="mt-16">
+              <div className="mb-6 flex items-center gap-3">
+                <span className="h-px w-10 bg-gold" />
+                <span className="text-xs font-semibold uppercase tracking-[0.24em] text-gold">On the cover</span>
+              </div>
+              <div className="grid gap-6 sm:grid-cols-3">
+                {COVERS.map((c) => {
+                  const img = (
+                    <img
+                      src={publicUrl(c.src)}
+                      alt={c.alt}
+                      width={c.width}
+                      height={c.height}
+                      loading="lazy"
+                      decoding="async"
+                      className="mx-auto h-72 w-auto rounded-lg border border-edge shadow-[0_8px_24px_-12px_rgba(31,36,25,0.35)] transition duration-500 group-hover:scale-[1.02]"
+                    />
+                  );
+                  return (
+                    <figure key={c.src} className="group text-center">
+                      {c.href ? (
+                        <a href={c.href} target="_blank" rel="noreferrer" className="inline-block">
+                          {img}
+                        </a>
+                      ) : (
+                        img
+                      )}
+                      <figcaption className="mt-3 text-sm text-neutral-500">{c.caption}</figcaption>
+                    </figure>
+                  );
+                })}
+              </div>
+            </section>
+          </Reveal>
         )}
 
         <Reveal>

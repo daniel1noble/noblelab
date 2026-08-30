@@ -1188,3 +1188,35 @@ export const LAB_LIFE: { src: string; alt: string; caption: string; width: numbe
     height: 998,
   },
 ];
+
+
+/**
+ * Journal covers featuring the lab's work, carried over from the old Google
+ * Site's Publications page (Daniel, 30 Aug 2026). Captions name only what the
+ * cover itself prints. The Evolutionary Ecology cover existed only as a
+ * 138x189 thumbnail and is left out until a larger copy is available.
+ */
+export const COVERS: { src: string; alt: string; caption: string; href?: string; width: number; height: number }[] = [
+  {
+    src: "/images/cover-science-advances-2022.jpg",
+    alt: "Science Advances cover, 13 May 2022: a horned chameleon on a branch",
+    caption: "Science Advances, 13 May 2022",
+    width: 874,
+    height: 1200,
+  },
+  {
+    src: "/images/cover-jeb-evol-biol-2021.jpg",
+    alt: "Journal of Evolutionary Biology cover, volume 34 issue 3, March 2021: a lizard on leaf litter",
+    caption: "Journal of Evolutionary Biology 34(3), March 2021",
+    width: 730,
+    height: 1000,
+  },
+  {
+    src: "/images/cover-j-exp-biol-2024.jpg",
+    alt: "Journal of Experimental Biology cover, volume 227 issue 24, December 2024: a skink on a dead leaf",
+    caption: "Journal of Experimental Biology 227(24), December 2024",
+    href: "https://journals.biologists.com/jeb/issue/227/24",
+    width: 520,
+    height: 675,
+  },
+];
