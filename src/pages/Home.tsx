@@ -102,8 +102,11 @@ function Hero() {
               <Wordmark />
             </h1>
 
+            {/* The last word of the strapline drops to its own line (Daniel, 30 Aug 2026). */}
             <p className="mt-5 max-w-2xl font-display text-xl font-medium leading-snug text-charcoal sm:text-2xl">
-              {SITE.strapline}
+              {SITE.strapline.split(" ").slice(0, -1).join(" ")}
+              <br />
+              {SITE.strapline.split(" ").slice(-1)[0]}
             </p>
 
             <div className="mt-6 max-w-xl space-y-3">
