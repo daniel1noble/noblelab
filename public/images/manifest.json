@@ -1767,5 +1767,14 @@
     "bytes": 218979,
     "alt": "Noble Lab logo",
     "use": "favicon"
+  },
+  {
+    "file": "people-qian-hu.jpg",
+    "source": "originals/people/QIAN.jpg (supplied by Daniel, 31 Aug 2026); metadata stripped",
+    "width": 586,
+    "height": 600,
+    "bytes": 54496,
+    "alt": "Portrait of Qian Hu",
+    "use": "portrait"
   }
 ]

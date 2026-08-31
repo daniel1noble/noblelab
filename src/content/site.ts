@@ -502,6 +502,22 @@ export const MEMBER_GROUPS: MemberGroup[] = [
     ],
   },
   {
+    // Visitors (Daniel, 31 Aug 2026). Text verbatim from docs/people/Text-Qian.docx.
+    name: "Visitors",
+    members: [
+      {
+        name: "Qian Hu",
+        role: "Visiting PhD student",
+        years: "(2025 – Present)",
+        photo: "/images/people-qian-hu.jpg",
+        bio: [
+          "I'm a PhD student at Beijing Forestry University, currently based at ANU for a year-long research placement in the Dan Lab. My research explores how birds adjust their reproductive strategies and parental care to changing thermal environments, and how these adjustments shape embryonic development and reproductive outcomes. Here at ANU, I'm using meta-analysis to investigate how incubation temperature influences avian embryonic development, and how reproductive strategies shape thermal plasticity across species.",
+        ],
+        links: [{ label: "Website", href: "https://awingqian.github.io/QianWebpage/" }],
+      },
+    ],
+  },
+  {
     name: "Past Postdoctoral Researchers",
     members: [
       {
