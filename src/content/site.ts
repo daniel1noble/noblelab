@@ -761,6 +761,7 @@ export const SOFTWARE: SoftwarePackage[] = [
       src: "/images/figure-bayestls.webp",
       alt: "Heat-injury accumulation and predicted survival under field temperature–time series, panels for a vinegar fly by sex and three cereal aphid species",
     },
+    hex: "/images/hex-bayestls.png",
   },
   {
     // description: the first sentence of the Description field on
@@ -782,6 +783,7 @@ export const SOFTWARE: SoftwarePackage[] = [
       src: "/images/figure-freqtls.webp",
       alt: "Posterior densities of thermal sensitivity (z) and the critical thermal limit (CTmax) across four case studies",
     },
+    hex: "/images/hex-freqtls.png",
   },
   {
     // description: the old Google Site, unchanged. Version and links:

@@ -1776,5 +1776,23 @@
     "bytes": 54496,
     "alt": "Portrait of Qian Hu",
     "use": "portrait"
+  },
+  {
+    "file": "hex-bayestls.png",
+    "source": "originals/hex/bayesTLS-hex.png (hex sticker made by Daniel, 1 Sep 2026); resized to 300 px",
+    "width": 262,
+    "height": 300,
+    "bytes": 75334,
+    "alt": "bayesTLS hex sticker",
+    "use": "logo"
+  },
+  {
+    "file": "hex-freqtls.png",
+    "source": "originals/hex/freqTLS-hex.png (hex sticker made by Daniel, 1 Sep 2026); resized to 300 px",
+    "width": 262,
+    "height": 300,
+    "bytes": 53128,
+    "alt": "freqTLS hex sticker",
+    "use": "logo"
   }
 ]
