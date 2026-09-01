@@ -151,3 +151,18 @@ export function titleKey(title: string) {
     .filter((w) => w.length > 2 && !STOP.has(w))
     .join(" ");
 }
+
+/**
+ * DOI -> hosted PDF, built from public/pdfs by scripts/build-pdf-index.mjs.
+ * Kept out of publications.json because that file is rebuilt nightly.
+ */
+export type PdfIndex = { updated: string; count: number; pdfs: Record<string, { file: string; bytes: number }> };
+
+export function usePdfs() {
+  return useJSON<PdfIndex>(publicUrl("/data/pdfs.json"));
+}
+
+/** The key a DOI takes in that index: lower case, anything odd becomes "-". */
+export function pdfKey(doi: string | null): string | null {
+  return doi ? doi.toLowerCase().replace(/[^a-z0-9._-]+/g, "-") : null;
+}

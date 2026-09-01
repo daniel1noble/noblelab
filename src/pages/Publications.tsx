@@ -3,7 +3,7 @@ import { motion } from "framer-motion";
 import { COVERS, HIGHLIGHTED_DOIS, LINKS } from "../content/site";
 import { publicUrl } from "../lib/publicUrl";
 import { NEUTRAL, PALETTE } from "../content/palette";
-import { titleKey, usePublications, useScholar, type Publication } from "../lib/useData";
+import { titleKey, usePublications, useScholar, type Publication, usePdfs, pdfKey } from "../lib/useData";
 import { Chip, Container, GhostButton, PageHero, Reveal } from "../components/ui";
 import { Icon } from "../components/Icons";
 
@@ -55,6 +55,10 @@ function Authors({ pub, max = 12 }: { pub: Publication; max?: number }) {
  */
 function PubLinks({ pub, showPreprint = true }: { pub: Publication; showPreprint?: boolean }) {
   const preprintIsUseful = showPreprint && Boolean(pub.preprintUrl) && !pub.isOA;
+  // A copy hosted on this site, where one exists (see scripts/build-pdf-index.mjs).
+  const pdfs = usePdfs();
+  const key = pdfKey(pub.doi);
+  const pdf = key ? pdfs?.pdfs?.[key] : undefined;
   return (
     <div className="mt-4 flex flex-wrap items-center gap-x-4 gap-y-2 text-sm">
       {pub.url && (
@@ -65,6 +69,17 @@ function PubLinks({ pub, showPreprint = true }: { pub: Publication; showPreprint
           className="font-medium text-gold transition hover:text-brick"
         >
           {pub.doi ? "DOI" : "Link"}
+        </a>
+      )}
+      {pdf && (
+        <a
+          href={publicUrl(pdf.file)}
+          target="_blank"
+          rel="noreferrer"
+          className="font-medium text-gold transition hover:text-brick"
+          title={`Download the PDF (${Math.max(1, Math.round(pdf.bytes / 1048576 * 10) / 10)} MB)`}
+        >
+          PDF
         </a>
       )}
       {pub.oaUrl && (
