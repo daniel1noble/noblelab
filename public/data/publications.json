@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-02",
+ "updated": "2026-09-03",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -1052,7 +1052,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/nph.70525",
    "url": "https://doi.org/10.1111/nph.70525",
-   "citations": 4,
+   "citations": 5,
    "abstract": "Summary Our understanding of how photosynthetic capacity varies among C4 species and across growth and measurement conditions remains limited. We collated 1696 CO2 response curves of net CO2 assimilation rate (A/Ci curves) from C4 species grown and measured at various environmental conditions and used these data to estimate the apparent maximum carboxylation activity of phosphoenolpyruvate carboxylase (VpmaxA) and CO2‐saturated net photosynthetic rate (Amax), two key parameters describing photosynthetic capacity. We examined how VpmaxA and Amax vary with species‐specific traits, growth and measurement conditions. We found little systematic variation of VpmaxA and Amax across the classical C4 biochemical subtypes or growth forms, but showed that growth temperature and measurement conditions are major factors determining C4 photosynthetic capacity. We found no evidence that common C4 model species (e.g. maize, sorghum and Setaria viridis) differ in photosynthetic capacity from other C4 species when grown in controlled environments. However, C4 model species showed up to twice the photosynthetic capacity of other C4 species when grown in the field. Our multivariate model accounts for 47–51% of the variation reported in VpmaxA and Amax, and we argue that environmental conditions have a greater influence on C4 photosynthetic capacity than biochemical subtypes or growth forms.",
    "preprintUrl": null,
    "altmetric": null
@@ -2762,7 +2762,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/counter/pdf/10.1186/s12915-022-01485-y",
    "url": "https://doi.org/10.1186/s12915-022-01485-y",
-   "citations": 79,
+   "citations": 80,
    "abstract": "Collaborative efforts to directly replicate empirical studies in the medical and social sciences have revealed alarmingly low rates of replicability, a phenomenon dubbed the 'replication crisis'. Poor replicability has spurred cultural changes targeted at improving reliability in these disciplines. Given the absence of equivalent replication projects in ecology and evolutionary biology, two inter-related indicators offer the opportunity to retrospectively assess replicability: publication bias and statistical power. This registered report assesses the prevalence and severity of small-study (i.e., smaller studies reporting larger effect sizes) and decline effects (i.e., effect sizes decreasing over time) across ecology and evolutionary biology using 87 meta-analyses comprising 4,250 primary studies and 17,638 effect sizes. Further, we estimate how publication bias might distort the estimation of effect sizes, statistical power, and errors in magnitude (Type M or exaggeration ratio) and sign (Type S). We show strong evidence for the pervasiveness of both small-study and decline effects in ecology and evolution. There was widespread prevalence of publication bias that resulted in meta-analytic means being over-estimated by (at least) 0.12 standard deviations. The prevalence of publication bias distorted confidence in meta-analytic results, with 66% of initially statistically significant meta-analytic means becoming non-significant after correcting for publication bias. Ecological and evolutionary studies consistently had low statistical power (15%) with a 4-fold exaggeration of effects on average (Type M error rates = 4.4). Notably, publication bias reduced power from 23% to 15% and increased type M error rates from 2.7 to 4.4 because it creates a non-random sample of effect size evidence. The sign errors of effect sizes (Type S error) increased from 5% to 8% because of publication bias. Our research provides clear evidence that many published ecological and evolutionary findings are inflated. Our results highlight the importance of designing high-power empirical studies (e.g., via collaborative team science), promoting and encouraging replication studies, testing and correcting for publication bias in meta-analyses, and adopting open and transparent research practices, such as (pre)registration, data- and code-sharing, and transparent reporting.",
    "preprintUrl": null,
    "altmetric": null
@@ -3690,7 +3690,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 694,
+   "citations": 695,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -3756,7 +3756,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 477,
+   "citations": 478,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -5090,7 +5090,7 @@
    "isOA": true,
    "oaUrl": "http://hdl.handle.net/1885/164667",
    "url": "https://doi.org/10.1016/j.tree.2018.11.007",
-   "citations": 259,
+   "citations": 260,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -6066,7 +6066,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 577,
+   "citations": 578,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
