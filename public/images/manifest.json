@@ -1794,5 +1794,41 @@
     "bytes": 53128,
     "alt": "freqTLS hex sticker",
     "use": "logo"
+  },
+  {
+    "file": "people-fonti-kar.jpg",
+    "source": "https://fontikar.github.io/images/fonti_moss.jpg (her own website); square centre crop, metadata stripped (1 Sep 2026)",
+    "width": 600,
+    "height": 600,
+    "bytes": 135310,
+    "alt": "Portrait of Fonti Kar",
+    "use": "portrait"
+  },
+  {
+    "file": "people-birgit-szabo.jpg",
+    "source": "https://ecobird.ugent.be/images/t/pasted-image-450.jpg (Ghent University group page); square centre crop, metadata stripped (1 Sep 2026)",
+    "width": 450,
+    "height": 450,
+    "bytes": 29628,
+    "alt": "Portrait of Birgit Szabo",
+    "use": "portrait"
+  },
+  {
+    "file": "people-julia-riley.jpg",
+    "source": "https://www.mta.ca/directory/julia-riley (Mount Allison University staff page); square centre crop, metadata stripped (1 Sep 2026)",
+    "width": 280,
+    "height": 280,
+    "bytes": 22915,
+    "alt": "Portrait of Julia Riley",
+    "use": "portrait"
+  },
+  {
+    "file": "people-maider-iglesias-carrasco.jpg",
+    "source": "The Conversation author profile (theconversation.com/profiles/maider-iglesias-carrasco-1536710); square centre crop, metadata stripped (1 Sep 2026)",
+    "width": 238,
+    "height": 238,
+    "bytes": 17372,
+    "alt": "Portrait of Maider Iglesias-Carrasco",
+    "use": "portrait"
   }
 ]

@@ -542,6 +542,37 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         links: [],
       },
       {
+        // Six-month postdoc with Daniel (his account, 1 Sep 2026). Current role and
+        // PhD from theconversation.com/profiles/maider-iglesias-carrasco-1536710.
+        name: "Dr. Maider Iglesias-Carrasco",
+        role: "Past postdoctoral researcher",
+        photo: "/images/people-maider-iglesias-carrasco.jpg",
+        bio: [
+          "Maider studies how human-altered habitats affect the behaviour and physiology of animals, and the long-term consequences of those effects. She is now a postdoctoral researcher at the Estacion Biologica de Donana (EBD-CSIC) in Seville.",
+        ],
+        links: [
+          { label: "Google Scholar", href: "https://scholar.google.com/citations?user=nAoSHNUAAAAJ" },
+          { label: "ORCID", href: "https://orcid.org/0000-0003-0349-7967" },
+        ],
+      },
+      {
+        // Endeavour Fellowship at UNSW, co-hosted with Lisa Schwanz (Daniel's account).
+        // Current role: mta.ca/directory/julia-riley.
+        name: "Dr. Julia Riley",
+        role: "Past postdoctoral researcher",
+        years: "(2017 - 2018)",
+        note: "Co-hosted with Lisa Schwanz",
+        photo: "/images/people-julia-riley.jpg",
+        bio: [
+          "Julia's research spans the natural history, behavioural ecology, evolutionary biology and conservation of amphibians and reptiles. She is now an Associate Professor at Mount Allison University and Canada Research Chair in Integrative Wildlife Ecology.",
+        ],
+        links: [
+          { label: "Website", href: "https://www.rbglabs.ca/rileyecology-welcome" },
+          { label: "Google Scholar", href: "https://scholar.google.com/citations?user=SYDzQYEAAAAJ" },
+          { label: "ORCID", href: "https://orcid.org/0000-0001-7691-6910" },
+        ],
+      },
+      {
         name: "Dr. Essie Rodgers",
         role: "Past postdoctoral researcher",
         years: "(2019 – 2020)",
@@ -556,6 +587,54 @@ export const MEMBER_GROUPS: MemberGroup[] = [
   {
     name: "Lab alumni",
     members: [
+      {
+        // PhD UNSW 2016-2021 (her ORCID/site); co-advised with Shinichi Nakagawa.
+        // Current role: research.monash.edu/en/persons/fonti-kar.
+        name: "Dr. Fonti Kar",
+        role: "Past PhD student",
+        years: "(2016 - 2021)",
+        note: "Co-advised with Shinichi Nakagawa",
+        photo: "/images/people-fonti-kar.jpg",
+        bio: [
+          "Fonti's PhD asked how developmental temperature shapes phenotypic development and evolution. She is now a Lecturer in Econometrics and Business Statistics at Monash University, and describes herself as an evolutionary biologist wearing R developer and educator shoes.",
+        ],
+        links: [
+          { label: "Website", href: "https://fontikar.github.io/" },
+          { label: "Google Scholar", href: "https://scholar.google.com/citations?user=4hGqp6sAAAAJ" },
+          { label: "ORCID", href: "https://orcid.org/0000-0002-2760-3974" },
+          { label: "GitHub", href: "https://github.com/fontikar" },
+          { label: "Bluesky", href: "https://bsky.app/profile/fontikar.bsky.social" },
+        ],
+      },
+      {
+        // PhD Macquarie 2016-2019 (ORCID). Pronouns they/them, per their own Bluesky bio.
+        name: "Dr. Birgit Szabo",
+        role: "Past PhD student",
+        years: "(2016 - 2019)",
+        photo: "/images/people-birgit-szabo.jpg",
+        bio: [
+          "Birgit's PhD studied behavioural flexibility and learning in lizards of the Egernia group. They are now a postdoctoral researcher at Ghent University, linking early-life experience to the development of behaviour and cognition to improve welfare in chickens.",
+        ],
+        links: [
+          { label: "Website", href: "https://birgitszabo.wixsite.com/cogsciresearch" },
+          { label: "Google Scholar", href: "https://scholar.google.com/citations?user=BtJUB2YAAAAJ" },
+          { label: "ORCID", href: "https://orcid.org/0000-0002-3226-8621" },
+          { label: "Bluesky", href: "https://bsky.app/profile/birgitszabo.bsky.social" },
+        ],
+      },
+      {
+        // PhD University of Tasmania, completed 2018; Geoff While main advisor,
+        // Daniel co-advisor (his account). Current role: discover.utas.edu.au.
+        name: "Kirke L. Munch",
+        role: "Past PhD student",
+        years: "(completed 2018)",
+        note: "Co-advised with Geoff While at the University of Tasmania",
+        photo: null,
+        bio: [
+          "Kirke's PhD, Learning from lizards, examined the causes and consequences of plasticity. She is now a Senior Research Project Officer in the Office of Health at the University of Tasmania.",
+        ],
+        links: [{ label: "ORCID", href: "https://orcid.org/0000-0003-2929-6805" }],
+      },
       {
         name: "Niamh O'Kelly",
         role: "Past Honours student",
