@@ -658,7 +658,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
       {
         // PhD University of Tasmania, completed 2018; Geoff While main advisor,
         // Daniel co-advisor (his account). Current role: discover.utas.edu.au.
-        name: "Kirke L. Munch",
+        name: "Dr. Kirke L. Munch",
         role: "Past PhD student",
         years: "(2015 - 2019)",
         note: "Co-advised with Geoff While at the University of Tasmania",
@@ -669,7 +669,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         links: [{ label: "ORCID", href: "https://orcid.org/0000-0003-2929-6805" }],
       },
       {
-        name: "Pablo Recio",
+        name: "Dr. Pablo Recio",
         role: "Past PhD student",
         years: "(2022 – 2025)",
         now: "Now a postdoctoral researcher at Flinders University",
