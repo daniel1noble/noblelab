@@ -607,7 +607,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         years: "(2019 – 2020)",
         photo: "/images/people-essie-rodgers.jpg",
         bio: [
-          "Ecophysiology and Conservation Physiology of all things big (crocodiles to be exact) and small (lizards, fish and insects!). Now runs her own physiology lab at the Murdoch University!",
+          "Ecophysiology and Conservation Physiology of all things big (crocodiles to be exact) and small (lizards, fish and insects!). Essie now runs her own physiology lab at Murdoch University.",
         ],
         links: [{ label: "ORCID", href: "https://orcid.org/0000-0003-3514-3653" },
           { label: "Google Scholar", href: "https://scholar.google.com.au/citations?user=EOQ65N4AAAAJ" },
