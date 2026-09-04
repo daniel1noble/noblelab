@@ -489,16 +489,6 @@ export const MEMBER_GROUPS: MemberGroup[] = [
   {
     name: "MSc/Honours Students",
     members: [
-      {
-        name: "Niamh O'Kelly",
-        role: "MSc/Honours student",
-        years: "(2025 – 2026)",
-        photo: "/images/people-niamh-okelly.jpg",
-        bio: [
-          "Niamh is co-advised by Bernd Gruber at UC. She's working on developing eDNA sampling protocols for detecting the critically endangered Canberra Earless Dragon",
-        ],
-        links: [],
-      },
     ],
   },
   {
@@ -567,13 +557,23 @@ export const MEMBER_GROUPS: MemberGroup[] = [
     name: "Lab alumni",
     members: [
       {
+        name: "Niamh O'Kelly",
+        role: "Past Honours student",
+        years: "(2025 – 2026)",
+        photo: "/images/people-niamh-okelly.jpg",
+        bio: [
+          "Niamh was co-advised by Bernd Gruber at UC. She worked on developing eDNA sampling protocols for detecting the critically endangered Canberra Earless Dragon.",
+        ],
+        links: [],
+      },
+      {
         name: "Pablo Recio",
         role: "Past PhD student",
         years: "(2022 – 2025)",
         now: "Now a postdoctoral researcher at Flinders University",
         photo: "/images/people-pablo-recio.jpg",
         bio: [
-          "My research focuses mainly on the evolution of animal behaviour, using reptiles as a model species. During my PhD I aim to unravel how maternal condition together with early environment affect cognitive abilities of the delicate skink. I am highly skilled at catching lizards with a fishing rod.",
+          "My research focused mainly on the evolution of animal behaviour, using reptiles as a model species. During my PhD I aimed to unravel how maternal condition together with early environment affect cognitive abilities of the delicate skink. I am highly skilled at catching lizards with a fishing rod.",
         ],
         links: [{ label: "ResearchGate", href: "https://www.researchgate.net/profile/Pablo-Recio" }],
       },
@@ -584,7 +584,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         photo: "/images/people-amelia-peardon.jpg",
         // typo fixed: "challanges" -> "challenges"
         bio: [
-          "Amelia is exploring new approaches to measuring thermal load sensitivity for cells to overcome challenges in applying these methods in vertebrates",
+          "Amelia explored new approaches to measuring thermal load sensitivity for cells, to overcome challenges in applying these methods in vertebrates.",
         ],
         links: [],
       },
@@ -594,7 +594,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         years: "(2024 – 2025)",
         photo: null,
         bio: [
-          "Aidan is looking at how mito-nuclear discordance impacts mitochondrial function in grasshoppers and flour beetles",
+          "Aidan looked at how mito-nuclear discordance impacts mitochondrial function in grasshoppers and flour beetles.",
         ],
         links: [],
       },

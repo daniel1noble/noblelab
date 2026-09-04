@@ -258,7 +258,9 @@ export default function People() {
           </Reveal>
         </section>
 
-        {MEMBER_GROUPS.map((group) => (
+        {/* A group with nobody in it renders nothing, so an empty heading never
+            appears when the last member of a cohort moves to the alumni. */}
+        {MEMBER_GROUPS.filter((g) => g.members.length > 0).map((group) => (
           <section key={group.name} className="mt-20">
             <Reveal>
               <SectionHeading eyebrow="Members" title={group.name} />
