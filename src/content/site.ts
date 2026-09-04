@@ -461,7 +461,9 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "Evolutionary ecologist by passion, physiologist by profession. I use reptiles as a system for identifying relationships between the environment, physiological processes, and fitness and all of its associated phenotypes. During my PhD I aim testing the programmatic effects of early-life experiences (i.e., maternal effects and the developmental environment) on physiological biomarkers of fitness (mitochondrial function, oxidative stress, and DNA damage), life-history tradeoffs, and lifetime reproductive success.",
         ],
-        links: [],
+        links: [
+          { label: "ORCID", href: "https://orcid.org/0000-0001-9645-2033" },
+        ],
       },
       {
         name: "Joel Treutlein",
@@ -518,7 +520,13 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "I’m an evolutionary ecologist exploring how rapid environmental change shapes the physiology, life-history, and behaviour of ectothermic animals. My interests are broad, and I use a combination of evidence synthesis, comparative analyses, and laboratory experiments to address exciting questions in a broad range of organisms. Patrice is now working with Fredrik Jutfelt at Gothenburg University, Sweden",
         ],
-        links: [],
+        links: [
+          { label: "Website", href: "https://patricepottierlab.com/" },
+          { label: "Google Scholar", href: "https://scholar.google.com/citations?user=gg1rV3IAAAAJ" },
+          { label: "ORCID", href: "https://orcid.org/0000-0003-2106-6597" },
+          { label: "GitHub", href: "https://github.com/p-pottier" },
+          { label: "Bluesky", href: "https://bsky.app/profile/patricepottier.bsky.social" },
+        ],
       },
       {
         name: "Dr. Ondi Crino",
@@ -528,7 +536,9 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "Ondi was a postdoctoral researcher working on early environmental effects on physiology and is now running her own lab at Flinder’s University!",
         ],
-        links: [],
+        links: [
+          { label: "ORCID", href: "https://orcid.org/0000-0001-5700-1387" },
+        ],
       },
       {
         name: "Dr. Kris Wild",
@@ -539,7 +549,9 @@ export const MEMBER_GROUPS: MemberGroup[] = [
           // typo fixed: "extraordinaireand" -> "extraordinaire and" (two adjacent spans with no space on the site)
           "Microclimate modeller extraordinaire and sex-reversal whisperer. Kris is now doing a postdoctoral fellowship with Mike Kearney at the University of Melbourne.",
         ],
-        links: [],
+        links: [
+          { label: "ORCID", href: "https://orcid.org/0000-0001-6714-3311" },
+        ],
       },
       {
         // Six-month postdoc with Daniel (his account, 1 Sep 2026). Current role and
@@ -582,7 +594,9 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "Ecophysiology and Conservation Physiology of all things big (crocodiles to be exact) and small (lizards, fish and insects!). Now runs her own physiology lab at the Murdoch University!",
         ],
-        links: [],
+        links: [
+          { label: "ORCID", href: "https://orcid.org/0000-0003-3514-3653" },
+        ],
       },
     ],
   },
@@ -648,7 +662,10 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "My research focused mainly on the evolution of animal behaviour, using reptiles as a model species. During my PhD I aimed to unravel how maternal condition together with early environment affect cognitive abilities of the delicate skink. I am highly skilled at catching lizards with a fishing rod.",
         ],
-        links: [{ label: "ResearchGate", href: "https://www.researchgate.net/profile/Pablo-Recio" }],
+        links: [
+          { label: "ResearchGate", href: "https://www.researchgate.net/profile/Pablo-Recio" },
+          { label: "ORCID", href: "https://orcid.org/0000-0002-5890-0218" },
+        ],
       },
     ],
   },
@@ -686,7 +703,9 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "Amelia explored new approaches to measuring thermal load sensitivity for cells, to overcome challenges in applying these methods in vertebrates.",
         ],
-        links: [],
+        links: [
+          { label: "ORCID", href: "https://orcid.org/0009-0005-6227-8379" },
+        ],
       },
       {
         name: "Aidan Lowe",
