@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-03",
+ "updated": "2026-09-04",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -201,6 +201,72 @@
    "url": "https://doi.org/10.1098/rspb.2026.0243",
    "citations": 2,
    "abstract": "Maternal stress and the developmental environment jointly affect offspring fitness and phenotype during early life. Mothers transmit stress to offspring through the deposition of hormones and energy into developing embryos, who are themselves subject to environmental stressors. A species' life-history strategy (e.g. size and number of eggs) may further buffer or exacerbate the effects of developmental stress on offspring. We experimentally tested the joint effects of stress hormones (exogenous corticosterone applied directly to eggs) and the developmental environment (incubation temperature) on the hatching success and size of two lizards (Lampropholis delicata and Lampropholis guichenoti) that differ in maternal investment strategy. Hatching success was reduced by corticosterone exposure, but only in L. delicata, which produces clutches of more numerous but smaller eggs than L. guichenoti. Hatchling size in both species, however, was reduced by corticosterone exposure, incubation at high temperatures or both. In both species, maternal investment (egg size) was the best predictor of hatching success and hatchling size, regardless of treatment. Our findings suggest that, both within species and between species, greater maternal investment buffers offspring from maternal and developmental stress effects on early-life fitness (survival) but does not prevent their effects on fitness-associated phenotypes (hatchling size).",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1111/ele.70428",
+   "doi": "10.1111/ele.70428",
+   "title": "A New Effect Size for Meta‐Analysis of Magnitude: lnM",
+   "authors": [
+    {
+     "name": "Shinichi Nakagawa",
+     "orcid": "https://orcid.org/0000-0002-7765-5182",
+     "isSelf": false
+    },
+    {
+     "name": "Ayumi Mizuno",
+     "orcid": "https://orcid.org/0000-0003-0822-5637",
+     "isSelf": false
+    },
+    {
+     "name": "Coralie Williams",
+     "orcid": "https://orcid.org/0000-0003-1312-4953",
+     "isSelf": false
+    },
+    {
+     "name": "Malgorzata Lagisz",
+     "orcid": "https://orcid.org/0000-0002-3993-6127",
+     "isSelf": false
+    },
+    {
+     "name": "Rose E. O'Dea",
+     "orcid": "https://orcid.org/0000-0001-8177-5075",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Alistair M. Senior",
+     "orcid": "https://orcid.org/0000-0001-9805-7280",
+     "isSelf": false
+    },
+    {
+     "name": "Erick Lundgren",
+     "orcid": "https://orcid.org/0000-0001-9893-3324",
+     "isSelf": false
+    },
+    {
+     "name": "Santiago Ortega",
+     "orcid": "https://orcid.org/0000-0002-3518-276X",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Shinichi Nakagawa, Ayumi Mizuno, Coralie Williams, Malgorzata Lagisz, Rose E. O'Dea, Daniel W. A. Noble, Alistair M. Senior, Erick Lundgren, Santiago Ortega",
+   "journal": "Ecology Letters",
+   "year": 2026,
+   "volume": "29",
+   "issue": "9",
+   "pages": null,
+   "kind": "article",
+   "isOA": false,
+   "oaUrl": null,
+   "url": "https://doi.org/10.1111/ele.70428",
+   "citations": 0,
+   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -3860,7 +3926,7 @@
    "pages": "321-332",
    "kind": "article",
    "isOA": true,
-   "oaUrl": "https://hal.science/hal-04203291",
+   "oaUrl": "https://archimer.ifremer.fr/doc/00669/78061/",
    "url": "https://doi.org/10.1016/j.tree.2020.12.006",
    "citations": 200,
    "abstract": null,
