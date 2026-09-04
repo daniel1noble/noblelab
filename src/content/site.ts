@@ -451,7 +451,11 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "I’ve moved to Canberra after an undergrad, honours and lots of field assistant work in the Australian tropics. My research here at ANU will focus on the implications of sex-reversal in a local alpine skink species, including looking at the ways sexual phenotypes or genotypes might impact behaviour, cognition, and mating traits. Understanding how sex-reversal impacts fitness is vital for predicting the future directions of populations prone to this phenomenon",
         ],
-        links: [],
+        links: [
+          { label: "Website", href: "https://biology.anu.edu.au/people/naomi-laven" },
+          { label: "ORCID", href: "https://orcid.org/0009-0004-0672-4197" },
+          { label: "GitHub", href: "https://github.com/Naomi-Laven" },
+        ],
       },
       {
         name: "Dalton Leibold",
@@ -461,8 +465,9 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "Evolutionary ecologist by passion, physiologist by profession. I use reptiles as a system for identifying relationships between the environment, physiological processes, and fitness and all of its associated phenotypes. During my PhD I aim testing the programmatic effects of early-life experiences (i.e., maternal effects and the developmental environment) on physiological biomarkers of fitness (mitochondrial function, oxidative stress, and DNA damage), life-history tradeoffs, and lifetime reproductive success.",
         ],
-        links: [
-          { label: "ORCID", href: "https://orcid.org/0000-0001-9645-2033" },
+        links: [{ label: "ORCID", href: "https://orcid.org/0000-0001-9645-2033" },
+          { label: "Website", href: "https://biology.anu.edu.au/people/dalton-leibold" },
+          { label: "GitHub", href: "https://github.com/daltonleibold" },
         ],
       },
       {
@@ -474,7 +479,12 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "Joel is interested in the consequences of future heatwave trends on ecosystems given carbon emission targets. His research interests span multiple disciplines and combine high-resolution climate modelling with ecological analyses such as the use of microclimate and biophysical models. The primary objective of his work is to determine how heatwaves are changing at an ecologically-relevant fine-scale, and subsequently their predicted ecological impacts.",
         ],
-        links: [],
+        links: [
+          { label: "Website", href: "https://fennerschool.anu.edu.au/people/joel-treutlein" },
+          { label: "ORCID", href: "https://orcid.org/0009-0008-7952-4101" },
+          { label: "Bluesky", href: "https://bsky.app/profile/jatreutlein.bsky.social" },
+          { label: "GitHub", href: "https://github.com/Jatreutlein" },
+        ],
       },
       {
         name: "Xinyi Liu",
@@ -484,7 +494,9 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "I moved from my MSc into a PhD at ANU, where I study the effects of micro-plastics on freshwater aquatic insects. My current research focuses on how plastic pollution and temperature interact to affect life-history traits such as survival, growth, development, and emergence. Using chironomid midges as a model system, I am interested in understanding how responses to micro-plastics vary across life stages and environmental conditions. My work combines experimental approaches with evidence synthesis to better understand the ecological impacts of plastic pollution in freshwater ecosystems.",
         ],
-        links: [],
+        links: [
+          { label: "Website", href: "https://biology.anu.edu.au/people/xinyi-liu" },
+        ],
       },
     ],
   },
@@ -536,8 +548,9 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "Ondi was a postdoctoral researcher working on early environmental effects on physiology and is now running her own lab at Flinder’s University!",
         ],
-        links: [
-          { label: "ORCID", href: "https://orcid.org/0000-0001-5700-1387" },
+        links: [{ label: "ORCID", href: "https://orcid.org/0000-0001-5700-1387" },
+          { label: "Website", href: "http://ondicrino.com/" },
+          { label: "Google Scholar", href: "https://scholar.google.com.au/citations?user=7cYBoaEAAAAJ" },
         ],
       },
       {
@@ -549,8 +562,10 @@ export const MEMBER_GROUPS: MemberGroup[] = [
           // typo fixed: "extraordinaireand" -> "extraordinaire and" (two adjacent spans with no space on the site)
           "Microclimate modeller extraordinaire and sex-reversal whisperer. Kris is now doing a postdoctoral fellowship with Mike Kearney at the University of Melbourne.",
         ],
-        links: [
-          { label: "ORCID", href: "https://orcid.org/0000-0001-6714-3311" },
+        links: [{ label: "ORCID", href: "https://orcid.org/0000-0001-6714-3311" },
+          { label: "Website", href: "https://www.kwildresearch.com/" },
+          { label: "Google Scholar", href: "https://scholar.google.com.au/citations?user=qs5BEjEAAAAJ" },
+          { label: "GitHub", href: "https://github.com/kris-wild" },
         ],
       },
       {
@@ -594,8 +609,8 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "Ecophysiology and Conservation Physiology of all things big (crocodiles to be exact) and small (lizards, fish and insects!). Now runs her own physiology lab at the Murdoch University!",
         ],
-        links: [
-          { label: "ORCID", href: "https://orcid.org/0000-0003-3514-3653" },
+        links: [{ label: "ORCID", href: "https://orcid.org/0000-0003-3514-3653" },
+          { label: "Google Scholar", href: "https://scholar.google.com.au/citations?user=EOQ65N4AAAAJ" },
         ],
       },
     ],
@@ -692,7 +707,9 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "Niamh was co-advised by Bernd Gruber at UC. She worked on developing eDNA sampling protocols for detecting the critically endangered Canberra Earless Dragon.",
         ],
-        links: [],
+        links: [
+          { label: "Website", href: "https://biology.anu.edu.au/people/niamh-caitlin-okelly" },
+        ],
       },
       {
         name: "Amelia Peardon",
@@ -703,8 +720,8 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         bio: [
           "Amelia explored new approaches to measuring thermal load sensitivity for cells, to overcome challenges in applying these methods in vertebrates.",
         ],
-        links: [
-          { label: "ORCID", href: "https://orcid.org/0009-0005-6227-8379" },
+        links: [{ label: "ORCID", href: "https://orcid.org/0009-0005-6227-8379" },
+          { label: "Google Scholar", href: "https://scholar.google.com.au/citations?user=fk1qQ8EAAAAJ" },
         ],
       },
       {
