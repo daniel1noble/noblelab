@@ -266,7 +266,12 @@ export default function People() {
               <SectionHeading eyebrow="Members" title={group.name} />
             </Reveal>
             <div className="mt-8 grid gap-5 lg:grid-cols-2">
-              {group.members.map((m, i) => (
+              {/* Cards with a photograph come first, so the initial-avatar cards
+                  fall at the end of a group rather than breaking up the grid
+                  (Daniel, 1 Sep 2026). Stable: order within each half is kept. */}
+              {[...group.members]
+                .sort((a, b) => Number(Boolean(b.photo)) - Number(Boolean(a.photo)))
+                .map((m, i) => (
                 <Reveal key={m.name} delay={i * 0.06} className="h-full">
                   <MemberCard person={m} accent={groupAccent(group.name)} />
                 </Reveal>

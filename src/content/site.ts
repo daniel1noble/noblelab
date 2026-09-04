@@ -587,7 +587,8 @@ export const MEMBER_GROUPS: MemberGroup[] = [
     ],
   },
   {
-    name: "Lab alumni",
+    // The alumni split by degree (Daniel, 1 Sep 2026).
+    name: "Past PhD students",
     members: [
       {
         // PhD UNSW 2016-2021 (her ORCID/site); co-advised with Shinichi Nakagawa.
@@ -639,6 +640,22 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         links: [{ label: "ORCID", href: "https://orcid.org/0000-0003-2929-6805" }],
       },
       {
+        name: "Pablo Recio",
+        role: "Past PhD student",
+        years: "(2022 – 2025)",
+        now: "Now a postdoctoral researcher at Flinders University",
+        photo: "/images/people-pablo-recio.jpg",
+        bio: [
+          "My research focused mainly on the evolution of animal behaviour, using reptiles as a model species. During my PhD I aimed to unravel how maternal condition together with early environment affect cognitive abilities of the delicate skink. I am highly skilled at catching lizards with a fishing rod.",
+        ],
+        links: [{ label: "ResearchGate", href: "https://www.researchgate.net/profile/Pablo-Recio" }],
+      },
+    ],
+  },
+  {
+    name: "Past Honours students",
+    members: [
+      {
         // Honours (H2A), ANU, 2020; primary supervisor Daniel. Thesis title and year
         // from the promotion CV (ANU_Promotion/cv-noble/cv-noble.pdf, p. 7).
         name: "Eoin Noble",
@@ -659,17 +676,6 @@ export const MEMBER_GROUPS: MemberGroup[] = [
           "Niamh was co-advised by Bernd Gruber at UC. She worked on developing eDNA sampling protocols for detecting the critically endangered Canberra Earless Dragon.",
         ],
         links: [],
-      },
-      {
-        name: "Pablo Recio",
-        role: "Past PhD student",
-        years: "(2022 – 2025)",
-        now: "Now a postdoctoral researcher at Flinders University",
-        photo: "/images/people-pablo-recio.jpg",
-        bio: [
-          "My research focused mainly on the evolution of animal behaviour, using reptiles as a model species. During my PhD I aimed to unravel how maternal condition together with early environment affect cognitive abilities of the delicate skink. I am highly skilled at catching lizards with a fishing rod.",
-        ],
-        links: [{ label: "ResearchGate", href: "https://www.researchgate.net/profile/Pablo-Recio" }],
       },
       {
         name: "Amelia Peardon",
