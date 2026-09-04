@@ -546,6 +546,8 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         // PhD from theconversation.com/profiles/maider-iglesias-carrasco-1536710.
         name: "Dr. Maider Iglesias-Carrasco",
         role: "Past postdoctoral researcher",
+        years: "(2020 - 2021)",
+        note: "ANU Futures Postdoctoral Fellow",
         photo: "/images/people-maider-iglesias-carrasco.jpg",
         bio: [
           "Maider studies how human-altered habitats affect the behaviour and physiology of animals, and the long-term consequences of those effects. She is now a postdoctoral researcher at the Estacion Biologica de Donana (EBD-CSIC) in Seville.",
@@ -560,8 +562,8 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         // Current role: mta.ca/directory/julia-riley.
         name: "Dr. Julia Riley",
         role: "Past postdoctoral researcher",
-        years: "(2017 - 2018)",
-        note: "Co-hosted with Lisa Schwanz",
+        years: "(2018)",
+        note: "Endeavour Research Fellowship at UNSW; co-hosted with Lisa Schwanz",
         photo: "/images/people-julia-riley.jpg",
         bio: [
           "Julia's research spans the natural history, behavioural ecology, evolutionary biology and conservation of amphibians and reptiles. She is now an Associate Professor at Mount Allison University and Canada Research Chair in Integrative Wildlife Ecology.",
@@ -592,8 +594,8 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         // Current role: research.monash.edu/en/persons/fonti-kar.
         name: "Dr. Fonti Kar",
         role: "Past PhD student",
-        years: "(2016 - 2021)",
-        note: "Co-advised with Shinichi Nakagawa",
+        years: "(2015 - 2021)",
+        note: "UNSW; co-advised with Shinichi Nakagawa",
         photo: "/images/people-fonti-kar.jpg",
         bio: [
           "Fonti's PhD asked how developmental temperature shapes phenotypic development and evolution. She is now a Lecturer in Econometrics and Business Statistics at Monash University, and describes herself as an evolutionary biologist wearing R developer and educator shoes.",
@@ -610,7 +612,8 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         // PhD Macquarie 2016-2019 (ORCID). Pronouns they/them, per their own Bluesky bio.
         name: "Dr. Birgit Szabo",
         role: "Past PhD student",
-        years: "(2016 - 2019)",
+        years: "(2015 - 2019)",
+        note: "Macquarie University; co-advised with Martin Whiting",
         photo: "/images/people-birgit-szabo.jpg",
         bio: [
           "Birgit's PhD studied behavioural flexibility and learning in lizards of the Egernia group. They are now a postdoctoral researcher at Ghent University, linking early-life experience to the development of behaviour and cognition to improve welfare in chickens.",
@@ -627,13 +630,25 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         // Daniel co-advisor (his account). Current role: discover.utas.edu.au.
         name: "Kirke L. Munch",
         role: "Past PhD student",
-        years: "(completed 2018)",
+        years: "(2015 - 2019)",
         note: "Co-advised with Geoff While at the University of Tasmania",
         photo: null,
         bio: [
           "Kirke's PhD, Learning from lizards, examined the causes and consequences of plasticity. She is now a Senior Research Project Officer in the Office of Health at the University of Tasmania.",
         ],
         links: [{ label: "ORCID", href: "https://orcid.org/0000-0003-2929-6805" }],
+      },
+      {
+        // Honours (H2A), ANU, 2020; primary supervisor Daniel. Thesis title and year
+        // from the promotion CV (ANU_Promotion/cv-noble/cv-noble.pdf, p. 7).
+        name: "Eoin Noble",
+        role: "Past Honours student",
+        years: "(2020)",
+        photo: null,
+        bio: [
+          "Eoin's Honours thesis looked at the impact of developmental temperature and maternal investment on fitness, metabolism and life history in two species of Australian lizards.",
+        ],
+        links: [],
       },
       {
         name: "Niamh O'Kelly",
