@@ -560,7 +560,7 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         photo: "/images/people-kris-wild.jpg",
         bio: [
           // typo fixed: "extraordinaireand" -> "extraordinaire and" (two adjacent spans with no space on the site)
-          "Microclimate modeller extraordinaire and sex-reversal whisperer. Kris is now doing a postdoctoral fellowship with Mike Kearney at the University of Melbourne.",
+          "Microclimate modeller extraordinaire and sex-reversal whisperer. Kris is now an ARC DECRA Fellow at the University of Melbourne.",
         ],
         links: [{ label: "ORCID", href: "https://orcid.org/0000-0001-6714-3311" },
           { label: "Website", href: "https://www.kwildresearch.com/" },
