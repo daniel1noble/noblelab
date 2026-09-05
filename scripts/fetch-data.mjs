@@ -64,6 +64,17 @@ const ALTMETRIC_LIMIT = 200;
 /** Crossref asks for one request at a time from unauthenticated clients. */
 const POLITE_DELAY = 350;
 
+/**
+ * "YYYY-MM-DD" (or as much of it as the source gives) from a Crossref date
+ * object such as `published-online`. The home page sorts "Latest papers" by
+ * this, so a paper published this week outranks a more-cited one from January.
+ */
+function isoDate(crossrefDate) {
+  const parts = crossrefDate?.["date-parts"]?.[0];
+  if (!parts || !parts[0]) return null;
+  return parts.map((n, i) => (i === 0 ? String(n) : String(n).padStart(2, "0"))).join("-");
+}
+
 /* ------------------------------------------------------------- helpers -- */
 
 const sleep = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -535,6 +546,13 @@ async function main() {
       authorLine: rec.authors.map((a) => a.name).join(", "),
       journal: rec.journal || null,
       year: rec.year ?? null,
+      date:
+        isoDate(cr?.["published-online"]) ||
+        isoDate(cr?.published) ||
+        isoDate(cr?.issued) ||
+        oa?.publication_date ||
+        isoDate(cr?.created) ||
+        (rec.year ? String(rec.year) : null),
       volume: cr?.volume || oa?.biblio?.volume || null,
       issue: cr?.issue || oa?.biblio?.issue || null,
       pages:

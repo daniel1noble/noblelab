@@ -357,6 +357,13 @@ export const THEME_PAPERS: Record<string, ThemePaper[]> = {
   ],
   "statistics-and-software": [
     {
+      // Published Sep 2026 (Daniel, 6 Sep 2026). Volume/issue from publications.json;
+      // the article number is the DOI suffix, as Wiley numbers them.
+      citation:
+        "Nakagawa et al. 2026. A new effect size for meta-analysis of magnitude: lnM. Ecology Letters, 29(9), e70428.",
+      href: "https://doi.org/10.1111/ele.70428",
+    },
+    {
       citation:
         "Noble et al. 2019. Plastic responses to novel environments are biased towards phenotype dimensions with high additive genetic variation. Proceedings of the National Academy of Sciences USA (PNAS), 116, 13452-13461.",
       href: "https://www.pnas.org/doi/abs/10.1073/pnas.1821066116",

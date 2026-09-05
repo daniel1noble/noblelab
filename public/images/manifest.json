@@ -1017,13 +1017,13 @@
   },
   {
     "file": "bg-hero-lizard-right.jpg",
-    "source": "photos_01_banner__2010-05-29 18.22.41.jpg (full-resolution original from Camera Uploads/Photos; crop (353, 496, 3075, 2068); EXIF stripped)",
+    "source": "photos_01_banner__2010-05-29 18.22.41.jpg (full-resolution original from Camera Uploads/Photos; crop (163, 496, 2885, 2068); EXIF stripped)",
     "width": 2722,
     "height": 1572,
-    "bytes": 252915,
+    "bytes": 231827,
     "alt": "Small pale lizard perched on a red rock against blurred orange ground",
     "use": "background",
-    "notes": "Home hero at desktop: 1.73:1 crop with the whole lizard across the right 40% of the band"
+    "notes": "Home hero at desktop: 1.73:1 crop. Re-cropped 6 Sep 2026 (window slid 190 px left in the source) so the lizard sits further right and its head clears the wordmark."
   },
   {
     "file": "collage-painted-dragon.jpg",

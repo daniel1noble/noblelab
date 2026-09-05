@@ -15,6 +15,7 @@ import {
 import { PALETTE } from "../content/palette";
 import { useCollaborators, usePublications, type Publication } from "../lib/useData";
 import { publicUrl } from "../lib/publicUrl";
+import { PubLinks } from "../components/PubLinks";
 import {
   Chip,
   Container,
@@ -42,8 +43,11 @@ function Hero() {
     <section ref={ref} className="relative flex min-h-[92vh] items-center overflow-hidden pt-24">
       <motion.div className="absolute inset-0" style={{ y, opacity }}>
         {/* bg-hero-lizard-right.jpg is the same red-rock frame cropped at the
-            band's own 1.73:1 aspect so the whole lizard fills the right 40%
-            of the hero beside the copy (body centred at 72% of the frame).
+            band's own 1.73:1 aspect so the lizard fills the right third of the
+            hero beside the copy. Re-cropped 6 Sep 2026: the window slid 190 px
+            left in the source, so the head now sits at ~60% of the frame with
+            clear paper between it and the wordmark, and the near hind foot
+            lands at the right edge of the viewport.
             bg-hero-scales.jpg and bg-hero-lizard-mesh.jpg are alternatives.
             Phones get their own crop of the same frame: -mobile-face.jpg is
             573x1141, the aspect of a 390x776 hero, so object-cover shows the
@@ -344,8 +348,12 @@ function LatestPapers() {
   const data = usePublications();
   if (!data) return null;
 
+  // Newest first by publication date (fetch-data.mjs writes "YYYY-MM-DD" where
+  // Crossref gives one), so a paper published this week leads even when a
+  // more-cited one from January would otherwise sort ahead of it.
+  const stamp = (p: Publication) => p.date ?? String(p.year ?? "");
   const latest: Publication[] = [...data.publications]
-    .sort((a, b) => (b.year ?? 0) - (a.year ?? 0))
+    .sort((a, b) => stamp(b).localeCompare(stamp(a)) || b.citations - a.citations)
     .slice(0, 4);
   if (latest.length === 0) return null;
 
@@ -387,6 +395,7 @@ function LatestPapers() {
                     {p.authorLine}
                   </p>
                 </div>
+                <PubLinks pub={p} compact showPreprint={false} />
               </article>
             </Reveal>
           ))}
