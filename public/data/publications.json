@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-04",
+ "updated": "2026-09-05",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -641,7 +641,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.70315",
    "url": "https://doi.org/10.1111/gcb.70315",
-   "citations": 31,
+   "citations": 33,
    "abstract": "Forecasts of vulnerability to climate warming require an integrative understanding of how species are exposed to, are damaged by, and recover from thermal stress in natural environments. The sensitivity of species to temperature depends on the frequency, duration, and magnitude of thermal stress. Thus, there is a generally recognized need to move beyond physiological metrics based solely on critical thermal limits and integrate them with natural heat exposure regimes. Here we propose the thermal load sensitivity (TLS) framework, which integrates biophysical principles for quantifying exposure with physiological principles of the dynamics of damage and repair processes in driving sublethal impacts on organisms. Building upon the established thermal death time (TDT) model, which integrates both the magnitude and duration of stress, the TLS framework attempts to disentangle the accumulation of damage and subsequent repair processes that alter responses to thermal stress. With the aid of case studies and reproducible simulation examples, we discuss how the TLS framework can be applied to enhance our understanding of the ecology and evolution of heat stress responses. These include assessing thermal sensitivity across diverse taxonomic groups, throughout ontogeny, and for modular organisms, as well as integrating additional stressors in combination with temperature. We identify critical research opportunities, knowledge gaps, and novel ways of integrating physiological measures of thermal sensitivity to improve understanding and predictions of thermal vulnerability at various scales across life.",
    "preprintUrl": null,
    "altmetric": null
@@ -3257,7 +3257,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14083",
    "url": "https://doi.org/10.1111/ele.14083",
-   "citations": 146,
+   "citations": 147,
    "abstract": "Understanding the factors affecting thermal tolerance is crucial for predicting the impact climate change will have on ectotherms. However, the role developmental plasticity plays in allowing populations to cope with thermal extremes is poorly understood. Here, we meta-analyse how thermal tolerance is initially and persistently impacted by early (embryonic and juvenile) thermal environments by using data from 150 experimental studies on 138 ectothermic species. Thermal tolerance only increased by 0.13°C per 1°C change in developmental temperature and substantial variation in plasticity (~36%) was the result of shared evolutionary history and species ecology. Aquatic ectotherms were more than three times as plastic as terrestrial ectotherms. Notably, embryos expressed weaker but more heterogenous plasticity than older life stages, with numerous responses appearing as non-adaptive. While developmental temperatures did not have persistent effects on thermal tolerance overall, persistent effects were vastly under-studied, and their direction and magnitude varied with ontogeny. Embryonic stages may represent a critical window of vulnerability to changing environments and we urge researchers to consider early life stages when assessing the climate vulnerability of ectotherms. Overall, our synthesis suggests that developmental changes in thermal tolerance rarely reach levels of perfect compensation and may provide limited benefit in changing environments.",
    "preprintUrl": "https://doi.org/10.22541/au.164573834.49438532/v1",
    "altmetric": null
@@ -5346,7 +5346,7 @@
    "isOA": true,
    "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13118",
    "url": "https://doi.org/10.1111/2041-210x.13118",
-   "citations": 250,
+   "citations": 251,
    "abstract": "Abstract Research synthesis, such as comparative and meta‐analyses, requires the extraction of effect sizes from primary literature, which are commonly calculated from descriptive statistics. However, the exact values of such statistics are commonly hidden in figures. Extracting descriptive statistics from figures can be a slow process that is not easily reproducible. Additionally, current software lacks an ability to incorporate important metadata (e.g. sample sizes, treatment/variable names) about experiments and is not integrated with other software to streamline analysis pipelines. Here we present the r package metaDigitise which extracts descriptive statistics such as means, standard deviations and correlations from four plot types: (a) mean/error plots (e.g. bar graphs with standard errors), (b) box plots, (c) scatter plots and (d) histograms. metaDigitise is user‐friendly and easy to learn as it interactively guides the user through the data extraction process. Notably, it enables large‐scale extraction by automatically loading image files, letting the user stop processing, edit and add to the resulting data‐frame at any point. Digitised data can be easily re‐plotted and checked, facilitating reproducible data extraction from plots with little inter‐observer bias. We hope that by making the process of figure extraction more flexible and easy to conduct, it will improve the transparency and quality of meta‐analyses in the future.",
    "preprintUrl": null,
    "altmetric": null
