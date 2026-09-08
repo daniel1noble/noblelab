@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-07",
+ "updated": "2026-09-08",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -817,7 +817,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.70095",
    "url": "https://doi.org/10.1111/1365-2656.70095",
-   "citations": 12,
+   "citations": 13,
    "abstract": "Climate change and human activities are elevating the level and variability of salinity in freshwater ecosystems. Consequently, many aquatic species now experience more extreme developmental environments. Resultant shifts in developmental trajectories could change key life-history traits that persist into adulthood. The 'silver spoon' hypothesis posits that favourable developmental conditions lead to faster growth, earlier maturation and greater reproductive success. In contrast, the 'predictable adaptive response' hypothesis suggests that faster growth and earlier reproduction should be selected for under stressful developmental conditions because stress provides cues about a higher risk of mortality in future environments. To understand life-history responses to salinity during development, we reared a global pest, mosquitofish (Gambusia holbrooki), from birth in either freshwater control (0‰), stable-saline (10‰), or fluctuating-saline environments (0‰-20‰; mean = 10‰) until maturation. We then monitored their performance in early and late adulthood in a common garden setting. Fish in fluctuating salinity grew more slowly and had a reduced reproductive output (lower sperm count, smaller eggs) than those in stable elevated salinity. These differences are consistent with a more stable environment providing a 'silver spoon' effect. Conversely, fish in stable elevated salinity grew faster and matured earlier than those in freshwater, supporting a 'predictive adaptive response' whereby salinity is a stressor triggering faster development and accelerates reproduction. In addition, fluctuations in salinity altered the effect of higher salinity on self-maintenance. Stable elevated salinity caused a decrease in male telomere length and female gut length, but fluctuating salinity caused an increase in female gut length. Our results suggest that fluctuating versus stable salinity during development leads to distinct fish life histories. The effect sizes for some traits differed significantly between males and females, suggesting sex-specific responses to climate fluctuations.",
    "preprintUrl": "https://doi.org/10.1101/2024.02.01.578515",
    "altmetric": null
@@ -1547,7 +1547,7 @@
    "pages": "20241487",
    "kind": "article",
    "isOA": true,
-   "oaUrl": "https://pure.knaw.nl/portal/en/publications/13dc11b8-5ad3-4c8b-9ccc-f452053c2e41",
+   "oaUrl": "https://lirias.kuleuven.be/retrieve/66e721cf-0196-47ca-8750-aca767873833",
    "url": "https://doi.org/10.1098/rspb.2024.1487",
    "citations": 4,
    "abstract": "Publishing preprints is quickly becoming commonplace in ecology and evolutionary biology. Preprints can facilitate the rapid sharing of scientific knowledge establishing precedence and enabling feedback from the research community before peer review. Yet, significant barriers to preprint use exist, including language barriers, a lack of understanding about the benefits of preprints and a lack of diversity in the types of research outputs accepted (e.g. reports). Community-driven preprint initiatives can allow a research community to come together to break down these barriers to improve equity and coverage of global knowledge. Here, we explore the first preprints uploaded to EcoEvoRxiv ( n = 1216), a community-driven preprint server for ecologists and evolutionary biologists, to characterize preprint use in ecology, evolution and conservation. Our perspective piece highlights some of the unique initiatives that EcoEvoRxiv has taken to break down barriers to scientific publishing by exploring the composition of articles, how gender and career stage influence preprint use, whether preprints are associated with greater open science practices (e.g. code and data sharing) and tracking preprint publication outcomes. Our analysis identifies areas that we still need to improve upon but highlights how community-driven initiatives, such as EcoEvoRxiv , can play a crucial role in shaping publishing practices in biology.",
@@ -5984,7 +5984,7 @@
    "oaUrl": "https://link.springer.com/content/pdf/10.1007/s00442-018-4153-z.pdf",
    "url": "https://doi.org/10.1007/s00442-018-4153-z",
    "citations": 15,
-   "abstract": null,
+   "abstract": "Social learning is thought to be advantageous as it allows an animal to gather information quickly without engaging in costly trial-and-error learning. However, animals should be selective about when and whom they learn from. Familiarity is predicted to positively influence an animal's reliance on social learning; yet, few studies have empirically tested this theory. We used a lizard (Liopholis whitii) that forms long-term monogamous pair bonds to examine the effects of partner familiarity on social learning in two novel foraging tasks, an association and a reversal task. We allowed female lizards to observe trained conspecifics that were either familiar (social mate) or unfamiliar execute these tasks and compared these two groups with control females that did not receive social information. Lizards preferentially relied on trial-and-error learning in the association task. In the reversal task, lizards that were demonstrated by familiar partners learnt in fewer trials compared to control lizards and made more correct choices. Our results provide some evidence for context-dependent learning with lizards differentiating between when they utilize social learning, and, to a limited degree, whom they learnt from. Understanding the role of the social context in which learning occurs provides important insights into the benefits of social learning and sociality more generally.",
    "preprintUrl": null,
    "altmetric": null
   },
