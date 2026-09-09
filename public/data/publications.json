@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-08",
+ "updated": "2026-09-09",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -318,6 +318,58 @@
    "url": "https://doi.org/10.1002/brv.70205",
    "citations": 0,
    "abstract": "Increasing resource demand, desire to sequester atmospheric carbon, and conservation goals are driving a need for forests to be managed more effectively in the face of numerous challenges. One such challenge is damage perpetrated by browsing mammals, which can cause substantial financial and ecological impacts. Current practices focus on lethal control measures for mitigating mammal browsing damage, however stakeholder pressure is calling for a transition to non-lethal alternatives. Little is known about the relative efficacy of different non-lethal control methods for mitigating browsing damage by mammals other than deer. Using a multilevel meta-analytical framework across 1,908 effect sizes, we investigate the relative efficacy and longevity of different non-lethal control methods implemented against a broad suite of browsing mammals across different spatial scales. We found that tree guards, repellents and exclusion fencing all significantly reduce mammal browsing damage and retain their effect for long periods. There was, however, substantial variation in efficacy within individual control strategies highlighting the importance to forest managers of selecting the correct method from within the broad strategies we identified. We then discuss other factors to consider when implementing non-lethal mammal browsing control so that forest managers are well informed when implementing a control strategy.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1016/j.cois.2026.101523",
+   "doi": "10.1016/j.cois.2026.101523",
+   "title": "Life cycle complexity drives variation in thermal tolerance and plasticity",
+   "authors": [
+    {
+     "name": "Patrice Pottier",
+     "orcid": "https://orcid.org/0000-0003-2106-6597",
+     "isSelf": false
+    },
+    {
+     "name": "Vanessa Kellermann",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Daniel WA Noble",
+     "orcid": null,
+     "isSelf": true
+    },
+    {
+     "name": "Carla M Sgrò",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "John S Terblanche",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Belinda van Heerwaarden",
+     "orcid": null,
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Patrice Pottier, Vanessa Kellermann, Daniel WA Noble, Carla M Sgrò, John S Terblanche, Belinda van Heerwaarden",
+   "journal": "Current Opinion in Insect Science",
+   "year": 2026,
+   "date": "2026-08",
+   "volume": "76",
+   "issue": null,
+   "pages": "101523",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://doi.org/10.1016/j.cois.2026.101523",
+   "url": "https://doi.org/10.1016/j.cois.2026.101523",
+   "citations": 0,
+   "abstract": "Accumulating evidence suggests that heat tolerance varies substantially across insect development, yet patterns of variation remain difficult to generalise across species. We discuss how the diversity of insect developmental strategies shapes both the intensity and predictability of thermal environments across ontogeny, and how this likely generates variation in heat tolerance, plasticity and carry-over effects. We hypothesise that large developmental variation is expected in holometabolous insects and in species undergoing pronounced microhabitat or diel activity transitions. These transitions can modify heat exposure, behavioural thermoregulatory abilities and the physiological or genetic regulatory network underlying heat tolerance, weakening correlations among life stages. We discuss when carry-over effects are likely to be adaptive, highlighting the importance of environmental predictability, ecological similarity among stages and the balance between heat injury and repair. We argue that an ontogenetic perspective capturing the microenvironmental conditions experienced by each life stage is essential for predicting insect vulnerability to extreme heat.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -698,7 +750,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/1365-2435.70031",
    "url": "https://doi.org/10.1111/1365-2435.70031",
-   "citations": 18,
+   "citations": 19,
    "abstract": "Abstract Climate change causes warmer and more variable temperatures globally, impacting physiological rates and function in ectothermic animals. Acclimation of physiological rates can help maintain function. However, it is unresolved how variance in physiological rates changes with temperature despite its potential ecological and evolutionary importance. We developed new effect sizes that capture how both the mean and variation in physiological rates change across temperature (based on the temperature coefficient, ) and used them to test how acclimation and acute thermal responses vary across aquatic and terrestrial ectotherms using meta‐analysis (>1900 effects from 226 species). Comparing both the magnitude of acclimation and changes in variation side‐by‐side provides unique opportunities for evaluating the importance of plasticity and selection under climate change. We show that variance in physiological rates increases at higher temperatures, but that the magnitude of change depends on habitat. Freshwater and marine ectotherms are capable of acclimation and have the greatest increase in variance. In contrast, terrestrial ectotherms have reduced acclimation abilities and smaller increases in physiological rate. Simulations suggest that these patterns may result from differences in among‐individual variation in thermal breadth and optima of performance curves across habitats. Our results highlight the greater vulnerability of terrestrial ectotherms to climate change because of both a lack of acclimation capacity and a limited increase in variance that may provide less raw material for evolutionary adaptation. Considering both acclimation capacity and variance in physiological rates side‐by‐side is therefore important for understanding how climate change will impact populations. Read the free Plain Language Summary for this article on the Journal blog.",
    "preprintUrl": null,
    "altmetric": null
@@ -1547,7 +1599,7 @@
    "pages": "20241487",
    "kind": "article",
    "isOA": true,
-   "oaUrl": "https://lirias.kuleuven.be/retrieve/66e721cf-0196-47ca-8750-aca767873833",
+   "oaUrl": "https://pure.knaw.nl/portal/en/publications/13dc11b8-5ad3-4c8b-9ccc-f452053c2e41",
    "url": "https://doi.org/10.1098/rspb.2024.1487",
    "citations": 4,
    "abstract": "Publishing preprints is quickly becoming commonplace in ecology and evolutionary biology. Preprints can facilitate the rapid sharing of scientific knowledge establishing precedence and enabling feedback from the research community before peer review. Yet, significant barriers to preprint use exist, including language barriers, a lack of understanding about the benefits of preprints and a lack of diversity in the types of research outputs accepted (e.g. reports). Community-driven preprint initiatives can allow a research community to come together to break down these barriers to improve equity and coverage of global knowledge. Here, we explore the first preprints uploaded to EcoEvoRxiv ( n = 1216), a community-driven preprint server for ecologists and evolutionary biologists, to characterize preprint use in ecology, evolution and conservation. Our perspective piece highlights some of the unique initiatives that EcoEvoRxiv has taken to break down barriers to scientific publishing by exploring the composition of articles, how gender and career stage influence preprint use, whether preprints are associated with greater open science practices (e.g. code and data sharing) and tracking preprint publication outcomes. Our analysis identifies areas that we still need to improve upon but highlights how community-driven initiatives, such as EcoEvoRxiv , can play a crucial role in shaping publishing practices in biology.",
@@ -2865,7 +2917,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/counter/pdf/10.1186/s12915-022-01485-y",
    "url": "https://doi.org/10.1186/s12915-022-01485-y",
-   "citations": 80,
+   "citations": 81,
    "abstract": "Collaborative efforts to directly replicate empirical studies in the medical and social sciences have revealed alarmingly low rates of replicability, a phenomenon dubbed the 'replication crisis'. Poor replicability has spurred cultural changes targeted at improving reliability in these disciplines. Given the absence of equivalent replication projects in ecology and evolutionary biology, two inter-related indicators offer the opportunity to retrospectively assess replicability: publication bias and statistical power. This registered report assesses the prevalence and severity of small-study (i.e., smaller studies reporting larger effect sizes) and decline effects (i.e., effect sizes decreasing over time) across ecology and evolutionary biology using 87 meta-analyses comprising 4,250 primary studies and 17,638 effect sizes. Further, we estimate how publication bias might distort the estimation of effect sizes, statistical power, and errors in magnitude (Type M or exaggeration ratio) and sign (Type S). We show strong evidence for the pervasiveness of both small-study and decline effects in ecology and evolution. There was widespread prevalence of publication bias that resulted in meta-analytic means being over-estimated by (at least) 0.12 standard deviations. The prevalence of publication bias distorted confidence in meta-analytic results, with 66% of initially statistically significant meta-analytic means becoming non-significant after correcting for publication bias. Ecological and evolutionary studies consistently had low statistical power (15%) with a 4-fold exaggeration of effects on average (Type M error rates = 4.4). Notably, publication bias reduced power from 23% to 15% and increased type M error rates from 2.7 to 4.4 because it creates a non-random sample of effect size evidence. The sign errors of effect sizes (Type S error) increased from 5% to 8% because of publication bias. Our research provides clear evidence that many published ecological and evolutionary findings are inflated. Our results highlight the importance of designing high-power empirical studies (e.g., via collaborative team science), promoting and encouraging replication studies, testing and correcting for publication bias in meta-analyses, and adopting open and transparent research practices, such as (pre)registration, data- and code-sharing, and transparent reporting.",
    "preprintUrl": null,
    "altmetric": null
@@ -3811,7 +3863,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 695,
+   "citations": 696,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -5095,7 +5147,7 @@
    "isOA": true,
    "oaUrl": "https://cris.maastrichtuniversity.nl/en/publications/3e6fe067-06aa-4553-940d-034840843635",
    "url": "https://doi.org/10.1038/s41559-020-1153-2",
-   "citations": 69,
+   "citations": 70,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null

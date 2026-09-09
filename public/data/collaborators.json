@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-08",
- "total": 426,
+ "updated": "2026-09-09",
+ "total": 430,
  "countries": 30,
  "institutions": 162,
  "byCountry": {
   "Japan": 2,
-  "Australia": 188,
+  "Australia": 191,
   "Germany": 21,
   "Canada": 18,
   "United Kingdom": 38,
@@ -20,7 +20,7 @@
   "Italy": 3,
   "France": 17,
   "Netherlands": 2,
-  "South Africa": 6,
+  "South Africa": 7,
   "Portugal": 2,
   "Croatia": 2,
   "Brazil": 3,
@@ -1376,6 +1376,19 @@
    "lon": -2.97794
   },
   {
+   "name": "Vanessa Kellermann",
+   "orcid": "https://orcid.org/0000-0002-9859-9642",
+   "openalex": "https://openalex.org/A5078269788",
+   "works": 2,
+   "lastYear": 2026,
+   "institution": "La Trobe University",
+   "city": "Melbourne",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -37.814,
+   "lon": 144.96332
+  },
+  {
    "name": "Vaughn Stenhouse",
    "orcid": null,
    "openalex": "https://openalex.org/A5087198570",
@@ -1857,6 +1870,19 @@
    "lon": 150.75142
   },
   {
+   "name": "Belinda van Heerwaarden",
+   "orcid": "https://orcid.org/0000-0003-2435-2900",
+   "openalex": "https://openalex.org/A5034541666",
+   "works": 1,
+   "lastYear": 2026,
+   "institution": "The University of Melbourne",
+   "city": "Melbourne",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -37.814,
+   "lon": 144.96332
+  },
+  {
    "name": "Ben Halliwell",
    "orcid": "https://orcid.org/0000-0003-2033-4799",
    "openalex": "https://openalex.org/A5073246489",
@@ -1998,6 +2024,19 @@
    "countryCode": "CA",
    "lat": 45.898681640625,
    "lon": -64.36836242675781
+  },
+  {
+   "name": "Carla M. Sgrò",
+   "orcid": "https://orcid.org/0000-0001-7950-2246",
+   "openalex": "https://openalex.org/A5068364542",
+   "works": 1,
+   "lastYear": 2026,
+   "institution": "Monash University",
+   "city": "Melbourne",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -37.814,
+   "lon": 144.96332
   },
   {
    "name": "Carlos R. Ruiz-Miranda",
@@ -3404,6 +3443,19 @@
    "lon": -84.47772
   },
   {
+   "name": "John S. Terblanche",
+   "orcid": "https://orcid.org/0000-0001-9665-9405",
+   "openalex": "https://openalex.org/A5047495492",
+   "works": 1,
+   "lastYear": 2026,
+   "institution": "Stellenbosch University",
+   "city": "Stellenbosch",
+   "country": "South Africa",
+   "countryCode": "ZA",
+   "lat": -33.93462,
+   "lon": 18.86676
+  },
+  {
    "name": "Jonathan D. Choquette",
    "orcid": "https://orcid.org/0000-0002-9965-4359",
    "openalex": "https://openalex.org/A5044123101",
@@ -4548,6 +4600,19 @@
    "lon": 151.20732
   },
   {
+   "name": "Patrice Pottier",
+   "orcid": null,
+   "openalex": "https://openalex.org/A5133053103",
+   "works": 1,
+   "lastYear": 2026,
+   "institution": "Australian National University",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.28346,
+   "lon": 149.12807
+  },
+  {
    "name": "Patrick Calvin Friesen",
    "orcid": null,
    "openalex": "https://openalex.org/A5088285955",
@@ -5339,19 +5404,6 @@
    "countryCode": "ZA",
    "lat": -25.74486,
    "lon": 28.18783
-  },
-  {
-   "name": "Vanessa Kellermann",
-   "orcid": "https://orcid.org/0000-0002-9859-9642",
-   "openalex": "https://openalex.org/A5078269788",
-   "works": 1,
-   "lastYear": 2025,
-   "institution": "La Trobe University",
-   "city": "Melbourne",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -37.814,
-   "lon": 144.96332
   },
   {
    "name": "Varsha S. Pathare",
