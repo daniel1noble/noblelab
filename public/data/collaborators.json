@@ -1,20 +1,20 @@
 {
- "updated": "2026-09-09",
- "total": 430,
+ "updated": "2026-09-10",
+ "total": 433,
  "countries": 30,
  "institutions": 162,
  "byCountry": {
   "Japan": 2,
   "Australia": 191,
   "Germany": 21,
-  "Canada": 18,
+  "Canada": 19,
   "United Kingdom": 38,
   "Switzerland": 10,
   "Poland": 2,
   "Sweden": 22,
   "Spain": 1,
   "China": 7,
-  "United States": 52,
+  "United States": 54,
   "Finland": 5,
   "The Netherlands": 5,
   "Italy": 3,
@@ -393,12 +393,25 @@
    "openalex": "https://openalex.org/A5025054170",
    "works": 5,
    "lastYear": 2022,
-   "institution": "Garvan Institute of Medical Research",
-   "city": "Darlinghurst",
+   "institution": "UNSW Sydney",
+   "city": "Sydney",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.87939,
-   "lon": 151.21925
+   "lat": -33.86785,
+   "lon": 151.20732
+  },
+  {
+   "name": "Pieter A. Arnold",
+   "orcid": "https://orcid.org/0000-0002-6158-7752",
+   "openalex": "https://openalex.org/A5023626828",
+   "works": 5,
+   "lastYear": 2026,
+   "institution": "Australian National University",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.28346,
+   "lon": 149.12807
   },
   {
    "name": "Susanne Zajitschek",
@@ -406,12 +419,12 @@
    "openalex": "https://openalex.org/A5029906062",
    "works": 5,
    "lastYear": 2022,
-   "institution": "Garvan Institute of Medical Research",
-   "city": "Darlinghurst",
+   "institution": "UNSW Sydney",
+   "city": "Sydney",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -33.87939,
-   "lon": 151.21925
+   "lat": -33.86785,
+   "lon": 151.20732
   },
   {
    "name": "Yin Qi",
@@ -464,19 +477,6 @@
    "countryCode": "AU",
    "lat": -33.86785,
    "lon": 151.20732
-  },
-  {
-   "name": "Pieter A. Arnold",
-   "orcid": "https://orcid.org/0000-0002-6158-7752",
-   "openalex": "https://openalex.org/A5023626828",
-   "works": 4,
-   "lastYear": 2026,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
   },
   {
    "name": "Samantha Burke",
@@ -789,6 +789,19 @@
    "countryCode": "AU",
    "lat": -31.95224,
    "lon": 115.8614
+  },
+  {
+   "name": "Alison J. Robey",
+   "orcid": "https://orcid.org/0000-0002-8904-4506",
+   "openalex": "https://openalex.org/A5013814221",
+   "works": 2,
+   "lastYear": 2026,
+   "institution": "Yale University",
+   "city": "New Haven",
+   "country": "United States",
+   "countryCode": "US",
+   "lat": 41.30815,
+   "lon": -72.92816
   },
   {
    "name": "Amanda Bretman",
@@ -1194,6 +1207,19 @@
    "lon": 150.75142
   },
   {
+   "name": "Patrice Pottier",
+   "orcid": null,
+   "openalex": "https://openalex.org/A5133053103",
+   "works": 2,
+   "lastYear": 2026,
+   "institution": "Australian National University",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.28346,
+   "lon": 149.12807
+  },
+  {
    "name": "Patrick L. Taggart",
    "orcid": "https://orcid.org/0000-0001-9523-0463",
    "openalex": "https://openalex.org/A5052717744",
@@ -1569,19 +1595,6 @@
    "countryCode": "GB",
    "lat": 50.72359848022461,
    "lon": -3.527509927749634
-  },
-  {
-   "name": "Alison J. Robey",
-   "orcid": "https://orcid.org/0000-0002-8904-4506",
-   "openalex": "https://openalex.org/A5013814221",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "Yale University",
-   "city": "New Haven",
-   "country": "United States",
-   "countryCode": "US",
-   "lat": 41.30815,
-   "lon": -72.92816
   },
   {
    "name": "Alison L. Greggor",
@@ -2143,6 +2156,19 @@
    "lon": -97.14704
   },
   {
+   "name": "Christina Prokopenko",
+   "orcid": null,
+   "openalex": "https://openalex.org/A5135832739",
+   "works": 1,
+   "lastYear": 2026,
+   "institution": "University of Manitoba",
+   "city": "Winnipeg",
+   "country": "Canada",
+   "countryCode": "CA",
+   "lat": 49.8844,
+   "lon": -97.14704
+  },
+  {
    "name": "Christopher Friesen",
    "orcid": null,
    "openalex": "https://openalex.org/A5115478190",
@@ -2497,6 +2523,19 @@
    "name": "Diego Ellis Soto",
    "orcid": null,
    "openalex": "https://openalex.org/A5109616702",
+   "works": 1,
+   "lastYear": 2026,
+   "institution": "University of California, Berkeley",
+   "city": "Berkeley",
+   "country": "United States",
+   "countryCode": "US",
+   "lat": 37.87159,
+   "lon": -122.27275
+  },
+  {
+   "name": "Diego Ellis-Soto",
+   "orcid": "https://orcid.org/0000-0003-4766-021X",
+   "openalex": "https://openalex.org/A5135862995",
    "works": 1,
    "lastYear": 2026,
    "institution": "University of California, Berkeley",
@@ -3298,6 +3337,19 @@
    "countryCode": "FR",
    "lat": 48.85341,
    "lon": 2.3488
+  },
+  {
+   "name": "Jeremy Cohen",
+   "orcid": null,
+   "openalex": "https://openalex.org/A5128697180",
+   "works": 1,
+   "lastYear": 2026,
+   "institution": "Rutgers, The State University of New Jersey",
+   "city": "New Brunswick",
+   "country": "United States",
+   "countryCode": "US",
+   "lat": 40.48622,
+   "lon": -74.45182
   },
   {
    "name": "Jeremy M. Cohen",
@@ -4598,19 +4650,6 @@
    "countryCode": "AU",
    "lat": -33.86785,
    "lon": 151.20732
-  },
-  {
-   "name": "Patrice Pottier",
-   "orcid": null,
-   "openalex": "https://openalex.org/A5133053103",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
   },
   {
    "name": "Patrick Calvin Friesen",
