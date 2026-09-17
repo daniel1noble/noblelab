@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-16",
+ "updated": "2026-09-17",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -1015,7 +1015,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/2041-210x.70155",
    "url": "https://doi.org/10.1111/2041-210x.70155",
-   "citations": 6,
+   "citations": 7,
    "abstract": "Abstract Measuring heterogeneity, or inconsistency, among effect sizes is a crucial step for interpreting meta‐analytic evidence across diverse taxonomic groups and spatiotemporal contexts. However, ecologists and evolutionary biologists often interpret overall mean effects (mean population effects) as consistent across contexts, either explicitly or implicitly, without properly quantifying and interpreting heterogeneity. Here, we present a pluralistic approach that aims to quantify heterogeneity by introducing complementary metrics, each of which decomposes heterogeneity into within‐study, between‐study and between‐species (species and phylogenetic) variances. These metrics include the traditional I 2 (variance‐standardized metric), the newly derived coefficient of variation for heterogeneity ( CVH family; mean‐standardized metric), the second‐order coefficient of variation ( M family; variance–mean‐standardized metric) and their stratified variants. To demonstrate the benefits of the combined use of these measures, we synthesize heterogeneity estimates from 512 ecological and evolutionary meta‐analyses. We show that total heterogeneity (variance of true effects) is, on average, 10 times larger than statistical noise (sampling error variance), contributing to 91% of the observed variance (median I 2 = 91%). This amount of heterogeneity is nearly twice the size of the mean population effect (median CVH = 1.8 and M = 0.6), indicating substantial variation among studies within a meta‐analysis. Moreover, different effect size types yield different values of heterogeneity metrics because they are inherently influenced by statistical properties of their effect size estimators. As such, comparisons of heterogeneity across effect size types should be made with caution, albeit the proposed heterogeneity metrics are unit‐free. Our large‐scale synthesis also provides new benchmarks for the interpretation of heterogeneity and recommendations on how to quantify and report heterogeneity. New extensions for stratifying heterogeneity metrics will clarify our understanding of the generalisability, and at what level of meta‐analytic effects in ecology and evolution.",
    "preprintUrl": null,
    "altmetric": null
@@ -2733,7 +2733,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14152",
    "url": "https://doi.org/10.1111/2041-210x.14152",
-   "citations": 158,
+   "citations": 159,
    "abstract": "Abstract Although meta‐analysis has become an essential tool in ecology and evolution, reporting of meta‐analytic results can still be much improved. To aid this, we have introduced the orchard plot, which presents not only overall estimates and their confidence intervals, but also shows corresponding heterogeneity (as prediction intervals) and individual effect sizes. Here, we have added significant enhancements by integrating many new functionalities into orchaRd 2.0 . This updated version allows the visualisation of heteroscedasticity (different variances across levels of a categorical moderator), marginal estimates (e.g. marginalising out effects other than the one visualised), conditional estimates (i.e. estimates of different groups conditioned upon specific values of a continuous variable) and visualisations of all types of interactions between two categorical/continuous moderators. orchaRd 2.0 has additional functions which calculate key statistics from multilevel meta‐analytic models such as I 2 and R 2 . Importantly, orchaRd 2.0 contributes to better reporting by complying with PRISMA‐EcoEvo (preferred reporting items for systematic reviews and meta‐analyses in ecology and evolution). Taken together, orchaRd 2.0 can improve the presentation of meta‐analytic results and facilitate the exploration of previously neglected patterns. In addition, as a part of a literature survey, we found that graphical packages are rarely cited (~3%). We plea that researchers credit developers and maintainers of graphical packages, for example, by citations in a figure legend, acknowledging the use of relevant packages.",
    "preprintUrl": null,
    "altmetric": null
@@ -2850,7 +2850,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/evlett/advance-article-pdf/doi/10.1093/evlett/qrad038/53940395/qrad038.pdf",
    "url": "https://doi.org/10.1093/evlett/qrad038",
-   "citations": 96,
+   "citations": 97,
    "abstract": "Predicting if, when, and how populations can adapt to climate change constitutes one of the greatest challenges in science today. Here, we build from contributions to the special issue on evolutionary adaptation to climate change, a survey of its authors, and recent literature to explore the limits and opportunities for predicting adaptive responses to climate change. We outline what might be predictable now, in the future, and perhaps never even with our best efforts. More accurate predictions are expected for traits characterized by a well-understood mapping between genotypes and phenotypes and traits experiencing strong, direct selection due to climate change. A meta-analysis revealed an overall moderate trait heritability and evolvability in studies performed under future climate conditions but indicated no significant change between current and future climate conditions, suggesting neither more nor less genetic variation for adapting to future climates. Predicting population persistence and evolutionary rescue remains uncertain, especially for the many species without sufficient ecological data. Still, when polled, authors contributing to this special issue were relatively optimistic about our ability to predict future evolutionary responses to climate change. Predictions will improve as we expand efforts to understand diverse organisms, their ecology, and their adaptive potential. Advancements in functional genomic resources, especially their extension to non-model species and the union of evolutionary experiments and \"omics,\" should also enhance predictions. Although predicting evolutionary responses to climate change remains challenging, even small advances will reduce the substantial uncertainties surrounding future evolutionary responses to climate change.",
    "preprintUrl": null,
    "altmetric": null
@@ -3012,48 +3012,6 @@
    "altmetric": null
   },
   {
-   "id": "10.1016/j.biocon.2023.110214",
-   "doi": "10.1016/j.biocon.2023.110214",
-   "title": "Baiting in conservation and pest management: A systematic review of its global applications in a changing world",
-   "authors": [
-    {
-     "name": "Patrick L. Taggart",
-     "orcid": "https://orcid.org/0000-0001-9523-0463",
-     "isSelf": false
-    },
-    {
-     "name": "Pip Taylor",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Kandarp K. Patel",
-     "orcid": "https://orcid.org/0000-0002-2894-0112",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W.A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    }
-   ],
-   "authorLine": "Patrick L. Taggart, Pip Taylor, Kandarp K. Patel, Daniel W.A. Noble",
-   "journal": "Biological Conservation",
-   "year": 2023,
-   "date": "2023-08",
-   "volume": "284",
-   "issue": null,
-   "pages": "110214",
-   "kind": "article",
-   "isOA": false,
-   "oaUrl": null,
-   "url": "https://doi.org/10.1016/j.biocon.2023.110214",
-   "citations": 23,
-   "abstract": null,
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
    "id": "10.1002/jrsm.1663",
    "doi": "10.1002/jrsm.1663",
    "title": "Advice for improving the reproducibility of data extraction in meta‐analysis",
@@ -3095,8 +3053,50 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/jrsm.1663",
    "url": "https://doi.org/10.1002/jrsm.1663",
-   "citations": 22,
+   "citations": 23,
    "abstract": "Extracting data from studies is the norm in meta-analyses, enabling researchers to generate effect sizes when raw data are otherwise not available. While there has been a general push for increased reproducibility in meta-analysis, the transparency and reproducibility of the data extraction phase is still lagging behind. Unfortunately, there is little guidance of how to make this process more transparent and shareable. To address this, we provide several steps to help increase the reproducibility of data extraction in meta-analysis. We also provide suggestions of R software that can further help with reproducible data policies: the shinyDigitise and juicr packages. Adopting the guiding principles listed here and using the appropriate software will provide a more transparent form of data extraction in meta-analyses.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1016/j.biocon.2023.110214",
+   "doi": "10.1016/j.biocon.2023.110214",
+   "title": "Baiting in conservation and pest management: A systematic review of its global applications in a changing world",
+   "authors": [
+    {
+     "name": "Patrick L. Taggart",
+     "orcid": "https://orcid.org/0000-0001-9523-0463",
+     "isSelf": false
+    },
+    {
+     "name": "Pip Taylor",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Kandarp K. Patel",
+     "orcid": "https://orcid.org/0000-0002-2894-0112",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W.A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    }
+   ],
+   "authorLine": "Patrick L. Taggart, Pip Taylor, Kandarp K. Patel, Daniel W.A. Noble",
+   "journal": "Biological Conservation",
+   "year": 2023,
+   "date": "2023-08",
+   "volume": "284",
+   "issue": null,
+   "pages": "110214",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://doi.org/10.1016/j.biocon.2023.110214",
+   "url": "https://doi.org/10.1016/j.biocon.2023.110214",
+   "citations": 23,
+   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -3407,7 +3407,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/ele.14144",
    "url": "https://doi.org/10.1111/ele.14144",
-   "citations": 126,
+   "citations": 127,
    "abstract": "The log response ratio, lnRR, is the most frequently used effect size statistic for meta-analysis in ecology. However, often missing standard deviations (SDs) prevent estimation of the sampling variance of lnRR. We propose new methods to deal with missing SDs via a weighted average coefficient of variation (CV) estimated from studies in the dataset that do report SDs. Across a suite of simulated conditions, we find that using the average CV to estimate sampling variances for all observations, regardless of missingness, performs with minimal bias. Surprisingly, even with missing SDs, this simple method outperforms the conventional approach (basing each effect size on its individual study-specific CV) with complete data. This is because the conventional method ultimately yields less precise estimates of the sampling variances than using the pooled CV from multiple studies. Our approach is broadly applicable and can be implemented in all meta-analyses of lnRR, regardless of 'missingness'.",
    "preprintUrl": null,
    "altmetric": null
@@ -3863,7 +3863,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 702,
+   "citations": 705,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -3930,7 +3930,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 483,
+   "citations": 484,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4035,7 +4035,7 @@
    "pages": "321-332",
    "kind": "article",
    "isOA": true,
-   "oaUrl": "https://hal.science/hal-04203291",
+   "oaUrl": "https://doi.org/10.1016/j.tree.2020.12.006",
    "url": "https://doi.org/10.1016/j.tree.2020.12.006",
    "citations": 200,
    "abstract": null,
@@ -5325,7 +5325,7 @@
    "isOA": true,
    "oaUrl": "https://www.pnas.org/content/pnas/116/27/13452.full.pdf",
    "url": "https://doi.org/10.1073/pnas.1821066116",
-   "citations": 148,
+   "citations": 149,
    "abstract": "Environmentally induced phenotypes have been proposed to initiate and bias adaptive evolutionary change toward particular directions. The potential for this to happen depends in part on how well plastic responses are aligned with the additive genetic variance and covariance in traits. Using meta-analysis, we demonstrate that plastic responses to novel environments tend to occur along phenotype dimensions that harbor substantial amounts of additive genetic variation. This suggests that selection for or against environmentally induced phenotypes typically will be effective. One interpretation of the alignment between the direction of plasticity and the main axis of additive genetic variation is that developmental systems tend to respond to environmental novelty as they do to genetic mutation. This makes it challenging to distinguish if the direction of evolution is biased by plasticity or genetic \"constraint.\" Our results therefore highlight a need for new theoretical and empirical approaches to address the role of plasticity in evolution.",
    "preprintUrl": null,
    "altmetric": null
@@ -5691,7 +5691,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.4700",
    "url": "https://doi.org/10.1002/ece3.4700",
-   "citations": 42,
+   "citations": 43,
    "abstract": "Abstract Organisms that regularly encounter stressful environments are expected to use cues to develop an appropriate phenotype. Water fleas (Daphnia spp.) are exposed to toxic cyanobacteria during seasonal algal blooms, which reduce growth and reproductive investment. Because generation time is typically shorter than the exposure to cyanobacteria, maternal effects provide information about the local conditions subsequent generations will experience. Here, we evaluate if maternal effects in response to microcystin, a toxin produced by cyanobacteria, represent an inheritance system evolved to transmit information in Daphnia magna. We exposed mothers as juveniles and/or as adults, and tested the offspring's fitness in toxic and non‐toxic environments. Maternal exposure until reproduction reduced offspring fitness, both in the presence and in the absence of toxic cyanobacteria. However, this effect was accompanied by a small positive fitness effect, relative to offspring from unexposed mothers, in the presence of toxic cyanobacteria. This effect was mainly elicited in response to maternal exposure to toxic cyanobacteria early in life and less so during reproduction. None of these effects were explained by changes in egg size. A meta‐analysis using our and others’ experiments suggests that the adaptive value of maternal effects to cyanobacteria exposure is weak at best. We suggest that the beneficial maternal effect in our study is an example of phenotypic accommodation spanning generations, rather than a mechanism evolved to transmit information about cyanobacteria presence between generations.",
    "preprintUrl": null,
    "altmetric": null
@@ -6364,7 +6364,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/mec.14031",
-   "citations": 277,
+   "citations": 278,
    "abstract": "Meta-analysis is an important tool for synthesizing research on a variety of topics in ecology and evolution, including molecular ecology, but can be susceptible to nonindependence. Nonindependence can affect two major interrelated components of a meta-analysis: (i) the calculation of effect size statistics and (ii) the estimation of overall meta-analytic estimates and their uncertainty. While some solutions to nonindependence exist at the statistical analysis stages, there is little advice on what to do when complex analyses are not possible, or when studies with nonindependent experimental designs exist in the data. Here we argue that exploring the effects of procedural decisions in a meta-analysis (e.g. inclusion of different quality data, choice of effect size) and statistical assumptions (e.g. assuming no phylogenetic covariance) using sensitivity analyses are extremely important in assessing the impact of nonindependence. Sensitivity analyses can provide greater confidence in results and highlight important limitations of empirical work (e.g. impact of study design on overall effects). Despite their importance, sensitivity analyses are seldom applied to problems of nonindependence. To encourage better practice for dealing with nonindependence in meta-analytic studies, we present accessible examples demonstrating the impact that ignoring nonindependence can have on meta-analytic estimates. We also provide pragmatic solutions for dealing with nonindependent study designs, and for analysing dependent effect sizes. Additionally, we offer reporting guidelines that will facilitate disclosure of the sources of nonindependence in meta-analyses, leading to greater transparency and more robust conclusions.",
    "preprintUrl": null,
    "altmetric": null
