@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18",
+ "updated": "2026-09-19",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -750,7 +750,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/1365-2435.70031",
    "url": "https://doi.org/10.1111/1365-2435.70031",
-   "citations": 19,
+   "citations": 21,
    "abstract": "Abstract Climate change causes warmer and more variable temperatures globally, impacting physiological rates and function in ectothermic animals. Acclimation of physiological rates can help maintain function. However, it is unresolved how variance in physiological rates changes with temperature despite its potential ecological and evolutionary importance. We developed new effect sizes that capture how both the mean and variation in physiological rates change across temperature (based on the temperature coefficient, ) and used them to test how acclimation and acute thermal responses vary across aquatic and terrestrial ectotherms using meta‐analysis (>1900 effects from 226 species). Comparing both the magnitude of acclimation and changes in variation side‐by‐side provides unique opportunities for evaluating the importance of plasticity and selection under climate change. We show that variance in physiological rates increases at higher temperatures, but that the magnitude of change depends on habitat. Freshwater and marine ectotherms are capable of acclimation and have the greatest increase in variance. In contrast, terrestrial ectotherms have reduced acclimation abilities and smaller increases in physiological rate. Simulations suggest that these patterns may result from differences in among‐individual variation in thermal breadth and optima of performance curves across habitats. Our results highlight the greater vulnerability of terrestrial ectotherms to climate change because of both a lack of acclimation capacity and a limited increase in variance that may provide less raw material for evolutionary adaptation. Considering both acclimation capacity and variance in physiological rates side‐by‐side is therefore important for understanding how climate change will impact populations. Read the free Plain Language Summary for this article on the Journal blog.",
    "preprintUrl": null,
    "altmetric": null
@@ -4117,38 +4117,6 @@
    "altmetric": null
   },
   {
-   "id": "10.1111/eva.13273",
-   "doi": "10.1111/eva.13273",
-   "title": "Planned missing data designs and methods: Options for strengthening inference, increasing research efficiency and improving animal welfare in ecological and evolutionary research",
-   "authors": [
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    },
-    {
-     "name": "Shinichi Nakagawa",
-     "orcid": "https://orcid.org/0000-0002-7765-5182",
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Daniel W. A. Noble, Shinichi Nakagawa",
-   "journal": "Evolutionary Applications",
-   "year": 2021,
-   "date": "2021-07-22",
-   "volume": "14",
-   "issue": "8",
-   "pages": "1958-1968",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/eva.13273",
-   "url": "https://doi.org/10.1111/eva.13273",
-   "citations": 32,
-   "abstract": "Ecological and evolutionary research questions are increasingly requiring the integration of research fields along with larger data sets to address fundamental local- and global-scale problems. Unfortunately, these agendas are often in conflict with limited funding and a need to balance animal welfare concerns. Planned missing data design (PMDD), where data are randomly and deliberately missed during data collection, combined with missing data procedures, can be useful tools when working under greater research constraints. Here, we review how PMDD can be incorporated into existing experimental designs by discussing alternative design approaches and demonstrate with simulated data sets how missing data procedures work with incomplete data. PMDDs can provide researchers with a unique toolkit that can be applied during the experimental design stage. Planning and thinking about missing data early can (1) reduce research costs by allowing for the collection of less expensive measurement variables; (2) provide opportunities to distinguish predictions from alternative hypotheses by allowing more measurement variables to be collected; and (3) minimize distress caused by experimentation by reducing the reliance on invasive procedures or allowing data to be collected on fewer subjects (or less often on a given subject). PMDDs and missing data methods can even provide statistical benefits under certain situations by improving statistical power relative to a complete case design. The impacts of unplanned missing data, which can cause biases in parameter estimates and their uncertainty, can also be ameliorated using missing data procedures. PMDDs are still in their infancy. We discuss some of the difficulties in their implementation and provide tentative solutions. While PMDDs may not always be the best option, missing data procedures are becoming more sophisticated and more easily implemented and it is likely that PMDDs will be effective tools for a wide range of experimental designs, data types and problems in ecology and evolution.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
    "id": "10.1111/brv.12712",
    "doi": "10.1111/brv.12712",
    "title": "Beneficial intergenerational effects of exercise on brain and cognition: a multilevel meta‐analysis of mean and variance",
@@ -4195,8 +4163,40 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/brv.12712",
-   "citations": 31,
+   "citations": 32,
    "abstract": "Physical exercise not only helps to improve physical health but can also enhance brain development and cognition. Recent reports on parental (both maternal and paternal) effects raise the possibility that parental exercise may provide benefits to offspring through intergenerational inheritance. However, the general magnitude and consistency of parental exercise effects on offspring is still controversial. Additionally, empirical research has long overlooked an important aspect of exercise: its effects on variability in neurodevelopmental and cognitive traits. Here, we compiled data from 52 studies involving 4786 rodents (412 effect sizes) to quantify the intergenerational transmission of exercise effects on brain and cognition. Using a multilevel meta-analytic approach, we found that, overall, parental exercise showed a tendency for increasing their offspring's brain structure by 12.7% (albeit statistically non-significant) probably via significantly facilitating neurogenesis (16.5%). Such changes in neural anatomy go in hand with a significant 20.8% improvement in neurobehaviour (improved learning and memory, and reduced anxiety). Moreover, we found parental exercise significantly reduces inter-individual differences (i.e. reduced variance in the treatment group) in progeny's neurobehaviour by 10.2% (coefficient of variation ratio, lnCVR), suggesting the existence of an individual by intervention interaction. The positive effects of exercise are modulated by several covariates (i.e. moderators), such as the exercised parent's sex, offspring's sex, and age, mode of exercise, and exercise timing. In particular, parental forced exercise is more efficient than voluntary exercise at significantly improving offspring neurobehaviour (26.0%) and reducing its variability (14.2%). We observed larger effects when parental exercise started before pregnancy. However, exercising only during pregnancy also had positive effects. Mechanistically, exercise significantly upregulated brain-derived neurotrophic factor (BDNF) by 28.9%, vascular endothelial growth factor (VEGF) by 35.8%, and significantly decreased hippocampal DNA methylation by 3.5%, suggesting that brain growth factor cascades and epigenetic modifications can moderate the transmission of parental exercise effects. Collectively, by coupling mean with variance effects, our analyses draw a more integrated picture of the benefits that parental exercise has on offspring: not only does it improve offspring brain development and cognitive performance, but it also reduces inter-individual differences in cognition-related traits. We advocate that meta-analysis of variation together with the mean of a trait provides novel insights for old controversies as well as emerging new questions, opening up a new era for generating variance-based hypotheses.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1111/eva.13273",
+   "doi": "10.1111/eva.13273",
+   "title": "Planned missing data designs and methods: Options for strengthening inference, increasing research efficiency and improving animal welfare in ecological and evolutionary research",
+   "authors": [
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Shinichi Nakagawa",
+     "orcid": "https://orcid.org/0000-0002-7765-5182",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Daniel W. A. Noble, Shinichi Nakagawa",
+   "journal": "Evolutionary Applications",
+   "year": 2021,
+   "date": "2021-07-22",
+   "volume": "14",
+   "issue": "8",
+   "pages": "1958-1968",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/eva.13273",
+   "url": "https://doi.org/10.1111/eva.13273",
+   "citations": 32,
+   "abstract": "Ecological and evolutionary research questions are increasingly requiring the integration of research fields along with larger data sets to address fundamental local- and global-scale problems. Unfortunately, these agendas are often in conflict with limited funding and a need to balance animal welfare concerns. Planned missing data design (PMDD), where data are randomly and deliberately missed during data collection, combined with missing data procedures, can be useful tools when working under greater research constraints. Here, we review how PMDD can be incorporated into existing experimental designs by discussing alternative design approaches and demonstrate with simulated data sets how missing data procedures work with incomplete data. PMDDs can provide researchers with a unique toolkit that can be applied during the experimental design stage. Planning and thinking about missing data early can (1) reduce research costs by allowing for the collection of less expensive measurement variables; (2) provide opportunities to distinguish predictions from alternative hypotheses by allowing more measurement variables to be collected; and (3) minimize distress caused by experimentation by reducing the reliance on invasive procedures or allowing data to be collected on fewer subjects (or less often on a given subject). PMDDs and missing data methods can even provide statistical benefits under certain situations by improving statistical power relative to a complete case design. The impacts of unplanned missing data, which can cause biases in parameter estimates and their uncertainty, can also be ameliorated using missing data procedures. PMDDs are still in their infancy. We discuss some of the difficulties in their implementation and provide tentative solutions. While PMDDs may not always be the best option, missing data procedures are becoming more sophisticated and more easily implemented and it is likely that PMDDs will be effective tools for a wide range of experimental designs, data types and problems in ecology and evolution.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -5325,7 +5325,7 @@
    "isOA": true,
    "oaUrl": "https://www.pnas.org/content/pnas/116/27/13452.full.pdf",
    "url": "https://doi.org/10.1073/pnas.1821066116",
-   "citations": 149,
+   "citations": 150,
    "abstract": "Environmentally induced phenotypes have been proposed to initiate and bias adaptive evolutionary change toward particular directions. The potential for this to happen depends in part on how well plastic responses are aligned with the additive genetic variance and covariance in traits. Using meta-analysis, we demonstrate that plastic responses to novel environments tend to occur along phenotype dimensions that harbor substantial amounts of additive genetic variation. This suggests that selection for or against environmentally induced phenotypes typically will be effective. One interpretation of the alignment between the direction of plasticity and the main axis of additive genetic variation is that developmental systems tend to respond to environmental novelty as they do to genetic mutation. This makes it challenging to distinguish if the direction of evolution is biased by plasticity or genetic \"constraint.\" Our results therefore highlight a need for new theoretical and empirical approaches to address the role of plasticity in evolution.",
    "preprintUrl": null,
    "altmetric": null
@@ -5483,7 +5483,7 @@
    "isOA": true,
    "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13118",
    "url": "https://doi.org/10.1111/2041-210x.13118",
-   "citations": 252,
+   "citations": 253,
    "abstract": "Abstract Research synthesis, such as comparative and meta‐analyses, requires the extraction of effect sizes from primary literature, which are commonly calculated from descriptive statistics. However, the exact values of such statistics are commonly hidden in figures. Extracting descriptive statistics from figures can be a slow process that is not easily reproducible. Additionally, current software lacks an ability to incorporate important metadata (e.g. sample sizes, treatment/variable names) about experiments and is not integrated with other software to streamline analysis pipelines. Here we present the r package metaDigitise which extracts descriptive statistics such as means, standard deviations and correlations from four plot types: (a) mean/error plots (e.g. bar graphs with standard errors), (b) box plots, (c) scatter plots and (d) histograms. metaDigitise is user‐friendly and easy to learn as it interactively guides the user through the data extraction process. Notably, it enables large‐scale extraction by automatically loading image files, letting the user stop processing, edit and add to the resulting data‐frame at any point. Digitised data can be easily re‐plotted and checked, facilitating reproducible data extraction from plots with little inter‐observer bias. We hope that by making the process of figure extraction more flexible and easy to conduct, it will improve the transparency and quality of meta‐analyses in the future.",
    "preprintUrl": null,
    "altmetric": null
@@ -5530,7 +5530,7 @@
    "isOA": true,
    "oaUrl": "https://link.springer.com/content/pdf/10.1007%2Fs00265-018-2534-2.pdf",
    "url": "https://doi.org/10.1007/s00265-018-2534-2",
-   "citations": 126,
+   "citations": 127,
    "abstract": "The pace-of-life syndrome (POLS) hypothesis predicts that behavior and physiology covary with life history. Evidence for such covariation is contradictory, possibly because systematic sources of variation (e.g. sex) have been neglected. Sexes often experience different selection pressures leading to sex-specific allocation between reproduction and self-maintenance, facilitating divergence in life-history. Sex-specific differences in means and possibly variances may therefore play a key role in the POLS framework. We investigate whether sexes differ in means and variances along the fast-slow pace-of-life continuum for life history and physiological and behavioral traits. In addition, we test whether social and environmental characteristics such as breeding strategy, mating system, and study environment explain heterogeneity between the sexes. Using meta-analytic methods, we found that populations with a polygynous mating system or for studies conducted on wild populations, males had a faster pace-of-life for developmental life-history traits (e.g., growth rate), behavior, and physiology. In contrast, adult life-history traits (e.g., lifespan) were shifted towards faster pace-of-life in females, deviating from the other trait categories. Phenotypic variances were similar between the sexes across trait categories and were not affected by mating system or study environment. Breeding strategy did not influence sex differences in variances or means. We discuss our results in the light of sex-specific selection that might drive sex-specific differences in pace-of-life and ultimately POLS.",
    "preprintUrl": null,
    "altmetric": null
@@ -6285,7 +6285,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 585,
+   "citations": 586,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
