@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-21",
+ "updated": "2026-09-22",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -2550,7 +2550,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1016/j.anbehav.2024.06.016",
-   "citations": 13,
+   "citations": 14,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -2850,7 +2850,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/evlett/advance-article-pdf/doi/10.1093/evlett/qrad038/53940395/qrad038.pdf",
    "url": "https://doi.org/10.1093/evlett/qrad038",
-   "citations": 97,
+   "citations": 99,
    "abstract": "Predicting if, when, and how populations can adapt to climate change constitutes one of the greatest challenges in science today. Here, we build from contributions to the special issue on evolutionary adaptation to climate change, a survey of its authors, and recent literature to explore the limits and opportunities for predicting adaptive responses to climate change. We outline what might be predictable now, in the future, and perhaps never even with our best efforts. More accurate predictions are expected for traits characterized by a well-understood mapping between genotypes and phenotypes and traits experiencing strong, direct selection due to climate change. A meta-analysis revealed an overall moderate trait heritability and evolvability in studies performed under future climate conditions but indicated no significant change between current and future climate conditions, suggesting neither more nor less genetic variation for adapting to future climates. Predicting population persistence and evolutionary rescue remains uncertain, especially for the many species without sufficient ecological data. Still, when polled, authors contributing to this special issue were relatively optimistic about our ability to predict future evolutionary responses to climate change. Predictions will improve as we expand efforts to understand diverse organisms, their ecology, and their adaptive potential. Advancements in functional genomic resources, especially their extension to non-model species and the union of evolutionary experiments and \"omics,\" should also enhance predictions. Although predicting evolutionary responses to climate change remains challenging, even small advances will reduce the substantial uncertainties surrounding future evolutionary responses to climate change.",
    "preprintUrl": null,
    "altmetric": null
@@ -6730,7 +6730,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1016/j.anbehav.2015.05.007",
-   "citations": 58,
+   "citations": 59,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
