@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-22",
+ "updated": "2026-09-23",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -875,6 +875,58 @@
    "altmetric": null
   },
   {
+   "id": "10.1111/2041-210x.70155",
+   "doi": "10.1111/2041-210x.70155",
+   "title": "A pluralistic framework for measuring, interpreting and decomposing heterogeneity in meta‐analysis",
+   "authors": [
+    {
+     "name": "Yefeng Yang",
+     "orcid": "https://orcid.org/0000-0002-8610-4016",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Rebecca Spake",
+     "orcid": "https://orcid.org/0000-0003-4671-2225",
+     "isSelf": false
+    },
+    {
+     "name": "Alistair M. Senior",
+     "orcid": "https://orcid.org/0000-0001-9805-7280",
+     "isSelf": false
+    },
+    {
+     "name": "Malgorzata Lagisz",
+     "orcid": "https://orcid.org/0000-0002-3993-6127",
+     "isSelf": false
+    },
+    {
+     "name": "Shinichi Nakagawa",
+     "orcid": "https://orcid.org/0000-0002-7765-5182",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Yefeng Yang, Daniel W. A. Noble, Rebecca Spake, Alistair M. Senior, Malgorzata Lagisz, Shinichi Nakagawa",
+   "journal": "Methods in Ecology and Evolution",
+   "year": 2025,
+   "date": "2025-09-16",
+   "volume": "16",
+   "issue": "11",
+   "pages": "2710-2725",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://doi.org/10.1111/2041-210x.70155",
+   "url": "https://doi.org/10.1111/2041-210x.70155",
+   "citations": 8,
+   "abstract": "Abstract Measuring heterogeneity, or inconsistency, among effect sizes is a crucial step for interpreting meta‐analytic evidence across diverse taxonomic groups and spatiotemporal contexts. However, ecologists and evolutionary biologists often interpret overall mean effects (mean population effects) as consistent across contexts, either explicitly or implicitly, without properly quantifying and interpreting heterogeneity. Here, we present a pluralistic approach that aims to quantify heterogeneity by introducing complementary metrics, each of which decomposes heterogeneity into within‐study, between‐study and between‐species (species and phylogenetic) variances. These metrics include the traditional I 2 (variance‐standardized metric), the newly derived coefficient of variation for heterogeneity ( CVH family; mean‐standardized metric), the second‐order coefficient of variation ( M family; variance–mean‐standardized metric) and their stratified variants. To demonstrate the benefits of the combined use of these measures, we synthesize heterogeneity estimates from 512 ecological and evolutionary meta‐analyses. We show that total heterogeneity (variance of true effects) is, on average, 10 times larger than statistical noise (sampling error variance), contributing to 91% of the observed variance (median I 2 = 91%). This amount of heterogeneity is nearly twice the size of the mean population effect (median CVH = 1.8 and M = 0.6), indicating substantial variation among studies within a meta‐analysis. Moreover, different effect size types yield different values of heterogeneity metrics because they are inherently influenced by statistical properties of their effect size estimators. As such, comparisons of heterogeneity across effect size types should be made with caution, albeit the proposed heterogeneity metrics are unit‐free. Our large‐scale synthesis also provides new benchmarks for the interpretation of heterogeneity and recommendations on how to quantify and report heterogeneity. New extensions for stratifying heterogeneity metrics will clarify our understanding of the generalisability, and at what level of meta‐analytic effects in ecology and evolution.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
    "id": "10.1242/jeb.249960",
    "doi": "10.1242/jeb.249960",
    "title": "The effect of moisture during development on phenotypes of egg-laying reptiles: a systematic review and meta-analysis",
@@ -965,58 +1017,6 @@
    "url": "https://doi.org/10.1016/j.biocon.2024.110912",
    "citations": 8,
    "abstract": null,
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1111/2041-210x.70155",
-   "doi": "10.1111/2041-210x.70155",
-   "title": "A pluralistic framework for measuring, interpreting and decomposing heterogeneity in meta‐analysis",
-   "authors": [
-    {
-     "name": "Yefeng Yang",
-     "orcid": "https://orcid.org/0000-0002-8610-4016",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    },
-    {
-     "name": "Rebecca Spake",
-     "orcid": "https://orcid.org/0000-0003-4671-2225",
-     "isSelf": false
-    },
-    {
-     "name": "Alistair M. Senior",
-     "orcid": "https://orcid.org/0000-0001-9805-7280",
-     "isSelf": false
-    },
-    {
-     "name": "Malgorzata Lagisz",
-     "orcid": "https://orcid.org/0000-0002-3993-6127",
-     "isSelf": false
-    },
-    {
-     "name": "Shinichi Nakagawa",
-     "orcid": "https://orcid.org/0000-0002-7765-5182",
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Yefeng Yang, Daniel W. A. Noble, Rebecca Spake, Alistair M. Senior, Malgorzata Lagisz, Shinichi Nakagawa",
-   "journal": "Methods in Ecology and Evolution",
-   "year": 2025,
-   "date": "2025-09-16",
-   "volume": "16",
-   "issue": "11",
-   "pages": "2710-2725",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://doi.org/10.1111/2041-210x.70155",
-   "url": "https://doi.org/10.1111/2041-210x.70155",
-   "citations": 7,
-   "abstract": "Abstract Measuring heterogeneity, or inconsistency, among effect sizes is a crucial step for interpreting meta‐analytic evidence across diverse taxonomic groups and spatiotemporal contexts. However, ecologists and evolutionary biologists often interpret overall mean effects (mean population effects) as consistent across contexts, either explicitly or implicitly, without properly quantifying and interpreting heterogeneity. Here, we present a pluralistic approach that aims to quantify heterogeneity by introducing complementary metrics, each of which decomposes heterogeneity into within‐study, between‐study and between‐species (species and phylogenetic) variances. These metrics include the traditional I 2 (variance‐standardized metric), the newly derived coefficient of variation for heterogeneity ( CVH family; mean‐standardized metric), the second‐order coefficient of variation ( M family; variance–mean‐standardized metric) and their stratified variants. To demonstrate the benefits of the combined use of these measures, we synthesize heterogeneity estimates from 512 ecological and evolutionary meta‐analyses. We show that total heterogeneity (variance of true effects) is, on average, 10 times larger than statistical noise (sampling error variance), contributing to 91% of the observed variance (median I 2 = 91%). This amount of heterogeneity is nearly twice the size of the mean population effect (median CVH = 1.8 and M = 0.6), indicating substantial variation among studies within a meta‐analysis. Moreover, different effect size types yield different values of heterogeneity metrics because they are inherently influenced by statistical properties of their effect size estimators. As such, comparisons of heterogeneity across effect size types should be made with caution, albeit the proposed heterogeneity metrics are unit‐free. Our large‐scale synthesis also provides new benchmarks for the interpretation of heterogeneity and recommendations on how to quantify and report heterogeneity. New extensions for stratifying heterogeneity metrics will clarify our understanding of the generalisability, and at what level of meta‐analytic effects in ecology and evolution.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2176,6 +2176,58 @@
    "altmetric": null
   },
   {
+   "id": "10.1111/2041-210x.14377",
+   "doi": "10.1111/2041-210x.14377",
+   "title": "Robust point and variance estimation for meta‐analyses with selective reporting and dependent effect sizes",
+   "authors": [
+    {
+     "name": "Yefeng Yang",
+     "orcid": "https://orcid.org/0000-0002-8610-4016",
+     "isSelf": false
+    },
+    {
+     "name": "Malgorzata Lagisz",
+     "orcid": "https://orcid.org/0000-0002-3993-6127",
+     "isSelf": false
+    },
+    {
+     "name": "Coralie Williams",
+     "orcid": "https://orcid.org/0000-0003-1312-4953",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Jinming Pan",
+     "orcid": "https://orcid.org/0000-0003-0228-4564",
+     "isSelf": false
+    },
+    {
+     "name": "Shinichi Nakagawa",
+     "orcid": "https://orcid.org/0000-0002-7765-5182",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Yefeng Yang, Malgorzata Lagisz, Coralie Williams, Daniel W. A. Noble, Jinming Pan, Shinichi Nakagawa",
+   "journal": "Methods in Ecology and Evolution",
+   "year": 2024,
+   "date": "2024-07-09",
+   "volume": "15",
+   "issue": "9",
+   "pages": "1593-1610",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://doi.org/10.1111/2041-210x.14377",
+   "url": "https://doi.org/10.1111/2041-210x.14377",
+   "citations": 21,
+   "abstract": "Abstract Meta‐analysis produces a quantitative synthesis of evidence‐based knowledge, shaping not only research trends but also policies and practices in biology. However, two statistical issues, selective reporting and statistical dependence, can severely distort meta‐analytic parameter estimation and inference. Here, we re‐analyse 448 meta‐analyses to demonstrate a new two‐step procedure to deal with two common challenges in biological meta‐analyses that often occur simultaneously: publication bias and non‐independence. First, we employ bias‐robust weighting schemes under the generalized least square estimator to obtain average effect sizes that are more robust to selective reporting. We then use cluster‐robust variance estimation to account for statistical dependence, reducing bias in estimating standard errors and ensuring valid statistical inference. The first step of our approach demonstrates comparable performance in estimating average effect sizes to the existing publication‐bias adjustment methods in the presence of selective reporting. This equivalence holds across two publication bias selection processes. The second step achieves estimates of standard errors consistent with the multilevel meta‐analytic model, a benchmark method with adequate control of Type I error rates for multiple, statistically dependent effect sizes. Re‐analyses of 448 meta‐analyses show that ignoring these two issues tends to overestimate effect sizes by an average of 110% and underestimate standard errors by 120%. To facilitate implementation, we have developed a website including a step‐by‐step tutorial. Complementing current meta‐analytic workflows with the proposed method as a sensitivity analysis can facilitate a transition to a more robust approach in quantitative evidence synthesis.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
    "id": "10.1093/jeb/voae021",
    "doi": "10.1093/jeb/voae021",
    "title": "Systematic approaches to assessing high-temperature limits to fertility in animals",
@@ -2324,58 +2376,6 @@
    "url": "https://doi.org/10.1093/jeb/voae021",
    "citations": 21,
    "abstract": "Critical thermal limits (CTLs) gauge the physiological impact of temperature on survival or critical biological function, aiding predictions of species range shifts and climatic resilience. Two recent Drosophila species studies, using similar approaches to determine temperatures that induce sterility (thermal fertility limits [TFLs]), reveal that TFLs are often lower than CTLs and that TFLs better predict both current species distributions and extinction probability. Moreover, many studies show fertility is more sensitive at less extreme temperatures than survival (thermal sensitivity of fertility [TSF]). These results present a more pessimistic outlook on the consequences of climate change. However, unlike CTLs, TFL data are limited to Drosophila, and variability in TSF methods poses challenges in predicting species responses to increasing temperature. To address these data and methodological gaps, we propose 3 standardized approaches for assessing thermal impacts on fertility. We focus on adult obligate sexual terrestrial invertebrates but also provide modifications for other animal groups and life-history stages. We first outline a \"gold-standard\" protocol for determining TFLs, focussing on the effects of short-term heat shocks and simulating more frequent extreme heat events predicted by climate models. As this approach may be difficult to apply to some organisms, we then provide a standardized TSF protocol. Finally, we provide a framework to quantify fertility loss in response to extreme heat events in nature, given the limitations in laboratory approaches. Applying these standardized approaches across many taxa, similar to CTLs, will allow robust tests of the impact of fertility loss on species responses to increasing temperatures.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1111/2041-210x.14377",
-   "doi": "10.1111/2041-210x.14377",
-   "title": "Robust point and variance estimation for meta‐analyses with selective reporting and dependent effect sizes",
-   "authors": [
-    {
-     "name": "Yefeng Yang",
-     "orcid": "https://orcid.org/0000-0002-8610-4016",
-     "isSelf": false
-    },
-    {
-     "name": "Malgorzata Lagisz",
-     "orcid": "https://orcid.org/0000-0002-3993-6127",
-     "isSelf": false
-    },
-    {
-     "name": "Coralie Williams",
-     "orcid": "https://orcid.org/0000-0003-1312-4953",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    },
-    {
-     "name": "Jinming Pan",
-     "orcid": "https://orcid.org/0000-0003-0228-4564",
-     "isSelf": false
-    },
-    {
-     "name": "Shinichi Nakagawa",
-     "orcid": "https://orcid.org/0000-0002-7765-5182",
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Yefeng Yang, Malgorzata Lagisz, Coralie Williams, Daniel W. A. Noble, Jinming Pan, Shinichi Nakagawa",
-   "journal": "Methods in Ecology and Evolution",
-   "year": 2024,
-   "date": "2024-07-09",
-   "volume": "15",
-   "issue": "9",
-   "pages": "1593-1610",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://doi.org/10.1111/2041-210x.14377",
-   "url": "https://doi.org/10.1111/2041-210x.14377",
-   "citations": 20,
-   "abstract": "Abstract Meta‐analysis produces a quantitative synthesis of evidence‐based knowledge, shaping not only research trends but also policies and practices in biology. However, two statistical issues, selective reporting and statistical dependence, can severely distort meta‐analytic parameter estimation and inference. Here, we re‐analyse 448 meta‐analyses to demonstrate a new two‐step procedure to deal with two common challenges in biological meta‐analyses that often occur simultaneously: publication bias and non‐independence. First, we employ bias‐robust weighting schemes under the generalized least square estimator to obtain average effect sizes that are more robust to selective reporting. We then use cluster‐robust variance estimation to account for statistical dependence, reducing bias in estimating standard errors and ensuring valid statistical inference. The first step of our approach demonstrates comparable performance in estimating average effect sizes to the existing publication‐bias adjustment methods in the presence of selective reporting. This equivalence holds across two publication bias selection processes. The second step achieves estimates of standard errors consistent with the multilevel meta‐analytic model, a benchmark method with adequate control of Type I error rates for multiple, statistically dependent effect sizes. Re‐analyses of 448 meta‐analyses show that ignoring these two issues tends to overestimate effect sizes by an average of 110% and underestimate standard errors by 120%. To facilitate implementation, we have developed a website including a step‐by‐step tutorial. Complementing current meta‐analytic workflows with the proposed method as a sensitivity analysis can facilitate a transition to a more robust approach in quantitative evidence synthesis.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -3407,7 +3407,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/ele.14144",
    "url": "https://doi.org/10.1111/ele.14144",
-   "citations": 127,
+   "citations": 129,
    "abstract": "The log response ratio, lnRR, is the most frequently used effect size statistic for meta-analysis in ecology. However, often missing standard deviations (SDs) prevent estimation of the sampling variance of lnRR. We propose new methods to deal with missing SDs via a weighted average coefficient of variation (CV) estimated from studies in the dataset that do report SDs. Across a suite of simulated conditions, we find that using the average CV to estimate sampling variances for all observations, regardless of missingness, performs with minimal bias. Surprisingly, even with missing SDs, this simple method outperforms the conventional approach (basing each effect size on its individual study-specific CV) with complete data. This is because the conventional method ultimately yields less precise estimates of the sampling variances than using the pooled CV from multiple studies. Our approach is broadly applicable and can be implemented in all meta-analyses of lnRR, regardless of 'missingness'.",
    "preprintUrl": null,
    "altmetric": null
@@ -3930,7 +3930,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 486,
+   "citations": 489,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4346,7 +4346,7 @@
    "isOA": true,
    "oaUrl": "https://ecoevorxiv.org/repository/object/4142/download/8236/",
    "url": "https://doi.org/10.1002/ecy.3490",
-   "citations": 24,
+   "citations": 25,
    "abstract": "Recently, Song et al. (2020) conducted a simulation study using different methods to deal with non-independence resulting from effect sizes originating from the same paper – a common occurrence in ecological meta-analyses. The main methods that were of interest in their simulations were: 1) a standard random-effects model used in combination with a weighted average effect size for each paper (i.e., a two-step method), 2) a standard random-effects model after randomly choosing one effect size per paper, 3) a multilevel (hierarchical) meta-analysis model, modelling paper identity as a random factor, and 4) a meta-analysis making use of a robust variance estimation method. Based on their simulation results, they recommend that meta-analysts should either use the two-step method, which involves taking a weighted paper mean followed by analysis with a random-effects model, or the robust variance estimation method.",
    "preprintUrl": null,
    "altmetric": null
@@ -6285,7 +6285,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 587,
+   "citations": 589,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
@@ -6322,7 +6322,7 @@
    "isOA": true,
    "oaUrl": "http://handle.unsw.edu.au/1959.4/unsworks_45072",
    "url": "https://doi.org/10.1111/brv.12333",
-   "citations": 305,
+   "citations": 306,
    "abstract": "Early environments can profoundly influence an organism in ways that persist over its life. In reptiles, early thermal environments (nest temperatures) can impact offspring phenotype and survival in important ways, yet we still lack an understanding of whether general trends exist and the magnitude of impact. Understanding these patterns is important in predicting how climate change will affect reptile populations and the role of phenotypic plasticity in buffering populations. We compiled data from 175 reptile studies to examine, and quantify, the effect of incubation temperature on phenotype and survival. Using meta-analytic approaches (standardized mean difference between incubation treatments, Hedges' g), we show that across all trait types examined there is, on average, a moderate to large magnitude of effect of incubation temperatures (absolute effect: |g| = 0.75). Unsurprisingly, this influence was extremely large for incubation duration, as predicted, with warmer temperatures decreasing incubation time overall (g = -8.42). Other trait types, including behaviour, physiology, morphology, performance, and survival experienced reduced, but still mostly moderate to large effects, with particularly strong effects on survival. Moreover, the impact of incubation temperature persisted at least one-year post-hatching, suggesting that these effects have the potential to impact fitness in the long term. The magnitude of effect increased as the change in temperature increased (e.g. 6°C versus 2°C) in almost all cases, and tended to decrease when temperatures of the treatments fluctuated around a mean temperature compared to when they were constant. The effect also depended on the mid-temperature of the comparison, but not in consistent ways, with some traits experiencing the greatest effects at extreme temperatures, while others did not. The highly heterogeneous nature of the effects we observe, along with a large amount of unexplained variability, indicates that the shape of reaction norms between phenotype and temperature, along with ecological and/or experimental factors, are important when considering general patterns. Our analyses provide new insights into the effects of incubation environments on reptile phenotype and survival and allow general, albeit coarse, predictions for taxa experiencing warming nest temperatures under climatic change.",
    "preprintUrl": null,
    "altmetric": null
@@ -6364,7 +6364,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/mec.14031",
-   "citations": 278,
+   "citations": 279,
    "abstract": "Meta-analysis is an important tool for synthesizing research on a variety of topics in ecology and evolution, including molecular ecology, but can be susceptible to nonindependence. Nonindependence can affect two major interrelated components of a meta-analysis: (i) the calculation of effect size statistics and (ii) the estimation of overall meta-analytic estimates and their uncertainty. While some solutions to nonindependence exist at the statistical analysis stages, there is little advice on what to do when complex analyses are not possible, or when studies with nonindependent experimental designs exist in the data. Here we argue that exploring the effects of procedural decisions in a meta-analysis (e.g. inclusion of different quality data, choice of effect size) and statistical assumptions (e.g. assuming no phylogenetic covariance) using sensitivity analyses are extremely important in assessing the impact of nonindependence. Sensitivity analyses can provide greater confidence in results and highlight important limitations of empirical work (e.g. impact of study design on overall effects). Despite their importance, sensitivity analyses are seldom applied to problems of nonindependence. To encourage better practice for dealing with nonindependence in meta-analytic studies, we present accessible examples demonstrating the impact that ignoring nonindependence can have on meta-analytic estimates. We also provide pragmatic solutions for dealing with nonindependent study designs, and for analysing dependent effect sizes. Additionally, we offer reporting guidelines that will facilitate disclosure of the sources of nonindependence in meta-analyses, leading to greater transparency and more robust conclusions.",
    "preprintUrl": null,
    "altmetric": null
@@ -6599,7 +6599,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/eep/article-pdf/2/1/dvv014/23747241/dvv014.pdf",
    "url": "https://doi.org/10.1093/eep/dvv014",
-   "citations": 168,
+   "citations": 169,
    "abstract": "Rapid environmental change is predicted to compromise population survival, and the resulting strong selective pressure can erode genetic variation, making evolutionary rescue unlikely. Non-genetic inheritance may provide a solution to this problem and help explain the current lack of fit between purely genetic evolutionary models and empirical data. We hypothesize that epigenetic modifications can facilitate evolutionary rescue through 'epigenetic buffering'. By facilitating the inheritance of novel phenotypic variants that are generated by environmental change-a strategy we call 'heritable bet hedging'-epigenetic modifications could maintain and increase the evolutionary potential of a population. This process may facilitate genetic adaptation by preserving existing genetic variation, releasing cryptic genetic variation and/or facilitating mutations in functional loci. Although we show that examples of non-genetic inheritance are often maladaptive in the short term, accounting for phenotypic variance and non-adaptive plasticity may reveal important evolutionary implications over longer time scales. We also discuss the possibility that maladaptive epigenetic responses may be due to 'epigenetic traps', whereby evolutionarily novel factors (e.g. endocrine disruptors) hack into the existing epigenetic machinery. We stress that more ecologically relevant work on transgenerational epigenetic inheritance is required. Researchers conducting studies on transgenerational environmental effects should report measures of phenotypic variance, so that the possibility of both bet hedging and heritable bet hedging can be assessed. Future empirical and theoretical work is required to assess the relative importance of genetic and epigenetic variation, and their interaction, for evolutionary rescue.",
    "preprintUrl": null,
    "altmetric": null

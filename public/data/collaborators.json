@@ -1,13 +1,13 @@
 {
- "updated": "2026-09-22",
+ "updated": "2026-09-23",
  "total": 433,
- "countries": 30,
- "institutions": 162,
+ "countries": 29,
+ "institutions": 160,
  "byCountry": {
   "Japan": 2,
-  "Australia": 191,
+  "Australia": 189,
   "Germany": 21,
-  "Canada": 19,
+  "Canada": 22,
   "United Kingdom": 38,
   "Switzerland": 10,
   "Poland": 2,
@@ -28,7 +28,6 @@
   "Costa Rica": 1,
   "Belgium": 3,
   "Chile": 1,
-  "Singapore": 2,
   "Nigeria": 1,
   "Norway": 3,
   "Denmark": 2,
@@ -1454,7 +1453,7 @@
    "lon": 8.55
   },
   {
-   "name": "Adam G. Dunn",
+   "name": "Adam George Dunn",
    "orcid": "https://orcid.org/0000-0002-1720-8209",
    "openalex": "https://openalex.org/A5055997493",
    "works": 1,
@@ -1584,7 +1583,7 @@
    "lon": 144.96332
   },
   {
-   "name": "Alison Bethel",
+   "name": "Alison C. Bethel",
    "orcid": "https://orcid.org/0000-0002-0963-9201",
    "openalex": "https://openalex.org/A5041021999",
    "works": 1,
@@ -2663,7 +2662,7 @@
    "lon": 2.3488
   },
   {
-   "name": "Emily A. Hennessy",
+   "name": "Emily Alden Hennessy",
    "orcid": "https://orcid.org/0000-0002-5146-5823",
    "openalex": "https://openalex.org/A5080066340",
    "works": 1,
@@ -2676,7 +2675,7 @@
    "lon": -72.24952
   },
   {
-   "name": "Emily Kothe",
+   "name": "Emily Jane Kothe",
    "orcid": "https://orcid.org/0000-0003-1210-0554",
    "openalex": "https://openalex.org/A5018200841",
    "works": 1,
@@ -2720,12 +2719,12 @@
    "openalex": "https://openalex.org/A5126609191",
    "works": 1,
    "lastYear": 2026,
-   "institution": "Chemical Synthesis Lab",
-   "city": "Singapore",
-   "country": "Singapore",
-   "countryCode": "SG",
-   "lat": 1.299612045288086,
-   "lon": 103.78772735595703
+   "institution": "University of Alberta",
+   "city": "Edmonton",
+   "country": "Canada",
+   "countryCode": "CA",
+   "lat": 53.55014,
+   "lon": -113.46871
   },
   {
    "name": "ERIK I. SVENSSON",
@@ -3469,6 +3468,19 @@
    "lon": 2.3488
   },
   {
+   "name": "John H. Niedzwiecki",
+   "orcid": null,
+   "openalex": "https://openalex.org/A5011084712",
+   "works": 1,
+   "lastYear": 2007,
+   "institution": "University of Kentucky",
+   "city": "Lexington",
+   "country": "United States",
+   "countryCode": "US",
+   "lat": 37.98869,
+   "lon": -84.47772
+  },
+  {
    "name": "John H. Roe",
    "orcid": "https://orcid.org/0000-0002-0191-3587",
    "openalex": "https://openalex.org/A5076561412",
@@ -3480,19 +3492,6 @@
    "countryCode": "US",
    "lat": 34.68016,
    "lon": -79.19504
-  },
-  {
-   "name": "John Niedzwiecki",
-   "orcid": null,
-   "openalex": "https://openalex.org/A5011084712",
-   "works": 1,
-   "lastYear": 2007,
-   "institution": "University of Kentucky",
-   "city": "Lexington",
-   "country": "United States",
-   "countryCode": "US",
-   "lat": 37.98869,
-   "lon": -84.47772
   },
   {
    "name": "John S. Terblanche",
@@ -3547,7 +3546,7 @@
    "lon": -84.19161
   },
   {
-   "name": "Joshua J. Amiel",
+   "name": "Joshua Johnstone Amiel",
    "orcid": null,
    "openalex": "https://openalex.org/A5074566580",
    "works": 1,
@@ -3755,7 +3754,7 @@
    "lon": 130.84185
   },
   {
-   "name": "Kerrie Mengersen",
+   "name": "Kerrie Lee Mengersen",
    "orcid": "https://orcid.org/0000-0001-8625-9168",
    "openalex": "https://openalex.org/A5001588690",
    "works": 1,
@@ -3950,7 +3949,7 @@
    "lon": 149.12807
   },
   {
-   "name": "Luke A. McGuinness",
+   "name": "Luke Aidan McGuinness",
    "orcid": "https://orcid.org/0000-0001-8730-9761",
    "openalex": "https://openalex.org/A5037094305",
    "works": 1,
@@ -4072,12 +4071,12 @@
    "openalex": "https://openalex.org/A5126641635",
    "works": 1,
    "lastYear": 2026,
-   "institution": "UNSW Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
+   "institution": "University of Alberta",
+   "city": "Edmonton",
+   "country": "Canada",
+   "countryCode": "CA",
+   "lat": 53.55014,
+   "lon": -113.46871
   },
   {
    "name": "Mandlenkosi Ngwenya",
@@ -4639,7 +4638,7 @@
    "lon": 149.12807
   },
   {
-   "name": "Paige Martin",
+   "name": "Paige B Martin",
    "orcid": "https://orcid.org/0000-0002-6157-4740",
    "openalex": "https://openalex.org/A5021350445",
    "works": 1,
@@ -4657,12 +4656,12 @@
    "openalex": "https://openalex.org/A5088285955",
    "works": 1,
    "lastYear": 2025,
-   "institution": "Manitoba Beekeepers' Association",
-   "city": "Winnipeg",
-   "country": "Canada",
-   "countryCode": "CA",
-   "lat": 49.803504943847656,
-   "lon": -97.138916015625
+   "institution": null,
+   "city": null,
+   "country": null,
+   "countryCode": null,
+   "lat": null,
+   "lon": null
   },
   {
    "name": "Paul Sunnucks",
@@ -4704,7 +4703,7 @@
    "lon": 151.20732
   },
   {
-   "name": "Petri T. Niemelä",
+   "name": "Petri Toivo Niemelä",
    "orcid": "https://orcid.org/0000-0002-7518-4057",
    "openalex": "https://openalex.org/A5041958219",
    "works": 1,
@@ -5086,12 +5085,12 @@
    "openalex": "https://openalex.org/A5126586993",
    "works": 1,
    "lastYear": 2026,
-   "institution": "Chemical Synthesis Lab",
-   "city": "Singapore",
-   "country": "Singapore",
-   "countryCode": "SG",
-   "lat": 1.299612045288086,
-   "lon": 103.78772735595703
+   "institution": "University of Alberta",
+   "city": "Edmonton",
+   "country": "Canada",
+   "countryCode": "CA",
+   "lat": 53.55014,
+   "lon": -113.46871
   },
   {
    "name": "Sarah Elizabeth Scott",
@@ -5151,12 +5150,12 @@
    "openalex": "https://openalex.org/A5126607842",
    "works": 1,
    "lastYear": 2026,
-   "institution": "UNSW Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
+   "institution": "University of Alberta",
+   "city": "Edmonton",
+   "country": "Canada",
+   "countryCode": "CA",
+   "lat": 53.55014,
+   "lon": -113.46871
   },
   {
    "name": "Shreya Dimri",
@@ -5177,12 +5176,12 @@
    "openalex": "https://openalex.org/A5017607567",
    "works": 1,
    "lastYear": 2025,
-   "institution": "New York Consortium in Evolutionary Primatology",
+   "institution": "Columbia University",
    "city": "New York",
    "country": "United States",
    "countryCode": "US",
-   "lat": 40.76873016357422,
-   "lon": -73.96489715576172
+   "lat": 40.71427,
+   "lon": -74.00597
   },
   {
    "name": "Shuai Li",
@@ -5302,7 +5301,7 @@
    "lon": 149.12806701660156
   },
   {
-   "name": "Stephen J. Simpson",
+   "name": "Stephen James Simpson",
    "orcid": "https://orcid.org/0000-0003-0256-7687",
    "openalex": "https://openalex.org/A5015340386",
    "works": 1,
@@ -5484,7 +5483,7 @@
    "lon": 150.75142
   },
   {
-   "name": "Vivian Welch",
+   "name": "Vivian Andrea Welch",
    "orcid": "https://orcid.org/0000-0002-5238-7097",
    "openalex": "https://openalex.org/A5029006782",
    "works": 1,

@@ -1,12 +1,12 @@
 {
- "updated": "2026-09-22",
+ "updated": "2026-09-23",
  "sources": [
   "ORCID",
   "Crossref",
   "OpenAlex"
  ],
  "orcid": "0000-0001-9460-8743",
- "citations": 7566,
+ "citations": 7579,
  "hIndex": 40,
  "i10Index": 91,
  "works": 129,
@@ -14,7 +14,7 @@
  "preprints": 1,
  "firstAuthor": 20,
  "coAuthors": 433,
- "countries": 30,
+ "countries": 29,
  "citationsByYear": [
   {
    "year": 2012,
@@ -50,7 +50,7 @@
   },
   {
    "year": 2020,
-   "cited_by_count": 418
+   "cited_by_count": 421
   },
   {
    "year": 2021,
@@ -74,7 +74,7 @@
   },
   {
    "year": 2026,
-   "cited_by_count": 1082
+   "cited_by_count": 1092
   }
  ]
 }
