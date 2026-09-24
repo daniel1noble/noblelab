@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-23",
- "total": 433,
+ "updated": "2026-09-24",
+ "total": 431,
  "countries": 29,
  "institutions": 160,
  "byCountry": {
   "Japan": 2,
-  "Australia": 189,
+  "Australia": 187,
   "Germany": 21,
   "Canada": 22,
   "United Kingdom": 38,
@@ -101,6 +101,19 @@
    "lon": 151.20732
   },
   {
+   "name": "Ondi L. Crino",
+   "orcid": "https://orcid.org/0000-0001-5700-1387",
+   "openalex": "https://openalex.org/A5051270012",
+   "works": 11,
+   "lastYear": 2026,
+   "institution": "Australian National University",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.28346,
+   "lon": 149.12807
+  },
+  {
    "name": "Patrice Pottier",
    "orcid": "https://orcid.org/0000-0003-2106-6597",
    "openalex": "https://openalex.org/A5020220822",
@@ -138,19 +151,6 @@
    "countryCode": "AU",
    "lat": -33.86785,
    "lon": 151.20732
-  },
-  {
-   "name": "Ondi L. Crino",
-   "orcid": "https://orcid.org/0000-0001-5700-1387",
-   "openalex": "https://openalex.org/A5051270012",
-   "works": 10,
-   "lastYear": 2026,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
   },
   {
    "name": "Fonti Kar",
@@ -203,6 +203,19 @@
    "countryCode": "CH",
    "lat": 46.94809,
    "lon": 7.44744
+  },
+  {
+   "name": "Dalton C. Leibold",
+   "orcid": "https://orcid.org/0000-0001-9645-2033",
+   "openalex": "https://openalex.org/A5088016600",
+   "works": 8,
+   "lastYear": 2026,
+   "institution": "Australian National University",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.28346,
+   "lon": 149.12807
   },
   {
    "name": "Michael D. Jennions",
@@ -268,19 +281,6 @@
    "countryCode": "AU",
    "lat": -34.42399978637695,
    "lon": 150.89344787597656
-  },
-  {
-   "name": "Dalton C. Leibold",
-   "orcid": "https://orcid.org/0000-0001-9645-2033",
-   "openalex": "https://openalex.org/A5088016600",
-   "works": 7,
-   "lastYear": 2026,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
   },
   {
    "name": "Kristoffer H. Wild",
@@ -357,8 +357,8 @@
    "city": "Valencia",
    "country": "Spain",
    "countryCode": "ES",
-   "lat": 39.47391128540039,
-   "lon": -0.3796600103378296
+   "lat": 39.47391,
+   "lon": -0.37966
   },
   {
    "name": "Alfredo Sánchez‐Tójar",
@@ -656,8 +656,8 @@
    "city": "Norwich",
    "country": "United Kingdom",
    "countryCode": "GB",
-   "lat": 52.627830505371094,
-   "lon": 1.2983399629592896
+   "lat": 52.62783,
+   "lon": 1.29834
   },
   {
    "name": "Meng‐Han Joseph Chung",
@@ -981,8 +981,8 @@
    "city": "Norwich",
    "country": "United Kingdom",
    "countryCode": "GB",
-   "lat": 52.627830505371094,
-   "lon": 1.2983399629592896
+   "lat": 52.62783,
+   "lon": 1.29834
   },
   {
    "name": "Graziella Iossa",
@@ -1623,8 +1623,8 @@
   },
   {
    "name": "Alistair Senior",
-   "orcid": "https://orcid.org/0000-0001-9805-7280",
-   "openalex": "https://openalex.org/A5126633678",
+   "orcid": null,
+   "openalex": "https://openalex.org/A5137517123",
    "works": 1,
    "lastYear": 2026,
    "institution": "The University of Sydney",
@@ -1930,8 +1930,8 @@
    "city": "Norwich",
    "country": "United Kingdom",
    "countryCode": "GB",
-   "lat": 52.627830505371094,
-   "lon": 1.2983399629592896
+   "lat": 52.62783,
+   "lon": 1.29834
   },
   {
    "name": "Benjamin F. Clark",
@@ -2309,19 +2309,6 @@
    "countryCode": "AU",
    "lat": -33.86785,
    "lon": 151.20732
-  },
-  {
-   "name": "Dalton C. Leibold",
-   "orcid": "https://orcid.org/0000-0001-9645-2033",
-   "openalex": "https://openalex.org/A5140689678",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
   },
   {
    "name": "Damian K. Dowling",
@@ -3053,8 +3040,8 @@
   },
   {
    "name": "Hamed Haselimashhadi",
-   "orcid": null,
-   "openalex": "https://openalex.org/A5125922906",
+   "orcid": "https://orcid.org/0000-0001-7334-2421",
+   "openalex": "https://openalex.org/A5059267759",
    "works": 1,
    "lastYear": 2026,
    "institution": "European Bioinformatics Institute",
@@ -4127,8 +4114,8 @@
    "city": "Norwich",
    "country": "United Kingdom",
    "countryCode": "GB",
-   "lat": 52.627830505371094,
-   "lon": 1.2983399629592896
+   "lat": 52.62783,
+   "lon": 1.29834
   },
   {
    "name": "Mareike Koppik",
@@ -4491,8 +4478,8 @@
    "city": "Bhubaneswar",
    "country": "India",
    "countryCode": "IN",
-   "lat": 20.315000534057617,
-   "lon": 85.81700134277344
+   "lat": 20.27241,
+   "lon": 85.83385
   },
   {
    "name": "Natalie Pilakouta",
@@ -4565,19 +4552,6 @@
    "openalex": "https://openalex.org/A5012146921",
    "works": 1,
    "lastYear": 2025,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
-  },
-  {
-   "name": "Ondi L. Crino",
-   "orcid": "https://orcid.org/0000-0001-5700-1387",
-   "openalex": "https://openalex.org/A5140617285",
-   "works": 1,
-   "lastYear": 2026,
    "institution": "Australian National University",
    "city": "Canberra",
    "country": "Australia",
@@ -4731,7 +4705,7 @@
   {
    "name": "Pietro Pollo",
    "orcid": "https://orcid.org/0000-0001-6555-5400",
-   "openalex": "https://openalex.org/A5125946369",
+   "openalex": "https://openalex.org/A5042690840",
    "works": 1,
    "lastYear": 2026,
    "institution": "UNSW Sydney",
@@ -5492,8 +5466,8 @@
    "city": "Oslo",
    "country": "Norway",
    "countryCode": "NO",
-   "lat": 59.9127311706543,
-   "lon": 10.746089935302734
+   "lat": 59.91273,
+   "lon": 10.74609
   },
   {
    "name": "W. Kyle Hamilton",
