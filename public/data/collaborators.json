@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-24",
- "total": 431,
+ "updated": "2026-09-25",
+ "total": 429,
  "countries": 29,
  "institutions": 160,
  "byCountry": {
   "Japan": 2,
-  "Australia": 187,
+  "Australia": 186,
   "Germany": 21,
   "Canada": 22,
   "United Kingdom": 38,
@@ -16,9 +16,9 @@
   "China": 7,
   "United States": 54,
   "Finland": 5,
+  "France": 16,
   "The Netherlands": 5,
   "Italy": 3,
-  "France": 17,
   "Netherlands": 2,
   "South Africa": 7,
   "Portugal": 2,
@@ -517,6 +517,19 @@
    "lon": 151.20732
   },
   {
+   "name": "Coralie Williams",
+   "orcid": "https://orcid.org/0000-0003-1312-4953",
+   "openalex": "https://openalex.org/A5041166955",
+   "works": 3,
+   "lastYear": 2026,
+   "institution": "UNSW Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -33.86785,
+   "lon": 151.20732
+  },
+  {
    "name": "Daniel Ritchie",
    "orcid": "https://orcid.org/0009-0005-7333-6239",
    "openalex": "https://openalex.org/A5103079150",
@@ -632,6 +645,19 @@
    "countryCode": "FI",
    "lat": 60.16952,
    "lon": 24.93545
+  },
+  {
+   "name": "Karine Salin",
+   "orcid": "https://orcid.org/0000-0002-3368-9639",
+   "openalex": "https://openalex.org/A5072874450",
+   "works": 3,
+   "lastYear": 2026,
+   "institution": "Ifremer",
+   "city": "Brest",
+   "country": "France",
+   "countryCode": "FR",
+   "lat": 48.39029,
+   "lon": -4.48628
   },
   {
    "name": "Kirke L. Munch",
@@ -881,19 +907,6 @@
    "lon": 11.88586
   },
   {
-   "name": "Coralie Williams",
-   "orcid": "https://orcid.org/0000-0003-1312-4953",
-   "openalex": "https://openalex.org/A5041166955",
-   "works": 2,
-   "lastYear": 2025,
-   "institution": "UNSW Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
-  },
-  {
    "name": "Daniel Stein Falster",
    "orcid": "https://orcid.org/0000-0002-9814-092X",
    "openalex": "https://openalex.org/A5087681406",
@@ -1061,19 +1074,6 @@
    "countryCode": "US",
    "lat": 32.35126,
    "lon": -95.30106
-  },
-  {
-   "name": "Karine Salin",
-   "orcid": "https://orcid.org/0000-0002-3368-9639",
-   "openalex": "https://openalex.org/A5072874450",
-   "works": 2,
-   "lastYear": 2024,
-   "institution": "Ifremer",
-   "city": "Brest",
-   "country": "France",
-   "countryCode": "FR",
-   "lat": 48.39029,
-   "lon": -4.48628
   },
   {
    "name": "Maider Iglesias‐Carrasco",
@@ -1623,7 +1623,7 @@
   },
   {
    "name": "Alistair Senior",
-   "orcid": null,
+   "orcid": "https://orcid.org/0000-0001-9805-7280",
    "openalex": "https://openalex.org/A5137517123",
    "works": 1,
    "lastYear": 2026,
@@ -2246,19 +2246,6 @@
    "lon": 151.20732
   },
   {
-   "name": "Coralie Williams",
-   "orcid": "https://orcid.org/0000-0003-1312-4953",
-   "openalex": "https://openalex.org/A5126588080",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "UNSW Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
-  },
-  {
    "name": "Craig E. Franklin",
    "orcid": "https://orcid.org/0000-0003-1315-3797",
    "openalex": "https://openalex.org/A5000084542",
@@ -2519,9 +2506,9 @@
    "lon": -122.27275
   },
   {
-   "name": "Diego Ellis-Soto",
+   "name": "Diego Ellis‐Soto",
    "orcid": "https://orcid.org/0000-0003-4766-021X",
-   "openalex": "https://openalex.org/A5135862995",
+   "openalex": "https://openalex.org/A5004706245",
    "works": 1,
    "lastYear": 2026,
    "institution": "University of California, Berkeley",
@@ -3339,7 +3326,7 @@
   },
   {
    "name": "Jeremy Cohen",
-   "orcid": null,
+   "orcid": "https://orcid.org/0000-0001-9611-9150",
    "openalex": "https://openalex.org/A5128697180",
    "works": 1,
    "lastYear": 2026,
@@ -3661,19 +3648,6 @@
    "countryCode": "US",
    "lat": 42.73698,
    "lon": -84.48387
-  },
-  {
-   "name": "Karine Salin",
-   "orcid": null,
-   "openalex": "https://openalex.org/A5140610363",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "Centre National de la Recherche Scientifique",
-   "city": "Paris",
-   "country": "France",
-   "countryCode": "FR",
-   "lat": 48.85341,
-   "lon": 2.3488
   },
   {
    "name": "Kate D. L. Umbers",

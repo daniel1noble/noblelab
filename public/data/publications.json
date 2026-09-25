@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-24",
+ "updated": "2026-09-25",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -208,6 +208,58 @@
    "altmetric": null
   },
   {
+   "id": "10.1016/j.cois.2026.101523",
+   "doi": "10.1016/j.cois.2026.101523",
+   "title": "Life cycle complexity drives variation in thermal tolerance and plasticity",
+   "authors": [
+    {
+     "name": "Patrice Pottier",
+     "orcid": "https://orcid.org/0000-0003-2106-6597",
+     "isSelf": false
+    },
+    {
+     "name": "Vanessa Kellermann",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Daniel WA Noble",
+     "orcid": null,
+     "isSelf": true
+    },
+    {
+     "name": "Carla M Sgrò",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "John S Terblanche",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Belinda van Heerwaarden",
+     "orcid": null,
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Patrice Pottier, Vanessa Kellermann, Daniel WA Noble, Carla M Sgrò, John S Terblanche, Belinda van Heerwaarden",
+   "journal": "Current Opinion in Insect Science",
+   "year": 2026,
+   "date": "2026-08",
+   "volume": "76",
+   "issue": null,
+   "pages": "101523",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://doi.org/10.1016/j.cois.2026.101523",
+   "url": "https://doi.org/10.1016/j.cois.2026.101523",
+   "citations": 1,
+   "abstract": "Accumulating evidence suggests that heat tolerance varies substantially across insect development, yet patterns of variation remain difficult to generalise across species. We discuss how the diversity of insect developmental strategies shapes both the intensity and predictability of thermal environments across ontogeny, and how this likely generates variation in heat tolerance, plasticity and carry-over effects. We hypothesise that large developmental variation is expected in holometabolous insects and in species undergoing pronounced microhabitat or diel activity transitions. These transitions can modify heat exposure, behavioural thermoregulatory abilities and the physiological or genetic regulatory network underlying heat tolerance, weakening correlations among life stages. We discuss when carry-over effects are likely to be adaptive, highlighting the importance of environmental predictability, ecological similarity among stages and the balance between heat injury and repair. We argue that an ontogenetic perspective capturing the microenvironmental conditions experienced by each life stage is essential for predicting insect vulnerability to extreme heat.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
    "id": "10.1111/ele.70428",
    "doi": "10.1111/ele.70428",
    "title": "A New Effect Size for Meta‐Analysis of Magnitude: lnM",
@@ -318,58 +370,6 @@
    "url": "https://doi.org/10.1002/brv.70205",
    "citations": 0,
    "abstract": "Increasing resource demand, desire to sequester atmospheric carbon, and conservation goals are driving a need for forests to be managed more effectively in the face of numerous challenges. One such challenge is damage perpetrated by browsing mammals, which can cause substantial financial and ecological impacts. Current practices focus on lethal control measures for mitigating mammal browsing damage, however stakeholder pressure is calling for a transition to non-lethal alternatives. Little is known about the relative efficacy of different non-lethal control methods for mitigating browsing damage by mammals other than deer. Using a multilevel meta-analytical framework across 1,908 effect sizes, we investigate the relative efficacy and longevity of different non-lethal control methods implemented against a broad suite of browsing mammals across different spatial scales. We found that tree guards, repellents and exclusion fencing all significantly reduce mammal browsing damage and retain their effect for long periods. There was, however, substantial variation in efficacy within individual control strategies highlighting the importance to forest managers of selecting the correct method from within the broad strategies we identified. We then discuss other factors to consider when implementing non-lethal mammal browsing control so that forest managers are well informed when implementing a control strategy.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1016/j.cois.2026.101523",
-   "doi": "10.1016/j.cois.2026.101523",
-   "title": "Life cycle complexity drives variation in thermal tolerance and plasticity",
-   "authors": [
-    {
-     "name": "Patrice Pottier",
-     "orcid": "https://orcid.org/0000-0003-2106-6597",
-     "isSelf": false
-    },
-    {
-     "name": "Vanessa Kellermann",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Daniel WA Noble",
-     "orcid": null,
-     "isSelf": true
-    },
-    {
-     "name": "Carla M Sgrò",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "John S Terblanche",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Belinda van Heerwaarden",
-     "orcid": null,
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Patrice Pottier, Vanessa Kellermann, Daniel WA Noble, Carla M Sgrò, John S Terblanche, Belinda van Heerwaarden",
-   "journal": "Current Opinion in Insect Science",
-   "year": 2026,
-   "date": "2026-08",
-   "volume": "76",
-   "issue": null,
-   "pages": "101523",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://doi.org/10.1016/j.cois.2026.101523",
-   "url": "https://doi.org/10.1016/j.cois.2026.101523",
-   "citations": 0,
-   "abstract": "Accumulating evidence suggests that heat tolerance varies substantially across insect development, yet patterns of variation remain difficult to generalise across species. We discuss how the diversity of insect developmental strategies shapes both the intensity and predictability of thermal environments across ontogeny, and how this likely generates variation in heat tolerance, plasticity and carry-over effects. We hypothesise that large developmental variation is expected in holometabolous insects and in species undergoing pronounced microhabitat or diel activity transitions. These transitions can modify heat exposure, behavioural thermoregulatory abilities and the physiological or genetic regulatory network underlying heat tolerance, weakening correlations among life stages. We discuss when carry-over effects are likely to be adaptive, highlighting the importance of environmental predictability, ecological similarity among stages and the balance between heat injury and repair. We argue that an ontogenetic perspective capturing the microenvironmental conditions experienced by each life stage is essential for predicting insect vulnerability to extreme heat.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2222,7 +2222,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/2041-210x.14377",
    "url": "https://doi.org/10.1111/2041-210x.14377",
-   "citations": 21,
+   "citations": 22,
    "abstract": "Abstract Meta‐analysis produces a quantitative synthesis of evidence‐based knowledge, shaping not only research trends but also policies and practices in biology. However, two statistical issues, selective reporting and statistical dependence, can severely distort meta‐analytic parameter estimation and inference. Here, we re‐analyse 448 meta‐analyses to demonstrate a new two‐step procedure to deal with two common challenges in biological meta‐analyses that often occur simultaneously: publication bias and non‐independence. First, we employ bias‐robust weighting schemes under the generalized least square estimator to obtain average effect sizes that are more robust to selective reporting. We then use cluster‐robust variance estimation to account for statistical dependence, reducing bias in estimating standard errors and ensuring valid statistical inference. The first step of our approach demonstrates comparable performance in estimating average effect sizes to the existing publication‐bias adjustment methods in the presence of selective reporting. This equivalence holds across two publication bias selection processes. The second step achieves estimates of standard errors consistent with the multilevel meta‐analytic model, a benchmark method with adequate control of Type I error rates for multiple, statistically dependent effect sizes. Re‐analyses of 448 meta‐analyses show that ignoring these two issues tends to overestimate effect sizes by an average of 110% and underestimate standard errors by 120%. To facilitate implementation, we have developed a website including a step‐by‐step tutorial. Complementing current meta‐analytic workflows with the proposed method as a sensitivity analysis can facilitate a transition to a more robust approach in quantitative evidence synthesis.",
    "preprintUrl": null,
    "altmetric": null
@@ -3355,7 +3355,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14083",
    "url": "https://doi.org/10.1111/ele.14083",
-   "citations": 147,
+   "citations": 148,
    "abstract": "Understanding the factors affecting thermal tolerance is crucial for predicting the impact climate change will have on ectotherms. However, the role developmental plasticity plays in allowing populations to cope with thermal extremes is poorly understood. Here, we meta-analyse how thermal tolerance is initially and persistently impacted by early (embryonic and juvenile) thermal environments by using data from 150 experimental studies on 138 ectothermic species. Thermal tolerance only increased by 0.13°C per 1°C change in developmental temperature and substantial variation in plasticity (~36%) was the result of shared evolutionary history and species ecology. Aquatic ectotherms were more than three times as plastic as terrestrial ectotherms. Notably, embryos expressed weaker but more heterogenous plasticity than older life stages, with numerous responses appearing as non-adaptive. While developmental temperatures did not have persistent effects on thermal tolerance overall, persistent effects were vastly under-studied, and their direction and magnitude varied with ontogeny. Embryonic stages may represent a critical window of vulnerability to changing environments and we urge researchers to consider early life stages when assessing the climate vulnerability of ectotherms. Overall, our synthesis suggests that developmental changes in thermal tolerance rarely reach levels of perfect compensation and may provide limited benefit in changing environments.",
    "preprintUrl": "https://doi.org/10.22541/au.164573834.49438532/v1",
    "altmetric": null
@@ -3863,7 +3863,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 705,
+   "citations": 707,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4712,7 +4712,7 @@
    "isOA": true,
    "oaUrl": "https://hdl.handle.net/10550/76839",
    "url": "https://doi.org/10.1111/brv.12632",
-   "citations": 136,
+   "citations": 137,
    "abstract": "A central question in ecology and evolution is to understand why sexual selection varies so much in strength across taxa; it has long been known that ecological factors are crucial to this. Temperature is a particularly salient abiotic ecological factor that modulates a wide range of physiological, morphological and behavioural traits, impacting individuals and populations at a global taxonomic scale. Furthermore, temperature exhibits substantial temporal variation (e.g. daily, seasonally and inter-seasonally), and hence for most species in the wild sexual selection will regularly unfold in a dynamic thermal environment. Unfortunately, studies have so far almost completely neglected the role of temperature as a modulator of sexual selection. Here, we outline the main pathways through which temperature can affect the intensity and form (i.e. mechanisms) of sexual selection, via: (i) direct effects on secondary sexual traits and preferences (i.e. trait variance, opportunity for selection and trait-fitness covariance), and (ii) indirect effects on key mating parameters, sex-specific reproductive costs/benefits, trade-offs, demography and correlated abiotic factors. Building upon this framework, we show that, by focusing exclusively on the first-order effects that environmental temperature has on traits linked with individual fitness and population viability, current global warming studies may be ignoring eco-evolutionary feedbacks mediated by sexual selection. Finally, we tested the general prediction that temperature modulates sexual selection by conducting a meta-analysis of available studies experimentally manipulating temperature and reporting effects on the variance of male/female reproductive success and/or traits under sexual selection. Our results show a clear association between temperature and sexual selection measures in both sexes. In short, we suggest that studying the feedback between temperature and sexual selection processes may be vital to developing a better understanding of variation in the strength of sexual selection in nature, and its consequences for population viability in response to environmental change (e.g. global warming).",
    "preprintUrl": null,
    "altmetric": null
