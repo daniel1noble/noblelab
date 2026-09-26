@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-25",
+ "updated": "2026-09-26",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -93,7 +93,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1016/j.tree.2026.01.009",
    "url": "https://doi.org/10.1016/j.tree.2026.01.009",
-   "citations": 6,
+   "citations": 7,
    "abstract": "Anthropogenic climate change is leading to more frequent and extreme heat waves. These large-scale events are radically reshaping interactions among organisms-impacting biodiversity, community composition, and ecosystem services crucial to natural systems and food security. Predicting heat wave impacts on interacting species requires an understanding of the processes driving differential exposure and sensitivity of organisms to extreme heat events in a life cycle context. To achieve this predictive capacity, we need to integrate models across scales while capturing species-specific responses at the individual level. We review and demonstrate how existing models in disparate fields can be linked to achieve an increased understanding of how individuals and communities will respond to extreme heat, now and into the future.",
    "preprintUrl": null,
    "altmetric": null
@@ -822,7 +822,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1098/rstb.2024.0138",
    "url": "https://doi.org/10.1098/rstb.2024.0138",
-   "citations": 16,
+   "citations": 17,
    "abstract": "Conservation translocations are increasingly used in species' recovery. Their success often depends upon maintaining or restoring survival-relevant behaviour, which is socially learned in many animals. A lack of species- or population-appropriate learning can lead to the loss of adaptive behaviour, increasing the likelihood of negative human interactions and compromising animals' ability to migrate, exploit resources, avoid predators, integrate into wild populations, reproduce and survive. When applied well, behavioural tools can address deficiencies in socially learned behaviours and boost survival. However, their use has been uneven between species and translocation programmes, and behaviour commonly contributes to translocation failure. Critically, current international guidance (e.g. the International Union for Conservation of Nature's translocation guidelines) does not directly discuss social learning or its facilitation. We argue that linking knowledge about social learning to appropriate translocation strategies will enhance guidance and direct future research. We offer a framework for incorporating animal social learning into translocation planning, implementation, monitoring and evaluation across wild and captive settings. Our recommendations consider barriers practitioners face in contending with logistics, time constraints and intervention cost. We emphasize that stronger links between researchers, translocation practitioners and wildlife agencies would increase support for social learning research, and improve the perceived relevance and feasibility of facilitating social learning.This article is part of the theme issue 'Animal culture: conservation in a changing world'.",
    "preprintUrl": null,
    "altmetric": null
@@ -2733,7 +2733,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14152",
    "url": "https://doi.org/10.1111/2041-210x.14152",
-   "citations": 159,
+   "citations": 160,
    "abstract": "Abstract Although meta‐analysis has become an essential tool in ecology and evolution, reporting of meta‐analytic results can still be much improved. To aid this, we have introduced the orchard plot, which presents not only overall estimates and their confidence intervals, but also shows corresponding heterogeneity (as prediction intervals) and individual effect sizes. Here, we have added significant enhancements by integrating many new functionalities into orchaRd 2.0 . This updated version allows the visualisation of heteroscedasticity (different variances across levels of a categorical moderator), marginal estimates (e.g. marginalising out effects other than the one visualised), conditional estimates (i.e. estimates of different groups conditioned upon specific values of a continuous variable) and visualisations of all types of interactions between two categorical/continuous moderators. orchaRd 2.0 has additional functions which calculate key statistics from multilevel meta‐analytic models such as I 2 and R 2 . Importantly, orchaRd 2.0 contributes to better reporting by complying with PRISMA‐EcoEvo (preferred reporting items for systematic reviews and meta‐analyses in ecology and evolution). Taken together, orchaRd 2.0 can improve the presentation of meta‐analytic results and facilitate the exploration of previously neglected patterns. In addition, as a part of a literature survey, we found that graphical packages are rarely cited (~3%). We plea that researchers credit developers and maintainers of graphical packages, for example, by citations in a figure legend, acknowledging the use of relevant packages.",
    "preprintUrl": null,
    "altmetric": null
@@ -3930,7 +3930,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 489,
+   "citations": 491,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4037,7 +4037,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1016/j.tree.2020.12.006",
    "url": "https://doi.org/10.1016/j.tree.2020.12.006",
-   "citations": 200,
+   "citations": 201,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -4878,7 +4878,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.13479",
    "url": "https://doi.org/10.1111/ele.13479",
-   "citations": 92,
+   "citations": 94,
    "abstract": "A recent meta-analysis concluded, 'transgenerational effects are widespread, strong and persistent'. We identify biases in the literature search, data and analyses, questioning that conclusion. Re-analyses indicate few studies actually tested transgenerational effects - making it challenging to disentangle condition-transfer from anticipatory parental effects, and providing little insight into the underlying mechanisms.",
    "preprintUrl": null,
    "altmetric": null
@@ -5587,7 +5587,7 @@
    "isOA": true,
    "oaUrl": "https://figshare.com/articles/journal_contribution/Patterns_of_developmental_plasticity_in_response_to_incubation_temperature_in_reptiles/22968455",
    "url": "https://doi.org/10.1002/jez.2181",
-   "citations": 113,
+   "citations": 114,
    "abstract": "Early life environments shape phenotypic development in important ways that can lead to long-lasting effects on phenotype and fitness. In reptiles, one aspect of the early environment that impacts development is temperature (termed 'thermal developmental plasticity'). Indeed, the thermal environment during incubation is known to influence morphological, physiological, and behavioral traits, some of which have important consequences for many ecological and evolutionary processes. Despite this, few studies have attempted to synthesize and collate data from this expansive and important body of research. Here, we systematically review research into thermal developmental plasticity across reptiles, structured around the key papers and findings that have shaped the field over the past 50 years. From these papers, we introduce a large database (the 'Reptile Development Database') consisting of 9,773 trait means across 300 studies examining thermal developmental plasticity. This dataset encompasses data on a range of phenotypes, including morphological, physiological, behavioral, and performance traits along with growth rate, incubation duration, sex ratio, and survival (e.g., hatching success) across all major reptile clades. Finally, from our literature synthesis and data exploration, we identify key research themes associated with thermal developmental plasticity, important gaps in empirical research, and demonstrate how future progress can be made through targeted empirical, meta-analytic, and comparative work.",
    "preprintUrl": null,
    "altmetric": null
@@ -5691,7 +5691,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.4700",
    "url": "https://doi.org/10.1002/ece3.4700",
-   "citations": 43,
+   "citations": 44,
    "abstract": "Abstract Organisms that regularly encounter stressful environments are expected to use cues to develop an appropriate phenotype. Water fleas (Daphnia spp.) are exposed to toxic cyanobacteria during seasonal algal blooms, which reduce growth and reproductive investment. Because generation time is typically shorter than the exposure to cyanobacteria, maternal effects provide information about the local conditions subsequent generations will experience. Here, we evaluate if maternal effects in response to microcystin, a toxin produced by cyanobacteria, represent an inheritance system evolved to transmit information in Daphnia magna. We exposed mothers as juveniles and/or as adults, and tested the offspring's fitness in toxic and non‐toxic environments. Maternal exposure until reproduction reduced offspring fitness, both in the presence and in the absence of toxic cyanobacteria. However, this effect was accompanied by a small positive fitness effect, relative to offspring from unexposed mothers, in the presence of toxic cyanobacteria. This effect was mainly elicited in response to maternal exposure to toxic cyanobacteria early in life and less so during reproduction. None of these effects were explained by changes in egg size. A meta‐analysis using our and others’ experiments suggests that the adaptive value of maternal effects to cyanobacteria exposure is weak at best. We suggest that the beneficial maternal effect in our study is an example of phenotypic accommodation spanning generations, rather than a mechanism evolved to transmit information about cyanobacteria presence between generations.",
    "preprintUrl": null,
    "altmetric": null
@@ -6285,7 +6285,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 589,
+   "citations": 590,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
@@ -6322,7 +6322,7 @@
    "isOA": true,
    "oaUrl": "http://handle.unsw.edu.au/1959.4/unsworks_45072",
    "url": "https://doi.org/10.1111/brv.12333",
-   "citations": 307,
+   "citations": 308,
    "abstract": "Early environments can profoundly influence an organism in ways that persist over its life. In reptiles, early thermal environments (nest temperatures) can impact offspring phenotype and survival in important ways, yet we still lack an understanding of whether general trends exist and the magnitude of impact. Understanding these patterns is important in predicting how climate change will affect reptile populations and the role of phenotypic plasticity in buffering populations. We compiled data from 175 reptile studies to examine, and quantify, the effect of incubation temperature on phenotype and survival. Using meta-analytic approaches (standardized mean difference between incubation treatments, Hedges' g), we show that across all trait types examined there is, on average, a moderate to large magnitude of effect of incubation temperatures (absolute effect: |g| = 0.75). Unsurprisingly, this influence was extremely large for incubation duration, as predicted, with warmer temperatures decreasing incubation time overall (g = -8.42). Other trait types, including behaviour, physiology, morphology, performance, and survival experienced reduced, but still mostly moderate to large effects, with particularly strong effects on survival. Moreover, the impact of incubation temperature persisted at least one-year post-hatching, suggesting that these effects have the potential to impact fitness in the long term. The magnitude of effect increased as the change in temperature increased (e.g. 6°C versus 2°C) in almost all cases, and tended to decrease when temperatures of the treatments fluctuated around a mean temperature compared to when they were constant. The effect also depended on the mid-temperature of the comparison, but not in consistent ways, with some traits experiencing the greatest effects at extreme temperatures, while others did not. The highly heterogeneous nature of the effects we observe, along with a large amount of unexplained variability, indicates that the shape of reaction norms between phenotype and temperature, along with ecological and/or experimental factors, are important when considering general patterns. Our analyses provide new insights into the effects of incubation environments on reptile phenotype and survival and allow general, albeit coarse, predictions for taxa experiencing warming nest temperatures under climatic change.",
    "preprintUrl": null,
    "altmetric": null
@@ -6846,7 +6846,7 @@
    "isOA": true,
    "oaUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/4126636",
    "url": "https://doi.org/10.1098/rsbl.2014.0430",
-   "citations": 89,
+   "citations": 90,
    "abstract": "Evidence of social learning, whereby the actions of an animal facilitate the acquisition of new information by another, is taxonomically biased towards mammals, especially primates, and birds. However, social learning need not be limited to group-living animals because species with less interaction can still benefit from learning about potential predators, food sources, rivals and mates. We trained male skinks (Eulamprus quoyii), a mostly solitary lizard from eastern Australia, in a two-step foraging task. Lizards belonging to 'young' and 'old' age classes were presented with a novel instrumental task (displacing a lid) and an association task (reward under blue lid). We did not find evidence for age-dependent learning of the instrumental task; however, young males in the presence of a demonstrator learnt the association task faster than young males without a demonstrator, whereas old males in both treatments had similar success rates. We present the first evidence of age-dependent social learning in a lizard and suggest that the use of social information for learning may be more widespread than previously believed.",
    "preprintUrl": null,
    "altmetric": null
@@ -7214,7 +7214,7 @@
    "isOA": true,
    "oaUrl": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0038856&type=printable",
    "url": "https://doi.org/10.1371/journal.pone.0038856",
-   "citations": 54,
+   "citations": 55,
    "abstract": "Activity patterns and social interactions play a key role in determining reproductive success, although this is poorly understood for species that lack overt social behaviour. We used genetic paternity analysis to quantify both multiple paternity and the relative roles of activity and social behaviour in determining reproductive success in a nondescript Australian lizard. During the breeding season we intensively followed and recorded the behaviour of a group of seven males and 13 females in a naturalistic outdoor enclosure to examine the relative roles of body size, activity and social interactions in determining male fertilization success. We found multiple paternity in 42% of clutches. No single behaviour was a significant predictor of male fertilization success in isolation, but male-female association, interactions and courtship explained 41% of the variation in male fertilization success. Males with the highest number of offspring sired invested heavily in interacting with females but spent very little time in interactions with males. These same males also sired offspring from more clutches. When taken collectively, an index of overall male activity, including locomotion and all social interactions, significantly explained 81% of the variation in the total number of offspring sired and 90% of the variation in the number of clutches in which males sired offspring. We suggest that the most successful male strategy is a form of endurance rivalry in which active mate searching and interactions with females have the greatest fitness benefits.",
    "preprintUrl": null,
    "altmetric": null

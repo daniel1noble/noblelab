@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-25",
- "total": 429,
+ "updated": "2026-09-26",
+ "total": 425,
  "countries": 29,
  "institutions": 160,
  "byCountry": {
   "Japan": 2,
-  "Australia": 186,
+  "Australia": 183,
   "Germany": 21,
   "Canada": 22,
   "United Kingdom": 38,
@@ -14,7 +14,7 @@
   "Sweden": 22,
   "Spain": 1,
   "China": 7,
-  "United States": 54,
+  "United States": 53,
   "Finland": 5,
   "France": 16,
   "The Netherlands": 5,
@@ -153,6 +153,19 @@
    "lon": 151.20732
   },
   {
+   "name": "Christopher R. Friesen",
+   "orcid": "https://orcid.org/0000-0001-5338-7454",
+   "openalex": "https://openalex.org/A5034346358",
+   "works": 9,
+   "lastYear": 2026,
+   "institution": "University of Wollongong",
+   "city": "Wollongong",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -34.42399978637695,
+   "lon": 150.89344787597656
+  },
+  {
    "name": "Fonti Kar",
    "orcid": "https://orcid.org/0000-0002-2760-3974",
    "openalex": "https://openalex.org/A5029252234",
@@ -231,6 +244,19 @@
    "lon": 149.12807
   },
   {
+   "name": "Pablo Recio",
+   "orcid": "https://orcid.org/0000-0002-5890-0218",
+   "openalex": "https://openalex.org/A5088933333",
+   "works": 8,
+   "lastYear": 2026,
+   "institution": "Australian National University",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.28346,
+   "lon": 149.12807
+  },
+  {
    "name": "Szymon Marian Drobniak",
    "orcid": "https://orcid.org/0000-0001-8101-6247",
    "openalex": "https://openalex.org/A5052648587",
@@ -270,37 +296,11 @@
    "lon": 151.20732
   },
   {
-   "name": "Christopher R. Friesen",
-   "orcid": "https://orcid.org/0000-0001-5338-7454",
-   "openalex": "https://openalex.org/A5034346358",
-   "works": 7,
-   "lastYear": 2026,
-   "institution": "University of Wollongong",
-   "city": "Wollongong",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -34.42399978637695,
-   "lon": 150.89344787597656
-  },
-  {
    "name": "Kristoffer H. Wild",
    "orcid": "https://orcid.org/0000-0001-6714-3311",
    "openalex": "https://openalex.org/A5068539676",
    "works": 7,
    "lastYear": 2025,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
-  },
-  {
-   "name": "Pablo Recio",
-   "orcid": "https://orcid.org/0000-0002-5890-0218",
-   "openalex": "https://openalex.org/A5088933333",
-   "works": 7,
-   "lastYear": 2026,
    "institution": "Australian National University",
    "city": "Canberra",
    "country": "Australia",
@@ -983,6 +983,19 @@
    "countryCode": "AU",
    "lat": -33.86785,
    "lon": 151.20732
+  },
+  {
+   "name": "Geoffrey E. Hill",
+   "orcid": "https://orcid.org/0000-0001-8864-6495",
+   "openalex": "https://openalex.org/A5042655145",
+   "works": 2,
+   "lastYear": 2026,
+   "institution": "Auburn University",
+   "city": "Auburn",
+   "country": "United States",
+   "countryCode": "US",
+   "lat": 32.60986,
+   "lon": -85.48078
   },
   {
    "name": "Gonçalo S. Faria",
@@ -2168,19 +2181,6 @@
    "lon": -97.14704
   },
   {
-   "name": "Christopher Friesen",
-   "orcid": "https://orcid.org/0000-0001-5338-7454",
-   "openalex": "https://openalex.org/A5115478190",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "University of Wollongong",
-   "city": "Wollongong",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -34.42399978637695,
-   "lon": 150.89344787597656
-  },
-  {
    "name": "Christopher J. Still",
    "orcid": "https://orcid.org/0000-0002-8295-4494",
    "openalex": "https://openalex.org/A5058803174",
@@ -2205,19 +2205,6 @@
    "countryCode": "ZA",
    "lat": -26.194868087768555,
    "lon": 28.042760848999023
-  },
-  {
-   "name": "Christopher R. Friesen",
-   "orcid": "https://orcid.org/0000-0001-5338-7454",
-   "openalex": "https://openalex.org/A5140628534",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "University of Wollongong",
-   "city": "Wollongong",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -34.42399978637695,
-   "lon": 150.89344787597656
   },
   {
    "name": "Claudia Múnera‐Roldán",
@@ -2922,32 +2909,6 @@
    "lon": -76.06817626953125
   },
   {
-   "name": "Geoffrey E. Hill",
-   "orcid": null,
-   "openalex": "https://openalex.org/A5140574407",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "Auburn University",
-   "city": "Auburn",
-   "country": "United States",
-   "countryCode": "US",
-   "lat": 32.60986,
-   "lon": -85.48078
-  },
-  {
-   "name": "Geoffrey E. Hill",
-   "orcid": "https://orcid.org/0000-0001-8864-6495",
-   "openalex": "https://openalex.org/A5042655145",
-   "works": 1,
-   "lastYear": 2021,
-   "institution": "Auburn University",
-   "city": "Auburn",
-   "country": "United States",
-   "countryCode": "US",
-   "lat": 32.60986,
-   "lon": -85.48078
-  },
-  {
    "name": "Geoffrey M. While",
    "orcid": "https://orcid.org/0000-0001-8122-9322",
    "openalex": null,
@@ -3546,9 +3507,9 @@
    "lon": 5.68889
   },
   {
-   "name": "Julianne O'Reilly‐Wapstra",
-   "orcid": null,
-   "openalex": "https://openalex.org/A5147901171",
+   "name": "Julianne M. O’Reilly-Wapstra",
+   "orcid": "https://orcid.org/0000-0003-4801-4412",
+   "openalex": "https://openalex.org/A5007476942",
    "works": 1,
    "lastYear": 2026,
    "institution": "University of Tasmania",
@@ -4573,19 +4534,6 @@
    "lon": 149.12807
   },
   {
-   "name": "Pablo Recio",
-   "orcid": null,
-   "openalex": "https://openalex.org/A5140685614",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
-  },
-  {
    "name": "Paige B Martin",
    "orcid": "https://orcid.org/0000-0002-6157-4740",
    "openalex": "https://openalex.org/A5021350445",
@@ -5030,7 +4978,7 @@
   {
    "name": "Santiago Ortega",
    "orcid": "https://orcid.org/0000-0002-3518-276X",
-   "openalex": "https://openalex.org/A5126586993",
+   "openalex": "https://openalex.org/A5136811149",
    "works": 1,
    "lastYear": 2026,
    "institution": "University of Alberta",
@@ -5095,7 +5043,7 @@
   {
    "name": "Shinichi Nakagawa",
    "orcid": "https://orcid.org/0000-0002-7765-5182",
-   "openalex": "https://openalex.org/A5126607842",
+   "openalex": "https://openalex.org/A5130945306",
    "works": 1,
    "lastYear": 2026,
    "institution": "University of Alberta",
