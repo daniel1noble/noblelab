@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-26",
+ "updated": "2026-09-27",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -4712,7 +4712,7 @@
    "isOA": true,
    "oaUrl": "https://hdl.handle.net/10550/76839",
    "url": "https://doi.org/10.1111/brv.12632",
-   "citations": 137,
+   "citations": 138,
    "abstract": "A central question in ecology and evolution is to understand why sexual selection varies so much in strength across taxa; it has long been known that ecological factors are crucial to this. Temperature is a particularly salient abiotic ecological factor that modulates a wide range of physiological, morphological and behavioural traits, impacting individuals and populations at a global taxonomic scale. Furthermore, temperature exhibits substantial temporal variation (e.g. daily, seasonally and inter-seasonally), and hence for most species in the wild sexual selection will regularly unfold in a dynamic thermal environment. Unfortunately, studies have so far almost completely neglected the role of temperature as a modulator of sexual selection. Here, we outline the main pathways through which temperature can affect the intensity and form (i.e. mechanisms) of sexual selection, via: (i) direct effects on secondary sexual traits and preferences (i.e. trait variance, opportunity for selection and trait-fitness covariance), and (ii) indirect effects on key mating parameters, sex-specific reproductive costs/benefits, trade-offs, demography and correlated abiotic factors. Building upon this framework, we show that, by focusing exclusively on the first-order effects that environmental temperature has on traits linked with individual fitness and population viability, current global warming studies may be ignoring eco-evolutionary feedbacks mediated by sexual selection. Finally, we tested the general prediction that temperature modulates sexual selection by conducting a meta-analysis of available studies experimentally manipulating temperature and reporting effects on the variance of male/female reproductive success and/or traits under sexual selection. Our results show a clear association between temperature and sexual selection measures in both sexes. In short, we suggest that studying the feedback between temperature and sexual selection processes may be vital to developing a better understanding of variation in the strength of sexual selection in nature, and its consequences for population viability in response to environmental change (e.g. global warming).",
    "preprintUrl": null,
    "altmetric": null
@@ -4826,7 +4826,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/evlett/article-pdf/4/4/360/46657546/evlett0360.pdf",
    "url": "https://doi.org/10.1002/evl3.185",
-   "citations": 109,
+   "citations": 110,
    "abstract": "Phenotypic responses to a novel or extreme environment are initially plastic, only later to be followed by genetic change. Whether or not environmentally induced phenotypes are sufficiently recurrent and fit to leave a signature in adaptive evolution is debated. Here, we analyze multivariate data from 34 plant reciprocal transplant studies to test: (1) if plasticity is an adaptive source of developmental bias that makes locally adapted populations resemble the environmentally induced phenotypes of ancestors; and (2) if plasticity, standing phenotypic variation and genetic divergence align during local adaptation. Phenotypic variation increased marginally in foreign environments but, as predicted, the direction of ancestral plasticity was generally well aligned with the phenotypic difference between locally adapted populations, making plasticity appear to \"take the lead\" in adaptive evolution. Plastic responses were sometimes more extreme than the phenotypes of locally adapted plants, which can give the impression that plasticity and evolutionary adaptation oppose each other; however, environmentally induced and locally adapted phenotypes were rarely misaligned. Adaptive fine-tuning of phenotypes-genetic accommodation-did not fall along the main axis of standing phenotypic variation or the direction of plasticity, and local adaptation did not consistently modify the direction or magnitude of plasticity. These results suggest that plasticity is a persistent source of developmental bias that shapes how plant populations adapt to environmental change, even when plasticity does not constrain how populations respond to selection.",
    "preprintUrl": null,
    "altmetric": null
@@ -5288,7 +5288,7 @@
    "isOA": true,
    "oaUrl": "http://hdl.handle.net/1885/164667",
    "url": "https://doi.org/10.1016/j.tree.2018.11.007",
-   "citations": 261,
+   "citations": 262,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -5905,48 +5905,6 @@
    "altmetric": null
   },
   {
-   "id": "10.1007/s10071-018-1194-y",
-   "doi": "10.1007/s10071-018-1194-y",
-   "title": "Testing domain general learning in an Australian lizard",
-   "authors": [
-    {
-     "name": "Yin Qi",
-     "orcid": "https://orcid.org/0000-0003-0973-2307",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    },
-    {
-     "name": "Jinzhong Fu",
-     "orcid": "https://orcid.org/0000-0003-4168-507X",
-     "isSelf": false
-    },
-    {
-     "name": "Martin J. Whiting",
-     "orcid": "https://orcid.org/0000-0002-4662-0227",
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Yin Qi, Daniel W. A. Noble, Jinzhong Fu, Martin J. Whiting",
-   "journal": "Animal Cognition",
-   "year": 2018,
-   "date": "2018-06-02",
-   "volume": "21",
-   "issue": "4",
-   "pages": "595-602",
-   "kind": "article",
-   "isOA": false,
-   "oaUrl": null,
-   "url": "https://doi.org/10.1007/s10071-018-1194-y",
-   "citations": 18,
-   "abstract": null,
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
    "id": "10.1093/beheco/ary122",
    "doi": "10.1093/beheco/ary122",
    "title": "Maternal presence facilitates plasticity in offspring behavior: insights into the evolution of parental care",
@@ -5993,8 +5951,50 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1093/beheco/ary122",
-   "citations": 18,
+   "citations": 19,
    "abstract": "Fundamental to the definition of parental care is that care confers benefits to the offspring. However, the mechanisms resulting in these benefits remain poorly understood, particularly in species where postnatal care is not obligatory. Here, we address this shortcoming using a lizard, Liopholis whitii, in which family life is facultative and relatively simple—extending to prolonged associations between parents and offspring within the parental territory. Using a split-clutch design, we housed offspring either with their mother or alone during the first 8 weeks of postnatal life and examined whether maternal presence affected 1) the expression of key functional behaviors and 2) learning ability in a biologically relevant antipredatory task. We found that offspring housed with their mothers expressed heightened levels of activity, boldness, and exploration compared with offspring who were housed alone. Furthermore, we show that associating with mothers during early postnatal periods led to improved offspring performance in the antipredation learning task. Together these results suggest that even relatively simple forms of enhanced parent-offspring association can have significant impacts on offspring traits. We argue that such effects may help refine and stabilize parent–offspring associations early in their evolution, potentially setting the stage for the elaboration of both parent and offspring behaviors.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1007/s10071-018-1194-y",
+   "doi": "10.1007/s10071-018-1194-y",
+   "title": "Testing domain general learning in an Australian lizard",
+   "authors": [
+    {
+     "name": "Yin Qi",
+     "orcid": "https://orcid.org/0000-0003-0973-2307",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Jinzhong Fu",
+     "orcid": "https://orcid.org/0000-0003-4168-507X",
+     "isSelf": false
+    },
+    {
+     "name": "Martin J. Whiting",
+     "orcid": "https://orcid.org/0000-0002-4662-0227",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Yin Qi, Daniel W. A. Noble, Jinzhong Fu, Martin J. Whiting",
+   "journal": "Animal Cognition",
+   "year": 2018,
+   "date": "2018-06-02",
+   "volume": "21",
+   "issue": "4",
+   "pages": "595-602",
+   "kind": "article",
+   "isOA": false,
+   "oaUrl": null,
+   "url": "https://doi.org/10.1007/s10071-018-1194-y",
+   "citations": 18,
+   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },

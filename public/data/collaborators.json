@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-26",
- "total": 425,
+ "updated": "2026-09-27",
+ "total": 422,
  "countries": 29,
  "institutions": 160,
  "byCountry": {
   "Japan": 2,
-  "Australia": 183,
+  "Australia": 181,
   "Germany": 21,
   "Canada": 22,
   "United Kingdom": 38,
@@ -14,7 +14,7 @@
   "Sweden": 22,
   "Spain": 1,
   "China": 7,
-  "United States": 53,
+  "United States": 52,
   "Finland": 5,
   "France": 16,
   "The Netherlands": 5,
@@ -88,6 +88,19 @@
    "lon": 13.41053
   },
   {
+   "name": "Patrice Pottier",
+   "orcid": "https://orcid.org/0000-0003-2106-6597",
+   "openalex": "https://openalex.org/A5020220822",
+   "works": 13,
+   "lastYear": 2026,
+   "institution": "UNSW Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -33.86785,
+   "lon": 151.20732
+  },
+  {
    "name": "Alistair McNair Senior",
    "orcid": "https://orcid.org/0000-0001-9805-7280",
    "openalex": "https://openalex.org/A5030763843",
@@ -112,19 +125,6 @@
    "countryCode": "AU",
    "lat": -35.28346,
    "lon": 149.12807
-  },
-  {
-   "name": "Patrice Pottier",
-   "orcid": "https://orcid.org/0000-0003-2106-6597",
-   "openalex": "https://openalex.org/A5020220822",
-   "works": 11,
-   "lastYear": 2026,
-   "institution": "UNSW Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
   },
   {
    "name": "Julia L. Riley",
@@ -231,6 +231,19 @@
    "lon": 149.12807
   },
   {
+   "name": "Kristoffer H. Wild",
+   "orcid": "https://orcid.org/0000-0001-6714-3311",
+   "openalex": "https://openalex.org/A5068539676",
+   "works": 8,
+   "lastYear": 2026,
+   "institution": "Australian National University",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.28346,
+   "lon": 149.12807
+  },
+  {
    "name": "Michael D. Jennions",
    "orcid": "https://orcid.org/0000-0001-9221-2788",
    "openalex": "https://openalex.org/A5080859173",
@@ -294,19 +307,6 @@
    "countryCode": "AU",
    "lat": -33.86785,
    "lon": 151.20732
-  },
-  {
-   "name": "Kristoffer H. Wild",
-   "orcid": "https://orcid.org/0000-0001-6714-3311",
-   "openalex": "https://openalex.org/A5068539676",
-   "works": 7,
-   "lastYear": 2025,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
   },
   {
    "name": "Daniel Hesselson",
@@ -921,7 +921,7 @@
   },
   {
    "name": "David S. Tait",
-   "orcid": "https://orcid.org/0000-0001-5310-7731",
+   "orcid": "https://orcid.org/0000-0002-1121-7702",
    "openalex": "https://openalex.org/A5102893905",
    "works": 2,
    "lastYear": 2019,
@@ -931,6 +931,19 @@
    "countryCode": "US",
    "lat": 34.745399475097656,
    "lon": -79.47859954833984
+  },
+  {
+   "name": "Diego Ellis‐Soto",
+   "orcid": "https://orcid.org/0000-0003-4766-021X",
+   "openalex": "https://openalex.org/A5004706245",
+   "works": 2,
+   "lastYear": 2026,
+   "institution": "University of California, Berkeley",
+   "city": "Berkeley",
+   "country": "United States",
+   "countryCode": "US",
+   "lat": 37.87159,
+   "lon": -122.27275
   },
   {
    "name": "Edward R. Ivimey‐Cook",
@@ -1219,19 +1232,6 @@
    "lon": 150.75142
   },
   {
-   "name": "Patrice Pottier",
-   "orcid": "https://orcid.org/0000-0003-2106-6597",
-   "openalex": "https://openalex.org/A5133053103",
-   "works": 2,
-   "lastYear": 2026,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
-  },
-  {
    "name": "Patrick L. Taggart",
    "orcid": "https://orcid.org/0000-0001-9523-0463",
    "openalex": "https://openalex.org/A5052717744",
@@ -1479,7 +1479,7 @@
    "lon": 151.20732
   },
   {
-   "name": "Adam James Stow",
+   "name": "Adam Stow",
    "orcid": "https://orcid.org/0000-0002-6796-4854",
    "openalex": "https://openalex.org/A5015402181",
    "works": 1,
@@ -1949,7 +1949,7 @@
   {
    "name": "Benjamin F. Clark",
    "orcid": null,
-   "openalex": "https://openalex.org/A5054841375",
+   "openalex": null,
    "works": 1,
    "lastYear": 2013,
    "institution": "Macquarie University",
@@ -2038,9 +2038,9 @@
    "lon": -104.6177978515625
   },
   {
-   "name": "C. H. Bell",
+   "name": "Cameron Bell",
    "orcid": "https://orcid.org/0009-0006-0117-9761",
-   "openalex": "https://openalex.org/A5007754739",
+   "openalex": null,
    "works": 1,
    "lastYear": 2025,
    "institution": "Mount Allison University",
@@ -2480,32 +2480,6 @@
    "lon": -83.97907257080078
   },
   {
-   "name": "Diego Ellis Soto",
-   "orcid": "https://orcid.org/0000-0003-4766-021X",
-   "openalex": "https://openalex.org/A5109616702",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "University of California, Berkeley",
-   "city": "Berkeley",
-   "country": "United States",
-   "countryCode": "US",
-   "lat": 37.87159,
-   "lon": -122.27275
-  },
-  {
-   "name": "Diego Ellis‐Soto",
-   "orcid": "https://orcid.org/0000-0003-4766-021X",
-   "openalex": "https://openalex.org/A5004706245",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "University of California, Berkeley",
-   "city": "Berkeley",
-   "country": "United States",
-   "countryCode": "US",
-   "lat": 37.87159,
-   "lon": -122.27275
-  },
-  {
    "name": "Dominique G. Roche",
    "orcid": "https://orcid.org/0000-0002-3326-864X",
    "openalex": "https://openalex.org/A5026876706",
@@ -2677,7 +2651,7 @@
   {
    "name": "Erick Lundgren",
    "orcid": "https://orcid.org/0000-0001-9893-3324",
-   "openalex": "https://openalex.org/A5126609191",
+   "openalex": "https://openalex.org/A5123955062",
    "works": 1,
    "lastYear": 2026,
    "institution": "University of Alberta",
@@ -3559,6 +3533,19 @@
    "lon": 151.20732
   },
   {
+   "name": "K Bi",
+   "orcid": null,
+   "openalex": null,
+   "works": 1,
+   "lastYear": 2009,
+   "institution": "University of Guelph",
+   "city": "Guelph",
+   "country": "Canada",
+   "countryCode": "CA",
+   "lat": 43.54594039916992,
+   "lon": -80.25598907470703
+  },
+  {
    "name": "Kaitlin J McCloghry",
    "orcid": null,
    "openalex": "https://openalex.org/A5066251846",
@@ -3728,19 +3715,6 @@
    "lon": 153.02809
   },
   {
-   "name": "Keying Bi",
-   "orcid": null,
-   "openalex": "https://openalex.org/A5113642625",
-   "works": 1,
-   "lastYear": 2009,
-   "institution": "University of Guelph",
-   "city": "Guelph",
-   "country": "Canada",
-   "countryCode": "CA",
-   "lat": 43.54594039916992,
-   "lon": -80.25598907470703
-  },
-  {
    "name": "Klaus Reinhold",
    "orcid": "https://orcid.org/0000-0002-0249-8346",
    "openalex": "https://openalex.org/A5019944834",
@@ -3765,19 +3739,6 @@
    "countryCode": "NO",
    "lat": 63.43049,
    "lon": 10.39506
-  },
-  {
-   "name": "Kristoffer H. Wild",
-   "orcid": null,
-   "openalex": "https://openalex.org/A5140743190",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
   },
   {
    "name": "Laura A. B. Wilson",
@@ -3990,7 +3951,7 @@
   {
    "name": "Malgorzata Lagisz",
    "orcid": "https://orcid.org/0000-0002-3993-6127",
-   "openalex": "https://openalex.org/A5126641635",
+   "openalex": "https://openalex.org/A5130389617",
    "works": 1,
    "lastYear": 2026,
    "institution": "University of Alberta",
