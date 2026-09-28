@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-27",
+ "updated": "2026-09-28",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -3863,7 +3863,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 707,
+   "citations": 708,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -5228,11 +5228,11 @@
    "issue": "3",
    "pages": "451-464",
    "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jeb.13752",
+   "isOA": false,
+   "oaUrl": null,
    "url": "https://doi.org/10.1111/jeb.13752",
-   "citations": 3,
-   "abstract": "Sexual selection shapes the adaptive landscape in complex ways that lead to trait integration. Much of our understanding of selection comes from studies of morphological traits. However, few studies attempt to quantify the form and direction of selection on performance even though it is predicted to be a more direct target of selection in nature. We measured sexual selection on performance traits (bite force, sprint speed and endurance) in an Australian lizard, the Eastern water skink (Eulamprus quoyii). We first staged 123 contests between size-matched males to investigate whether performance traits were important in determining contest outcome. In a second experiment, we established six breeding populations in large replicate semi-natural enclosures to estimate whether performance traits predicted reproductive success. Our results show that none of the performance measures were important in predicting contest outcome and were not generally strong predictors of reproductive success. However, our analyses suggest a complex fitness landscape driven by males adopting different alternative reproductive tactics (ARTs). We provide a rare test of the role performance plays in sexual selection and highlight the need to test common assumptions regarding the link between maximal performance and fitness. Our results suggest that performance traits may not necessarily be direct targets of sexual selection, but rather indirect targets through their integration with morphological and/or behavioural traits, highlighting a need for more explicit tests of the predicted links between performance and fitness.",
+   "citations": 0,
+   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -5530,7 +5530,7 @@
    "isOA": true,
    "oaUrl": "https://link.springer.com/content/pdf/10.1007%2Fs00265-018-2534-2.pdf",
    "url": "https://doi.org/10.1007/s00265-018-2534-2",
-   "citations": 127,
+   "citations": 128,
    "abstract": "The pace-of-life syndrome (POLS) hypothesis predicts that behavior and physiology covary with life history. Evidence for such covariation is contradictory, possibly because systematic sources of variation (e.g. sex) have been neglected. Sexes often experience different selection pressures leading to sex-specific allocation between reproduction and self-maintenance, facilitating divergence in life-history. Sex-specific differences in means and possibly variances may therefore play a key role in the POLS framework. We investigate whether sexes differ in means and variances along the fast-slow pace-of-life continuum for life history and physiological and behavioral traits. In addition, we test whether social and environmental characteristics such as breeding strategy, mating system, and study environment explain heterogeneity between the sexes. Using meta-analytic methods, we found that populations with a polygynous mating system or for studies conducted on wild populations, males had a faster pace-of-life for developmental life-history traits (e.g., growth rate), behavior, and physiology. In contrast, adult life-history traits (e.g., lifespan) were shifted towards faster pace-of-life in females, deviating from the other trait categories. Phenotypic variances were similar between the sexes across trait categories and were not affected by mating system or study environment. Breeding strategy did not influence sex differences in variances or means. We discuss our results in the light of sex-specific selection that might drive sex-specific differences in pace-of-life and ultimately POLS.",
    "preprintUrl": null,
    "altmetric": null
@@ -6285,7 +6285,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 590,
+   "citations": 591,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
