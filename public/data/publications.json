@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-28",
+ "updated": "2026-09-29",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -5228,11 +5228,11 @@
    "issue": "3",
    "pages": "451-464",
    "kind": "article",
-   "isOA": false,
-   "oaUrl": null,
+   "isOA": true,
+   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/jeb.13752",
    "url": "https://doi.org/10.1111/jeb.13752",
-   "citations": 0,
-   "abstract": null,
+   "citations": 3,
+   "abstract": "Sexual selection shapes the adaptive landscape in complex ways that lead to trait integration. Much of our understanding of selection comes from studies of morphological traits. However, few studies attempt to quantify the form and direction of selection on performance even though it is predicted to be a more direct target of selection in nature. We measured sexual selection on performance traits (bite force, sprint speed and endurance) in an Australian lizard, the Eastern water skink (Eulamprus quoyii). We first staged 123 contests between size-matched males to investigate whether performance traits were important in determining contest outcome. In a second experiment, we established six breeding populations in large replicate semi-natural enclosures to estimate whether performance traits predicted reproductive success. Our results show that none of the performance measures were important in predicting contest outcome and were not generally strong predictors of reproductive success. However, our analyses suggest a complex fitness landscape driven by males adopting different alternative reproductive tactics (ARTs). We provide a rare test of the role performance plays in sexual selection and highlight the need to test common assumptions regarding the link between maximal performance and fitness. Our results suggest that performance traits may not necessarily be direct targets of sexual selection, but rather indirect targets through their integration with morphological and/or behavioural traits, highlighting a need for more explicit tests of the predicted links between performance and fitness.",
    "preprintUrl": null,
    "altmetric": null
   },
