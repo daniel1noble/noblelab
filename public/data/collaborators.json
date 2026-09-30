@@ -1,15 +1,15 @@
 {
- "updated": "2026-09-29",
- "total": 420,
+ "updated": "2026-09-30",
+ "total": 422,
  "countries": 29,
  "institutions": 155,
  "byCountry": {
   "Japan": 2,
-  "Australia": 178,
+  "Australia": 179,
   "Germany": 21,
-  "Canada": 20,
   "United Kingdom": 39,
   "Switzerland": 10,
+  "Canada": 21,
   "Poland": 2,
   "Sweden": 21,
   "Spain": 3,
@@ -127,19 +127,6 @@
    "lon": 149.12807
   },
   {
-   "name": "Julia L. Riley",
-   "orcid": "https://orcid.org/0000-0001-7691-6910",
-   "openalex": "https://openalex.org/A5070826557",
-   "works": 10,
-   "lastYear": 2025,
-   "institution": "Mount Allison University",
-   "city": "Sackville",
-   "country": "Canada",
-   "countryCode": "CA",
-   "lat": 45.898681640625,
-   "lon": -64.36836242675781
-  },
-  {
    "name": "Lisa E. Schwanz",
    "orcid": "https://orcid.org/0000-0001-5864-7112",
    "openalex": "https://openalex.org/A5013179590",
@@ -229,6 +216,19 @@
    "countryCode": "AU",
    "lat": -35.28346,
    "lon": 149.12807
+  },
+  {
+   "name": "Julia L. Riley",
+   "orcid": "https://orcid.org/0000-0001-7691-6910",
+   "openalex": null,
+   "works": 8,
+   "lastYear": 2022,
+   "institution": "Mount Allison University",
+   "city": "Sackville",
+   "country": "Canada",
+   "countryCode": "CA",
+   "lat": 45.898681640625,
+   "lon": -64.36836242675781
   },
   {
    "name": "Kristoffer H. Wild",
@@ -2350,9 +2350,9 @@
    "lon": -73.14094
   },
   {
-   "name": "Daniel Pérez",
-   "orcid": "https://orcid.org/0000-0002-3416-7429",
-   "openalex": "https://openalex.org/A5054139172",
+   "name": "Daniel Perez",
+   "orcid": null,
+   "openalex": null,
    "works": 1,
    "lastYear": 2020,
    "institution": "Santa Clara University",
@@ -3481,6 +3481,32 @@
    "lon": 5.68889
   },
   {
+   "name": "Julia L Riley",
+   "orcid": "https://orcid.org/0000-0001-7691-6910",
+   "openalex": null,
+   "works": 1,
+   "lastYear": 2018,
+   "institution": "UNSW Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -33.86785,
+   "lon": 151.20732
+  },
+  {
+   "name": "Julia L. Riley",
+   "orcid": "https://orcid.org/0000-0001-7691-6910",
+   "openalex": "https://openalex.org/A5070826557",
+   "works": 1,
+   "lastYear": 2025,
+   "institution": "Mount Allison University",
+   "city": "Sackville",
+   "country": "Canada",
+   "countryCode": "CA",
+   "lat": 45.898681640625,
+   "lon": -64.36836242675781
+  },
+  {
    "name": "Julianne M. O’Reilly-Wapstra",
    "orcid": "https://orcid.org/0000-0003-4801-4412",
    "openalex": "https://openalex.org/A5007476942",
@@ -4118,9 +4144,9 @@
    "lon": -9.1498
   },
   {
-   "name": "Martha L Ludwig",
+   "name": "Martha Ludwig",
    "orcid": "https://orcid.org/0000-0002-0324-7602",
-   "openalex": "https://openalex.org/A5076097538",
+   "openalex": null,
    "works": 1,
    "lastYear": 2025,
    "institution": "The University of Western Australia",
@@ -4157,19 +4183,6 @@
    "lon": 150.89344787597656
   },
   {
-   "name": "Matt Carter",
-   "orcid": "https://orcid.org/0000-0003-1653-1271",
-   "openalex": "https://openalex.org/A5080289737",
-   "works": 1,
-   "lastYear": 2020,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
-  },
-  {
    "name": "Matt Lloyd Jones",
    "orcid": "https://orcid.org/0000-0001-5841-4554",
    "openalex": "https://openalex.org/A5041338431",
@@ -4194,6 +4207,19 @@
    "countryCode": "GB",
    "lat": 52.2,
    "lon": 0.11667
+  },
+  {
+   "name": "Matthew Carter",
+   "orcid": null,
+   "openalex": null,
+   "works": 1,
+   "lastYear": 2020,
+   "institution": "Australian National University",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.28346,
+   "lon": 149.12807
   },
   {
    "name": "Matthew Grainger",

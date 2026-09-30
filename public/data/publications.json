@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-29",
+ "updated": "2026-09-30",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -208,58 +208,6 @@
    "altmetric": null
   },
   {
-   "id": "10.1016/j.cois.2026.101523",
-   "doi": "10.1016/j.cois.2026.101523",
-   "title": "Life cycle complexity drives variation in thermal tolerance and plasticity",
-   "authors": [
-    {
-     "name": "Patrice Pottier",
-     "orcid": "https://orcid.org/0000-0003-2106-6597",
-     "isSelf": false
-    },
-    {
-     "name": "Vanessa Kellermann",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Daniel WA Noble",
-     "orcid": null,
-     "isSelf": true
-    },
-    {
-     "name": "Carla M Sgrò",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "John S Terblanche",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Belinda van Heerwaarden",
-     "orcid": null,
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Patrice Pottier, Vanessa Kellermann, Daniel WA Noble, Carla M Sgrò, John S Terblanche, Belinda van Heerwaarden",
-   "journal": "Current Opinion in Insect Science",
-   "year": 2026,
-   "date": "2026-08",
-   "volume": "76",
-   "issue": null,
-   "pages": "101523",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://doi.org/10.1016/j.cois.2026.101523",
-   "url": "https://doi.org/10.1016/j.cois.2026.101523",
-   "citations": 1,
-   "abstract": "Accumulating evidence suggests that heat tolerance varies substantially across insect development, yet patterns of variation remain difficult to generalise across species. We discuss how the diversity of insect developmental strategies shapes both the intensity and predictability of thermal environments across ontogeny, and how this likely generates variation in heat tolerance, plasticity and carry-over effects. We hypothesise that large developmental variation is expected in holometabolous insects and in species undergoing pronounced microhabitat or diel activity transitions. These transitions can modify heat exposure, behavioural thermoregulatory abilities and the physiological or genetic regulatory network underlying heat tolerance, weakening correlations among life stages. We discuss when carry-over effects are likely to be adaptive, highlighting the importance of environmental predictability, ecological similarity among stages and the balance between heat injury and repair. We argue that an ontogenetic perspective capturing the microenvironmental conditions experienced by each life stage is essential for predicting insect vulnerability to extreme heat.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
    "id": "10.1111/ele.70428",
    "doi": "10.1111/ele.70428",
    "title": "A New Effect Size for Meta‐Analysis of Magnitude: lnM",
@@ -321,8 +269,60 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/ele.70428",
    "url": "https://doi.org/10.1111/ele.70428",
-   "citations": 0,
+   "citations": 1,
    "abstract": "ABSTRACT Meta‐analyses in ecology and evolution sometimes target the magnitude of differences between groups rather than their direction, for example, when the question concerns deviation from a biological optimum or divergence from a reference state. A common practice is to convert signed effects into magnitudes by taking absolute values, but this can induce upward distortion and non‐normal sampling distributions under standard meta‐analytic models. Here we introduce lnM, a log‐ratio effect size for the magnitude of difference between two groups, defined from one‐way ANOVA components. lnM is asymptotically normal, supports standard multilevel meta‐analysis and meta‐regression and applies to both ratio‐ and interval‐scale traits. Using theory, simulations and worked examples, we show when delta‐method and single‐fit bootstrap estimators perform well, and how lnM can be used to assess publication bias.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1016/j.cois.2026.101523",
+   "doi": "10.1016/j.cois.2026.101523",
+   "title": "Life cycle complexity drives variation in thermal tolerance and plasticity",
+   "authors": [
+    {
+     "name": "Patrice Pottier",
+     "orcid": "https://orcid.org/0000-0003-2106-6597",
+     "isSelf": false
+    },
+    {
+     "name": "Vanessa Kellermann",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Daniel WA Noble",
+     "orcid": null,
+     "isSelf": true
+    },
+    {
+     "name": "Carla M Sgrò",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "John S Terblanche",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Belinda van Heerwaarden",
+     "orcid": null,
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Patrice Pottier, Vanessa Kellermann, Daniel WA Noble, Carla M Sgrò, John S Terblanche, Belinda van Heerwaarden",
+   "journal": "Current Opinion in Insect Science",
+   "year": 2026,
+   "date": "2026-08",
+   "volume": "76",
+   "issue": null,
+   "pages": "101523",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://doi.org/10.1016/j.cois.2026.101523",
+   "url": "https://doi.org/10.1016/j.cois.2026.101523",
+   "citations": 1,
+   "abstract": "Accumulating evidence suggests that heat tolerance varies substantially across insect development, yet patterns of variation remain difficult to generalise across species. We discuss how the diversity of insect developmental strategies shapes both the intensity and predictability of thermal environments across ontogeny, and how this likely generates variation in heat tolerance, plasticity and carry-over effects. We hypothesise that large developmental variation is expected in holometabolous insects and in species undergoing pronounced microhabitat or diel activity transitions. These transitions can modify heat exposure, behavioural thermoregulatory abilities and the physiological or genetic regulatory network underlying heat tolerance, weakening correlations among life stages. We discuss when carry-over effects are likely to be adaptive, highlighting the importance of environmental predictability, ecological similarity among stages and the balance between heat injury and repair. We argue that an ontogenetic perspective capturing the microenvironmental conditions experienced by each life stage is essential for predicting insect vulnerability to extreme heat.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2733,7 +2733,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14152",
    "url": "https://doi.org/10.1111/2041-210x.14152",
-   "citations": 160,
+   "citations": 161,
    "abstract": "Abstract Although meta‐analysis has become an essential tool in ecology and evolution, reporting of meta‐analytic results can still be much improved. To aid this, we have introduced the orchard plot, which presents not only overall estimates and their confidence intervals, but also shows corresponding heterogeneity (as prediction intervals) and individual effect sizes. Here, we have added significant enhancements by integrating many new functionalities into orchaRd 2.0 . This updated version allows the visualisation of heteroscedasticity (different variances across levels of a categorical moderator), marginal estimates (e.g. marginalising out effects other than the one visualised), conditional estimates (i.e. estimates of different groups conditioned upon specific values of a continuous variable) and visualisations of all types of interactions between two categorical/continuous moderators. orchaRd 2.0 has additional functions which calculate key statistics from multilevel meta‐analytic models such as I 2 and R 2 . Importantly, orchaRd 2.0 contributes to better reporting by complying with PRISMA‐EcoEvo (preferred reporting items for systematic reviews and meta‐analyses in ecology and evolution). Taken together, orchaRd 2.0 can improve the presentation of meta‐analytic results and facilitate the exploration of previously neglected patterns. In addition, as a part of a literature survey, we found that graphical packages are rarely cited (~3%). We plea that researchers credit developers and maintainers of graphical packages, for example, by citations in a figure legend, acknowledging the use of relevant packages.",
    "preprintUrl": null,
    "altmetric": null
@@ -3059,48 +3059,6 @@
    "altmetric": null
   },
   {
-   "id": "10.1016/j.biocon.2023.110214",
-   "doi": "10.1016/j.biocon.2023.110214",
-   "title": "Baiting in conservation and pest management: A systematic review of its global applications in a changing world",
-   "authors": [
-    {
-     "name": "Patrick L. Taggart",
-     "orcid": "https://orcid.org/0000-0001-9523-0463",
-     "isSelf": false
-    },
-    {
-     "name": "Pip Taylor",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Kandarp K. Patel",
-     "orcid": "https://orcid.org/0000-0002-2894-0112",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W.A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    }
-   ],
-   "authorLine": "Patrick L. Taggart, Pip Taylor, Kandarp K. Patel, Daniel W.A. Noble",
-   "journal": "Biological Conservation",
-   "year": 2023,
-   "date": "2023-08",
-   "volume": "284",
-   "issue": null,
-   "pages": "110214",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://doi.org/10.1016/j.biocon.2023.110214",
-   "url": "https://doi.org/10.1016/j.biocon.2023.110214",
-   "citations": 23,
-   "abstract": null,
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
    "id": "10.1093/evlett/qrad031",
    "doi": "10.1093/evlett/qrad031",
    "title": "Maternal behavioral thermoregulation facilitated evolutionary transitions from egg laying to live birth",
@@ -3147,9 +3105,51 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1093/evlett/qrad031",
    "url": "https://doi.org/10.1093/evlett/qrad031",
-   "citations": 22,
+   "citations": 23,
    "abstract": "Live birth is a key innovation that has evolved from egg-laying ancestors over 100 times in reptiles. However, egg-laying lizards and snakes can have preferred body temperatures that are lethal to developing embryos, which should select against prolonged egg retention. Here, we demonstrate that thermal mismatches between mothers and offspring are widespread across the squamate phylogeny. This mismatch is resolved by gravid females adjusting their body temperature towards the thermal optimum of their embryos. We find that the same response occurs in both live-bearing and egg-laying species, despite the latter only retaining embryos during the early stages of development. Importantly, phylogenetic reconstructions suggest this thermoregulatory behavior in gravid females evolved in egg-laying species prior to the evolution of live birth. Maternal thermoregulatory behavior, therefore, bypasses the constraints imposed by a slowly evolving thermal physiology and has likely been a key facilitator in the repeated transition to live birth.",
    "preprintUrl": "https://doi.org/10.1101/2021.02.07.430163",
+   "altmetric": null
+  },
+  {
+   "id": "10.1016/j.biocon.2023.110214",
+   "doi": "10.1016/j.biocon.2023.110214",
+   "title": "Baiting in conservation and pest management: A systematic review of its global applications in a changing world",
+   "authors": [
+    {
+     "name": "Patrick L. Taggart",
+     "orcid": "https://orcid.org/0000-0001-9523-0463",
+     "isSelf": false
+    },
+    {
+     "name": "Pip Taylor",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Kandarp K. Patel",
+     "orcid": "https://orcid.org/0000-0002-2894-0112",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W.A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    }
+   ],
+   "authorLine": "Patrick L. Taggart, Pip Taylor, Kandarp K. Patel, Daniel W.A. Noble",
+   "journal": "Biological Conservation",
+   "year": 2023,
+   "date": "2023-08",
+   "volume": "284",
+   "issue": null,
+   "pages": "110214",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://doi.org/10.1016/j.biocon.2023.110214",
+   "url": "https://doi.org/10.1016/j.biocon.2023.110214",
+   "citations": 23,
+   "abstract": null,
+   "preprintUrl": null,
    "altmetric": null
   },
   {
@@ -3407,7 +3407,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/ele.14144",
    "url": "https://doi.org/10.1111/ele.14144",
-   "citations": 129,
+   "citations": 131,
    "abstract": "The log response ratio, lnRR, is the most frequently used effect size statistic for meta-analysis in ecology. However, often missing standard deviations (SDs) prevent estimation of the sampling variance of lnRR. We propose new methods to deal with missing SDs via a weighted average coefficient of variation (CV) estimated from studies in the dataset that do report SDs. Across a suite of simulated conditions, we find that using the average CV to estimate sampling variances for all observations, regardless of missingness, performs with minimal bias. Surprisingly, even with missing SDs, this simple method outperforms the conventional approach (basing each effect size on its individual study-specific CV) with complete data. This is because the conventional method ultimately yields less precise estimates of the sampling variances than using the pooled CV from multiple studies. Our approach is broadly applicable and can be implemented in all meta-analyses of lnRR, regardless of 'missingness'.",
    "preprintUrl": null,
    "altmetric": null
@@ -3863,7 +3863,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 708,
+   "citations": 713,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -3930,7 +3930,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 491,
+   "citations": 495,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4670,7 +4670,7 @@
    "isOA": true,
    "oaUrl": "https://openresearch-repository.anu.edu.au/bitstreams/954a26dc-63fe-4acf-a83e-038a4479e98e/download",
    "url": "https://doi.org/10.1002/jrsm.1424",
-   "citations": 240,
+   "citations": 241,
    "abstract": "\"Classic\" forest plots show the effect sizes from individual studies and the aggregate effect from a meta-analysis. However, in ecology and evolution, meta-analyses routinely contain over 100 effect sizes, making the classic forest plot of limited use. We surveyed 102 meta-analyses in ecology and evolution, finding that only 11% use the classic forest plot. Instead, most used a \"forest-like plot,\" showing point estimates (with 95% confidence intervals [CIs]) from a series of subgroups or categories in a meta-regression. We propose a modification of the forest-like plot, which we name the \"orchard plot.\" Orchard plots, in addition to showing overall mean effects and CIs from meta-analyses/regressions, also include 95% prediction intervals (PIs), and the individual effect sizes scaled by their precision. The PI allows the user and reader to see the range in which an effect size from a future study may be expected to fall. The PI, therefore, provides an intuitive interpretation of any heterogeneity in the data. Supplementing the PI, the inclusion of underlying effect sizes also allows the user to see any influential or outlying effect sizes. We showcase the orchard plot with example datasets from ecology and evolution, using the R package, orchard, including several functions for visualizing meta-analytic data using forest-plot derivatives. We consider the orchard plot as a variant on the classic forest plot, cultivated to the needs of meta-analysts in ecology and evolution. Hopefully, the orchard plot will prove fruitful for visualizing large collections of heterogeneous effect sizes regardless of the field of study.",
    "preprintUrl": null,
    "altmetric": null
@@ -5325,7 +5325,7 @@
    "isOA": true,
    "oaUrl": "https://www.pnas.org/content/pnas/116/27/13452.full.pdf",
    "url": "https://doi.org/10.1073/pnas.1821066116",
-   "citations": 150,
+   "citations": 151,
    "abstract": "Environmentally induced phenotypes have been proposed to initiate and bias adaptive evolutionary change toward particular directions. The potential for this to happen depends in part on how well plastic responses are aligned with the additive genetic variance and covariance in traits. Using meta-analysis, we demonstrate that plastic responses to novel environments tend to occur along phenotype dimensions that harbor substantial amounts of additive genetic variation. This suggests that selection for or against environmentally induced phenotypes typically will be effective. One interpretation of the alignment between the direction of plasticity and the main axis of additive genetic variation is that developmental systems tend to respond to environmental novelty as they do to genetic mutation. This makes it challenging to distinguish if the direction of evolution is biased by plasticity or genetic \"constraint.\" Our results therefore highlight a need for new theoretical and empirical approaches to address the role of plasticity in evolution.",
    "preprintUrl": null,
    "altmetric": null
@@ -6285,7 +6285,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 591,
+   "citations": 596,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
@@ -6364,7 +6364,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/mec.14031",
-   "citations": 279,
+   "citations": 280,
    "abstract": "Meta-analysis is an important tool for synthesizing research on a variety of topics in ecology and evolution, including molecular ecology, but can be susceptible to nonindependence. Nonindependence can affect two major interrelated components of a meta-analysis: (i) the calculation of effect size statistics and (ii) the estimation of overall meta-analytic estimates and their uncertainty. While some solutions to nonindependence exist at the statistical analysis stages, there is little advice on what to do when complex analyses are not possible, or when studies with nonindependent experimental designs exist in the data. Here we argue that exploring the effects of procedural decisions in a meta-analysis (e.g. inclusion of different quality data, choice of effect size) and statistical assumptions (e.g. assuming no phylogenetic covariance) using sensitivity analyses are extremely important in assessing the impact of nonindependence. Sensitivity analyses can provide greater confidence in results and highlight important limitations of empirical work (e.g. impact of study design on overall effects). Despite their importance, sensitivity analyses are seldom applied to problems of nonindependence. To encourage better practice for dealing with nonindependence in meta-analytic studies, we present accessible examples demonstrating the impact that ignoring nonindependence can have on meta-analytic estimates. We also provide pragmatic solutions for dealing with nonindependent study designs, and for analysing dependent effect sizes. Additionally, we offer reporting guidelines that will facilitate disclosure of the sources of nonindependence in meta-analyses, leading to greater transparency and more robust conclusions.",
    "preprintUrl": null,
    "altmetric": null
@@ -6809,7 +6809,7 @@
    "isOA": true,
    "oaUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/3973267",
    "url": "https://doi.org/10.1098/rspb.2013.3275",
-   "citations": 147,
+   "citations": 146,
    "abstract": "Understanding individual differences in cognitive performance is a major challenge to animal behaviour and cognition studies. We used the Eastern water skink (Eulamprus quoyii) to examine associations between exploration, boldness and individual variability in spatial learning, a dimension of lizard cognition with important bearing on fitness. We show that males perform better than females in a biologically relevant spatial learning task. This is the first evidence for sex differences in learning in a reptile, and we argue that it is probably owing to sex-specific selective pressures that may be widespread in lizards. Across the sexes, we found a clear association between boldness after a simulated predatory attack and the probability of learning the spatial task. In contrast to previous studies, we found a nonlinear association between boldness and learning: both 'bold' and 'shy' behavioural types were more successful learners than intermediate males. Our results do not fit with recent predictions suggesting that individual differences in learning may be linked with behavioural types via high-low-risk/reward trade-offs. We suggest the possibility that differences in spatial cognitive performance may arise in lizards as a consequence of the distinct environmental variability and complexity experienced by individuals as a result of their sex and social tactics.",
    "preprintUrl": null,
    "altmetric": null
@@ -6846,7 +6846,7 @@
    "isOA": true,
    "oaUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/4126636",
    "url": "https://doi.org/10.1098/rsbl.2014.0430",
-   "citations": 90,
+   "citations": 89,
    "abstract": "Evidence of social learning, whereby the actions of an animal facilitate the acquisition of new information by another, is taxonomically biased towards mammals, especially primates, and birds. However, social learning need not be limited to group-living animals because species with less interaction can still benefit from learning about potential predators, food sources, rivals and mates. We trained male skinks (Eulamprus quoyii), a mostly solitary lizard from eastern Australia, in a two-step foraging task. Lizards belonging to 'young' and 'old' age classes were presented with a novel instrumental task (displacing a lid) and an association task (reward under blue lid). We did not find evidence for age-dependent learning of the instrumental task; however, young males in the presence of a demonstrator learnt the association task faster than young males without a demonstrator, whereas old males in both treatments had similar success rates. We present the first evidence of age-dependent social learning in a lizard and suggest that the use of social information for learning may be more widespread than previously believed.",
    "preprintUrl": null,
    "altmetric": null
@@ -7014,7 +7014,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1007/s00265-013-1639-x",
-   "citations": 66,
+   "citations": 65,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -7093,7 +7093,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/beheco/article-pdf/24/5/1128/707322/art040.pdf",
    "url": "https://doi.org/10.1093/beheco/art040",
-   "citations": 37,
+   "citations": 38,
    "abstract": "Multiple paternity is taxonomically widespread, yet the relative role of direct and indirect (genetic) fitness benefits in explaining the evolution of multiple mating is a topic of intense debate. We test whether female Eastern Water Skinks (Eulamprus quoyii) gain direct (fecundity) and/or indirect genetic (increased offspring fitness) benefits through multiple mating. We maintained 216 (108 males and 108 females) E. quoyii in 6 large outdoor enclosures for a single breeding season before bringing gravid females into the lab to give birth. We classified female clutches as being singly or multiply sired using 6 polymorphic microsatellite DNA loci. To test whether females gain genetic benefits, we measured 5 fitness traits on offspring over their first active season and compared these traits between single paternity and multiple paternity clutches. Contrary to predictions from genetic benefits models, offspring from multiple paternity and single paternity clutches did not differ significantly in snout–vent length, mass, growth rate, sprint speed, or endurance. Although multiple paternity and single paternity females did not differ significantly in body size, condition, or mass, multiple paternity females invested more heavily in reproduction when body size, mass, and condition were controlled, producing significantly more offspring compared with single paternity females. We suggest that polyandry in E. quoyii possibly evolved as a mechanism to ensure fertilization of ova, similar to what has been reported in some other taxa.",
    "preprintUrl": null,
    "altmetric": null
@@ -7172,7 +7172,7 @@
    "isOA": true,
    "oaUrl": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2012.0813",
    "url": "https://doi.org/10.1098/rsbl.2012.0813",
-   "citations": 63,
+   "citations": 62,
    "abstract": "Spatial cognition is predicted to be a fundamental component of fitness in many lizard species, and yet some studies suggest that it is relatively slow and inflexible. However, such claims are based on work conducted using experimental designs or in artificial contexts that may underestimate their cognitive abilities. We used a biologically realistic experimental procedure (using simulated predatory attacks) to study spatial learning and its flexibility in the lizard Eulamprus quoyii in semi-natural outdoor enclosures under similar conditions to those experienced by lizards in the wild. To evaluate the flexibility of spatial learning, we conducted a reversal spatial-learning task in which positive and negative reinforcements of learnt spatial stimuli were switched. Nineteen (32%) male lizards learnt both tasks within 10 days (spatial task mean: 8.16 ± 0.69 (s.e.) and reversal spatial task mean: 10.74 ± 0.98 (s.e.) trials). We demonstrate that E. quoyii are capable of flexible spatial learning and suggest that future studies focus on a range of lizard species which differ in phylogeny and/or ecology, using biologically relevant cognitive tasks, in an effort to bridge the cognitive divide between ecto- and endotherms.",
    "preprintUrl": null,
    "altmetric": null
