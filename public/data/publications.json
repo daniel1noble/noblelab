@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-30",
+ "updated": "2026-10-01",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -2103,7 +2103,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2688-8319.12303",
    "url": "https://doi.org/10.1002/2688-8319.12303",
-   "citations": 42,
+   "citations": 43,
    "abstract": "Abstract Exposure to extreme temperatures can negatively affect animal reproduction, by disrupting the ability of individuals to produce any offspring (fertility), or the number of offspring produced by fertile individuals (fecundity). This has important ecological consequences, because reproduction is the ultimate measure of population fitness: a reduction in reproductive output lowers the population growth rate and increases the extinction risk. Despite this importance, there have been no large‐scale summaries of the evidence for effect of temperature on reproduction. We provide a systematic map of studies testing the relationship between temperature and animal reproduction. We systematically searched for published studies that statistically test for a direct link between temperature and animal reproduction, in terms of fertility, fecundity or indirect measures of reproductive potential (gamete and gonad traits). Overall, we collated a large and rich evidence base, with 1654 papers that met our inclusion criteria, encompassing 1191 species. The map revealed several important research gaps. Insects made up almost half of the dataset, but reptiles and amphibians were uncommon, as were non‐arthropod invertebrates. Fecundity was the most common reproductive trait examined, and relatively few studies measured fertility. It was uncommon for experimental studies to test exposure of different life stages, exposure to short‐term heat or cold shock, exposure to temperature fluctuations, or to independently assess male and female effects. Studies were most often published in journals focusing on entomology and pest control, ecology and evolution, aquaculture and fisheries science, and marine biology. Finally, while individuals were sampled from every continent, there was a strong sampling bias towards mid‐latitudes in the Northern Hemisphere, such that the tropics and polar regions are less well sampled. This map reveals a rich literature of studies testing the relationship between temperature and animal reproduction, but also uncovers substantial missing treatment of taxa, traits, and thermal regimes. This database will provide a valuable resource for future quantitative meta‐analyses, and direct future studies aiming to fill identified gaps.",
    "preprintUrl": null,
    "altmetric": null
@@ -2170,7 +2170,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/ele.14511",
    "url": "https://doi.org/10.1111/ele.14511",
-   "citations": 25,
+   "citations": 26,
    "abstract": "Climate change is altering temperature means and variation, and both need to be considered in predictions underpinning conservation. However, there is no consensus in the literature regarding the effects of temperature fluctuations on biological functions. Fluctuations may affect biological responses because of inequalities from non-linear responses, endocrine regulation or exposure to damaging temperatures. Here we establish the current state of knowledge of how temperature fluctuations impact biological responses within individuals and populations compared to constant temperatures with the same mean. We conducted a meta-analysis of 143 studies on ectothermic animals (1492 effect sizes, 118 species). In this study, 89% of effect sizes were derived from diel cycles, but there were no significant differences between diel cycles and shorter (<8 h) or longer (>48 h) cycles in their effect on biological responses. We show that temperature fluctuations have little effect overall on trait mean and variance. Nonetheless, temperature fluctuations can be stressful: fluctuations increased 'gene expression' in aquatic animals, which was driven mainly by increased hsp70. Fluctuating temperatures also decreased longevity, and increased amplitudes had negative effects on population responses in aquatic organisms. We conclude that mean temperatures and extreme events such as heat waves are important to consider, but regular (particularly diel) temperature fluctuations are less so.",
    "preprintUrl": null,
    "altmetric": null
@@ -2850,7 +2850,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/evlett/advance-article-pdf/doi/10.1093/evlett/qrad038/53940395/qrad038.pdf",
    "url": "https://doi.org/10.1093/evlett/qrad038",
-   "citations": 99,
+   "citations": 100,
    "abstract": "Predicting if, when, and how populations can adapt to climate change constitutes one of the greatest challenges in science today. Here, we build from contributions to the special issue on evolutionary adaptation to climate change, a survey of its authors, and recent literature to explore the limits and opportunities for predicting adaptive responses to climate change. We outline what might be predictable now, in the future, and perhaps never even with our best efforts. More accurate predictions are expected for traits characterized by a well-understood mapping between genotypes and phenotypes and traits experiencing strong, direct selection due to climate change. A meta-analysis revealed an overall moderate trait heritability and evolvability in studies performed under future climate conditions but indicated no significant change between current and future climate conditions, suggesting neither more nor less genetic variation for adapting to future climates. Predicting population persistence and evolutionary rescue remains uncertain, especially for the many species without sufficient ecological data. Still, when polled, authors contributing to this special issue were relatively optimistic about our ability to predict future evolutionary responses to climate change. Predictions will improve as we expand efforts to understand diverse organisms, their ecology, and their adaptive potential. Advancements in functional genomic resources, especially their extension to non-model species and the union of evolutionary experiments and \"omics,\" should also enhance predictions. Although predicting evolutionary responses to climate change remains challenging, even small advances will reduce the substantial uncertainties surrounding future evolutionary responses to climate change.",
    "preprintUrl": null,
    "altmetric": null
@@ -3863,7 +3863,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 713,
+   "citations": 714,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4037,7 +4037,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1016/j.tree.2020.12.006",
    "url": "https://doi.org/10.1016/j.tree.2020.12.006",
-   "citations": 201,
+   "citations": 202,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -6285,7 +6285,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 596,
+   "citations": 597,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null

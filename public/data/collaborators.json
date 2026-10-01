@@ -1,11 +1,11 @@
 {
- "updated": "2026-09-30",
+ "updated": "2026-10-01",
  "total": 422,
- "countries": 29,
- "institutions": 155,
+ "countries": 28,
+ "institutions": 154,
  "byCountry": {
   "Japan": 2,
-  "Australia": 179,
+  "Australia": 180,
   "Germany": 21,
   "United Kingdom": 39,
   "Switzerland": 10,
@@ -30,7 +30,6 @@
   "Belgium": 3,
   "Chile": 1,
   "Nigeria": 1,
-  "Russia": 1,
   "Denmark": 2,
   "Iran": 1
  },
@@ -3707,12 +3706,12 @@
    "openalex": "https://openalex.org/A5047608912",
    "works": 1,
    "lastYear": 2013,
-   "institution": "Department of Biological Sciences",
-   "city": "Moscow",
-   "country": "Russia",
-   "countryCode": "RU",
-   "lat": 55.75222,
-   "lon": 37.61556
+   "institution": "Macquarie University",
+   "city": "Sydney",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -33.86785,
+   "lon": 151.20732
   },
   {
    "name": "Kerry V. Fanson",
