@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02",
+ "updated": "2026-10-03",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -3355,7 +3355,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14083",
    "url": "https://doi.org/10.1111/ele.14083",
-   "citations": 148,
+   "citations": 149,
    "abstract": "Understanding the factors affecting thermal tolerance is crucial for predicting the impact climate change will have on ectotherms. However, the role developmental plasticity plays in allowing populations to cope with thermal extremes is poorly understood. Here, we meta-analyse how thermal tolerance is initially and persistently impacted by early (embryonic and juvenile) thermal environments by using data from 150 experimental studies on 138 ectothermic species. Thermal tolerance only increased by 0.13°C per 1°C change in developmental temperature and substantial variation in plasticity (~36%) was the result of shared evolutionary history and species ecology. Aquatic ectotherms were more than three times as plastic as terrestrial ectotherms. Notably, embryos expressed weaker but more heterogenous plasticity than older life stages, with numerous responses appearing as non-adaptive. While developmental temperatures did not have persistent effects on thermal tolerance overall, persistent effects were vastly under-studied, and their direction and magnitude varied with ontogeny. Embryonic stages may represent a critical window of vulnerability to changing environments and we urge researchers to consider early life stages when assessing the climate vulnerability of ectotherms. Overall, our synthesis suggests that developmental changes in thermal tolerance rarely reach levels of perfect compensation and may provide limited benefit in changing environments.",
    "preprintUrl": "https://doi.org/10.22541/au.164573834.49438532/v1",
    "altmetric": null
@@ -3687,7 +3687,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.9511",
    "url": "https://doi.org/10.1002/ece3.9511",
-   "citations": 8,
+   "citations": 9,
    "abstract": "Abstract The obesity epidemic, largely driven by the accessibility of ultra‐processed high‐energy foods, is one of the most pressing public health challenges of the 21st century. Consequently, there is increasing concern about the impacts of diet‐induced obesity on behavior and cognition. While research on this matter continues, to date, no study has explicitly investigated the effect of obesogenic diet on variance and covariance (correlation) in behavioral traits. Here, we examined how an obesogenic versus control diet impacts means and (co‐)variances of traits associated with body condition, behavior, and cognition in a laboratory population of ~160 adult zebrafish (Danio rerio). Overall, an obesogenic diet increased variation in several zebrafish traits. Zebrafish on an obesogenic diet were significantly heavier and displayed higher body weight variability; fasting blood glucose levels were similar between control and treatment zebrafish. During behavioral assays, zebrafish on the obesogenic diet displayed more exploratory behavior and were less reactive to video stimuli with conspecifics during a personality test, but these significant differences were sex‐specific. Zebrafish on an obesogenic diet also displayed repeatable responses in aversive learning tests whereas control zebrafish did not, suggesting an obesogenic diet resulted in more consistent, yet impaired, behavioral responses. Where behavioral syndromes existed (inter‐class correlations between personality traits), they did not differ between obesogenic and control zebrafish groups. By integrating a multifaceted, holistic approach that incorporates components of (co‐)variances, future studies will greatly benefit by quantifying neglected dimensions of obesogenic diets on behavioral changes.",
    "preprintUrl": null,
    "altmetric": null
@@ -4111,7 +4111,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/brv.12818",
-   "citations": 74,
+   "citations": 75,
    "abstract": "The notion that men are more variable than women has become embedded into scientific thinking. For mental traits like personality, greater male variability has been partly attributed to biology, underpinned by claims that there is generally greater variation among males than females in non-human animals due to stronger sexual selection on males. However, evidence for greater male variability is limited to morphological traits, and there is little information regarding sex differences in personality-like behaviours for non-human animals. Here, we meta-analysed sex differences in means and variances for over 2100 effects (204 studies) from 220 species (covering five broad taxonomic groups) across five personality traits: boldness, aggression, activity, sociality and exploration. We also tested if sexual size dimorphism, a proxy for sex-specific sexual selection, explains variation in the magnitude of sex differences in personality. We found no significant differences in personality between the sexes. In addition, sexual size dimorphism did not explain variation in the magnitude of the observed sex differences in the mean or variance in personality for any taxonomic group. In sum, we find no evidence for widespread sex differences in variability in non-human animal personality.",
    "preprintUrl": null,
    "altmetric": null
@@ -4789,7 +4789,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.7554/elife.63170",
    "url": "https://doi.org/10.7554/elife.63170",
-   "citations": 110,
+   "citations": 111,
    "abstract": "Biomedical and clinical sciences are experiencing a renewed interest in the fact that males and females differ in many anatomic, physiological, and behavioural traits. Sex differences in trait variability, however, are yet to receive similar recognition. In medical science, mammalian females are assumed to have higher trait variability due to estrous cycles (the 'estrus-mediated variability hypothesis'); historically in biomedical research, females have been excluded for this reason. Contrastingly, evolutionary theory and associated data support the 'greater male variability hypothesis'. Here, we test these competing hypotheses in 218 traits measured in >26,900 mice, using meta-analysis methods. Neither hypothesis could universally explain patterns in trait variability. Sex bias in variability was trait-dependent. While greater male variability was found in morphological traits, females were much more variable in immunological traits. Sex-specific variability has eco-evolutionary ramifications, including sex-dependent responses to climate change, as well as statistical implications including power analysis considering sex difference in variance.",
    "preprintUrl": "https://doi.org/10.1101/2020.05.23.106146",
    "altmetric": null
@@ -5587,7 +5587,7 @@
    "isOA": true,
    "oaUrl": "https://figshare.com/articles/journal_contribution/Patterns_of_developmental_plasticity_in_response_to_incubation_temperature_in_reptiles/22968455",
    "url": "https://doi.org/10.1002/jez.2181",
-   "citations": 114,
+   "citations": 115,
    "abstract": "Early life environments shape phenotypic development in important ways that can lead to long-lasting effects on phenotype and fitness. In reptiles, one aspect of the early environment that impacts development is temperature (termed 'thermal developmental plasticity'). Indeed, the thermal environment during incubation is known to influence morphological, physiological, and behavioral traits, some of which have important consequences for many ecological and evolutionary processes. Despite this, few studies have attempted to synthesize and collate data from this expansive and important body of research. Here, we systematically review research into thermal developmental plasticity across reptiles, structured around the key papers and findings that have shaped the field over the past 50 years. From these papers, we introduce a large database (the 'Reptile Development Database') consisting of 9,773 trait means across 300 studies examining thermal developmental plasticity. This dataset encompasses data on a range of phenotypes, including morphological, physiological, behavioral, and performance traits along with growth rate, incubation duration, sex ratio, and survival (e.g., hatching success) across all major reptile clades. Finally, from our literature synthesis and data exploration, we identify key research themes associated with thermal developmental plasticity, important gaps in empirical research, and demonstrate how future progress can be made through targeted empirical, meta-analytic, and comparative work.",
    "preprintUrl": null,
    "altmetric": null
@@ -6285,7 +6285,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 597,
+   "citations": 598,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
@@ -6322,7 +6322,7 @@
    "isOA": true,
    "oaUrl": "http://handle.unsw.edu.au/1959.4/unsworks_45072",
    "url": "https://doi.org/10.1111/brv.12333",
-   "citations": 308,
+   "citations": 309,
    "abstract": "Early environments can profoundly influence an organism in ways that persist over its life. In reptiles, early thermal environments (nest temperatures) can impact offspring phenotype and survival in important ways, yet we still lack an understanding of whether general trends exist and the magnitude of impact. Understanding these patterns is important in predicting how climate change will affect reptile populations and the role of phenotypic plasticity in buffering populations. We compiled data from 175 reptile studies to examine, and quantify, the effect of incubation temperature on phenotype and survival. Using meta-analytic approaches (standardized mean difference between incubation treatments, Hedges' g), we show that across all trait types examined there is, on average, a moderate to large magnitude of effect of incubation temperatures (absolute effect: |g| = 0.75). Unsurprisingly, this influence was extremely large for incubation duration, as predicted, with warmer temperatures decreasing incubation time overall (g = -8.42). Other trait types, including behaviour, physiology, morphology, performance, and survival experienced reduced, but still mostly moderate to large effects, with particularly strong effects on survival. Moreover, the impact of incubation temperature persisted at least one-year post-hatching, suggesting that these effects have the potential to impact fitness in the long term. The magnitude of effect increased as the change in temperature increased (e.g. 6°C versus 2°C) in almost all cases, and tended to decrease when temperatures of the treatments fluctuated around a mean temperature compared to when they were constant. The effect also depended on the mid-temperature of the comparison, but not in consistent ways, with some traits experiencing the greatest effects at extreme temperatures, while others did not. The highly heterogeneous nature of the effects we observe, along with a large amount of unexplained variability, indicates that the shape of reaction norms between phenotype and temperature, along with ecological and/or experimental factors, are important when considering general patterns. Our analyses provide new insights into the effects of incubation environments on reptile phenotype and survival and allow general, albeit coarse, predictions for taxa experiencing warming nest temperatures under climatic change.",
    "preprintUrl": null,
    "altmetric": null

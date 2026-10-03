@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-02",
+ "updated": "2026-10-03",
  "total": 422,
  "countries": 28,
  "institutions": 154,
@@ -477,7 +477,7 @@
    "lon": 151.20732
   },
   {
-   "name": "Samantha M. Burke",
+   "name": "Samantha Burke",
    "orcid": "https://orcid.org/0000-0001-6902-974X",
    "openalex": "https://openalex.org/A5022410213",
    "works": 4,
@@ -542,7 +542,7 @@
    "lon": 151.20732
   },
   {
-   "name": "David W. Berger",
+   "name": "David Berger",
    "orcid": "https://orcid.org/0000-0003-0196-6109",
    "openalex": "https://openalex.org/A5006823603",
    "works": 3,
@@ -1465,7 +1465,7 @@
    "lon": 8.55
   },
   {
-   "name": "Adam George Dunn",
+   "name": "Adam G. Dunn",
    "orcid": "https://orcid.org/0000-0002-1720-8209",
    "openalex": "https://openalex.org/A5055997493",
    "works": 1,
@@ -3857,7 +3857,7 @@
    "lon": 149.12807
   },
   {
-   "name": "Luke Aidan McGuinness",
+   "name": "Luke A. McGuinness",
    "orcid": "https://orcid.org/0000-0001-8730-9761",
    "openalex": "https://openalex.org/A5037094305",
    "works": 1,
