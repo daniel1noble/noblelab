@@ -1,6 +1,6 @@
 {
- "updated": "2026-10-06",
- "total": 422,
+ "updated": "2026-10-07",
+ "total": 423,
  "countries": 28,
  "institutions": 154,
  "byCountry": {
@@ -8,9 +8,9 @@
   "Australia": 180,
   "Germany": 21,
   "United Kingdom": 39,
-  "Switzerland": 10,
-  "Canada": 21,
   "Poland": 2,
+  "Switzerland": 10,
+  "Canada": 22,
   "Sweden": 21,
   "Spain": 3,
   "China": 7,
@@ -38,7 +38,7 @@
    "name": "Shinichi Nakagawa",
    "orcid": "https://orcid.org/0000-0002-7765-5182",
    "openalex": "https://openalex.org/A5064087878",
-   "works": 46,
+   "works": 47,
    "lastYear": 2026,
    "institution": "Okinawa Institute of Science and Technology Graduate University",
    "city": "Onna",
@@ -64,7 +64,7 @@
    "name": "Malgorzata Lagisz",
    "orcid": "https://orcid.org/0000-0002-3993-6127",
    "openalex": "https://openalex.org/A5007515715",
-   "works": 29,
+   "works": 30,
    "lastYear": 2026,
    "institution": "UNSW Sydney",
    "city": "Sydney",
@@ -87,12 +87,12 @@
    "lon": 13.41053
   },
   {
-   "name": "Patrice Pottier",
-   "orcid": "https://orcid.org/0000-0003-2106-6597",
-   "openalex": "https://openalex.org/A5020220822",
+   "name": "Alistair McNair Senior",
+   "orcid": "https://orcid.org/0000-0001-9805-7280",
+   "openalex": "https://openalex.org/A5030763843",
    "works": 13,
    "lastYear": 2026,
-   "institution": "UNSW Sydney",
+   "institution": "The University of Sydney",
    "city": "Sydney",
    "country": "Australia",
    "countryCode": "AU",
@@ -100,12 +100,12 @@
    "lon": 151.20732
   },
   {
-   "name": "Alistair McNair Senior",
-   "orcid": "https://orcid.org/0000-0001-9805-7280",
-   "openalex": "https://openalex.org/A5030763843",
-   "works": 12,
-   "lastYear": 2025,
-   "institution": "The University of Sydney",
+   "name": "Patrice Pottier",
+   "orcid": "https://orcid.org/0000-0003-2106-6597",
+   "openalex": "https://openalex.org/A5020220822",
+   "works": 13,
+   "lastYear": 2026,
+   "institution": "UNSW Sydney",
    "city": "Sydney",
    "country": "Australia",
    "countryCode": "AU",
@@ -191,6 +191,32 @@
    "lon": -2.79902
   },
   {
+   "name": "Szymon Marian Drobniak",
+   "orcid": "https://orcid.org/0000-0001-8101-6247",
+   "openalex": "https://openalex.org/A5052648587",
+   "works": 9,
+   "lastYear": 2026,
+   "institution": "Jagiellonian University",
+   "city": "Krakow",
+   "country": "Poland",
+   "countryCode": "PL",
+   "lat": 50.06143,
+   "lon": 19.93658
+  },
+  {
+   "name": "Yefeng Yang",
+   "orcid": "https://orcid.org/0000-0002-8610-4016",
+   "openalex": "https://openalex.org/A5022684670",
+   "works": 9,
+   "lastYear": 2026,
+   "institution": "UNSW Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -33.86785,
+   "lon": 151.20732
+  },
+  {
    "name": "Birgit Szabo",
    "orcid": "https://orcid.org/0000-0002-3226-8621",
    "openalex": "https://openalex.org/A5075036836",
@@ -269,19 +295,6 @@
    "lon": 149.12807
   },
   {
-   "name": "Szymon Marian Drobniak",
-   "orcid": "https://orcid.org/0000-0001-8101-6247",
-   "openalex": "https://openalex.org/A5052648587",
-   "works": 8,
-   "lastYear": 2026,
-   "institution": "Jagiellonian University",
-   "city": "Krakow",
-   "country": "Poland",
-   "countryCode": "PL",
-   "lat": 50.06143,
-   "lon": 19.93658
-  },
-  {
    "name": "Tobias Uller",
    "orcid": "https://orcid.org/0000-0003-1293-5842",
    "openalex": "https://openalex.org/A5004876984",
@@ -293,19 +306,6 @@
    "countryCode": "SE",
    "lat": 55.70584,
    "lon": 13.19321
-  },
-  {
-   "name": "Yefeng Yang",
-   "orcid": "https://orcid.org/0000-0002-8610-4016",
-   "openalex": "https://openalex.org/A5022684670",
-   "works": 8,
-   "lastYear": 2025,
-   "institution": "UNSW Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
   },
   {
    "name": "Daniel Hesselson",
@@ -451,6 +451,19 @@
    "lon": 151.20732
   },
   {
+   "name": "Coralie Williams",
+   "orcid": "https://orcid.org/0000-0003-1312-4953",
+   "openalex": "https://openalex.org/A5041166955",
+   "works": 4,
+   "lastYear": 2026,
+   "institution": "UNSW Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -33.86785,
+   "lon": 151.20732
+  },
+  {
    "name": "Daniel A. Warner",
    "orcid": "https://orcid.org/0000-0001-7231-7785",
    "openalex": "https://openalex.org/A5000456453",
@@ -503,25 +516,25 @@
    "lon": 151.20732
   },
   {
+   "name": "Ayumi Mizuno",
+   "orcid": "https://orcid.org/0000-0003-0822-5637",
+   "openalex": "https://openalex.org/A5032735239",
+   "works": 3,
+   "lastYear": 2026,
+   "institution": "Hokkaido University",
+   "city": "Sapporo",
+   "country": "Japan",
+   "countryCode": "JP",
+   "lat": 43.07817840576172,
+   "lon": 141.3399658203125
+  },
+  {
    "name": "Clayton W. Stocker",
    "orcid": "https://orcid.org/0000-0002-0640-1484",
    "openalex": "https://openalex.org/A5107695181",
    "works": 3,
    "lastYear": 2025,
    "institution": "The University of Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
-  },
-  {
-   "name": "Coralie Williams",
-   "orcid": "https://orcid.org/0000-0003-1312-4953",
-   "openalex": "https://openalex.org/A5041166955",
-   "works": 3,
-   "lastYear": 2026,
-   "institution": "UNSW Sydney",
    "city": "Sydney",
    "country": "Australia",
    "countryCode": "AU",
@@ -839,19 +852,6 @@
    "countryCode": "GB",
    "lat": 53.79648,
    "lon": -1.54785
-  },
-  {
-   "name": "Ayumi Mizuno",
-   "orcid": "https://orcid.org/0000-0003-0822-5637",
-   "openalex": "https://openalex.org/A5032735239",
-   "works": 2,
-   "lastYear": 2026,
-   "institution": "Hokkaido University",
-   "city": "Sapporo",
-   "country": "Japan",
-   "countryCode": "JP",
-   "lat": 43.07817840576172,
-   "lon": 141.3399658203125
   },
   {
    "name": "Basile Mauclaire",
@@ -1346,6 +1346,19 @@
    "countryCode": "AU",
    "lat": -35.28346,
    "lon": 149.12807
+  },
+  {
+   "name": "Santiago Ortega",
+   "orcid": "https://orcid.org/0000-0002-3518-276X",
+   "openalex": "https://openalex.org/A5008999259",
+   "works": 2,
+   "lastYear": 2026,
+   "institution": "University of Alberta",
+   "city": "Edmonton",
+   "country": "Canada",
+   "countryCode": "CA",
+   "lat": 53.55014,
+   "lon": -113.46871
   },
   {
    "name": "Sonya R. Geange",
@@ -2651,6 +2664,19 @@
    "name": "Erick J. Lundgren",
    "orcid": "https://orcid.org/0000-0001-9893-3324",
    "openalex": "https://openalex.org/A5030182763",
+   "works": 1,
+   "lastYear": 2026,
+   "institution": "University of Alberta",
+   "city": "Edmonton",
+   "country": "Canada",
+   "countryCode": "CA",
+   "lat": 53.55014,
+   "lon": -113.46871
+  },
+  {
+   "name": "Erick Lundgren",
+   "orcid": null,
+   "openalex": "https://openalex.org/A5153313595",
    "works": 1,
    "lastYear": 2026,
    "institution": "University of Alberta",
@@ -4947,19 +4973,6 @@
    "countryCode": "CA",
    "lat": 45.50884,
    "lon": -73.58781
-  },
-  {
-   "name": "Santiago Ortega",
-   "orcid": "https://orcid.org/0000-0002-3518-276X",
-   "openalex": "https://openalex.org/A5008999259",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "University of Alberta",
-   "city": "Edmonton",
-   "country": "Canada",
-   "countryCode": "CA",
-   "lat": 53.55014,
-   "lon": -113.46871
   },
   {
    "name": "Sarah Elizabeth Scott",

@@ -357,6 +357,23 @@ async function main() {
   }
   console.log(`  ${byDoi.size} distinct DOIs on ORCID`);
 
+  /* Papers missing from ORCID still belong on the site. scripts/extra-dois.json
+     lists them by DOI; Crossref and OpenAlex supply everything else, exactly as
+     for an ORCID work. Adding the work to ORCID is the better fix, after which
+     the entry here simply stops mattering. */
+  const extra = JSON.parse(
+    await readFile(resolve(HERE, "extra-dois.json"), "utf8").catch(() => '{"dois":{}}')
+  );
+  let addedExtra = 0;
+  for (const raw of Object.keys(extra.dois || {})) {
+    const doi = cleanDOI(raw);
+    if (!doi || byDoi.has(doi)) continue;
+    byDoi.set(doi, { doi, orcidType: null, title: "", year: null, onOrcid: false });
+    addedExtra++;
+    console.log(`  + not on ORCID, added by hand: ${doi}`);
+  }
+  if (addedExtra) console.log(`  ${byDoi.size} DOIs after ${addedExtra} hand-added`);
+
   console.log("Fetching OpenAlex records for the ORCID DOIs…");
   const oaWorks = [];
   for (const w of await fetchOpenAlexWorksByDOI([...byDoi.keys()])) {

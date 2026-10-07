@@ -1,0 +1,6 @@
+{
+  "_comment": "DOIs of Daniel's papers that are missing from his ORCID record, which is otherwise the spine of this pipeline (see fetch-data.mjs section 1). Everything else about them (title, journal, authors, citations) still comes from Crossref and OpenAlex. Add a DOI here to make a paper appear immediately; the better long-term fix is to add the work to ORCID, after which the entry here is harmless but redundant.",
+  "dois": {
+    "10.1017/rsm.2026.10108": "Nakagawa et al. 2026, Research Synthesis Methods. Published online 28 Sep 2026; not on ORCID as of 7 Oct 2026 (Daniel flagged it missing from the site)."
+  }
+}

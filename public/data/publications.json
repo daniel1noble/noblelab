@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-06",
+ "updated": "2026-10-07",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -550,6 +550,78 @@
    "altmetric": null
   },
   {
+   "id": "10.1017/rsm.2026.10108",
+   "doi": "10.1017/rsm.2026.10108",
+   "title": "Mastering a simulation-based parametric method to obtain bias-corrected point estimates and sampling variance for effect sizes",
+   "authors": [
+    {
+     "name": "Shinichi Nakagawa",
+     "orcid": "https://orcid.org/0000-0002-7765-5182",
+     "isSelf": false
+    },
+    {
+     "name": "Ayumi Mizuno",
+     "orcid": "https://orcid.org/0000-0003-0822-5637",
+     "isSelf": false
+    },
+    {
+     "name": "Coralie Williams",
+     "orcid": "https://orcid.org/0000-0003-1312-4953",
+     "isSelf": false
+    },
+    {
+     "name": "Santiago Ortega",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Szymon M. Drobniak",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Malgorzata Lagisz",
+     "orcid": "https://orcid.org/0000-0002-3993-6127",
+     "isSelf": false
+    },
+    {
+     "name": "Yefeng Yang",
+     "orcid": "https://orcid.org/0000-0002-8610-4016",
+     "isSelf": false
+    },
+    {
+     "name": "Alistair M. Senior",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": null,
+     "isSelf": true
+    },
+    {
+     "name": "Erick Lundgren",
+     "orcid": null,
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Shinichi Nakagawa, Ayumi Mizuno, Coralie Williams, Santiago Ortega, Szymon M. Drobniak, Malgorzata Lagisz, Yefeng Yang, Alistair M. Senior, Daniel W. A. Noble, Erick Lundgren",
+   "journal": "Research Synthesis Methods",
+   "year": 2026,
+   "date": "2026-09-28",
+   "volume": null,
+   "issue": null,
+   "pages": "1-28",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/134168BDF3B89BAE2514EA76B27DA66D/S1759287926101082a.pdf/div-class-title-mastering-a-simulation-based-parametric-method-to-obtain-bias-corrected-point-estimates-and-sampling-variance-for-effect-sizes-div.pdf",
+   "url": "https://doi.org/10.1017/rsm.2026.10108",
+   "citations": 0,
+   "abstract": "Abstract Meta-analyses require an effect-size estimate and its corresponding sampling variance from primary studies. For some effect size statistics, however, estimators of sampling variance are unavailable, requiring new derivations. Traditionally, such formulas are obtained using hand-derived Taylor expansions (the delta method), but this approach can be technically demanding and inaccessible to many applied researchers. Building on the idea of single-fit parametric resampling, we introduce the SAFE bootstrap: a Single-fit, Accurate, Fast, and Easy simulation recipe that replaces complex algebra with four intuitive steps: fit, draw, transform, and summarise. SAFE is a model-based parametric bootstrap applied to summary statistics, so its performance depends on how well the assumed sampling model approximates the sampling distribution of the reported statistics. Here, we focus on two-group effect sizes that can be parameterised from standard reported summaries, using Gaussian working models for continuous outcomes and binomial or multinomial models for discrete outcomes. Within this framework, SAFE yields model-based, bias-corrected point estimates and standard errors for familiar effect sizes, and readily extends to less common statistics. We first demonstrate SAFE with a simple example, then apply it to common effect sizes, such as the standardised mean difference and the log odds ratio, as well as several less common measures. With additional coding, SAFE can also accommodate zero values and small sample sizes, albeit with important caveats. Our tutorial, accompanied by R code supplements, aims both to clarify the logic of simulation-based estimation from summary statistics and to provide a practical workflow when only summary statistics are available.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
    "id": "10.64898/2026.07.16.738378",
    "doi": "10.64898/2026.07.16.738378",
    "title": "A flexible modelling framework for estimating thermal tolerance and sensitivity",
@@ -703,7 +775,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/gcb.70315",
    "url": "https://doi.org/10.1111/gcb.70315",
-   "citations": 33,
+   "citations": 34,
    "abstract": "Forecasts of vulnerability to climate warming require an integrative understanding of how species are exposed to, are damaged by, and recover from thermal stress in natural environments. The sensitivity of species to temperature depends on the frequency, duration, and magnitude of thermal stress. Thus, there is a generally recognized need to move beyond physiological metrics based solely on critical thermal limits and integrate them with natural heat exposure regimes. Here we propose the thermal load sensitivity (TLS) framework, which integrates biophysical principles for quantifying exposure with physiological principles of the dynamics of damage and repair processes in driving sublethal impacts on organisms. Building upon the established thermal death time (TDT) model, which integrates both the magnitude and duration of stress, the TLS framework attempts to disentangle the accumulation of damage and subsequent repair processes that alter responses to thermal stress. With the aid of case studies and reproducible simulation examples, we discuss how the TLS framework can be applied to enhance our understanding of the ecology and evolution of heat stress responses. These include assessing thermal sensitivity across diverse taxonomic groups, throughout ontogeny, and for modular organisms, as well as integrating additional stressors in combination with temperature. We identify critical research opportunities, knowledge gaps, and novel ways of integrating physiological measures of thermal sensitivity to improve understanding and predictions of thermal vulnerability at various scales across life.",
    "preprintUrl": null,
    "altmetric": null
@@ -3863,7 +3935,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 715,
+   "citations": 716,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -3930,7 +4002,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 496,
+   "citations": 497,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4163,7 +4235,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/brv.12712",
-   "citations": 32,
+   "citations": 33,
    "abstract": "Physical exercise not only helps to improve physical health but can also enhance brain development and cognition. Recent reports on parental (both maternal and paternal) effects raise the possibility that parental exercise may provide benefits to offspring through intergenerational inheritance. However, the general magnitude and consistency of parental exercise effects on offspring is still controversial. Additionally, empirical research has long overlooked an important aspect of exercise: its effects on variability in neurodevelopmental and cognitive traits. Here, we compiled data from 52 studies involving 4786 rodents (412 effect sizes) to quantify the intergenerational transmission of exercise effects on brain and cognition. Using a multilevel meta-analytic approach, we found that, overall, parental exercise showed a tendency for increasing their offspring's brain structure by 12.7% (albeit statistically non-significant) probably via significantly facilitating neurogenesis (16.5%). Such changes in neural anatomy go in hand with a significant 20.8% improvement in neurobehaviour (improved learning and memory, and reduced anxiety). Moreover, we found parental exercise significantly reduces inter-individual differences (i.e. reduced variance in the treatment group) in progeny's neurobehaviour by 10.2% (coefficient of variation ratio, lnCVR), suggesting the existence of an individual by intervention interaction. The positive effects of exercise are modulated by several covariates (i.e. moderators), such as the exercised parent's sex, offspring's sex, and age, mode of exercise, and exercise timing. In particular, parental forced exercise is more efficient than voluntary exercise at significantly improving offspring neurobehaviour (26.0%) and reducing its variability (14.2%). We observed larger effects when parental exercise started before pregnancy. However, exercising only during pregnancy also had positive effects. Mechanistically, exercise significantly upregulated brain-derived neurotrophic factor (BDNF) by 28.9%, vascular endothelial growth factor (VEGF) by 35.8%, and significantly decreased hippocampal DNA methylation by 3.5%, suggesting that brain growth factor cascades and epigenetic modifications can moderate the transmission of parental exercise effects. Collectively, by coupling mean with variance effects, our analyses draw a more integrated picture of the benefits that parental exercise has on offspring: not only does it improve offspring brain development and cognitive performance, but it also reduces inter-individual differences in cognition-related traits. We advocate that meta-analysis of variation together with the mean of a trait provides novel insights for old controversies as well as emerging new questions, opening up a new era for generating variance-based hypotheses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4826,7 +4898,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/evlett/article-pdf/4/4/360/46657546/evlett0360.pdf",
    "url": "https://doi.org/10.1002/evl3.185",
-   "citations": 110,
+   "citations": 111,
    "abstract": "Phenotypic responses to a novel or extreme environment are initially plastic, only later to be followed by genetic change. Whether or not environmentally induced phenotypes are sufficiently recurrent and fit to leave a signature in adaptive evolution is debated. Here, we analyze multivariate data from 34 plant reciprocal transplant studies to test: (1) if plasticity is an adaptive source of developmental bias that makes locally adapted populations resemble the environmentally induced phenotypes of ancestors; and (2) if plasticity, standing phenotypic variation and genetic divergence align during local adaptation. Phenotypic variation increased marginally in foreign environments but, as predicted, the direction of ancestral plasticity was generally well aligned with the phenotypic difference between locally adapted populations, making plasticity appear to \"take the lead\" in adaptive evolution. Plastic responses were sometimes more extreme than the phenotypes of locally adapted plants, which can give the impression that plasticity and evolutionary adaptation oppose each other; however, environmentally induced and locally adapted phenotypes were rarely misaligned. Adaptive fine-tuning of phenotypes-genetic accommodation-did not fall along the main axis of standing phenotypic variation or the direction of plasticity, and local adaptation did not consistently modify the direction or magnitude of plasticity. These results suggest that plasticity is a persistent source of developmental bias that shapes how plant populations adapt to environmental change, even when plasticity does not constrain how populations respond to selection.",
    "preprintUrl": null,
    "altmetric": null
@@ -5847,7 +5919,7 @@
    "isOA": true,
    "oaUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/5938558",
    "url": "https://doi.org/10.1098/rsbl.2017.0556",
-   "citations": 21,
+   "citations": 22,
    "abstract": "Stressful conditions experienced during early development can have deleterious effects on offspring morphology, physiology and behaviour. However, few studies have examined how developmental stress influences an individual's cognitive phenotype. Using a viviparous lizard, we show that the availability of food resources to a mother during gestation influences a key component of her offspring's cognitive phenotype: their decision-making. Offspring from females who experienced low resource availability during gestation did better in an anti-predatory task that relied on spatial associations to guide their decisions, whereas offspring from females who experienced high resource availability during gestation did better in a foraging task that relied on colour associations to inform their decisions. This shows that the prenatal environment can influence decision-making in animals, a cognitive trait with functional implications later in life.",
    "preprintUrl": null,
    "altmetric": null
@@ -6285,7 +6357,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 598,
+   "citations": 599,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
