@@ -1,13 +1,13 @@
 {
- "updated": "2026-10-08",
- "total": 423,
+ "updated": "2026-10-09",
+ "total": 422,
  "countries": 28,
  "institutions": 154,
  "byCountry": {
   "Japan": 2,
   "Australia": 180,
   "Germany": 21,
-  "United Kingdom": 39,
+  "United Kingdom": 38,
   "Poland": 2,
   "Switzerland": 10,
   "Canada": 22,
@@ -38,7 +38,7 @@
    "name": "Shinichi Nakagawa",
    "orcid": "https://orcid.org/0000-0002-7765-5182",
    "openalex": "https://openalex.org/A5064087878",
-   "works": 47,
+   "works": 46,
    "lastYear": 2026,
    "institution": "Okinawa Institute of Science and Technology Graduate University",
    "city": "Onna",
@@ -64,7 +64,7 @@
    "name": "Malgorzata Lagisz",
    "orcid": "https://orcid.org/0000-0002-3993-6127",
    "openalex": "https://openalex.org/A5007515715",
-   "works": 30,
+   "works": 29,
    "lastYear": 2026,
    "institution": "UNSW Sydney",
    "city": "Sydney",
@@ -87,12 +87,12 @@
    "lon": 13.41053
   },
   {
-   "name": "Alistair McNair Senior",
-   "orcid": "https://orcid.org/0000-0001-9805-7280",
-   "openalex": "https://openalex.org/A5030763843",
+   "name": "Patrice Pottier",
+   "orcid": "https://orcid.org/0000-0003-2106-6597",
+   "openalex": "https://openalex.org/A5020220822",
    "works": 13,
    "lastYear": 2026,
-   "institution": "The University of Sydney",
+   "institution": "UNSW Sydney",
    "city": "Sydney",
    "country": "Australia",
    "countryCode": "AU",
@@ -100,12 +100,12 @@
    "lon": 151.20732
   },
   {
-   "name": "Patrice Pottier",
-   "orcid": "https://orcid.org/0000-0003-2106-6597",
-   "openalex": "https://openalex.org/A5020220822",
-   "works": 13,
+   "name": "Alistair McNair Senior",
+   "orcid": "https://orcid.org/0000-0001-9805-7280",
+   "openalex": "https://openalex.org/A5030763843",
+   "works": 12,
    "lastYear": 2026,
-   "institution": "UNSW Sydney",
+   "institution": "The University of Sydney",
    "city": "Sydney",
    "country": "Australia",
    "countryCode": "AU",
@@ -412,19 +412,6 @@
    "lon": 149.12807
   },
   {
-   "name": "Susanne R. K. Zajitschek",
-   "orcid": "https://orcid.org/0000-0003-4676-9950",
-   "openalex": "https://openalex.org/A5029906062",
-   "works": 5,
-   "lastYear": 2022,
-   "institution": "UNSW Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
-  },
-  {
    "name": "Yin Qi",
    "orcid": "https://orcid.org/0000-0003-0973-2307",
    "openalex": "https://openalex.org/A5109154908",
@@ -495,6 +482,19 @@
    "openalex": "https://openalex.org/A5022410213",
    "works": 4,
    "lastYear": 2024,
+   "institution": "UNSW Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -33.86785,
+   "lon": 151.20732
+  },
+  {
+   "name": "Susanne R. K. Zajitschek",
+   "orcid": "https://orcid.org/0000-0003-4676-9950",
+   "openalex": "https://openalex.org/A5029906062",
+   "works": 4,
+   "lastYear": 2022,
    "institution": "UNSW Sydney",
    "city": "Sydney",
    "country": "Australia",
@@ -763,19 +763,6 @@
    "lon": -0.37966
   },
   {
-   "name": "Russell Bonduriansky",
-   "orcid": "https://orcid.org/0000-0002-5786-6951",
-   "openalex": "https://openalex.org/A5073861127",
-   "works": 3,
-   "lastYear": 2023,
-   "institution": "UNSW Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
-  },
-  {
    "name": "Stephanie M. Bamford",
    "orcid": null,
    "openalex": "https://openalex.org/A5092121565",
@@ -906,19 +893,6 @@
    "lon": 11.88586
   },
   {
-   "name": "Daniel Stein Falster",
-   "orcid": "https://orcid.org/0000-0002-9814-092X",
-   "openalex": "https://openalex.org/A5087681406",
-   "works": 2,
-   "lastYear": 2020,
-   "institution": "UNSW Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
-  },
-  {
    "name": "David S. Tait",
    "orcid": "https://orcid.org/0000-0001-5310-7731",
    "openalex": "https://openalex.org/A5102893905",
@@ -982,19 +956,6 @@
    "countryCode": "DE",
    "lat": 49.01512908935547,
    "lon": 12.10161018371582
-  },
-  {
-   "name": "Felix Zajitschek",
-   "orcid": "https://orcid.org/0000-0001-6010-6112",
-   "openalex": "https://openalex.org/A5014567849",
-   "works": 2,
-   "lastYear": 2020,
-   "institution": "UNSW Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
   },
   {
    "name": "Geoffrey E. Hill",
@@ -1309,19 +1270,6 @@
    "lon": -0.9711300134658813
   },
   {
-   "name": "Robert C. Brooks",
-   "orcid": "https://orcid.org/0000-0001-6926-0781",
-   "openalex": "https://openalex.org/A5019669894",
-   "works": 2,
-   "lastYear": 2020,
-   "institution": "UNSW Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
-  },
-  {
    "name": "Ronald J. Brooks",
    "orcid": "https://orcid.org/0000-0002-6871-4697",
    "openalex": "https://openalex.org/A5058761999",
@@ -1346,6 +1294,19 @@
    "countryCode": "AU",
    "lat": -35.28346,
    "lon": 149.12807
+  },
+  {
+   "name": "Russell Bonduriansky",
+   "orcid": "https://orcid.org/0000-0002-5786-6951",
+   "openalex": "https://openalex.org/A5073861127",
+   "works": 2,
+   "lastYear": 2023,
+   "institution": "UNSW Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -33.86785,
+   "lon": 151.20732
   },
   {
    "name": "Santiago Ortega",
@@ -1444,19 +1405,6 @@
    "openalex": "https://openalex.org/A5087198570",
    "works": 2,
    "lastYear": 2018,
-   "institution": "UNSW Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
-  },
-  {
-   "name": "William K. Cornwell",
-   "orcid": "https://orcid.org/0000-0003-4080-4073",
-   "openalex": "https://openalex.org/A5032093404",
-   "works": 2,
-   "lastYear": 2020,
    "institution": "UNSW Sydney",
    "city": "Sydney",
    "country": "Australia",
@@ -2375,6 +2323,19 @@
    "lon": -121.95523834228516
   },
   {
+   "name": "Daniel Stein Falster",
+   "orcid": "https://orcid.org/0000-0002-9814-092X",
+   "openalex": "https://openalex.org/A5087681406",
+   "works": 1,
+   "lastYear": 2020,
+   "institution": "UNSW Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -33.86785,
+   "lon": 151.20732
+  },
+  {
    "name": "Danielle A. Way",
    "orcid": null,
    "openalex": null,
@@ -2791,6 +2752,19 @@
    "lon": 13.410530090332031
   },
   {
+   "name": "Felix Zajitschek",
+   "orcid": "https://orcid.org/0000-0001-6010-6112",
+   "openalex": "https://openalex.org/A5014567849",
+   "works": 1,
+   "lastYear": 2020,
+   "institution": "UNSW Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -33.86785,
+   "lon": 151.20732
+  },
+  {
    "name": "Feng Xu",
    "orcid": "https://orcid.org/0000-0001-8925-977X",
    "openalex": "https://openalex.org/A5108052555",
@@ -3101,19 +3075,6 @@
    "countryCode": "SE",
    "lat": 59.85882,
    "lon": 17.63889
-  },
-  {
-   "name": "J. Mason",
-   "orcid": "https://orcid.org/0000-0002-2796-5123",
-   "openalex": null,
-   "works": 1,
-   "lastYear": 2020,
-   "institution": "European Bioinformatics Institute",
-   "city": "Cambridge",
-   "country": "United Kingdom",
-   "countryCode": "GB",
-   "lat": 52.2,
-   "lon": 0.11667
   },
   {
    "name": "Jack A. Brand",
@@ -4819,6 +4780,19 @@
    "lon": 4.70093
   },
   {
+   "name": "Robert C. Brooks",
+   "orcid": "https://orcid.org/0000-0001-6926-0781",
+   "openalex": "https://openalex.org/A5019669894",
+   "works": 1,
+   "lastYear": 2020,
+   "institution": "UNSW Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -33.86785,
+   "lon": 151.20732
+  },
+  {
    "name": "Robert T. Furbank",
    "orcid": "https://orcid.org/0000-0001-8700-6613",
    "openalex": "https://openalex.org/A5029867508",
@@ -5428,6 +5402,19 @@
    "countryCode": "NL",
    "lat": 51.8425,
    "lon": 5.85278
+  },
+  {
+   "name": "William K. Cornwell",
+   "orcid": "https://orcid.org/0000-0003-4080-4073",
+   "openalex": "https://openalex.org/A5032093404",
+   "works": 1,
+   "lastYear": 2020,
+   "institution": "UNSW Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -33.86785,
+   "lon": 151.20732
   },
   {
    "name": "Witness Mapanga",
