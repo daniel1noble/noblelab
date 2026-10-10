@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-09",
+ "updated": "2026-10-10",
  "total": 422,
  "countries": 28,
  "institutions": 154,
@@ -1803,7 +1803,7 @@
    "lon": -113.46871
   },
   {
-   "name": "Balasaheb Vitthal Sonawane",
+   "name": "Balasaheb V. Sonawane",
    "orcid": "https://orcid.org/0000-0001-6539-5179",
    "openalex": "https://openalex.org/A5068302943",
    "works": 1,
@@ -2323,7 +2323,7 @@
    "lon": -121.95523834228516
   },
   {
-   "name": "Daniel Stein Falster",
+   "name": "Daniel S. Falster",
    "orcid": "https://orcid.org/0000-0002-9814-092X",
    "openalex": "https://openalex.org/A5087681406",
    "works": 1,
