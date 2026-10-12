@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-11",
+ "updated": "2026-10-12",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -1085,10 +1085,10 @@
    "pages": "110912",
    "kind": "article",
    "isOA": true,
-   "oaUrl": "https://doi.org/10.1016/j.biocon.2024.110912",
+   "oaUrl": "https://ecoevorxiv.org/repository/object/6962/download/15292/",
    "url": "https://doi.org/10.1016/j.biocon.2024.110912",
    "citations": 8,
-   "abstract": null,
+   "abstract": "Toxic baiting is used for the lethal control of mammalian predators. It is easily applied over large areas and can be highly effective, but also receives significant criticism. We conducted a meta-analysis of the efficacy of lethal baiting for the feral cat, red fox and dingo; our outcome of interest was predator survival. Our dataset contained 125 effects from 35 studies, comprising 1560 individuals tested. Overall, baiting increased the probability of predator death by 36% relative to control plots. However, this effect was stronger (46% increased probability of death) when baits were distributed along tracks relative to across areas (probability of death comparable for baited and unbaited areas). We found no evidence that baiting was more effective at reducing canine relative to feline populations. We additionally found no evidence that Eradicat® achieved greater cat death than other baits. Higher bait densities achieved greater predator knockdown when baits were distributed along tracks, but not when baits were distributed across areas. We found no evidence that repeat bait applications over short periods of time achieve greater population reduction than single bait applications; this was consistent across both design types. Similarly, we found no evidence for an effect of bait matrix (fresh meat, dry processed bait, mixture) for either design type. Our study shows that many accepted baiting practices and perceptions have little empirical support, and are premature given the available sparse evidence. Further, rigorous research is of high priority in this field.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -1773,7 +1773,7 @@
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/oik.11172",
    "url": "https://doi.org/10.1002/oik.11172",
    "citations": 1,
-   "abstract": "Human‐induced climate change is a driver of extinction, with extreme events occurring more frequently. It increases both the amount and fluctuations in environmental stress that organisms experience. In such environments, greater intra‐specific trait variation creates more potential for adaptation through natural selection. Many studies focus on changes in trait means between novel and historic environments but overlook changes in trait variation. Here we tested how salinisation – which currently affects 20–50% of freshwaters worldwide – alters trait variation in a freshwater fish, Gambusia holbrooki . We reared newborn fish in freshwater, stable‐salinity or fluctuating‐salinity water until maturation, and then compared variation in fitness‐related traits in each sex during early and late adulthood. Salinisation had stronger effects on young virgin adults than older mated adults, with sex‐specific impacts (female: gut development; male: age at maturity and body size). When we accounted for the mean trait value in each environment, salinisation also affected relative variation (i.e. the coefficient of variation) in female fecundity (egg size, offspring number). Notably, the fluctuating‐salinity treatment did not magnify the effect of the stable‐salinity treatment on trait variation but sometimes reversed its effect. Our findings suggest that researchers should pay closer attention to fluctuating environmental stressors, as they can differ from stable stressors in how they affect between‐individual variation in trait expression.",
+   "abstract": "Climate change is a driver of extinction, with extreme events occurring more frequently. It increases both the amount and variability in environmental stress that organisms experience. In novel environments, greater intra-specific trait variation increases the opportunity for natural selection as individuals with fortuitously advantageous trait expression may thrive. Many studies focus on changes in trait means between novel and historic environments but overlook changes in trait variation. We tested how salinisation – which currently affects 20-50% of freshwaters worldwide – alters trait variation in a freshwater fish, Gambusia holbrooki. We reared newborn fish in freshwater, stable-salinity or fluctuating-salinity water until maturation, and then compared variation in fitness-related traits in each sex during early and late adulthood. Salinisation had stronger effects on young than old adults, with sex-specific impacts (female: gut development; male: age at maturity and body size). When we accounted for mean differences in trait expression between environments, salinisation also affected relative variation in female fecundity (egg size, offspring number). Notably, fluctuations in salinity did not magnify the effect of stable salinity, but sometimes reversed its effect. Our findings suggest that researchers should pay closer attention to environmental fluctuations: changes in trait variation in a population can alter its adaptive potential.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2513,7 +2513,7 @@
    "isOA": true,
    "oaUrl": "http://www.cell.com/article/S016953472300335X/pdf",
    "url": "https://doi.org/10.1016/j.tree.2023.12.004",
-   "citations": 20,
+   "citations": 19,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -2580,7 +2580,7 @@
    "isOA": true,
    "oaUrl": "https://journals.biologists.com/jeb/article-pdf/227/24/jeb249234/3587696/jeb249234.pdf",
    "url": "https://doi.org/10.1242/jeb.249234",
-   "citations": 15,
+   "citations": 16,
    "abstract": "Developing animals are increasingly exposed to elevated temperatures as global temperatures rise as a result of climate change. Vertebrates can be affected by elevated temperatures during development directly, and indirectly through maternal effects (e.g. exposure to prenatal glucocorticoid hormones). Past studies have examined how elevated temperatures and glucocorticoid exposure during development independently affect vertebrates. However, exposure to elevated temperatures and prenatal corticosterone could have interactive effects on developing animals that affect physiology and life-history traits across life. We tested interactions between incubation temperature and prenatal corticosterone exposure in the delicate skink (Lampropholis delicata). We treated eggs with high or low doses of corticosterone and incubated eggs at 23°C (cool) or 28°C (warm). We measured the effects of these treatments on development time, body size and survival from hatching to adulthood and on adult hormone levels and mitochondrial respiration. We found no evidence for interactive effects of incubation temperature and prenatal corticosterone exposure on phenotype. However, incubation temperature and corticosterone treatment each independently decreased body size at hatching and these effects were sustained into the juvenile period and adulthood. Lizards exposed to low doses of corticosterone during development had elevated levels of baseline corticosterone as adults. Additionally, lizards incubated at cool temperatures had higher levels of baseline corticosterone and more efficient mitochondria as adults compared with lizards incubated at warm temperatures. Our results show that developmental conditions can have sustained effects on morphological and physiological traits in oviparous lizards but suggest that incubation temperature and prenatal corticosterone do not have interactive effects.",
    "preprintUrl": null,
    "altmetric": null
@@ -2805,7 +2805,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14152",
    "url": "https://doi.org/10.1111/2041-210x.14152",
-   "citations": 156,
+   "citations": 155,
    "abstract": "Abstract Although meta‐analysis has become an essential tool in ecology and evolution, reporting of meta‐analytic results can still be much improved. To aid this, we have introduced the orchard plot, which presents not only overall estimates and their confidence intervals, but also shows corresponding heterogeneity (as prediction intervals) and individual effect sizes. Here, we have added significant enhancements by integrating many new functionalities into orchaRd 2.0 . This updated version allows the visualisation of heteroscedasticity (different variances across levels of a categorical moderator), marginal estimates (e.g. marginalising out effects other than the one visualised), conditional estimates (i.e. estimates of different groups conditioned upon specific values of a continuous variable) and visualisations of all types of interactions between two categorical/continuous moderators. orchaRd 2.0 has additional functions which calculate key statistics from multilevel meta‐analytic models such as I 2 and R 2 . Importantly, orchaRd 2.0 contributes to better reporting by complying with PRISMA‐EcoEvo (preferred reporting items for systematic reviews and meta‐analyses in ecology and evolution). Taken together, orchaRd 2.0 can improve the presentation of meta‐analytic results and facilitate the exploration of previously neglected patterns. In addition, as a part of a literature survey, we found that graphical packages are rarely cited (~3%). We plea that researchers credit developers and maintainers of graphical packages, for example, by citations in a figure legend, acknowledging the use of relevant packages.",
    "preprintUrl": null,
    "altmetric": null
@@ -2922,7 +2922,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/evlett/advance-article-pdf/doi/10.1093/evlett/qrad038/53940395/qrad038.pdf",
    "url": "https://doi.org/10.1093/evlett/qrad038",
-   "citations": 96,
+   "citations": 94,
    "abstract": "Predicting if, when, and how populations can adapt to climate change constitutes one of the greatest challenges in science today. Here, we build from contributions to the special issue on evolutionary adaptation to climate change, a survey of its authors, and recent literature to explore the limits and opportunities for predicting adaptive responses to climate change. We outline what might be predictable now, in the future, and perhaps never even with our best efforts. More accurate predictions are expected for traits characterized by a well-understood mapping between genotypes and phenotypes and traits experiencing strong, direct selection due to climate change. A meta-analysis revealed an overall moderate trait heritability and evolvability in studies performed under future climate conditions but indicated no significant change between current and future climate conditions, suggesting neither more nor less genetic variation for adapting to future climates. Predicting population persistence and evolutionary rescue remains uncertain, especially for the many species without sufficient ecological data. Still, when polled, authors contributing to this special issue were relatively optimistic about our ability to predict future evolutionary responses to climate change. Predictions will improve as we expand efforts to understand diverse organisms, their ecology, and their adaptive potential. Advancements in functional genomic resources, especially their extension to non-model species and the union of evolutionary experiments and \"omics,\" should also enhance predictions. Although predicting evolutionary responses to climate change remains challenging, even small advances will reduce the substantial uncertainties surrounding future evolutionary responses to climate change.",
    "preprintUrl": null,
    "altmetric": null
@@ -3078,7 +3078,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/evlett/advance-article-pdf/doi/10.1093/evlett/qrac002/54532649/qrac002.pdf",
    "url": "https://doi.org/10.1093/evlett/qrac002",
-   "citations": 27,
+   "citations": 26,
    "abstract": "One of the most pressing questions we face as biologists is to understand how climate change will affect the evolutionary dynamics of natural populations and how these dynamics will in turn affect population recovery. Increasing evidence shows that sexual selection favors population viability and local adaptation. However, sexual selection can also foster sexual conflict and drive the evolution of male harm to females. Male harm is extraordinarily widespread and has the potential to suppress female fitness and compromise population growth, yet we currently ignore its net effects across taxa or its influence on local adaptation and evolutionary rescue. We conducted a comparative meta-analysis to quantify the impact of male harm on female fitness and found an overall negative effect of male harm on female fitness. Negative effects seem to depend on proxies of sexual selection, increasing inversely to the female relative size and in species with strong sperm competition. We then developed theoretical models to explore how male harm affects adaptation and evolutionary rescue. We show that, when sexual conflict depends on local adaptation, population decline is reduced, but at the cost of slowing down genetic adaptation. This trade-off suggests that eco-evolutionary feedback on sexual conflict can act like a double-edged sword, reducing extinction risk by buffering the demographic costs of climate change, but delaying genetic adaptation. However, variation in the mating system and male harm type can mitigate this trade-off. Our work shows that male harm has widespread negative effects on female fitness and productivity, identifies potential mechanistic factors underlying variability in such costs across taxa, and underscores how acknowledging the condition-dependence of male harm may be important to understand the demographic and evolutionary processes that impact how species adapt to environmental change.",
    "preprintUrl": null,
    "altmetric": null
@@ -3136,48 +3136,6 @@
    "altmetric": null
   },
   {
-   "id": "10.1016/j.biocon.2023.110214",
-   "doi": "10.1016/j.biocon.2023.110214",
-   "title": "Baiting in conservation and pest management: A systematic review of its global applications in a changing world",
-   "authors": [
-    {
-     "name": "Patrick L. Taggart",
-     "orcid": "https://orcid.org/0000-0001-9523-0463",
-     "isSelf": false
-    },
-    {
-     "name": "Pip Taylor",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Kandarp K. Patel",
-     "orcid": "https://orcid.org/0000-0002-2894-0112",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W.A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    }
-   ],
-   "authorLine": "Patrick L. Taggart, Pip Taylor, Kandarp K. Patel, Daniel W.A. Noble",
-   "journal": "Biological Conservation",
-   "year": 2023,
-   "date": "2023-08",
-   "volume": "284",
-   "issue": null,
-   "pages": "110214",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://doi.org/10.1016/j.biocon.2023.110214",
-   "url": "https://doi.org/10.1016/j.biocon.2023.110214",
-   "citations": 21,
-   "abstract": null,
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
    "id": "10.1002/jrsm.1663",
    "doi": "10.1002/jrsm.1663",
    "title": "Advice for improving the reproducibility of data extraction in meta‐analysis",
@@ -3221,6 +3179,48 @@
    "url": "https://doi.org/10.1002/jrsm.1663",
    "citations": 20,
    "abstract": "Extracting data from studies is the norm in meta-analyses, enabling researchers to generate effect sizes when raw data are otherwise not available. While there has been a general push for increased reproducibility in meta-analysis, the transparency and reproducibility of the data extraction phase is still lagging behind. Unfortunately, there is little guidance of how to make this process more transparent and shareable. To address this, we provide several steps to help increase the reproducibility of data extraction in meta-analysis. We also provide suggestions of R software that can further help with reproducible data policies: the shinyDigitise and juicr packages. Adopting the guiding principles listed here and using the appropriate software will provide a more transparent form of data extraction in meta-analyses.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1016/j.biocon.2023.110214",
+   "doi": "10.1016/j.biocon.2023.110214",
+   "title": "Baiting in conservation and pest management: A systematic review of its global applications in a changing world",
+   "authors": [
+    {
+     "name": "Patrick L. Taggart",
+     "orcid": "https://orcid.org/0000-0001-9523-0463",
+     "isSelf": false
+    },
+    {
+     "name": "Pip Taylor",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Kandarp K. Patel",
+     "orcid": "https://orcid.org/0000-0002-2894-0112",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W.A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    }
+   ],
+   "authorLine": "Patrick L. Taggart, Pip Taylor, Kandarp K. Patel, Daniel W.A. Noble",
+   "journal": "Biological Conservation",
+   "year": 2023,
+   "date": "2023-08",
+   "volume": "284",
+   "issue": null,
+   "pages": "110214",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://doi.org/10.1016/j.biocon.2023.110214",
+   "url": "https://doi.org/10.1016/j.biocon.2023.110214",
+   "citations": 20,
+   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -3427,7 +3427,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14083",
    "url": "https://doi.org/10.1111/ele.14083",
-   "citations": 148,
+   "citations": 142,
    "abstract": "Understanding the factors affecting thermal tolerance is crucial for predicting the impact climate change will have on ectotherms. However, the role developmental plasticity plays in allowing populations to cope with thermal extremes is poorly understood. Here, we meta-analyse how thermal tolerance is initially and persistently impacted by early (embryonic and juvenile) thermal environments by using data from 150 experimental studies on 138 ectothermic species. Thermal tolerance only increased by 0.13°C per 1°C change in developmental temperature and substantial variation in plasticity (~36%) was the result of shared evolutionary history and species ecology. Aquatic ectotherms were more than three times as plastic as terrestrial ectotherms. Notably, embryos expressed weaker but more heterogenous plasticity than older life stages, with numerous responses appearing as non-adaptive. While developmental temperatures did not have persistent effects on thermal tolerance overall, persistent effects were vastly under-studied, and their direction and magnitude varied with ontogeny. Embryonic stages may represent a critical window of vulnerability to changing environments and we urge researchers to consider early life stages when assessing the climate vulnerability of ectotherms. Overall, our synthesis suggests that developmental changes in thermal tolerance rarely reach levels of perfect compensation and may provide limited benefit in changing environments.",
    "preprintUrl": "https://doi.org/10.22541/au.164573834.49438532/v1",
    "altmetric": null
@@ -3821,7 +3821,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.9423",
    "url": "https://doi.org/10.1002/ece3.9423",
-   "citations": 8,
+   "citations": 9,
    "abstract": "The obesity epidemic is concerning as obesity appears to negatively impact cognition and behavior. Furthermore, some studies suggest that this negative effect could be carried across generations from both mothers and fathers although evidence is not consistent. Here, we attempt to address how obesogenic diets in the parental generation (F0) can impact offspring's cognition and anxiety intergenerationally (F1) in a zebrafish model. We compare both mean trait values and their variances. Using a multifactorial design, we created a total of four groups: F1T (treatment mothers × treatment fathers); F1M (treatment mothers × control fathers); F1P (treatment fathers × control mothers); and F1C (control mothers × control fathers, F1C); and subjected them to anxiety tank tests and aversive learning assays. When both parents were exposed, offspring (F1T) displayed the poorest aversive learning, while offspring that only had one parent exposed (F1P and F1M) learnt the aversive learning task the best. Zebrafish in all groups displayed no statistically significant differences in anxiety-associated behaviors. Males and females also performed similarly in both anxiety and aversive learning assays. While all F1 groups had similar levels of fasting blood glucose, variance in glucose levels were reduced in F1P and F1T indicating the importance of investigating heteroskedasticity between groups. Furthermore, anxiety behaviors of these two groups appeared to be less repeatable. To our knowledge, this is the first study to test the intergenerational effects of an obesogenic diet on zebrafish cognition. Our multifactorial design as well as repeated tests also allowed us to disentangle maternal and paternal effects (as well as combined effects) and accurately detect subtle information such as between-individual variation.",
    "preprintUrl": null,
    "altmetric": null
@@ -3935,7 +3935,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 699,
+   "citations": 697,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4002,7 +4002,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 443,
+   "citations": 447,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4143,10 +4143,10 @@
    "issue": "2",
    "pages": "278-293",
    "kind": "article",
-   "isOA": false,
-   "oaUrl": null,
+   "isOA": true,
+   "oaUrl": "https://doi.org/10.32942/osf.io/bnugw",
    "url": "https://doi.org/10.1111/2041-210x.13755",
-   "citations": 86,
+   "citations": 89,
    "abstract": "Abstract Organisms use labile traits to respond to different conditions over short time‐scales. When a population experiences the same conditions, we might expect all individuals to adjust their trait expression to the same, optimal, value, thereby minimising phenotypic variation. Instead, variation abounds. Individuals substantially differ not only from each other, but also from their former selves, with the expression of labile traits varying both predictably and unpredictably over time. A powerful tool for studying the evolution of phenotypic variation in labile traits is the mixed model. Here, we review how mixed models are used to quantify individual differences in both means and variability, and their between‐individual correlations. Individuals can differ in their average phenotypes (e.g. behavioural personalities), their variability (known as ‘predictability’ or intra‐individual variability), and their plastic response to different contexts. We provide detailed descriptions and resources for simultaneously modelling individual differences in averages, plasticity and predictability. Empiricists can use these methods to quantify how traits covary across individuals and test theoretical ideas about phenotypic integration. These methods can be extended to incorporate plastic changes in predictability (termed ‘stochastic malleability’). Overall, we showcase the unfulfilled potential of existing statistical tools to test more holistic and nuanced questions about the evolution, function, and maintenance of phenotypic variation, for any trait that is repeatedly expressed.",
    "preprintUrl": null,
    "altmetric": null
@@ -4215,7 +4215,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/eva.13273",
    "url": "https://doi.org/10.1111/eva.13273",
-   "citations": 52,
+   "citations": 51,
    "abstract": "Ecological and evolutionary research questions are increasingly requiring the integration of research fields along with larger data sets to address fundamental local- and global-scale problems. Unfortunately, these agendas are often in conflict with limited funding and a need to balance animal welfare concerns. Planned missing data design (PMDD), where data are randomly and deliberately missed during data collection, combined with missing data procedures, can be useful tools when working under greater research constraints. Here, we review how PMDD can be incorporated into existing experimental designs by discussing alternative design approaches and demonstrate with simulated data sets how missing data procedures work with incomplete data. PMDDs can provide researchers with a unique toolkit that can be applied during the experimental design stage. Planning and thinking about missing data early can (1) reduce research costs by allowing for the collection of less expensive measurement variables; (2) provide opportunities to distinguish predictions from alternative hypotheses by allowing more measurement variables to be collected; and (3) minimize distress caused by experimentation by reducing the reliance on invasive procedures or allowing data to be collected on fewer subjects (or less often on a given subject). PMDDs and missing data methods can even provide statistical benefits under certain situations by improving statistical power relative to a complete case design. The impacts of unplanned missing data, which can cause biases in parameter estimates and their uncertainty, can also be ameliorated using missing data procedures. PMDDs are still in their infancy. We discuss some of the difficulties in their implementation and provide tentative solutions. While PMDDs may not always be the best option, missing data procedures are becoming more sophisticated and more easily implemented and it is likely that PMDDs will be effective tools for a wide range of experimental designs, data types and problems in ecology and evolution.",
    "preprintUrl": null,
    "altmetric": null
@@ -4335,6 +4335,48 @@
    "altmetric": null
   },
   {
+   "id": "10.1002/ecy.3490",
+   "doi": "10.1002/ecy.3490",
+   "title": "An assessment of statistical methods for nonindependent data in ecological meta‐analyses: Comment",
+   "authors": [
+    {
+     "name": "Shinichi Nakagawa",
+     "orcid": "https://orcid.org/0000-0002-7765-5182",
+     "isSelf": false
+    },
+    {
+     "name": "Alistair M. Senior",
+     "orcid": "https://orcid.org/0000-0001-9805-7280",
+     "isSelf": false
+    },
+    {
+     "name": "Wolfgang Viechtbauer",
+     "orcid": "https://orcid.org/0000-0003-3463-4063",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    }
+   ],
+   "authorLine": "Shinichi Nakagawa, Alistair M. Senior, Wolfgang Viechtbauer, Daniel W. A. Noble",
+   "journal": "Ecology",
+   "year": 2021,
+   "date": "2021-10-20",
+   "volume": "103",
+   "issue": "1",
+   "pages": "e03490",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://doi.org/10.32942/osf.io/w96nv",
+   "url": "https://doi.org/10.1002/ecy.3490",
+   "citations": 28,
+   "abstract": "Recently, Song et al. (2020) conducted a simulation study using different methods to deal with non-independence resulting from effect sizes originating from the same paper – a common occurrence in ecological meta-analyses. The main methods that were of interest in their simulations were: 1) a standard random-effects model used in combination with a weighted average effect size for each paper (i.e., a two-step method), 2) a standard random-effects model after randomly choosing one effect size per paper, 3) a multilevel (hierarchical) meta-analysis model, modelling paper identity as a random factor, and 4) a meta-analysis making use of a robust variance estimation method. Based on their simulation results, they recommend that meta-analysts should either use the two-step method, which involves taking a weighted paper mean followed by analysis with a random-effects model, or the robust variance estimation method.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
    "id": "10.1093/beheco/arab019",
    "doi": "10.1093/beheco/arab019",
    "title": "Spontaneous quantity discrimination in a family-living lizard",
@@ -4378,48 +4420,6 @@
    "url": "https://doi.org/10.1093/beheco/arab019",
    "citations": 28,
    "abstract": "Abstract While foraging or during social interactions, animals may benefit from judging relative quantity. Individuals may select larger prey or a patch with more food and, likewise, it may pay to track the number and type of individuals and social interactions. We tested for spontaneous quantity discrimination in the gidgee skink (Egernia stokesii), a family-living lizard. Lizards were presented with food quantities differing in number or size and were able to select the larger quantity of food items when they differed in number but not when items differed in size. We show, for the first time, superior spontaneous discrimination of items differing in number over size in a lizard species, which contrasts with previous findings. Our simple method, however, did not include controls for the use of continuous quantities, and further tests are required to determine the role of such information during quantity discrimination. Our results provide support for the use of the parallel individuation system for the discrimination of small quantities (four or fewer items). Lizards might, however, still use the approximate number system if items in larger quantities (more than four) are presented. Overall, we uncovered evidence that species might possess specific cognitive abilities potentially adapted to their niche with respect to quantity information (discrete and/or continuous) and the processing system used when judging quantities. Importantly, our results highlight the need for testing multiple species using similar testing procedures to gain a better understanding of the underlying causes leading to differences across species.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1002/ecy.3490",
-   "doi": "10.1002/ecy.3490",
-   "title": "An assessment of statistical methods for nonindependent data in ecological meta‐analyses: Comment",
-   "authors": [
-    {
-     "name": "Shinichi Nakagawa",
-     "orcid": "https://orcid.org/0000-0002-7765-5182",
-     "isSelf": false
-    },
-    {
-     "name": "Alistair M. Senior",
-     "orcid": "https://orcid.org/0000-0001-9805-7280",
-     "isSelf": false
-    },
-    {
-     "name": "Wolfgang Viechtbauer",
-     "orcid": "https://orcid.org/0000-0003-3463-4063",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    }
-   ],
-   "authorLine": "Shinichi Nakagawa, Alistair M. Senior, Wolfgang Viechtbauer, Daniel W. A. Noble",
-   "journal": "Ecology",
-   "year": 2021,
-   "date": "2021-10-20",
-   "volume": "103",
-   "issue": "1",
-   "pages": "e03490",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://ecoevorxiv.org/repository/object/4142/download/8236/",
-   "url": "https://doi.org/10.1002/ecy.3490",
-   "citations": 24,
-   "abstract": "Recently, Song et al. (2020) conducted a simulation study using different methods to deal with non-independence resulting from effect sizes originating from the same paper – a common occurrence in ecological meta-analyses. The main methods that were of interest in their simulations were: 1) a standard random-effects model used in combination with a weighted average effect size for each paper (i.e., a two-step method), 2) a standard random-effects model after randomly choosing one effect size per paper, 3) a multilevel (hierarchical) meta-analysis model, modelling paper identity as a random factor, and 4) a meta-analysis making use of a robust variance estimation method. Based on their simulation results, they recommend that meta-analysts should either use the two-step method, which involves taking a weighted paper mean followed by analysis with a random-effects model, or the robust variance estimation method.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -4790,6 +4790,43 @@
    "altmetric": null
   },
   {
+   "id": "10.1002/evl3.185",
+   "doi": "10.1002/evl3.185",
+   "title": "Plasticity leaves a phenotypic signature during local adaptation",
+   "authors": [
+    {
+     "name": "Reinder Radersma",
+     "orcid": "https://orcid.org/0000-0001-8186-6348",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W.A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Tobias Uller",
+     "orcid": "https://orcid.org/0000-0003-1293-5842",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Reinder Radersma, Daniel W.A. Noble, Tobias Uller",
+   "journal": "Evolution Letters",
+   "year": 2020,
+   "date": "2020-08-01",
+   "volume": "4",
+   "issue": "4",
+   "pages": "360-370",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://academic.oup.com/evlett/article-pdf/4/4/360/46657546/evlett0360.pdf",
+   "url": "https://doi.org/10.1002/evl3.185",
+   "citations": 105,
+   "abstract": "Phenotypic responses to a novel or extreme environment are initially plastic, only later to be followed by genetic change. Whether or not environmentally induced phenotypes are sufficiently recurrent and fit to leave a signature in adaptive evolution is debated. Here, we analyze multivariate data from 34 plant reciprocal transplant studies to test: (1) if plasticity is an adaptive source of developmental bias that makes locally adapted populations resemble the environmentally induced phenotypes of ancestors; and (2) if plasticity, standing phenotypic variation and genetic divergence align during local adaptation. Phenotypic variation increased marginally in foreign environments but, as predicted, the direction of ancestral plasticity was generally well aligned with the phenotypic difference between locally adapted populations, making plasticity appear to \"take the lead\" in adaptive evolution. Plastic responses were sometimes more extreme than the phenotypes of locally adapted plants, which can give the impression that plasticity and evolutionary adaptation oppose each other; however, environmentally induced and locally adapted phenotypes were rarely misaligned. Adaptive fine-tuning of phenotypes-genetic accommodation-did not fall along the main axis of standing phenotypic variation or the direction of plasticity, and local adaptation did not consistently modify the direction or magnitude of plasticity. These results suggest that plasticity is a persistent source of developmental bias that shapes how plant populations adapt to environmental change, even when plasticity does not constrain how populations respond to selection.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
    "id": "10.7554/elife.63170",
    "doi": "10.7554/elife.63170",
    "title": "Sexual dimorphism in trait variability and its eco-evolutionary and statistical implications",
@@ -4861,46 +4898,9 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.7554/elife.63170",
    "url": "https://doi.org/10.7554/elife.63170",
-   "citations": 106,
+   "citations": 103,
    "abstract": "Biomedical and clinical sciences are experiencing a renewed interest in the fact that males and females differ in many anatomic, physiological, and behavioural traits. Sex differences in trait variability, however, are yet to receive similar recognition. In medical science, mammalian females are assumed to have higher trait variability due to estrous cycles (the 'estrus-mediated variability hypothesis'); historically in biomedical research, females have been excluded for this reason. Contrastingly, evolutionary theory and associated data support the 'greater male variability hypothesis'. Here, we test these competing hypotheses in 218 traits measured in >26,900 mice, using meta-analysis methods. Neither hypothesis could universally explain patterns in trait variability. Sex bias in variability was trait-dependent. While greater male variability was found in morphological traits, females were much more variable in immunological traits. Sex-specific variability has eco-evolutionary ramifications, including sex-dependent responses to climate change, as well as statistical implications including power analysis considering sex difference in variance.",
    "preprintUrl": "https://doi.org/10.1101/2020.05.23.106146",
-   "altmetric": null
-  },
-  {
-   "id": "10.1002/evl3.185",
-   "doi": "10.1002/evl3.185",
-   "title": "Plasticity leaves a phenotypic signature during local adaptation",
-   "authors": [
-    {
-     "name": "Reinder Radersma",
-     "orcid": "https://orcid.org/0000-0001-8186-6348",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W.A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    },
-    {
-     "name": "Tobias Uller",
-     "orcid": "https://orcid.org/0000-0003-1293-5842",
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Reinder Radersma, Daniel W.A. Noble, Tobias Uller",
-   "journal": "Evolution Letters",
-   "year": 2020,
-   "date": "2020-08-01",
-   "volume": "4",
-   "issue": "4",
-   "pages": "360-370",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://academic.oup.com/evlett/article-pdf/4/4/360/46657546/evlett0360.pdf",
-   "url": "https://doi.org/10.1002/evl3.185",
-   "citations": 105,
-   "abstract": "Phenotypic responses to a novel or extreme environment are initially plastic, only later to be followed by genetic change. Whether or not environmentally induced phenotypes are sufficiently recurrent and fit to leave a signature in adaptive evolution is debated. Here, we analyze multivariate data from 34 plant reciprocal transplant studies to test: (1) if plasticity is an adaptive source of developmental bias that makes locally adapted populations resemble the environmentally induced phenotypes of ancestors; and (2) if plasticity, standing phenotypic variation and genetic divergence align during local adaptation. Phenotypic variation increased marginally in foreign environments but, as predicted, the direction of ancestral plasticity was generally well aligned with the phenotypic difference between locally adapted populations, making plasticity appear to \"take the lead\" in adaptive evolution. Plastic responses were sometimes more extreme than the phenotypes of locally adapted plants, which can give the impression that plasticity and evolutionary adaptation oppose each other; however, environmentally induced and locally adapted phenotypes were rarely misaligned. Adaptive fine-tuning of phenotypes-genetic accommodation-did not fall along the main axis of standing phenotypic variation or the direction of plasticity, and local adaptation did not consistently modify the direction or magnitude of plasticity. These results suggest that plasticity is a persistent source of developmental bias that shapes how plant populations adapt to environmental change, even when plasticity does not constrain how populations respond to selection.",
-   "preprintUrl": null,
    "altmetric": null
   },
   {
@@ -5256,7 +5256,7 @@
    "isOA": true,
    "oaUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/7661456",
    "url": "https://doi.org/10.1098/rstb.2020.0065",
-   "citations": 23,
+   "citations": 22,
    "abstract": "266, 1-12. (doi:10.1098/rspb.1999.0597)) united oxidative stress (OS) biology with sexual selection and life-history theory. This set the scene for analysis of how evolutionary trade-offs may be mediated by the increase in reactive molecules resulting from metabolic processes at reproduction. Despite 30 years of research on OS effects on infertility in humans, one research area that has been left behind in this integration of evolution and OS biology is postcopulatory sexual selection-this integration is long overdue. We review the basic mechanisms in OS biology, why mitochondria are the primary source of ROS and ATP production during oxidative metabolism, and why sperm, and its performance, is uniquely susceptible to OS. We also review how postcopulatory processes select for antioxidation in seminal fluids to counter OS and the implications of the net outcome of these processes on sperm damage, sperm storage, and female and oocyte manipulation of sperm metabolism and repair of DNA to enhance offspring fitness. This article is part of the theme issue 'Fifty years of sperm competition'.",
    "preprintUrl": null,
    "altmetric": null
@@ -5659,7 +5659,7 @@
    "isOA": true,
    "oaUrl": "https://figshare.com/articles/journal_contribution/Patterns_of_developmental_plasticity_in_response_to_incubation_temperature_in_reptiles/22968455",
    "url": "https://doi.org/10.1002/jez.2181",
-   "citations": 113,
+   "citations": 111,
    "abstract": "Early life environments shape phenotypic development in important ways that can lead to long-lasting effects on phenotype and fitness. In reptiles, one aspect of the early environment that impacts development is temperature (termed 'thermal developmental plasticity'). Indeed, the thermal environment during incubation is known to influence morphological, physiological, and behavioral traits, some of which have important consequences for many ecological and evolutionary processes. Despite this, few studies have attempted to synthesize and collate data from this expansive and important body of research. Here, we systematically review research into thermal developmental plasticity across reptiles, structured around the key papers and findings that have shaped the field over the past 50 years. From these papers, we introduce a large database (the 'Reptile Development Database') consisting of 9,773 trait means across 300 studies examining thermal developmental plasticity. This dataset encompasses data on a range of phenotypes, including morphological, physiological, behavioral, and performance traits along with growth rate, incubation duration, sex ratio, and survival (e.g., hatching success) across all major reptile clades. Finally, from our literature synthesis and data exploration, we identify key research themes associated with thermal developmental plasticity, important gaps in empirical research, and demonstrate how future progress can be made through targeted empirical, meta-analytic, and comparative work.",
    "preprintUrl": null,
    "altmetric": null

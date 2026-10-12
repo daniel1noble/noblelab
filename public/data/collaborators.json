@@ -1,16 +1,16 @@
 {
- "updated": "2026-10-11",
- "total": 422,
+ "updated": "2026-10-12",
+ "total": 420,
  "countries": 28,
  "institutions": 154,
  "byCountry": {
   "Japan": 2,
-  "Australia": 180,
+  "Australia": 179,
   "Germany": 21,
   "United Kingdom": 38,
   "Poland": 2,
   "Switzerland": 10,
-  "Canada": 22,
+  "Canada": 21,
   "Sweden": 21,
   "Spain": 3,
   "China": 7,
@@ -77,8 +77,8 @@
    "name": "Rose E. O’Dea",
    "orcid": "https://orcid.org/0000-0001-8177-5075",
    "openalex": "https://openalex.org/A5073454661",
-   "works": 15,
-   "lastYear": 2025,
+   "works": 16,
+   "lastYear": 2026,
    "institution": "Institute for Advanced Study",
    "city": "Berlin",
    "country": "Germany",
@@ -776,9 +776,9 @@
    "lon": 151.20732
   },
   {
-   "name": "Timothy Parker",
+   "name": "Timothy H. Parker",
    "orcid": "https://orcid.org/0000-0003-2995-5284",
-   "openalex": "https://openalex.org/A5025933585",
+   "openalex": null,
    "works": 3,
    "lastYear": 2023,
    "institution": "Whitman College",
@@ -930,6 +930,19 @@
    "countryCode": "GB",
    "lat": 55.86515,
    "lon": -4.25763
+  },
+  {
+   "name": "Erick J. Lundgren",
+   "orcid": "https://orcid.org/0000-0001-9893-3324",
+   "openalex": "https://openalex.org/A5030182763",
+   "works": 2,
+   "lastYear": 2026,
+   "institution": "University of Alberta",
+   "city": "Edmonton",
+   "country": "Canada",
+   "countryCode": "CA",
+   "lat": 53.55014,
+   "lon": -113.46871
   },
   {
    "name": "Essie M. Rodgers",
@@ -2620,32 +2633,6 @@
    "countryCode": "FR",
    "lat": 48.85341,
    "lon": 2.3488
-  },
-  {
-   "name": "Erick J. Lundgren",
-   "orcid": "https://orcid.org/0000-0001-9893-3324",
-   "openalex": "https://openalex.org/A5030182763",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "University of Alberta",
-   "city": "Edmonton",
-   "country": "Canada",
-   "countryCode": "CA",
-   "lat": 53.55014,
-   "lon": -113.46871
-  },
-  {
-   "name": "Erick Lundgren",
-   "orcid": null,
-   "openalex": "https://openalex.org/A5153313595",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "University of Alberta",
-   "city": "Edmonton",
-   "country": "Canada",
-   "countryCode": "CA",
-   "lat": 53.55014,
-   "lon": -113.46871
   },
   {
    "name": "ERIK I. SVENSSON",
@@ -4507,9 +4494,9 @@
    "lon": 28.18783
   },
   {
-   "name": "Patrick Calvin Friesen",
-   "orcid": "https://orcid.org/0000-0002-1027-4502",
-   "openalex": "https://openalex.org/A5088285955",
+   "name": "Patrick C. Friesen",
+   "orcid": "https://orcid.org/0000-0003-0670-0529",
+   "openalex": "https://openalex.org/A5050002260",
    "works": 1,
    "lastYear": 2025,
    "institution": null,
@@ -4804,19 +4791,6 @@
    "countryCode": "AU",
    "lat": -35.28346,
    "lon": 149.12807
-  },
-  {
-   "name": "Rose E. O'Dea",
-   "orcid": "https://orcid.org/0000-0001-8177-5075",
-   "openalex": "https://openalex.org/A5123845300",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "UNSW Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
   },
   {
    "name": "Rose Zhang",
