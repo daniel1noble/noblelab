@@ -1,11 +1,11 @@
 {
- "updated": "2026-10-14",
- "total": 420,
+ "updated": "2026-10-15",
+ "total": 419,
  "countries": 28,
  "institutions": 154,
  "byCountry": {
   "Japan": 2,
-  "Australia": 179,
+  "Australia": 178,
   "Germany": 21,
   "United Kingdom": 38,
   "Poland": 2,
@@ -1153,6 +1153,19 @@
    "lon": 11.88586
   },
   {
+   "name": "Michael Kearney",
+   "orcid": "https://orcid.org/0000-0002-3349-8744",
+   "openalex": "https://openalex.org/A5066939927",
+   "works": 2,
+   "lastYear": 2026,
+   "institution": "The University of Melbourne",
+   "city": "Melbourne",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -37.814,
+   "lon": 144.96332
+  },
+  {
    "name": "Miguel Gómez‐Llano",
    "orcid": "https://orcid.org/0000-0003-2714-2925",
    "openalex": "https://openalex.org/A5002610598",
@@ -1309,7 +1322,7 @@
    "lon": 149.12807
   },
   {
-   "name": "Russell Bonduriansky",
+   "name": "Russell Bonduriansky A",
    "orcid": "https://orcid.org/0000-0002-5786-6951",
    "openalex": "https://openalex.org/A5073861127",
    "works": 2,
@@ -1881,19 +1894,6 @@
    "lon": 144.96332
   },
   {
-   "name": "Ben  John Kefford",
-   "orcid": "https://orcid.org/0000-0001-6789-4254",
-   "openalex": "https://openalex.org/A5003925485",
-   "works": 1,
-   "lastYear": 2025,
-   "institution": "University of Canberra",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.2834587097168,
-   "lon": 149.12806701660156
-  },
-  {
    "name": "Ben Halliwell",
    "orcid": "https://orcid.org/0000-0003-2033-4799",
    "openalex": "https://openalex.org/A5073246489",
@@ -1905,6 +1905,19 @@
    "countryCode": "AU",
    "lat": -42.87936,
    "lon": 147.32941
+  },
+  {
+   "name": "Ben J. Kefford",
+   "orcid": "https://orcid.org/0000-0001-6789-4254",
+   "openalex": "https://openalex.org/A5003925485",
+   "works": 1,
+   "lastYear": 2025,
+   "institution": "University of Canberra",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.2834587097168,
+   "lon": 149.12806701660156
   },
   {
    "name": "Benjamin Cole",
@@ -3103,6 +3116,19 @@
    "lon": 145.11901
   },
   {
+   "name": "James A. Orr",
+   "orcid": null,
+   "openalex": "https://openalex.org/A5158188425",
+   "works": 1,
+   "lastYear": 2025,
+   "institution": "University of Oxford",
+   "city": "Oxford",
+   "country": "United Kingdom",
+   "countryCode": "GB",
+   "lat": 51.75222,
+   "lon": -1.25596
+  },
+  {
    "name": "James B.H. Grimsdale",
    "orcid": "https://orcid.org/0000-0002-2300-7470",
    "openalex": "https://openalex.org/A5147881136",
@@ -3153,19 +3179,6 @@
    "countryCode": "GB",
    "lat": 52.584346771240234,
    "lon": -0.2500469982624054
-  },
-  {
-   "name": "James Orr",
-   "orcid": "https://orcid.org/0000-0002-6531-5623",
-   "openalex": "https://openalex.org/A5069066388",
-   "works": 1,
-   "lastYear": 2025,
-   "institution": "University of Oxford",
-   "city": "Oxford",
-   "country": "United Kingdom",
-   "countryCode": "GB",
-   "lat": 51.75222,
-   "lon": -1.25596
   },
   {
    "name": "Jamie L. Smith",
@@ -4273,32 +4286,6 @@
    "lon": 18.06871
   },
   {
-   "name": "Michael Kearney",
-   "orcid": "https://orcid.org/0000-0002-3349-8744",
-   "openalex": "https://openalex.org/A5066939927",
-   "works": 1,
-   "lastYear": 2025,
-   "institution": "The University of Melbourne",
-   "city": "Melbourne",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -37.814,
-   "lon": 144.96332
-  },
-  {
-   "name": "Michael R. Kearney",
-   "orcid": null,
-   "openalex": null,
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "The University of Melbourne",
-   "city": "Melbourne",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -37.814,
-   "lon": 144.96332
-  },
-  {
    "name": "Michael Schermann",
    "orcid": "https://orcid.org/0000-0002-6837-088X",
    "openalex": "https://openalex.org/A5028627447",
@@ -4494,7 +4481,7 @@
    "lon": 28.18783
   },
   {
-   "name": "Patrick C. Friesen",
+   "name": "Patrick Calvin Friesen",
    "orcid": "https://orcid.org/0000-0002-1027-4502",
    "openalex": "https://openalex.org/A5050002260",
    "works": 1,
@@ -5132,8 +5119,8 @@
   },
   {
    "name": "Steven J. Lade",
-   "orcid": null,
-   "openalex": null,
+   "orcid": "https://orcid.org/0000-0001-9719-9826",
+   "openalex": "https://openalex.org/A5066581729",
    "works": 1,
    "lastYear": 2026,
    "institution": "Australian National University",
