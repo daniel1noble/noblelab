@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16",
+ "updated": "2026-10-17",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -3036,7 +3036,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/counter/pdf/10.1186/s12915-022-01485-y",
    "url": "https://doi.org/10.1186/s12915-022-01485-y",
-   "citations": 79,
+   "citations": 81,
    "abstract": "Collaborative efforts to directly replicate empirical studies in the medical and social sciences have revealed alarmingly low rates of replicability, a phenomenon dubbed the 'replication crisis'. Poor replicability has spurred cultural changes targeted at improving reliability in these disciplines. Given the absence of equivalent replication projects in ecology and evolutionary biology, two inter-related indicators offer the opportunity to retrospectively assess replicability: publication bias and statistical power. This registered report assesses the prevalence and severity of small-study (i.e., smaller studies reporting larger effect sizes) and decline effects (i.e., effect sizes decreasing over time) across ecology and evolutionary biology using 87 meta-analyses comprising 4,250 primary studies and 17,638 effect sizes. Further, we estimate how publication bias might distort the estimation of effect sizes, statistical power, and errors in magnitude (Type M or exaggeration ratio) and sign (Type S). We show strong evidence for the pervasiveness of both small-study and decline effects in ecology and evolution. There was widespread prevalence of publication bias that resulted in meta-analytic means being over-estimated by (at least) 0.12 standard deviations. The prevalence of publication bias distorted confidence in meta-analytic results, with 66% of initially statistically significant meta-analytic means becoming non-significant after correcting for publication bias. Ecological and evolutionary studies consistently had low statistical power (15%) with a 4-fold exaggeration of effects on average (Type M error rates = 4.4). Notably, publication bias reduced power from 23% to 15% and increased type M error rates from 2.7 to 4.4 because it creates a non-random sample of effect size evidence. The sign errors of effect sizes (Type S error) increased from 5% to 8% because of publication bias. Our research provides clear evidence that many published ecological and evolutionary findings are inflated. Our results highlight the importance of designing high-power empirical studies (e.g., via collaborative team science), promoting and encouraging replication studies, testing and correcting for publication bias in meta-analyses, and adopting open and transparent research practices, such as (pre)registration, data- and code-sharing, and transparent reporting.",
    "preprintUrl": null,
    "altmetric": null
@@ -3125,7 +3125,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/evlett/advance-article-pdf/doi/10.1093/evlett/qrac002/54532649/qrac002.pdf",
    "url": "https://doi.org/10.1093/evlett/qrac002",
-   "citations": 26,
+   "citations": 27,
    "abstract": "One of the most pressing questions we face as biologists is to understand how climate change will affect the evolutionary dynamics of natural populations and how these dynamics will in turn affect population recovery. Increasing evidence shows that sexual selection favors population viability and local adaptation. However, sexual selection can also foster sexual conflict and drive the evolution of male harm to females. Male harm is extraordinarily widespread and has the potential to suppress female fitness and compromise population growth, yet we currently ignore its net effects across taxa or its influence on local adaptation and evolutionary rescue. We conducted a comparative meta-analysis to quantify the impact of male harm on female fitness and found an overall negative effect of male harm on female fitness. Negative effects seem to depend on proxies of sexual selection, increasing inversely to the female relative size and in species with strong sperm competition. We then developed theoretical models to explore how male harm affects adaptation and evolutionary rescue. We show that, when sexual conflict depends on local adaptation, population decline is reduced, but at the cost of slowing down genetic adaptation. This trade-off suggests that eco-evolutionary feedback on sexual conflict can act like a double-edged sword, reducing extinction risk by buffering the demographic costs of climate change, but delaying genetic adaptation. However, variation in the mating system and male harm type can mitigate this trade-off. Our work shows that male harm has widespread negative effects on female fitness and productivity, identifies potential mechanistic factors underlying variability in such costs across taxa, and underscores how acknowledging the condition-dependence of male harm may be important to understand the demographic and evolutionary processes that impact how species adapt to environmental change.",
    "preprintUrl": null,
    "altmetric": null
@@ -4049,7 +4049,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 447,
+   "citations": 448,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4314,7 +4314,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/brv.12712",
-   "citations": 32,
+   "citations": 33,
    "abstract": "Physical exercise not only helps to improve physical health but can also enhance brain development and cognition. Recent reports on parental (both maternal and paternal) effects raise the possibility that parental exercise may provide benefits to offspring through intergenerational inheritance. However, the general magnitude and consistency of parental exercise effects on offspring is still controversial. Additionally, empirical research has long overlooked an important aspect of exercise: its effects on variability in neurodevelopmental and cognitive traits. Here, we compiled data from 52 studies involving 4786 rodents (412 effect sizes) to quantify the intergenerational transmission of exercise effects on brain and cognition. Using a multilevel meta-analytic approach, we found that, overall, parental exercise showed a tendency for increasing their offspring's brain structure by 12.7% (albeit statistically non-significant) probably via significantly facilitating neurogenesis (16.5%). Such changes in neural anatomy go in hand with a significant 20.8% improvement in neurobehaviour (improved learning and memory, and reduced anxiety). Moreover, we found parental exercise significantly reduces inter-individual differences (i.e. reduced variance in the treatment group) in progeny's neurobehaviour by 10.2% (coefficient of variation ratio, lnCVR), suggesting the existence of an individual by intervention interaction. The positive effects of exercise are modulated by several covariates (i.e. moderators), such as the exercised parent's sex, offspring's sex, and age, mode of exercise, and exercise timing. In particular, parental forced exercise is more efficient than voluntary exercise at significantly improving offspring neurobehaviour (26.0%) and reducing its variability (14.2%). We observed larger effects when parental exercise started before pregnancy. However, exercising only during pregnancy also had positive effects. Mechanistically, exercise significantly upregulated brain-derived neurotrophic factor (BDNF) by 28.9%, vascular endothelial growth factor (VEGF) by 35.8%, and significantly decreased hippocampal DNA methylation by 3.5%, suggesting that brain growth factor cascades and epigenetic modifications can moderate the transmission of parental exercise effects. Collectively, by coupling mean with variance effects, our analyses draw a more integrated picture of the benefits that parental exercise has on offspring: not only does it improve offspring brain development and cognitive performance, but it also reduces inter-individual differences in cognition-related traits. We advocate that meta-analysis of variation together with the mean of a trait provides novel insights for old controversies as well as emerging new questions, opening up a new era for generating variance-based hypotheses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4789,7 +4789,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/epqa7",
    "url": "https://doi.org/10.1002/jrsm.1424",
-   "citations": 228,
+   "citations": 229,
    "abstract": "\"Classic\" forest plots show the effect sizes from individual studies and the aggregate effect from a meta-analysis. However, in ecology and evolution, meta-analyses routinely contain over 100 effect sizes, making the classic forest plot of limited use. We surveyed 102 meta-analyses in ecology and evolution, finding that only 11% use the classic forest plot. Instead, most used a \"forest-like plot,\" showing point estimates (with 95% confidence intervals [CIs]) from a series of subgroups or categories in a meta-regression. We propose a modification of the forest-like plot, which we name the \"orchard plot.\" Orchard plots, in addition to showing overall mean effects and CIs from meta-analyses/regressions, also include 95% prediction intervals (PIs), and the individual effect sizes scaled by their precision. The PI allows the user and reader to see the range in which an effect size from a future study may be expected to fall. The PI, therefore, provides an intuitive interpretation of any heterogeneity in the data. Supplementing the PI, the inclusion of underlying effect sizes also allows the user to see any influential or outlying effect sizes. We showcase the orchard plot with example datasets from ecology and evolution, using the R package, orchard, including several functions for visualizing meta-analytic data using forest-plot derivatives. We consider the orchard plot as a variant on the classic forest plot, cultivated to the needs of meta-analysts in ecology and evolution. Hopefully, the orchard plot will prove fruitful for visualizing large collections of heterogeneous effect sizes regardless of the field of study.",
    "preprintUrl": null,
    "altmetric": null
@@ -4997,7 +4997,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.13479",
    "url": "https://doi.org/10.1111/ele.13479",
-   "citations": 82,
+   "citations": 83,
    "abstract": "A recent meta-analysis concluded, 'transgenerational effects are widespread, strong and persistent'. We identify biases in the literature search, data and analyses, questioning that conclusion. Re-analyses indicate few studies actually tested transgenerational effects - making it challenging to disentangle condition-transfer from anticipatory parental effects, and providing little insight into the underlying mechanisms.",
    "preprintUrl": null,
    "altmetric": null
@@ -5266,7 +5266,7 @@
    "isOA": true,
    "oaUrl": "https://cris.maastrichtuniversity.nl/en/publications/3e6fe067-06aa-4553-940d-034840843635",
    "url": "https://doi.org/10.1038/s41559-020-1153-2",
-   "citations": 66,
+   "citations": 68,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -6441,7 +6441,7 @@
    "isOA": true,
    "oaUrl": "http://handle.unsw.edu.au/1959.4/unsworks_45072",
    "url": "https://doi.org/10.1111/brv.12333",
-   "citations": 295,
+   "citations": 296,
    "abstract": "Early environments can profoundly influence an organism in ways that persist over its life. In reptiles, early thermal environments (nest temperatures) can impact offspring phenotype and survival in important ways, yet we still lack an understanding of whether general trends exist and the magnitude of impact. Understanding these patterns is important in predicting how climate change will affect reptile populations and the role of phenotypic plasticity in buffering populations. We compiled data from 175 reptile studies to examine, and quantify, the effect of incubation temperature on phenotype and survival. Using meta-analytic approaches (standardized mean difference between incubation treatments, Hedges' g), we show that across all trait types examined there is, on average, a moderate to large magnitude of effect of incubation temperatures (absolute effect: |g| = 0.75). Unsurprisingly, this influence was extremely large for incubation duration, as predicted, with warmer temperatures decreasing incubation time overall (g = -8.42). Other trait types, including behaviour, physiology, morphology, performance, and survival experienced reduced, but still mostly moderate to large effects, with particularly strong effects on survival. Moreover, the impact of incubation temperature persisted at least one-year post-hatching, suggesting that these effects have the potential to impact fitness in the long term. The magnitude of effect increased as the change in temperature increased (e.g. 6°C versus 2°C) in almost all cases, and tended to decrease when temperatures of the treatments fluctuated around a mean temperature compared to when they were constant. The effect also depended on the mid-temperature of the comparison, but not in consistent ways, with some traits experiencing the greatest effects at extreme temperatures, while others did not. The highly heterogeneous nature of the effects we observe, along with a large amount of unexplained variability, indicates that the shape of reaction norms between phenotype and temperature, along with ecological and/or experimental factors, are important when considering general patterns. Our analyses provide new insights into the effects of incubation environments on reptile phenotype and survival and allow general, albeit coarse, predictions for taxa experiencing warming nest temperatures under climatic change.",
    "preprintUrl": null,
    "altmetric": null

@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-16",
+ "updated": "2026-10-17",
  "total": 419,
  "countries": 28,
  "institutions": 154,
@@ -3117,7 +3117,7 @@
   },
   {
    "name": "James A. Orr",
-   "orcid": null,
+   "orcid": "https://orcid.org/0000-0002-6531-5623",
    "openalex": "https://openalex.org/A5158188425",
    "works": 1,
    "lastYear": 2025,
@@ -4118,7 +4118,7 @@
   },
   {
    "name": "Marta A. Santos",
-   "orcid": "https://orcid.org/0000-0003-1463-6037",
+   "orcid": "https://orcid.org/0000-0002-5014-7145",
    "openalex": "https://openalex.org/A5031006029",
    "works": 1,
    "lastYear": 2024,
