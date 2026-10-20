@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-19",
+ "updated": "2026-10-20",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -95,6 +95,58 @@
    "url": "https://doi.org/10.1016/j.tree.2026.01.009",
    "citations": 8,
    "abstract": "Anthropogenic climate change is leading to more frequent and extreme heat waves. These large-scale events are radically reshaping interactions among organisms-impacting biodiversity, community composition, and ecosystem services crucial to natural systems and food security. Predicting heat wave impacts on interacting species requires an understanding of the processes driving differential exposure and sensitivity of organisms to extreme heat events in a life cycle context. To achieve this predictive capacity, we need to integrate models across scales while capturing species-specific responses at the individual level. We review and demonstrate how existing models in disparate fields can be linked to achieve an increased understanding of how individuals and communities will respond to extreme heat, now and into the future.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1016/j.cois.2026.101523",
+   "doi": "10.1016/j.cois.2026.101523",
+   "title": "Life cycle complexity drives variation in thermal tolerance and plasticity",
+   "authors": [
+    {
+     "name": "Patrice Pottier",
+     "orcid": "https://orcid.org/0000-0003-2106-6597",
+     "isSelf": false
+    },
+    {
+     "name": "Vanessa Kellermann",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Daniel WA Noble",
+     "orcid": null,
+     "isSelf": true
+    },
+    {
+     "name": "Carla M Sgrò",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "John S Terblanche",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Belinda van Heerwaarden",
+     "orcid": null,
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Patrice Pottier, Vanessa Kellermann, Daniel WA Noble, Carla M Sgrò, John S Terblanche, Belinda van Heerwaarden",
+   "journal": "Current Opinion in Insect Science",
+   "year": 2026,
+   "date": "2026-08",
+   "volume": "76",
+   "issue": null,
+   "pages": "101523",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://doi.org/10.1016/j.cois.2026.101523",
+   "url": "https://doi.org/10.1016/j.cois.2026.101523",
+   "citations": 4,
+   "abstract": "Accumulating evidence suggests that heat tolerance varies substantially across insect development, yet patterns of variation remain difficult to generalise across species. We discuss how the diversity of insect developmental strategies shapes both the intensity and predictability of thermal environments across ontogeny, and how this likely generates variation in heat tolerance, plasticity and carry-over effects. We hypothesise that large developmental variation is expected in holometabolous insects and in species undergoing pronounced microhabitat or diel activity transitions. These transitions can modify heat exposure, behavioural thermoregulatory abilities and the physiological or genetic regulatory network underlying heat tolerance, weakening correlations among life stages. We discuss when carry-over effects are likely to be adaptive, highlighting the importance of environmental predictability, ecological similarity among stages and the balance between heat injury and repair. We argue that an ontogenetic perspective capturing the microenvironmental conditions experienced by each life stage is essential for predicting insect vulnerability to extreme heat.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -271,58 +323,6 @@
    "url": "https://doi.org/10.1111/ele.70428",
    "citations": 1,
    "abstract": "ABSTRACT Meta‐analyses in ecology and evolution sometimes target the magnitude of differences between groups rather than their direction, for example, when the question concerns deviation from a biological optimum or divergence from a reference state. A common practice is to convert signed effects into magnitudes by taking absolute values, but this can induce upward distortion and non‐normal sampling distributions under standard meta‐analytic models. Here we introduce lnM, a log‐ratio effect size for the magnitude of difference between two groups, defined from one‐way ANOVA components. lnM is asymptotically normal, supports standard multilevel meta‐analysis and meta‐regression and applies to both ratio‐ and interval‐scale traits. Using theory, simulations and worked examples, we show when delta‐method and single‐fit bootstrap estimators perform well, and how lnM can be used to assess publication bias.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1016/j.cois.2026.101523",
-   "doi": "10.1016/j.cois.2026.101523",
-   "title": "Life cycle complexity drives variation in thermal tolerance and plasticity",
-   "authors": [
-    {
-     "name": "Patrice Pottier",
-     "orcid": "https://orcid.org/0000-0003-2106-6597",
-     "isSelf": false
-    },
-    {
-     "name": "Vanessa Kellermann",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Daniel WA Noble",
-     "orcid": null,
-     "isSelf": true
-    },
-    {
-     "name": "Carla M Sgrò",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "John S Terblanche",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Belinda van Heerwaarden",
-     "orcid": null,
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Patrice Pottier, Vanessa Kellermann, Daniel WA Noble, Carla M Sgrò, John S Terblanche, Belinda van Heerwaarden",
-   "journal": "Current Opinion in Insect Science",
-   "year": 2026,
-   "date": "2026-08",
-   "volume": "76",
-   "issue": null,
-   "pages": "101523",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://doi.org/10.1016/j.cois.2026.101523",
-   "url": "https://doi.org/10.1016/j.cois.2026.101523",
-   "citations": 1,
-   "abstract": "Accumulating evidence suggests that heat tolerance varies substantially across insect development, yet patterns of variation remain difficult to generalise across species. We discuss how the diversity of insect developmental strategies shapes both the intensity and predictability of thermal environments across ontogeny, and how this likely generates variation in heat tolerance, plasticity and carry-over effects. We hypothesise that large developmental variation is expected in holometabolous insects and in species undergoing pronounced microhabitat or diel activity transitions. These transitions can modify heat exposure, behavioural thermoregulatory abilities and the physiological or genetic regulatory network underlying heat tolerance, weakening correlations among life stages. We discuss when carry-over effects are likely to be adaptive, highlighting the importance of environmental predictability, ecological similarity among stages and the balance between heat injury and repair. We argue that an ontogenetic perspective capturing the microenvironmental conditions experienced by each life stage is essential for predicting insect vulnerability to extreme heat.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -1788,6 +1788,73 @@
    "altmetric": null
   },
   {
+   "id": "10.1111/ele.70258",
+   "doi": "10.1111/ele.70258",
+   "title": "Temperature Variability Has Limited Effects on Phenotypic Plasticity in Ectotherms—A Meta‐Analysis",
+   "authors": [
+    {
+     "name": "Clayton W. Stocker",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Stephanie M. Bamford",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Miki Jahn",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Geoffrey P. F. Mazué",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Amanda K. Pettersen",
+     "orcid": "https://orcid.org/0000-0001-6191-6563",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel Ritchie",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Alexander Rubin",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Frank Seebacher",
+     "orcid": "https://orcid.org/0000-0002-2281-9311",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Clayton W. Stocker, Stephanie M. Bamford, Miki Jahn, Geoffrey P. F. Mazué, Amanda K. Pettersen, Daniel Ritchie, Alexander Rubin, Daniel W. A. Noble, Frank Seebacher",
+   "journal": "Ecology Letters",
+   "year": 2025,
+   "date": "2025-11-09",
+   "volume": "28",
+   "issue": "11",
+   "pages": "e70258",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.70258",
+   "url": "https://doi.org/10.1111/ele.70258",
+   "citations": 2,
+   "abstract": "Phenotypic plasticity can lead to compensation for potentially adverse effects of variation in the thermal environment so it is important to understand the impacts of changes in mean and fluctuations in temperature on plastic responses. Here we establish the current state of knowledge of how thermal variability influences the expression of phenotypic plasticity in ectothermic animals. Our quantitative synthesis of 46 studies compares the effects of constant and fluctuating temperatures with the same mean on plasticity in different traits, across different ecosystems (terrestrial and aquatic) and between types of phenotypic plasticity (acclimation and developmental plasticity). We found that 98% of studies implemented diel temperature fluctuations and most data were derived from invertebrates. We show that plasticity does not differ between constant and fluctuating environments except for weak effects on developmental time. We conclude that plasticity is more likely to be driven by changes in longer-term mean temperatures.",
+   "preprintUrl": "https://doi.org/10.22541/au.174705149.99511675/v1",
+   "altmetric": null
+  },
+  {
    "id": "10.1242/jeb.250716",
    "doi": "10.1242/jeb.250716",
    "title": "Prenatal conditions do not affect brain physiology and learning in a lizard",
@@ -1869,73 +1936,6 @@
    "citations": 1,
    "abstract": "Climate change is a driver of extinction, with extreme events occurring more frequently. It increases both the amount and variability in environmental stress that organisms experience. In novel environments, greater intra-specific trait variation increases the opportunity for natural selection as individuals with fortuitously advantageous trait expression may thrive. Many studies focus on changes in trait means between novel and historic environments but overlook changes in trait variation. We tested how salinisation – which currently affects 20-50% of freshwaters worldwide – alters trait variation in a freshwater fish, Gambusia holbrooki. We reared newborn fish in freshwater, stable-salinity or fluctuating-salinity water until maturation, and then compared variation in fitness-related traits in each sex during early and late adulthood. Salinisation had stronger effects on young than old adults, with sex-specific impacts (female: gut development; male: age at maturity and body size). When we accounted for mean differences in trait expression between environments, salinisation also affected relative variation in female fecundity (egg size, offspring number). Notably, fluctuations in salinity did not magnify the effect of stable salinity, but sometimes reversed its effect. Our findings suggest that researchers should pay closer attention to environmental fluctuations: changes in trait variation in a population can alter its adaptive potential.",
    "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1111/ele.70258",
-   "doi": "10.1111/ele.70258",
-   "title": "Temperature Variability Has Limited Effects on Phenotypic Plasticity in Ectotherms—A Meta‐Analysis",
-   "authors": [
-    {
-     "name": "Clayton W. Stocker",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Stephanie M. Bamford",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Miki Jahn",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Geoffrey P. F. Mazué",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Amanda K. Pettersen",
-     "orcid": "https://orcid.org/0000-0001-6191-6563",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel Ritchie",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Alexander Rubin",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    },
-    {
-     "name": "Frank Seebacher",
-     "orcid": "https://orcid.org/0000-0002-2281-9311",
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Clayton W. Stocker, Stephanie M. Bamford, Miki Jahn, Geoffrey P. F. Mazué, Amanda K. Pettersen, Daniel Ritchie, Alexander Rubin, Daniel W. A. Noble, Frank Seebacher",
-   "journal": "Ecology Letters",
-   "year": 2025,
-   "date": "2025-11-09",
-   "volume": "28",
-   "issue": "11",
-   "pages": "e70258",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.70258",
-   "url": "https://doi.org/10.1111/ele.70258",
-   "citations": 0,
-   "abstract": "Phenotypic plasticity can lead to compensation for potentially adverse effects of variation in the thermal environment so it is important to understand the impacts of changes in mean and fluctuations in temperature on plastic responses. Here we establish the current state of knowledge of how thermal variability influences the expression of phenotypic plasticity in ectothermic animals. Our quantitative synthesis of 46 studies compares the effects of constant and fluctuating temperatures with the same mean on plasticity in different traits, across different ecosystems (terrestrial and aquatic) and between types of phenotypic plasticity (acclimation and developmental plasticity). We found that 98% of studies implemented diel temperature fluctuations and most data were derived from invertebrates. We show that plasticity does not differ between constant and fluctuating environments except for weak effects on developmental time. We conclude that plasticity is more likely to be driven by changes in longer-term mean temperatures.",
-   "preprintUrl": "https://doi.org/10.22541/au.174705149.99511675/v1",
    "altmetric": null
   },
   {
@@ -3474,7 +3474,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14083",
    "url": "https://doi.org/10.1111/ele.14083",
-   "citations": 144,
+   "citations": 145,
    "abstract": "Understanding the factors affecting thermal tolerance is crucial for predicting the impact climate change will have on ectotherms. However, the role developmental plasticity plays in allowing populations to cope with thermal extremes is poorly understood. Here, we meta-analyse how thermal tolerance is initially and persistently impacted by early (embryonic and juvenile) thermal environments by using data from 150 experimental studies on 138 ectothermic species. Thermal tolerance only increased by 0.13°C per 1°C change in developmental temperature and substantial variation in plasticity (~36%) was the result of shared evolutionary history and species ecology. Aquatic ectotherms were more than three times as plastic as terrestrial ectotherms. Notably, embryos expressed weaker but more heterogenous plasticity than older life stages, with numerous responses appearing as non-adaptive. While developmental temperatures did not have persistent effects on thermal tolerance overall, persistent effects were vastly under-studied, and their direction and magnitude varied with ontogeny. Embryonic stages may represent a critical window of vulnerability to changing environments and we urge researchers to consider early life stages when assessing the climate vulnerability of ectotherms. Overall, our synthesis suggests that developmental changes in thermal tolerance rarely reach levels of perfect compensation and may provide limited benefit in changing environments.",
    "preprintUrl": "https://doi.org/10.22541/au.164573834.49438532/v1",
    "altmetric": null
@@ -6441,7 +6441,7 @@
    "isOA": true,
    "oaUrl": "http://handle.unsw.edu.au/1959.4/unsworks_45072",
    "url": "https://doi.org/10.1111/brv.12333",
-   "citations": 296,
+   "citations": 297,
    "abstract": "Early environments can profoundly influence an organism in ways that persist over its life. In reptiles, early thermal environments (nest temperatures) can impact offspring phenotype and survival in important ways, yet we still lack an understanding of whether general trends exist and the magnitude of impact. Understanding these patterns is important in predicting how climate change will affect reptile populations and the role of phenotypic plasticity in buffering populations. We compiled data from 175 reptile studies to examine, and quantify, the effect of incubation temperature on phenotype and survival. Using meta-analytic approaches (standardized mean difference between incubation treatments, Hedges' g), we show that across all trait types examined there is, on average, a moderate to large magnitude of effect of incubation temperatures (absolute effect: |g| = 0.75). Unsurprisingly, this influence was extremely large for incubation duration, as predicted, with warmer temperatures decreasing incubation time overall (g = -8.42). Other trait types, including behaviour, physiology, morphology, performance, and survival experienced reduced, but still mostly moderate to large effects, with particularly strong effects on survival. Moreover, the impact of incubation temperature persisted at least one-year post-hatching, suggesting that these effects have the potential to impact fitness in the long term. The magnitude of effect increased as the change in temperature increased (e.g. 6°C versus 2°C) in almost all cases, and tended to decrease when temperatures of the treatments fluctuated around a mean temperature compared to when they were constant. The effect also depended on the mid-temperature of the comparison, but not in consistent ways, with some traits experiencing the greatest effects at extreme temperatures, while others did not. The highly heterogeneous nature of the effects we observe, along with a large amount of unexplained variability, indicates that the shape of reaction norms between phenotype and temperature, along with ecological and/or experimental factors, are important when considering general patterns. Our analyses provide new insights into the effects of incubation environments on reptile phenotype and survival and allow general, albeit coarse, predictions for taxa experiencing warming nest temperatures under climatic change.",
    "preprintUrl": null,
    "altmetric": null
