@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -3526,7 +3526,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/ele.14144",
    "url": "https://doi.org/10.1111/ele.14144",
-   "citations": 119,
+   "citations": 121,
    "abstract": "The log response ratio, lnRR, is the most frequently used effect size statistic for meta-analysis in ecology. However, often missing standard deviations (SDs) prevent estimation of the sampling variance of lnRR. We propose new methods to deal with missing SDs via a weighted average coefficient of variation (CV) estimated from studies in the dataset that do report SDs. Across a suite of simulated conditions, we find that using the average CV to estimate sampling variances for all observations, regardless of missingness, performs with minimal bias. Surprisingly, even with missing SDs, this simple method outperforms the conventional approach (basing each effect size on its individual study-specific CV) with complete data. This is because the conventional method ultimately yields less precise estimates of the sampling variances than using the pooled CV from multiple studies. Our approach is broadly applicable and can be implemented in all meta-analyses of lnRR, regardless of 'missingness'.",
    "preprintUrl": null,
    "altmetric": null
@@ -3982,7 +3982,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 704,
+   "citations": 706,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4049,7 +4049,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 450,
+   "citations": 451,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4230,7 +4230,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/brv.12818",
-   "citations": 72,
+   "citations": 73,
    "abstract": "The notion that men are more variable than women has become embedded into scientific thinking. For mental traits like personality, greater male variability has been partly attributed to biology, underpinned by claims that there is generally greater variation among males than females in non-human animals due to stronger sexual selection on males. However, evidence for greater male variability is limited to morphological traits, and there is little information regarding sex differences in personality-like behaviours for non-human animals. Here, we meta-analysed sex differences in means and variances for over 2100 effects (204 studies) from 220 species (covering five broad taxonomic groups) across five personality traits: boldness, aggression, activity, sociality and exploration. We also tested if sexual size dimorphism, a proxy for sex-specific sexual selection, explains variation in the magnitude of sex differences in personality. We found no significant differences in personality between the sexes. In addition, sexual size dimorphism did not explain variation in the magnitude of the observed sex differences in the mean or variance in personality for any taxonomic group. In sum, we find no evidence for widespread sex differences in variability in non-human animal personality.",
    "preprintUrl": null,
    "altmetric": null
@@ -4945,7 +4945,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.7554/elife.63170",
    "url": "https://doi.org/10.7554/elife.63170",
-   "citations": 104,
+   "citations": 105,
    "abstract": "Biomedical and clinical sciences are experiencing a renewed interest in the fact that males and females differ in many anatomic, physiological, and behavioural traits. Sex differences in trait variability, however, are yet to receive similar recognition. In medical science, mammalian females are assumed to have higher trait variability due to estrous cycles (the 'estrus-mediated variability hypothesis'); historically in biomedical research, females have been excluded for this reason. Contrastingly, evolutionary theory and associated data support the 'greater male variability hypothesis'. Here, we test these competing hypotheses in 218 traits measured in >26,900 mice, using meta-analysis methods. Neither hypothesis could universally explain patterns in trait variability. Sex bias in variability was trait-dependent. While greater male variability was found in morphological traits, females were much more variable in immunological traits. Sex-specific variability has eco-evolutionary ramifications, including sex-dependent responses to climate change, as well as statistical implications including power analysis considering sex difference in variance.",
    "preprintUrl": "https://doi.org/10.1101/2020.05.23.106146",
    "altmetric": null
@@ -5649,7 +5649,7 @@
    "isOA": true,
    "oaUrl": "https://link.springer.com/content/pdf/10.1007%2Fs00265-018-2534-2.pdf",
    "url": "https://doi.org/10.1007/s00265-018-2534-2",
-   "citations": 117,
+   "citations": 118,
    "abstract": "The pace-of-life syndrome (POLS) hypothesis predicts that behavior and physiology covary with life history. Evidence for such covariation is contradictory, possibly because systematic sources of variation (e.g. sex) have been neglected. Sexes often experience different selection pressures leading to sex-specific allocation between reproduction and self-maintenance, facilitating divergence in life-history. Sex-specific differences in means and possibly variances may therefore play a key role in the POLS framework. We investigate whether sexes differ in means and variances along the fast-slow pace-of-life continuum for life history and physiological and behavioral traits. In addition, we test whether social and environmental characteristics such as breeding strategy, mating system, and study environment explain heterogeneity between the sexes. Using meta-analytic methods, we found that populations with a polygynous mating system or for studies conducted on wild populations, males had a faster pace-of-life for developmental life-history traits (e.g., growth rate), behavior, and physiology. In contrast, adult life-history traits (e.g., lifespan) were shifted towards faster pace-of-life in females, deviating from the other trait categories. Phenotypic variances were similar between the sexes across trait categories and were not affected by mating system or study environment. Breeding strategy did not influence sex differences in variances or means. We discuss our results in the light of sex-specific selection that might drive sex-specific differences in pace-of-life and ultimately POLS.",
    "preprintUrl": null,
    "altmetric": null

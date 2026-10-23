@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-22",
+ "updated": "2026-10-23",
  "total": 419,
  "countries": 28,
  "institutions": 154,
@@ -2020,8 +2020,8 @@
    "city": "Regina",
    "country": "Canada",
    "countryCode": "CA",
-   "lat": 50.45008087158203,
-   "lon": -104.6177978515625
+   "lat": 50.45008,
+   "lon": -104.6178
   },
   {
    "name": "Cameron Bell",
