@@ -1,17 +1,17 @@
 {
- "updated": "2026-10-27",
- "total": 419,
+ "updated": "2026-10-28",
+ "total": 416,
  "countries": 28,
  "institutions": 154,
  "byCountry": {
   "Japan": 2,
-  "Australia": 178,
+  "Australia": 177,
   "Germany": 21,
   "United Kingdom": 38,
   "Poland": 2,
   "Switzerland": 10,
   "Canada": 21,
-  "Sweden": 21,
+  "Sweden": 19,
   "Spain": 3,
   "China": 7,
   "United States": 51,
@@ -139,6 +139,19 @@
    "lon": 150.89344787597656
   },
   {
+   "name": "Geoffrey M. While",
+   "orcid": "https://orcid.org/0000-0001-8122-9322",
+   "openalex": "https://openalex.org/A5006552825",
+   "works": 10,
+   "lastYear": 2026,
+   "institution": "University of Tasmania",
+   "city": "Hobart",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -42.87936,
+   "lon": 147.32941
+  },
+  {
    "name": "Lisa E. Schwanz",
    "orcid": "https://orcid.org/0000-0001-5864-7112",
    "openalex": "https://openalex.org/A5013179590",
@@ -176,19 +189,6 @@
    "countryCode": "AU",
    "lat": -33.86785,
    "lon": 151.20732
-  },
-  {
-   "name": "Geoffrey M. While",
-   "orcid": "https://orcid.org/0000-0001-8122-9322",
-   "openalex": "https://openalex.org/A5006552825",
-   "works": 9,
-   "lastYear": 2026,
-   "institution": "University of Tasmania",
-   "city": "Hobart",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -42.87936,
-   "lon": 147.32941
   },
   {
    "name": "Pablo Recio",
@@ -373,6 +373,19 @@
    "lon": 8.53333
   },
   {
+   "name": "Amanda K. Pettersen",
+   "orcid": "https://orcid.org/0000-0001-6191-6563",
+   "openalex": "https://openalex.org/A5007777958",
+   "works": 5,
+   "lastYear": 2025,
+   "institution": "The University of Sydney",
+   "city": "Sydney",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -33.86785,
+   "lon": 151.20732
+  },
+  {
    "name": "Amelia Y. Peardon",
    "orcid": "https://orcid.org/0009-0005-6227-8379",
    "openalex": "https://openalex.org/A5099637650",
@@ -423,19 +436,6 @@
    "countryCode": "CN",
    "lat": 39.9075,
    "lon": 116.39723
-  },
-  {
-   "name": "Amanda K. Pettersen",
-   "orcid": "https://orcid.org/0000-0001-6191-6563",
-   "openalex": "https://openalex.org/A5007777958",
-   "works": 4,
-   "lastYear": 2025,
-   "institution": "The University of Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
   },
   {
    "name": "Coralie Williams",
@@ -865,6 +865,19 @@
    "countryCode": "DE",
    "lat": 51.96236,
    "lon": 7.62571
+  },
+  {
+   "name": "Charlie Kinahan Cornwallis",
+   "orcid": "https://orcid.org/0000-0003-1308-3995",
+   "openalex": "https://openalex.org/A5052166449",
+   "works": 2,
+   "lastYear": 2023,
+   "institution": "Lund University",
+   "city": "Lund",
+   "country": "Sweden",
+   "countryCode": "SE",
+   "lat": 55.70584,
+   "lon": 13.19321
   },
   {
    "name": "Claudia Fricke",
@@ -1647,19 +1660,6 @@
    "lon": -79.39864
   },
   {
-   "name": "Amanda K. Pettersen",
-   "orcid": "https://orcid.org/0000-0001-6191-6563",
-   "openalex": null,
-   "works": 1,
-   "lastYear": 2021,
-   "institution": "Lund University",
-   "city": "Lund",
-   "country": "Sweden",
-   "countryCode": "SE",
-   "lat": 55.70584,
-   "lon": 13.19321
-  },
-  {
    "name": "Andrea Leigh",
    "orcid": "https://orcid.org/0000-0003-3568-2606",
    "openalex": "https://openalex.org/A5076370624",
@@ -2100,32 +2100,6 @@
    "countryCode": "US",
    "lat": 37.30215835571289,
    "lon": -120.48297119140625
-  },
-  {
-   "name": "Charlie K. Cornwallis",
-   "orcid": "https://orcid.org/0000-0003-1308-3995",
-   "openalex": null,
-   "works": 1,
-   "lastYear": 2021,
-   "institution": "Lund University",
-   "city": "Lund",
-   "country": "Sweden",
-   "countryCode": "SE",
-   "lat": 55.70584,
-   "lon": 13.19321
-  },
-  {
-   "name": "Charlie Kinahan Cornwallis",
-   "orcid": "https://orcid.org/0000-0003-1308-3995",
-   "openalex": "https://openalex.org/A5052166449",
-   "works": 1,
-   "lastYear": 2023,
-   "institution": "Lund University",
-   "city": "Lund",
-   "country": "Sweden",
-   "countryCode": "SE",
-   "lat": 55.70584,
-   "lon": 13.19321
   },
   {
    "name": "Christian Rutz",
@@ -2880,19 +2854,6 @@
    "countryCode": null,
    "lat": null,
    "lon": null
-  },
-  {
-   "name": "Geoffrey M. While",
-   "orcid": "https://orcid.org/0000-0001-8122-9322",
-   "openalex": null,
-   "works": 1,
-   "lastYear": 2021,
-   "institution": "University of Tasmania",
-   "city": "Hobart",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -42.87936,
-   "lon": 147.32941
   },
   {
    "name": "Georg Küstner",

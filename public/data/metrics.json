@@ -1,19 +1,19 @@
 {
- "updated": "2026-10-27",
+ "updated": "2026-10-28",
  "sources": [
   "ORCID",
   "Crossref",
   "OpenAlex"
  ],
  "orcid": "0000-0001-9460-8743",
- "citations": 7403,
+ "citations": 7407,
  "hIndex": 41,
  "i10Index": 92,
  "works": 131,
  "articles": 130,
  "preprints": 1,
  "firstAuthor": 20,
- "coAuthors": 419,
+ "coAuthors": 416,
  "countries": 28,
  "citationsByYear": [
   {
@@ -74,7 +74,7 @@
   },
   {
    "year": 2026,
-   "cited_by_count": 1221
+   "cited_by_count": 1225
   }
  ]
 }
