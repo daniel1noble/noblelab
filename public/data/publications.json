@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29",
+ "updated": "2026-10-30",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -5481,7 +5481,7 @@
    "isOA": true,
    "oaUrl": "https://boris.unibe.ch/147983/",
    "url": "https://doi.org/10.1007/s10071-019-01245-6",
-   "citations": 32,
+   "citations": 33,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -5857,7 +5857,7 @@
    "isOA": true,
    "oaUrl": "https://research-repository.st-andrews.ac.uk/bitstream/10023/18050/1/Szabo_etal_2018_AAM.pdf",
    "url": "https://doi.org/10.1016/j.anbehav.2018.07.018",
-   "citations": 30,
+   "citations": 31,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -5909,7 +5909,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1007/s00265-017-2435-9",
-   "citations": 23,
+   "citations": 25,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -6060,7 +6060,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1007/s10071-018-1194-y",
-   "citations": 18,
+   "citations": 19,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -6154,7 +6154,7 @@
    "isOA": true,
    "oaUrl": "https://link.springer.com/content/pdf/10.1007/s00442-018-4153-z.pdf",
    "url": "https://doi.org/10.1007/s00442-018-4153-z",
-   "citations": 15,
+   "citations": 16,
    "abstract": "Social learning is thought to be advantageous as it allows an animal to gather information quickly without engaging in costly trial-and-error learning. However, animals should be selective about when and whom they learn from. Familiarity is predicted to positively influence an animal's reliance on social learning; yet, few studies have empirically tested this theory. We used a lizard (Liopholis whitii) that forms long-term monogamous pair bonds to examine the effects of partner familiarity on social learning in two novel foraging tasks, an association and a reversal task. We allowed female lizards to observe trained conspecifics that were either familiar (social mate) or unfamiliar execute these tasks and compared these two groups with control females that did not receive social information. Lizards preferentially relied on trial-and-error learning in the association task. In the reversal task, lizards that were demonstrated by familiar partners learnt in fewer trials compared to control lizards and made more correct choices. Our results provide some evidence for context-dependent learning with lizards differentiating between when they utilize social learning, and, to a limited degree, whom they learnt from. Understanding the role of the social context in which learning occurs provides important insights into the benefits of social learning and sociality more generally.",
    "preprintUrl": null,
    "altmetric": null
@@ -6404,7 +6404,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 576,
+   "citations": 577,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
@@ -6624,7 +6624,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1007/s10071-017-1101-y",
-   "citations": 19,
+   "citations": 20,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -6760,7 +6760,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1007/s10071-016-1068-0",
-   "citations": 29,
+   "citations": 30,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
