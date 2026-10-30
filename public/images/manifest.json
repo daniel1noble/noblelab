@@ -1,1834 +1,1844 @@
 [
-  {
-    "file": "hero-animal-room.jpg",
-    "width": 2400,
-    "height": 1600,
-    "bytes": 400080,
-    "alt": "Rows of labelled clear plastic enclosures on black shelving in the lizard animal room",
-    "use": "hero"
-  },
-  {
-    "file": "hero-heat-lamps.jpg",
-    "width": 2400,
-    "height": 1600,
-    "bytes": 189669,
-    "alt": "Clear plastic enclosures beneath strip lights and heat lamps",
-    "use": "hero"
-  },
-  {
-    "file": "hero-lab-shelving.jpg",
-    "width": 2400,
-    "height": 1600,
-    "bytes": 303106,
-    "alt": "Shelving units of clear plastic lizard enclosures under strip lights and heat lamps in the animal facility",
-    "use": "hero"
-  },
-  {
-    "file": "research-crickets.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 99583,
-    "alt": "Crickets in a plastic container",
-    "use": "research"
-  },
-  {
-    "file": "research-egg-cups.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 229388,
-    "alt": "Labelled cups of vermiculite, covered with film, on incubator racks",
-    "use": "research"
-  },
-  {
-    "file": "research-eggs.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 219457,
-    "alt": "Four small white eggs on vermiculite in a plastic container",
-    "use": "research"
-  },
-  {
-    "file": "research-enclosures.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 126091,
-    "alt": "Labelled clear plastic enclosures with record cards on a shelf",
-    "use": "research"
-  },
-  {
-    "file": "research-handling.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 88698,
-    "alt": "A small lizard held gently between a researcher's fingers",
-    "use": "research"
-  },
-  {
-    "file": "research-hatchling.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 114244,
-    "alt": "A hatchling lizard in a labelled cup of vermiculite held in a hand",
-    "use": "research"
-  },
-  {
-    "file": "research-incubator.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 205515,
-    "alt": "Hands adjusting labelled cups on an incubator rack",
-    "use": "research"
-  },
-  {
-    "file": "research-lizard-bark.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 140042,
-    "alt": "A small lizard sheltering under a piece of bark beside a pipe hide",
-    "use": "research"
-  },
-  {
-    "file": "research-lizard-pipe.jpg",
-    "width": 1600,
-    "height": 1600,
-    "bytes": 222166,
-    "alt": "A small lizard emerging from a pipe hide onto green mesh in its enclosure",
-    "use": "research"
-  },
-  {
-    "file": "gallery-01-lab-shelving-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 41583,
-    "alt": "Shelving units of clear plastic lizard enclosures under strip lights and heat lamps",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-01-lab-shelving.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 166203,
-    "alt": "Shelving units of clear plastic lizard enclosures under strip lights and heat lamps",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-02-animal-room-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 50822,
-    "alt": "Rows of labelled clear plastic enclosures on black shelving in the lizard animal room",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-02-animal-room.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 214497,
-    "alt": "Rows of labelled clear plastic enclosures on black shelving in the lizard animal room",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-03-heat-lamps-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 27764,
-    "alt": "Clear plastic enclosures beneath strip lights and heat lamps",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-03-heat-lamps.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 107342,
-    "alt": "Clear plastic enclosures beneath strip lights and heat lamps",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-04-enclosures-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 31950,
-    "alt": "Labelled clear plastic enclosures with record cards on a shelf",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-04-enclosures.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 125855,
-    "alt": "Labelled clear plastic enclosures with record cards on a shelf",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-05-shelving-tall-thumb.jpg",
-    "width": 400,
-    "height": 600,
-    "bytes": 40060,
-    "alt": "Tall shelving of clear enclosures and heat lamps, viewed from below",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-05-shelving-tall.jpg",
-    "width": 1067,
-    "height": 1600,
-    "bytes": 156616,
-    "alt": "Tall shelving of clear enclosures and heat lamps, viewed from below",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-06-lizard-bark-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 25901,
-    "alt": "A small lizard sheltering under a piece of bark beside a pipe hide",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-06-lizard-bark.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 139326,
-    "alt": "A small lizard sheltering under a piece of bark beside a pipe hide",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-07-lizard-pipe-thumb.jpg",
-    "width": 600,
-    "height": 600,
-    "bytes": 49358,
-    "alt": "A small lizard emerging from a pipe hide onto green mesh in its enclosure",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-07-lizard-pipe.jpg",
-    "width": 1600,
-    "height": 1600,
-    "bytes": 222166,
-    "alt": "A small lizard emerging from a pipe hide onto green mesh in its enclosure",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-08-lizard-in-hand-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 15171,
-    "alt": "A small lizard held gently between a researcher's fingers",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-08-lizard-in-hand.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 88233,
-    "alt": "A small lizard held gently between a researcher's fingers",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-09-hatchling-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 22151,
-    "alt": "A hatchling lizard in a labelled cup of vermiculite held in a hand",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-09-hatchling.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 113859,
-    "alt": "A hatchling lizard in a labelled cup of vermiculite held in a hand",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-10-egg-cups-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 43425,
-    "alt": "Labelled cups of vermiculite, covered with film, on incubator racks",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-10-egg-cups.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 228461,
-    "alt": "Labelled cups of vermiculite, covered with film, on incubator racks",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-11-incubator-hands-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 39199,
-    "alt": "Hands adjusting labelled cups on an incubator rack",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-11-incubator-hands.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 204633,
-    "alt": "Hands adjusting labelled cups on an incubator rack",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-12-incubator-check-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 30992,
-    "alt": "A researcher examining a small cup beside laboratory incubators",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-12-incubator-check.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 147537,
-    "alt": "A researcher examining a small cup beside laboratory incubators",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-13-incubator-loading-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 32723,
-    "alt": "A researcher placing cups of vermiculite into an incubator",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-13-incubator-loading.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 157300,
-    "alt": "A researcher placing cups of vermiculite into an incubator",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-14-crickets-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 20581,
-    "alt": "Crickets in a plastic container",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-14-crickets.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 99218,
-    "alt": "Crickets in a plastic container",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-15-animal-room-work-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 52717,
-    "alt": "A researcher working at a bench in the lizard animal room, surrounded by shelves of enclosures",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-15-animal-room-work.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 237085,
-    "alt": "A researcher working at a bench in the lizard animal room, surrounded by shelves of enclosures",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-16-checking-tubs-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 37418,
-    "alt": "A researcher checking enclosures at a bench",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-16-checking-tubs.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 171422,
-    "alt": "A researcher checking enclosures at a bench",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-17-shelf-tub-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 34369,
-    "alt": "A researcher reaching into a shelf of enclosures, holding a small tub",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-17-shelf-tub.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 145477,
-    "alt": "A researcher reaching into a shelf of enclosures, holding a small tub",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-18-stack-of-tubs-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 43401,
-    "alt": "A researcher smiling while holding a stack of small tubs beside shelves of enclosures",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-18-stack-of-tubs.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 197604,
-    "alt": "A researcher smiling while holding a stack of small tubs beside shelves of enclosures",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-19-lab-bench-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 35829,
-    "alt": "Two researchers preparing small tubs at a laboratory bench",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-19-lab-bench.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 161361,
-    "alt": "Two researchers preparing small tubs at a laboratory bench",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-20-holding-tubs-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 42239,
-    "alt": "A researcher holding a stack of small tubs in the animal room",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-20-holding-tubs.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 183575,
-    "alt": "A researcher holding a stack of small tubs in the animal room",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-21-inspecting-tubs-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 36159,
-    "alt": "A researcher inspecting a stack of small tubs",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-21-inspecting-tubs.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 157524,
-    "alt": "A researcher inspecting a stack of small tubs",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-22-conversation-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 23296,
-    "alt": "A researcher in conversation in the laboratory",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-22-conversation.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 109947,
-    "alt": "A researcher in conversation in the laboratory",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-23-researcher-cup-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 41315,
-    "alt": "A researcher holding a small cup in front of shelves of enclosures",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-23-researcher-cup.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 173423,
-    "alt": "A researcher holding a small cup in front of shelves of enclosures",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-24-lab-doorway-thumb.jpg",
-    "width": 400,
-    "height": 600,
-    "bytes": 33894,
-    "alt": "Doorway into laboratory room G.31 with shelves of enclosures visible",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-24-lab-doorway.jpg",
-    "width": 1067,
-    "height": 1600,
-    "bytes": 138667,
-    "alt": "Doorway into laboratory room G.31 with shelves of enclosures visible",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-25-eggs-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 45813,
-    "alt": "Four small white eggs on vermiculite in a plastic container",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-25-eggs.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 218787,
-    "alt": "Four small white eggs on vermiculite in a plastic container",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-26-animal-room-wide-thumb.jpg",
-    "width": 600,
-    "height": 600,
-    "bytes": 60932,
-    "alt": "Wide view of the lizard animal room with shelving units of enclosures and a work trolley",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-26-animal-room-wide.jpg",
-    "width": 1600,
-    "height": 1600,
-    "bytes": 270812,
-    "alt": "Wide view of the lizard animal room with shelving units of enclosures and a work trolley",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-27-bench-prep-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 37742,
-    "alt": "Two researchers preparing tubs at a laboratory sink bench",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-27-bench-prep.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 164321,
-    "alt": "Two researchers preparing tubs at a laboratory sink bench",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-28-incubator-researcher-thumb.jpg",
-    "width": 600,
-    "height": 400,
-    "bytes": 32912,
-    "alt": "A researcher beside a laboratory incubator",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-28-incubator-researcher.jpg",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 169838,
-    "alt": "A researcher beside a laboratory incubator",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-29-lab-outing-thumb.jpg",
-    "width": 600,
-    "height": 450,
-    "bytes": 62044,
-    "alt": "Seven people standing in front of a Riddle Room Canberra sign, two of them holding small signs",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-29-lab-outing.jpg",
-    "width": 1600,
-    "height": 1200,
-    "bytes": 316214,
-    "alt": "Seven people standing in front of a Riddle Room Canberra sign, two of them holding small signs",
-    "use": "gallery"
-  },
-  {
-    "file": "people-daniel-noble-2025.jpg",
-    "width": 600,
-    "height": 900,
-    "bytes": 54923,
-    "alt": "Portrait of Daniel Noble in a grey jacket and white shirt",
-    "use": "portrait"
-  },
-  {
-    "file": "people-daniel-noble.jpg",
-    "width": 617,
-    "height": 900,
-    "bytes": 82242,
-    "alt": "Head-and-shoulders portrait of Daniel Noble",
-    "use": "portrait"
-  },
-  {
-    "file": "gallery-field-02-painted-dragon-thumb.jpg",
-    "width": 450,
-    "height": 600,
-    "bytes": 65551,
-    "alt": "A dragon lizard on a weathered log in red sand country",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-02-painted-dragon.jpg",
-    "width": 1200,
-    "height": 1600,
-    "bytes": 380772,
-    "alt": "A dragon lizard on a weathered log in red sand country",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-23-unhappy-sleepy-lizard-thumb.jpg",
-    "width": 450,
-    "height": 600,
-    "bytes": 70211,
-    "alt": "A large stout-bodied lizard on red sand with its mouth open",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-23-unhappy-sleepy-lizard.jpg",
-    "width": 1050,
-    "height": 1400,
-    "bytes": 396049,
-    "alt": "A large stout-bodied lizard on red sand with its mouth open",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-24-sand-monitor-thumb.jpg",
-    "width": 450,
-    "height": 600,
-    "bytes": 84104,
-    "alt": "A long-tailed lizard on red earth beside a pale-leaved shrub, casting a shadow",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-24-sand-monitor.jpg",
-    "width": 1050,
-    "height": 1400,
-    "bytes": 386450,
-    "alt": "A long-tailed lizard on red earth beside a pale-leaved shrub, casting a shadow",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-25-pygmy-bluetongue-thumb.jpg",
-    "width": 450,
-    "height": 600,
-    "bytes": 49832,
-    "alt": "A small lizard resting in an open hand",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-25-pygmy-bluetongue.jpg",
-    "width": 1200,
-    "height": 1600,
-    "bytes": 256414,
-    "alt": "A small lizard resting in an open hand",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-26-maria-island-tasmania-thumb.jpg",
-    "width": 600,
-    "height": 176,
-    "bytes": 18884,
-    "alt": "Panorama of grassland and scattered trees running to sea cliffs under cloud",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-26-maria-island-tasmania.jpg",
-    "width": 1600,
-    "height": 469,
-    "bytes": 120623,
-    "alt": "Panorama of grassland and scattered trees running to sea cliffs under cloud",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-28-sleepy-lizard-thumb.jpg",
-    "width": 450,
-    "height": 600,
-    "bytes": 92209,
-    "alt": "A large stout-bodied lizard on red soil among leaf litter, mouth open",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-28-sleepy-lizard.jpg",
-    "width": 1050,
-    "height": 1400,
-    "bytes": 392805,
-    "alt": "A large stout-bodied lizard on red soil among leaf litter, mouth open",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-37-lab-experiments-thumb.jpg",
-    "width": 450,
-    "height": 600,
-    "bytes": 56464,
-    "alt": "A blue trolley of small yellow-capped cups in a laboratory, with a person working at the far bench",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-37-lab-experiments.jpg",
-    "width": 1200,
-    "height": 1600,
-    "bytes": 256019,
-    "alt": "A blue trolley of small yellow-capped cups in a laboratory, with a person working at the far bench",
-    "use": "gallery"
-  },
-  {
-    "file": "people-amelia-peardon.jpg",
-    "width": 600,
-    "height": 500,
-    "bytes": 54620,
-    "alt": "Portrait of Amelia Peardon in the lizard animal room",
-    "use": "portrait"
-  },
-  {
-    "file": "people-dalton-leibold.jpg",
-    "width": 400,
-    "height": 373,
-    "bytes": 31172,
-    "alt": "Portrait of Dalton Leibold, holding a lizard",
-    "use": "portrait"
-  },
-  {
-    "file": "people-essie-rodgers.jpg",
-    "width": 225,
-    "height": 225,
-    "bytes": 10349,
-    "alt": "Portrait of Essie Rodgers, holding a small crocodile",
-    "use": "portrait"
-  },
-  {
-    "file": "people-joel-treutlein.jpg",
-    "width": 575,
-    "height": 537,
-    "bytes": 51520,
-    "alt": "Portrait of Joel Treutlein",
-    "use": "portrait"
-  },
-  {
-    "file": "people-kris-wild.jpg",
-    "width": 600,
-    "height": 596,
-    "bytes": 118335,
-    "alt": "Portrait of Kris Wild, seated on the forest floor",
-    "use": "portrait"
-  },
-  {
-    "file": "people-naomi-laven.jpg",
-    "width": 400,
-    "height": 371,
-    "bytes": 23361,
-    "alt": "Portrait of Naomi Laven",
-    "use": "portrait"
-  },
-  {
-    "file": "people-niamh-okelly.jpg",
-    "width": 600,
-    "height": 497,
-    "bytes": 54375,
-    "alt": "Portrait of Niamh O'Kelly",
-    "use": "portrait"
-  },
-  {
-    "file": "people-ondi-crino.jpg",
-    "width": 384,
-    "height": 384,
-    "bytes": 39598,
-    "alt": "Portrait of Ondi Crino",
-    "use": "portrait"
-  },
-  {
-    "file": "people-pablo-recio.jpg",
-    "width": 300,
-    "height": 281,
-    "bytes": 23101,
-    "alt": "Portrait of Pablo Recio, handling a snake",
-    "use": "portrait"
-  },
-  {
-    "file": "people-patrice-pottier.jpg",
-    "width": 258,
-    "height": 259,
-    "bytes": 28157,
-    "alt": "Portrait of Patrice Pottier",
-    "use": "portrait"
-  },
-  {
-    "file": "people-xingyi-xiu.jpg",
-    "width": 214,
-    "height": 177,
-    "bytes": 6197,
-    "alt": "Portrait of Xingyi Xiu",
-    "use": "portrait"
-  },
-  {
-    "file": "bg-hero-red-rock-lizard.jpg",
-    "width": 2048,
-    "height": 1360,
-    "bytes": 147105,
-    "alt": "Small pale lizard perched on a red rock against blurred orange ground",
-    "use": "background"
-  },
-  {
-    "file": "bg-hero-red-rock-lizard-mobile.jpg",
-    "width": 1080,
-    "height": 1360,
-    "bytes": 96014,
-    "alt": "Small pale lizard perched on a red rock against blurred orange ground",
-    "use": "background"
-  },
-  {
-    "file": "bg-hero-face.jpg",
-    "width": 1600,
-    "height": 1000,
-    "bytes": 127954,
-    "alt": "Small pale lizard perched on a red rock against blurred orange ground",
-    "use": "background"
-  },
-  {
-    "file": "bg-hero-scales.jpg",
-    "width": 2048,
-    "height": 1174,
-    "bytes": 445681,
-    "alt": "Close-up of patterned reptile scales, dark with pale and orange blotches",
-    "use": "background"
-  },
-  {
-    "file": "bg-hero-lizard-mesh.jpg",
-    "width": 2400,
-    "height": 1600,
-    "bytes": 327453,
-    "alt": "A small lizard emerging from a white pipe onto green mesh",
-    "use": "background"
-  },
-  {
-    "file": "bg-research-rock-lizard.jpg",
-    "width": 2048,
-    "height": 1360,
-    "bytes": 428762,
-    "alt": "Large spotted lizard emerging from beneath a red rock overhang among dry grass",
-    "use": "background"
-  },
-  {
-    "file": "bg-people-grass-lizard.jpg",
-    "width": 2048,
-    "height": 1360,
-    "bytes": 300308,
-    "alt": "Small lizard basking on a red rock among dry grass stems",
-    "use": "background"
-  },
-  {
-    "file": "bg-publications-leaf-frog.jpg",
-    "width": 2048,
-    "height": 1536,
-    "bytes": 439868,
-    "alt": "Mottled green-brown frog sitting on a large green leaf",
-    "use": "background"
-  },
-  {
-    "file": "bg-software-green-beetle.jpg",
-    "width": 2048,
-    "height": 1536,
-    "bytes": 255127,
-    "alt": "Metallic green beetle on mossy, lichen-covered bark",
-    "use": "background"
-  },
-  {
-    "file": "bg-software-face.jpg",
-    "width": 1768,
-    "height": 1079,
-    "bytes": 417676,
-    "alt": "Large crocodilian lying on damp bare ground among leaf litter and grass",
-    "use": "background"
-  },
-  {
-    "file": "bg-teaching-spotted-frogs.jpg",
-    "width": 2048,
-    "height": 1536,
-    "bytes": 443770,
-    "alt": "Two yellow-brown spotted frogs on a wet rock",
-    "use": "background"
-  },
-  {
-    "file": "bg-gallery-painted-dragon.jpg",
-    "width": 1536,
-    "height": 1024,
-    "bytes": 355221,
-    "alt": "Painted dragon on a weathered log in red-sand country",
-    "use": "background"
-  },
-  {
-    "file": "bg-gallery-painted-dragon-mobile.jpg",
-    "width": 1097,
-    "height": 900,
-    "bytes": 264970,
-    "alt": "Painted dragon on a weathered log in red-sand country",
-    "use": "background"
-  },
-  {
-    "file": "bg-opportunities-sleepy-lizard.jpg",
-    "width": 1536,
-    "height": 1024,
-    "bytes": 444692,
-    "alt": "Sleepy lizard on red soil among leaf litter, mouth open",
-    "use": "background"
-  },
-  {
-    "file": "bg-news-maria-island.jpg",
-    "width": 2048,
-    "height": 600,
-    "bytes": 198623,
-    "alt": "Panorama of open grassland running to coastal hills under low cloud, Maria Island, Tasmania",
-    "use": "background"
-  },
-  {
-    "file": "bg-contact-karst-lake.jpg",
-    "width": 2048,
-    "height": 1536,
-    "bytes": 323790,
-    "alt": "Steep forested rocky hills and trees reflected in a still lake under a pale sky",
-    "use": "background"
-  },
-  {
-    "file": "theme-1-1.png",
-    "width": 1600,
-    "height": 1120,
-    "bytes": 206951,
-    "alt": "Figure: coupled mechanistic models of thermal exposure/sensitivity",
-    "use": "theme-figure"
-  },
-  {
-    "file": "theme-1-2.jpg",
-    "width": 1600,
-    "height": 705,
-    "bytes": 247193,
-    "alt": "Figure: plant/grasshopper multi-panel diagram",
-    "use": "theme-figure"
-  },
-  {
-    "file": "theme-2-1.jpg",
-    "width": 1305,
-    "height": 1600,
-    "bytes": 271656,
-    "alt": "Figure: population ecology / energy allocation / mitochondrial bioenergetics flow diagram",
-    "use": "theme-figure"
-  },
-  {
-    "file": "theme-2-2.jpg",
-    "width": 1600,
-    "height": 1312,
-    "bytes": 328366,
-    "alt": "Figure: orchard plot of lnRR Q10 by habitat",
-    "use": "theme-figure"
-  },
-  {
-    "file": "theme-3-1.jpg",
-    "width": 1121,
-    "height": 1600,
-    "bytes": 140576,
-    "alt": "Figure: polar plot and trait-space diagram of plasticity vectors",
-    "use": "theme-figure"
-  },
-  {
-    "file": "theme-3-2.png",
-    "width": 540,
-    "height": 425,
-    "bytes": 24346,
-    "alt": "Figure: stacked bar chart of variance components",
-    "use": "theme-figure"
-  },
-  {
-    "file": "theme-3-3.png",
-    "width": 1600,
-    "height": 895,
-    "bytes": 334429,
-    "alt": "Figure: luminance/chromatic contrast vs background environment with chameleon illustrations",
-    "use": "theme-figure"
-  },
-  {
-    "file": "theme-4-1.png",
-    "width": 1600,
-    "height": 774,
-    "bytes": 201243,
-    "alt": "Figure: effect-size taxonomy",
-    "use": "theme-figure"
-  },
-  {
-    "file": "theme-4-2.jpg",
-    "width": 1600,
-    "height": 1268,
-    "bytes": 193903,
-    "alt": "Figure: \"nuisance heterogeneity\" standardising effects diagram with animal silhouettes and temperature bubbles",
-    "use": "theme-figure"
-  },
-  {
-    "file": "anu-logo.png",
-    "width": 576,
-    "height": 221,
-    "bytes": 110988,
-    "alt": "The Australian National University",
-    "use": "logo",
-    "source": ".claude/assets/anu_logo.png (ANU letterhead logo; white background made transparent)",
-    "notes": "Footer and home-page affiliation row; links to anu.edu.au"
-  },
-  {
-    "file": "people-daniel-noble-garden.jpg",
-    "width": 900,
-    "height": 900,
-    "bytes": 127583,
-    "alt": "Portrait of Daniel Noble",
-    "use": "portrait",
-    "source": "ANU_Profile_Pics/IMG_6889.jpg (square centre crop, EXIF/GPS stripped)",
-    "notes": "PI photo from 29 Aug 2026 at Daniel's request; replaces people-daniel-noble-2025.jpg"
-  },
-  {
-    "file": "hex-metadigitise.png",
-    "width": 259,
-    "height": 300,
-    "bytes": 22164,
-    "alt": "metaDigitise hex sticker",
-    "use": "logo",
-    "source": "https://raw.githubusercontent.com/EIvimeyCook/shinyDigitise/HEAD/inst/shinyDigitise/www/img/metaDigitise_logo.png (downscaled to 300 px tall, transparency kept, metadata stripped)",
-    "notes": "Software page card for metaDigitise"
-  },
-  {
-    "file": "hex-shinydigitise.png",
-    "width": 259,
-    "height": 300,
-    "bytes": 34999,
-    "alt": "shinyDigitise hex sticker",
-    "use": "logo",
-    "source": "https://raw.githubusercontent.com/EIvimeyCook/shinyDigitise/HEAD/inst/shinyDigitise/www/img/shinyDigitise.png (downscaled to 300 px tall, transparency kept, metadata stripped)",
-    "notes": "Software page card for shinyDigitise"
-  },
-  {
-    "file": "bg-hero-lizard-right.jpg",
-    "source": "photos_01_banner__2010-05-29 18.22.41.jpg (full-resolution original from Camera Uploads/Photos; crop (163, 496, 2885, 2068); EXIF stripped)",
-    "width": 2722,
-    "height": 1572,
-    "bytes": 231827,
-    "alt": "Small pale lizard perched on a red rock against blurred orange ground",
-    "use": "background",
-    "notes": "Home hero at desktop: 1.73:1 crop. Re-cropped 6 Sep 2026 (window slid 190 px left in the source) so the lizard sits further right and its head clears the wordmark."
-  },
-  {
-    "file": "collage-painted-dragon.jpg",
-    "width": 900,
-    "height": 900,
-    "bytes": 211230,
-    "alt": "A painted dragon on a weathered log in red-sand country",
-    "use": "collage"
-  },
-  {
-    "file": "collage-red-frog.jpg",
-    "width": 900,
-    "height": 900,
-    "bytes": 135259,
-    "alt": "A small bright red frog with pale blue legs on a mossy tree trunk",
-    "use": "collage"
-  },
-  {
-    "file": "collage-green-beetle.jpg",
-    "width": 900,
-    "height": 900,
-    "bytes": 125668,
-    "alt": "A metallic green beetle on lichen-covered bark",
-    "use": "collage"
-  },
-  {
-    "file": "collage-caterpillar.jpg",
-    "width": 900,
-    "height": 900,
-    "bytes": 150885,
-    "alt": "A bright orange hairy caterpillar on a green plant stem",
-    "use": "collage"
-  },
-  {
-    "file": "collage-crested-lizard.jpg",
-    "width": 900,
-    "height": 900,
-    "bytes": 127069,
-    "alt": "A crested lizard gripping a plant stem at night",
-    "use": "collage"
-  },
-  {
-    "file": "collage-butterfly.jpg",
-    "width": 900,
-    "height": 900,
-    "bytes": 237065,
-    "alt": "A brown and white butterfly resting on stony ground",
-    "use": "collage"
-  },
-  {
-    "file": "bg-news-karst-bay.jpg",
-    "source": "content/gs_images/photos_14_fieldwork-uncaptioned.jpg (old-site fieldwork photo; EXIF stripped)",
-    "width": 2048,
-    "height": 1536,
-    "bytes": 356458,
-    "alt": "Steep forested hills rising from a calm bay with mangroves under a blue sky",
-    "use": "background",
-    "notes": "News page header (replaces the Maria Island panorama); swap for an Australian coastal landscape when Daniel supplies one"
-  },
-  {
-    "file": "bg-software-croc-head.jpg",
-    "source": "content/gs_images/photos_13_fieldwork-uncaptioned.jpg (crop 0,380–1768,1229; EXIF stripped)",
-    "width": 1768,
-    "height": 849,
-    "bytes": 408872,
-    "alt": "Head and forequarters of a large crocodilian lying on damp ground among leaf litter",
-    "use": "background",
-    "notes": "Software page header; head across the right half of the band (Daniel, 29 Aug 2026)"
-  },
-  {
-    "file": "bg-software-green-snake.jpg",
-    "source": "content/gs_images/photos_10_fieldwork-uncaptioned.jpg (crop 0,0–1564,1536 so the head sits at 72% of the width; EXIF stripped)",
-    "width": 1564,
-    "height": 1536,
-    "bytes": 146835,
-    "alt": "A bright green snake and a small lizard on a large green leaf",
-    "use": "background",
-    "notes": "Software page header (Daniel asked for the animal's full head in view, 29 Aug 2026); crocodile crop kept as bg-software-croc-head.jpg"
-  },
-  {
-    "file": "theme-1-1.webp",
-    "source": "theme-1-1.png with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
-    "width": 1400,
-    "height": 980,
-    "bytes": 443798,
-    "alt": "Figure: coupled mechanistic models of thermal exposure/sensitivity",
-    "use": "theme-figure",
-    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
-  },
-  {
-    "file": "theme-1-2.webp",
-    "source": "theme-1-2.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
-    "width": 1400,
-    "height": 617,
-    "bytes": 264056,
-    "alt": "Figure: plant/grasshopper multi-panel diagram",
-    "use": "theme-figure",
-    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
-  },
-  {
-    "file": "theme-2-1.webp",
-    "source": "theme-2-1.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
-    "width": 1142,
-    "height": 1400,
-    "bytes": 323428,
-    "alt": "Figure: population ecology / energy allocation / mitochondrial bioenergetics flow diagram",
-    "use": "theme-figure",
-    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
-  },
-  {
-    "file": "theme-2-2.webp",
-    "source": "theme-2-2.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
-    "width": 1400,
-    "height": 1148,
-    "bytes": 457138,
-    "alt": "Figure: orchard plot of lnRR Q10 by habitat",
-    "use": "theme-figure",
-    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
-  },
-  {
-    "file": "theme-3-1.webp",
-    "source": "theme-3-1.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
-    "width": 981,
-    "height": 1400,
-    "bytes": 198140,
-    "alt": "Figure: polar plot and trait-space diagram of plasticity vectors",
-    "use": "theme-figure",
-    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
-  },
-  {
-    "file": "theme-3-2.webp",
-    "source": "theme-3-2.png with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
-    "width": 540,
-    "height": 425,
-    "bytes": 12490,
-    "alt": "Figure: stacked bar chart of variance components",
-    "use": "theme-figure",
-    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
-  },
-  {
-    "file": "theme-3-3.webp",
-    "source": "theme-3-3.png with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
-    "width": 1400,
-    "height": 783,
-    "bytes": 152770,
-    "alt": "Figure: luminance/chromatic contrast vs background environment with chameleon illustrations",
-    "use": "theme-figure",
-    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
-  },
-  {
-    "file": "theme-4-1.webp",
-    "source": "theme-4-1.png with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
-    "width": 1400,
-    "height": 677,
-    "bytes": 87512,
-    "alt": "Figure: effect-size taxonomy",
-    "use": "theme-figure",
-    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
-  },
-  {
-    "file": "theme-4-2.webp",
-    "source": "theme-4-2.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
-    "width": 1400,
-    "height": 1110,
-    "bytes": 221946,
-    "alt": "Figure: \"nuisance heterogeneity\" standardising effects diagram with animal silhouettes and temperature bubbles",
-    "use": "theme-figure",
-    "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
-  },
-  {
-    "file": "bg-people-grass-lizard-right.jpg",
-    "source": "home_02__2010-05-29 18.23.52.jpg (full-resolution original from Camera Uploads/Photos; crop (209, 628, 2931, 2847); EXIF stripped)",
-    "width": 2600,
-    "height": 2119,
-    "bytes": 642975,
-    "alt": "Small lizard basking on a red rock among dry grass",
-    "use": "background",
-    "notes": "People page header; lizard across the right of the band (Daniel, 29 Aug 2026)"
-  },
-  {
-    "file": "bg-software-green-snake-hires.jpg",
-    "source": "photos_10__2007-05-28 01.55.21.jpg (full-resolution original from Camera Uploads/Photos; crop (0, 337, 1687, 1350); EXIF stripped)",
-    "width": 1687,
-    "height": 1013,
-    "bytes": 237957,
-    "alt": "A bright green snake and a small lizard on a large green leaf",
-    "use": "background",
-    "notes": "Software page header, replacing bg-software-green-snake.jpg, which Daniel found soft (29 Aug 2026). photos_10 is the sharper of the two frames of this scene: Laplacian variance over the snake's head is 451 against 88 for photos_20, and 46 against 19 over the whole frame. Exported at native pixels and 1500 px wide so the 1440 band never upscales it; head at about 66-85% across, clear of the title."
-  },
-  {
-    "file": "bg-research-goanna-right.jpg",
-    "source": "home_03__2010-05-29 21.55.59.jpg (full-resolution original from Camera Uploads/Photos; crop (0, 560, 2000, 1810); EXIF stripped)",
-    "width": 2000,
-    "height": 1250,
-    "bytes": 417459,
-    "alt": "Large spotted lizard emerging from beneath a red rock overhang among dry grass",
-    "use": "background",
-    "notes": "Research page header (Daniel asked for less background and the head right of the title, 29 Aug 2026). Native-pixel crop of the left 1440 px, so the animal reads about 1.4x larger than the full frame did. Its head lands at 40-53% of the band: it cannot go further right without upscaling, because the head sits only a third of the way into the source frame."
-  },
-  {
-    "file": "bg-publications-leaf-frog-right.jpg",
-    "source": "photos_21__2007-05-22 08.12.53.jpg (full-resolution original from Camera Uploads/Photos; crop (0, 337, 1800, 1462); EXIF stripped)",
-    "width": 1800,
-    "height": 1125,
-    "bytes": 484744,
-    "alt": "Mottled green-brown frog sitting on a large green leaf",
-    "use": "background",
-    "notes": "Publications page header (Daniel asked for the frog moved right to fill the space beside the title, 29 Aug 2026). 1600 px wide so the frog's head is not clipped by the 1.09 slow-zoom; frog runs from about 49% to 94% across, head and eye at the right."
-  },
-  {
-    "file": "bg-teaching-red-frog.jpg",
-    "source": "photos_03__2005-02-23 18.51.39.jpg (full-resolution original from Camera Uploads/Photos; crop (0, 0, 1440, 700); EXIF stripped)",
-    "width": 1440,
-    "height": 700,
-    "bytes": 169263,
-    "alt": "Bright red frog with blue legs on a mossy tree trunk",
-    "use": "background",
-    "notes": "Teaching page header, replacing bg-teaching-spotted-frogs.jpg (Daniel, 29 Aug 2026). Native-pixel crop of the left 1440 px; frog at about 64-80% across with the head in view, mossy bark behind the title."
-  },
-  {
-    "file": "bg-gallery-painted-dragon-right.jpg",
-    "source": "content/gs_images/photos_02_fieldwork-painted-dragon.jpg (crop 0,250–1440,1250; EXIF stripped)",
-    "width": 1440,
-    "height": 1000,
-    "bytes": 413784,
-    "alt": "Painted dragon on a weathered log in red-sand country",
-    "use": "background",
-    "notes": "Gallery page header (Daniel asked for the dragon featured on the right, 29 Aug 2026). The source is portrait 1536x2048, so 1440 px is the narrowest crop that still avoids upscaling and pushes the animal as far right as the pixels allow: head at 50-64% across, only log and sand behind the title. The band is deepened to 400 px so the head and forelegs clear the fixed header."
-  },
-  {
-    "file": "hex-orchard.png",
-    "source": "https://raw.githubusercontent.com/daniel1noble/orchaRd/HEAD/hex/orchaRd_hex.png (repo commit \"Adding hex sticker\", 29 Aug 2026); downscaled to 300 px, metadata stripped",
-    "width": 260,
-    "height": 300,
-    "bytes": 54392,
-    "alt": "orchaRd hex sticker",
-    "use": "logo"
-  },
-  {
-    "file": "figure-orchard.webp",
-    "source": "Figure embedded in the orchaRd package README at https://daniel1noble.github.io/orchaRd/ (figure 20 of 36); white ground made transparent",
-    "width": 1344,
-    "height": 960,
-    "bytes": 42554,
-    "alt": "Orchard plot of log response ratios for four trait categories, with precision-scaled points, mean estimates and intervals",
-    "use": "figure",
-    "notes": "Software page, orchaRd card, in place of a video"
-  },
-  {
-    "file": "figure-freqtls.webp",
-    "source": "Figure 5 of the 2026 preprint (10.64898/2026.07.16.738378): thermal sensitivity (z) and critical thermal limit (CTmax) estimated across four case studies — from the manuscript folder output/figs/fig4_case_study_densities.png; white ground made transparent",
-    "width": 1800,
-    "height": 1280,
-    "bytes": 261844,
-    "alt": "Posterior densities of thermal sensitivity (z) and the critical thermal limit (CTmax) across four case studies",
-    "use": "figure",
-    "notes": "Software page, freqTLS card; source is only 672 px wide"
-  },
-  {
-    "file": "figure-bayestls.webp",
-    "source": "Figure 6 of the 2026 preprint (10.64898/2026.07.16.738378): heat-injury accumulation and predicted survival under field temperature series, for a vinegar fly by sex and three cereal aphid species — from the manuscript folder output/figs/fig5_heat_injury.png; white ground made transparent",
-    "width": 1800,
-    "height": 1469,
-    "bytes": 449352,
-    "alt": "Heat-injury accumulation and predicted survival under field temperature–time series, panels for a vinegar fly by sex and three cereal aphid species",
-    "use": "figure",
-    "notes": "Software page, bayesTLS card"
-  },
-  {
-    "file": "bg-research-goanna-ledge.jpg",
-    "source": "Camera Uploads/Photos/Alice Springs Photos/2010-05-29 20.07.05.jpg (4288x2848 native; crop (0, 1087, 3300, 2004); resampled to 2000 px wide; EXIF stripped) (crop (0, 1040, 4288, 2350), full frame width so the whole head clears the bottom fade; EXIF stripped)",
-    "width": 2400,
-    "height": 733,
-    "bytes": 192082,
-    "alt": "Large monitor lizard lying along a red sandstone ledge in side profile, head and neck lit against deep shade",
-    "use": "background",
-    "notes": "Research page header, replacing bg-research-goanna-right.jpg. Daniel said the monitor was still not positioned correctly and asked for a frame more focused on the lizard (29 Aug 2026). Every Alice Springs frame containing a monitor was contact-sheeted; this one is the only one where the animal already faces right with its head near the right of the frame, so the crop does not have to fight the composition. The crop is the band's own 3.6:1, which makes the vertical object-position inert on desktop and leaves x free to steer phones. Eye at 72% and snout at about 85% of the band, well clear of the title; the animal runs the full width."
-  },
-  {
-    "file": "bg-publications-leaf-frog-wide.jpg",
-    "source": "Camera Uploads/Photos/Vietnam 2007/2007-05-22 08.12.53.jpg (2304x1728 native; crop (0, 529, 2100, 1112); resampled to 2000 px wide; EXIF stripped)",
-    "width": 2000,
-    "height": 555,
-    "bytes": 273177,
-    "alt": "Mottled green-brown frog resting on a large green leaf, its eye and speckled flank facing the camera",
-    "use": "background",
-    "notes": "Publications page header, replacing bg-publications-leaf-frog-right.jpg. Daniel asked for the frog moved up so more of it shows and less leaf (29 Aug 2026). Raising the vertical object-position on the old 1800 px crop could not do it: the band only ever shows a 3.6:1 slice, and the frog was taller than that slice, so every step down traded head for haunches. Cutting wider from the 2304 px original shrinks the frog against the frame instead, and now head, eye, back and flank all fit. Eye at about 76% across."
-  },
-  {
-    "file": "bg-software-broad-headed-snake.jpg",
-    "source": "Camera Uploads/Photos/Morton National Park- Broad-headed Snakes/2010-07-05 05.51.43.jpg (3888x2592 native; crop (0, 950, 3100, 1811); resampled to 2000 px wide; EXIF stripped)",
-    "width": 2000,
-    "height": 555,
-    "bytes": 227343,
-    "alt": "Broad-headed snake coiled on flat grey ground, its dark body banded and spotted with pale yellow",
-    "use": "background",
-    "notes": "Software page header, replacing bg-software-green-snake-hires.jpg, which Daniel still found blurry (29 Aug 2026). Both Morton National Park albums were contact-sheeted; the only snake frames in either are six of this animal, and this is the frame where the flattened head lies clear of the coils rather than tucked under them. It is also far sharper and much higher in contrast than the Vietnam frame, which matters because this band renders very pale. Coil fills the band from about 30% to 86% across with the head at 82%; imageOpacity raised to 0.95 so the pattern reads rather than dissolving into texture."
-  },
-  {
-    "file": "bg-gallery-dragon-rock.jpg",
-    "source": "Camera Uploads/Photos/Alice Springs Photos/2010-05-29 18.24.30.jpg (4288x2848 native; crop (0, 430, 3700, 1458); resampled to 2000 px wide; EXIF stripped)",
-    "width": 2000,
-    "height": 556,
-    "bytes": 99158,
-    "alt": "Small dragon lizard on a red sandstone boulder, head raised, against blurred grass",
-    "use": "background",
-    "notes": "Gallery page header, replacing bg-gallery-painted-dragon-right.jpg. Daniel asked for the lizard further right again (29 Aug 2026), which the old portrait 1536 px source could not give: its head could not pass about 64% without upscaling. This landscape 4288 px frame puts the eye at 78% and the snout at about 88%. The source is intrinsically low in contrast - a pale orange lizard on pale orange rock - so imageOpacity is 1: the head and eye read clearly, the body behind it stays faint."
-  },
-  {
-    "file": "bg-opportunities-grasshopper.jpg",
-    "source": "Camera Uploads/Photos/Panama/2006-06-18 15.00.00.jpg (2304x1728 native; crop (0, 460, 2160, 1060); resampled to 2000 px wide; EXIF stripped)",
-    "width": 2000,
-    "height": 556,
-    "bytes": 129048,
-    "alt": "Large dark grasshopper edged with orange walking along a pale bare stem, long antennae raised",
-    "use": "background",
-    "notes": "Join the lab page header, replacing bg-opportunities-pygmy-bluetongue.jpg. Daniel asked for a new header image, an insect if possible, high resolution (29 Aug 2026). All seven fully downloaded Camera Uploads albums (1211 frames) were contact-sheeted for insects. Nothing usable exists above 2304 px: the four albums that shoot larger hold only a mantid (2848x4288) which is vertical and cannot fit a 3.6:1 band, and hand-held frames that show a person. This is the strongest of the 2304 px frames - the same resolution as the Vietnam originals - and the boldest tonally, which the pale band needs. Whole animal in frame, antennae to hind foot, head at 73% across. The band is deepened from 320 to the 400 px the other photographic heroes use; at 320 the band's slice is shorter than the insect and clips it."
-  },
-  {
-    "file": "gallery-30-mesocosms.jpg",
-    "source": "IMG_6539.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
-    "width": 1600,
-    "height": 1200,
-    "bytes": 517867,
-    "alt": "Rows of circular outdoor mesocosm tanks under shade-cloth netting, with greenhouses behind",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-30-mesocosms-thumb.jpg",
-    "source": "IMG_6539.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
-    "width": 600,
-    "height": 450,
-    "bytes": 68299,
-    "alt": "Rows of circular outdoor mesocosm tanks under shade-cloth netting, with greenhouses behind",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-31-mesocosms-netting.jpg",
-    "source": "IMG_6411.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
-    "width": 1600,
-    "height": 1200,
-    "bytes": 669895,
-    "alt": "Circular mesocosm tanks under fine netting on a gravel pad",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-31-mesocosms-netting-thumb.jpg",
-    "source": "IMG_6411.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
-    "width": 600,
-    "height": 450,
-    "bytes": 105555,
-    "alt": "Circular mesocosm tanks under fine netting on a gravel pad",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-32-mesocosm-tank.jpg",
-    "source": "IMG_8874.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
-    "width": 1600,
-    "height": 1200,
-    "bytes": 500529,
-    "alt": "A circular mesocosm tank with a gravel and rock centre, greenhouses behind",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-32-mesocosm-tank-thumb.jpg",
-    "source": "IMG_8874.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
-    "width": 600,
-    "height": 450,
-    "bytes": 76772,
-    "alt": "A circular mesocosm tank with a gravel and rock centre, greenhouses behind",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-33-mesocosm-compound.jpg",
-    "source": "IMG_6452.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
-    "width": 1600,
-    "height": 1200,
-    "bytes": 446839,
-    "alt": "The mesocosm compound under construction on a gravel pad, seen from the road",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-33-mesocosm-compound-thumb.jpg",
-    "source": "IMG_6452.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
-    "width": 600,
-    "height": 450,
-    "bytes": 63020,
-    "alt": "The mesocosm compound under construction on a gravel pad, seen from the road",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-34-fms.jpg",
-    "source": "IMG_2235.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
-    "width": 1200,
-    "height": 1600,
-    "bytes": 315467,
-    "alt": "A Sable Systems FMS respirometry unit in its case, with tubing and cables connected",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-34-fms-thumb.jpg",
-    "source": "IMG_2235.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
-    "width": 450,
-    "height": 600,
-    "bytes": 57710,
-    "alt": "A Sable Systems FMS respirometry unit in its case, with tubing and cables connected",
-    "use": "gallery"
-  },
-  {
-    "file": "lab-life-outing.jpg",
-    "source": "IMG_5832-full.jpg in ANU_Website/",
-    "width": 1600,
-    "height": 1200,
-    "bytes": 367522,
-    "alt": "Seven lab members standing in front of a \"Riddle Room Canberra\" sign",
-    "use": "lab-life"
-  },
-  {
-    "file": "lab-life-ash-2025.jpg",
-    "source": "home_19_ash-meeting-coffs-harbour-2025.jpg (old Google Site home carousel, caption verbatim)",
-    "width": 1600,
-    "height": 998,
-    "bytes": 313288,
-    "alt": "Five lab members under a green and black balloon arch at a conference social",
-    "use": "lab-life"
-  },
-  {
-    "file": "gallery-field-40-broad-headed-snake.jpg",
-    "source": "Camera Uploads/Photos/Morton National Park- Broad-headed Snakes/2010-07-05 05.51.43.jpg (EXIF stripped)",
-    "width": 1600,
-    "height": 1067,
-    "bytes": 394091,
-    "alt": "A broad-headed snake coiled on dark rock, banded head clear at the edge of the coil",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-40-broad-headed-snake-thumb.jpg",
-    "source": "Camera Uploads/Photos/Morton National Park- Broad-headed Snakes/2010-07-05 05.51.43.jpg (EXIF stripped)",
-    "width": 600,
-    "height": 400,
-    "bytes": 73223,
-    "alt": "A broad-headed snake coiled on dark rock, banded head clear at the edge of the coil",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-41-india-viper.jpg",
-    "source": "Camera Uploads/India/2023-06-18 02.05.43.jpg (EXIF/GPS stripped)",
-    "width": 1600,
-    "height": 1023,
-    "bytes": 436913,
-    "alt": "A saw-scaled viper coiled on granite at night",
-    "use": "gallery",
-    "notes": "Species confirmed by Daniel, 29 Aug 2026"
-  },
-  {
-    "file": "gallery-field-41-india-viper-thumb.jpg",
-    "source": "Camera Uploads/India/2023-06-18 02.05.43.jpg (EXIF/GPS stripped)",
-    "width": 600,
-    "height": 384,
-    "bytes": 75324,
-    "alt": "A saw-scaled viper coiled on granite at night",
-    "use": "gallery",
-    "notes": "Species confirmed by Daniel, 29 Aug 2026"
-  },
-  {
-    "file": "gallery-field-42-india-gecko.jpg",
-    "source": "Camera Uploads/India/2023-06-18 02.32.29.jpg (EXIF/GPS stripped)",
-    "width": 1600,
-    "height": 991,
-    "bytes": 493593,
-    "alt": "A marbled gecko in profile on pale granite at night",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-42-india-gecko-thumb.jpg",
-    "source": "Camera Uploads/India/2023-06-18 02.32.29.jpg (EXIF/GPS stripped)",
-    "width": 600,
-    "height": 371,
-    "bytes": 78755,
-    "alt": "A marbled gecko in profile on pale granite at night",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-43-india-golden-frog.jpg",
-    "source": "Camera Uploads/India/2023-06-18 01.51.16.jpg (EXIF/GPS stripped)",
-    "width": 1600,
-    "height": 1200,
-    "bytes": 409087,
-    "alt": "A golden-brown frog sitting on a rock among grass at night",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-43-india-golden-frog-thumb.jpg",
-    "source": "Camera Uploads/India/2023-06-18 01.51.16.jpg (EXIF/GPS stripped)",
-    "width": 600,
-    "height": 450,
-    "bytes": 82174,
-    "alt": "A golden-brown frog sitting on a rock among grass at night",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-44-india-rock-lizard.jpg",
-    "source": "Camera Uploads/India/2023-06-18 02.34.13.jpg (EXIF/GPS stripped)",
-    "width": 1200,
-    "height": 1600,
-    "bytes": 522444,
-    "alt": "A lizard with orange limbs pressed against granite at night",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-44-india-rock-lizard-thumb.jpg",
-    "source": "Camera Uploads/India/2023-06-18 02.34.13.jpg (EXIF/GPS stripped)",
-    "width": 450,
-    "height": 600,
-    "bytes": 90724,
-    "alt": "A lizard with orange limbs pressed against granite at night",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-45-india-toad.jpg",
-    "source": "Camera Uploads/India/2023-06-14 19.28.03.jpg (EXIF/GPS stripped)",
-    "width": 1600,
-    "height": 1200,
-    "bytes": 339293,
-    "alt": "A warty toad in profile on a concrete step",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-45-india-toad-thumb.jpg",
-    "source": "Camera Uploads/India/2023-06-14 19.28.03.jpg (EXIF/GPS stripped)",
-    "width": 600,
-    "height": 450,
-    "bytes": 56277,
-    "alt": "A warty toad in profile on a concrete step",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-46-india-moth.jpg",
-    "source": "Camera Uploads/India/2023-06-13 07.19.48.jpg (EXIF/GPS stripped)",
-    "width": 1600,
-    "height": 1200,
-    "bytes": 486777,
-    "alt": "A moth with eyespot wing markings resting on a rendered wall",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-46-india-moth-thumb.jpg",
-    "source": "Camera Uploads/India/2023-06-13 07.19.48.jpg (EXIF/GPS stripped)",
-    "width": 600,
-    "height": 450,
-    "bytes": 101232,
-    "alt": "A moth with eyespot wing markings resting on a rendered wall",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-35-fms-unit.jpg",
-    "source": "Miscellaneous/resp_pics/2016-01-13 15.09.00.jpg (EXIF stripped)",
-    "width": 1600,
-    "height": 1200,
-    "bytes": 247031,
-    "alt": "A Sable Systems Field Metabolic System unit in its case",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-35-fms-unit-thumb.jpg",
-    "source": "Miscellaneous/resp_pics/2016-01-13 15.09.00.jpg (EXIF stripped)",
-    "width": 600,
-    "height": 450,
-    "bytes": 52568,
-    "alt": "A Sable Systems Field Metabolic System unit in its case",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-36-respirometry-rig.jpg",
-    "source": "Miscellaneous/resp_pics/2016-03-02 11.25.07.jpg (EXIF stripped)",
-    "width": 1600,
-    "height": 1200,
-    "bytes": 210821,
-    "alt": "A flow multiplexer and gas analyser with tubing on a lab bench",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-36-respirometry-rig-thumb.jpg",
-    "source": "Miscellaneous/resp_pics/2016-03-02 11.25.07.jpg (EXIF stripped)",
-    "width": 600,
-    "height": 450,
-    "bytes": 44122,
-    "alt": "A flow multiplexer and gas analyser with tubing on a lab bench",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-37-respirometry-chambers.jpg",
-    "source": "Miscellaneous/resp_pics/2016-03-02 17.05.12.jpg (EXIF stripped)",
-    "width": 1600,
-    "height": 1200,
-    "bytes": 228655,
-    "alt": "A row of small respirometry chambers connected by tubing to a multiplexer",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-37-respirometry-chambers-thumb.jpg",
-    "source": "Miscellaneous/resp_pics/2016-03-02 17.05.12.jpg (EXIF stripped)",
-    "width": 600,
-    "height": 450,
-    "bytes": 47760,
-    "alt": "A row of small respirometry chambers connected by tubing to a multiplexer",
-    "use": "gallery"
-  },
-  {
-    "file": "bg-software-chameleon.jpg",
-    "source": "Camera Uploads/India/2023-06-18 00.54.26.jpg (full width, rows 27–50%; EXIF stripped)",
-    "width": 3024,
-    "height": 928,
-    "bytes": 574335,
-    "alt": "A bright green chameleon in profile on a hand at night, head to the right",
-    "use": "background",
-    "notes": "Software page header (Daniel, 29 Aug 2026); replaces the broad-headed snake, which stays on disk"
-  },
-  {
-    "file": "gallery-field-47-india-chameleon.jpg",
-    "source": "Camera Uploads/India/2023-06-18 00.54.24.jpg (EXIF stripped)",
-    "width": 1200,
-    "height": 1600,
-    "bytes": 283149,
-    "alt": "A bright green chameleon in full profile held on fingers at night",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-47-india-chameleon-thumb.jpg",
-    "source": "Camera Uploads/India/2023-06-18 00.54.24.jpg (EXIF stripped)",
-    "width": 450,
-    "height": 600,
-    "bytes": 43198,
-    "alt": "A bright green chameleon in full profile held on fingers at night",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-48-india-vine-snake.jpg",
-    "source": "Camera Uploads/India/2023-06-18 00.45.12.jpg (EXIF stripped)",
-    "width": 1200,
-    "height": 1600,
-    "bytes": 197415,
-    "alt": "A slender green vine snake looped through a hand at night, head raised",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-48-india-vine-snake-thumb.jpg",
-    "source": "Camera Uploads/India/2023-06-18 00.45.12.jpg (EXIF stripped)",
-    "width": 450,
-    "height": 600,
-    "bytes": 39078,
-    "alt": "A slender green vine snake looped through a hand at night, head raised",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-49-india-lizard.jpg",
-    "source": "Camera Uploads/India/2023-06-15 15.58.30.jpg (EXIF stripped)",
-    "width": 1200,
-    "height": 1600,
-    "bytes": 167297,
-    "alt": "A lizard held upright in a hand with its mouth open, showing an orange and black throat",
-    "use": "gallery"
-  },
-  {
-    "file": "gallery-field-49-india-lizard-thumb.jpg",
-    "source": "Camera Uploads/India/2023-06-15 15.58.30.jpg (EXIF stripped)",
-    "width": 450,
-    "height": 600,
-    "bytes": 28880,
-    "alt": "A lizard held upright in a hand with its mouth open, showing an orange and black throat",
-    "use": "gallery"
-  },
-  {
-    "file": "cover-science-advances-2022.jpg",
-    "source": "old Google Site publications page (publications_02_unknown-a.jpg); metadata stripped",
-    "width": 874,
-    "height": 1200,
-    "bytes": 232533,
-    "alt": "Science Advances cover, 13 May 2022: a horned chameleon on a branch",
-    "use": "cover"
-  },
-  {
-    "file": "cover-jeb-evol-biol-2021.jpg",
-    "source": "old Google Site publications page (publications_03_unknown-b.jpg); metadata stripped",
-    "width": 730,
-    "height": 1000,
-    "bytes": 167850,
-    "alt": "Journal of Evolutionary Biology cover, volume 34 issue 3, March 2021: a lizard on leaf litter",
-    "use": "cover"
-  },
-  {
-    "file": "cover-j-exp-biol-2024.jpg",
-    "source": "old Google Site publications page (publications_04_jeb-issue-227-24-link-thumbnail.png); metadata stripped",
-    "width": 520,
-    "height": 675,
-    "bytes": 81097,
-    "alt": "Journal of Experimental Biology cover, volume 227 issue 24, December 2024: a skink on a dead leaf",
-    "use": "cover"
-  },
-  {
-    "file": "cover-evol-ecol-2022.jpg",
-    "source": "https://media.springernature.com/full/springer-static/cover-hires/journal/10682/36/2 (Springer issue cover, fetched 30 Aug 2026; matches the old site thumbnail)",
-    "width": 827,
-    "height": 1263,
-    "bytes": 233922,
-    "alt": "Evolutionary Ecology cover, volume 36 number 2, 2022: several dark skinks on pale bark",
-    "use": "cover"
-  },
-  {
-    "file": "logo-mark.png",
-    "source": "ANU_Website/lab_logo2.png (Daniel, 30 Aug 2026); outer ground flood-filled to transparency, trimmed, 512 px",
-    "width": 512,
-    "height": 504,
-    "bytes": 224449,
-    "alt": "Noble Lab logo",
-    "use": "logo"
-  },
-  {
-    "file": "../favicon-32.png",
-    "source": "public/images/logo-mark.png, squared and resized",
-    "width": 32,
-    "height": 32,
-    "bytes": 2708,
-    "alt": "Noble Lab logo",
-    "use": "favicon"
-  },
-  {
-    "file": "../apple-touch-icon.png",
-    "source": "public/images/logo-mark.png, squared and resized",
-    "width": 180,
-    "height": 180,
-    "bytes": 33766,
-    "alt": "Noble Lab logo",
-    "use": "favicon"
-  },
-  {
-    "file": "../icon-512.png",
-    "source": "public/images/logo-mark.png, squared and resized",
-    "width": 512,
-    "height": 512,
-    "bytes": 218979,
-    "alt": "Noble Lab logo",
-    "use": "favicon"
-  },
-  {
-    "file": "people-qian-hu.jpg",
-    "source": "originals/people/QIAN.jpg (supplied by Daniel, 31 Aug 2026); metadata stripped",
-    "width": 586,
-    "height": 600,
-    "bytes": 54496,
-    "alt": "Portrait of Qian Hu",
-    "use": "portrait"
-  },
-  {
-    "file": "hex-bayestls.png",
-    "source": "originals/hex/bayesTLS-hex.png (hex sticker made by Daniel, 1 Sep 2026); resized to 300 px",
-    "width": 262,
-    "height": 300,
-    "bytes": 75334,
-    "alt": "bayesTLS hex sticker",
-    "use": "logo"
-  },
-  {
-    "file": "hex-freqtls.png",
-    "source": "originals/hex/freqTLS-hex.png (hex sticker made by Daniel, 1 Sep 2026); resized to 300 px",
-    "width": 262,
-    "height": 300,
-    "bytes": 53128,
-    "alt": "freqTLS hex sticker",
-    "use": "logo"
-  },
-  {
-    "file": "people-fonti-kar.jpg",
-    "source": "https://fontikar.github.io/images/fonti_moss.jpg (her own website); square centre crop, metadata stripped (1 Sep 2026)",
-    "width": 600,
-    "height": 600,
-    "bytes": 135310,
-    "alt": "Portrait of Fonti Kar",
-    "use": "portrait"
-  },
-  {
-    "file": "people-birgit-szabo.jpg",
-    "source": "https://ecobird.ugent.be/images/t/pasted-image-450.jpg (Ghent University group page); square centre crop, metadata stripped (1 Sep 2026)",
-    "width": 450,
-    "height": 450,
-    "bytes": 29628,
-    "alt": "Portrait of Birgit Szabo",
-    "use": "portrait"
-  },
-  {
-    "file": "people-julia-riley.jpg",
-    "source": "https://www.mta.ca/directory/julia-riley (Mount Allison University staff page); square centre crop, metadata stripped (1 Sep 2026)",
-    "width": 280,
-    "height": 280,
-    "bytes": 22915,
-    "alt": "Portrait of Julia Riley",
-    "use": "portrait"
-  },
-  {
-    "file": "people-maider-iglesias-carrasco.jpg",
-    "source": "The Conversation author profile (theconversation.com/profiles/maider-iglesias-carrasco-1536710); square centre crop, metadata stripped (1 Sep 2026)",
-    "width": 238,
-    "height": 238,
-    "bytes": 17372,
-    "alt": "Portrait of Maider Iglesias-Carrasco",
-    "use": "portrait"
-  }
+ {
+  "file": "hero-animal-room.jpg",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 400080,
+  "alt": "Rows of labelled clear plastic enclosures on black shelving in the lizard animal room",
+  "use": "hero"
+ },
+ {
+  "file": "hero-heat-lamps.jpg",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 189669,
+  "alt": "Clear plastic enclosures beneath strip lights and heat lamps",
+  "use": "hero"
+ },
+ {
+  "file": "hero-lab-shelving.jpg",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 303106,
+  "alt": "Shelving units of clear plastic lizard enclosures under strip lights and heat lamps in the animal facility",
+  "use": "hero"
+ },
+ {
+  "file": "research-crickets.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 99583,
+  "alt": "Crickets in a plastic container",
+  "use": "research"
+ },
+ {
+  "file": "research-egg-cups.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 229388,
+  "alt": "Labelled cups of vermiculite, covered with film, on incubator racks",
+  "use": "research"
+ },
+ {
+  "file": "research-eggs.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 219457,
+  "alt": "Four small white eggs on vermiculite in a plastic container",
+  "use": "research"
+ },
+ {
+  "file": "research-enclosures.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 126091,
+  "alt": "Labelled clear plastic enclosures with record cards on a shelf",
+  "use": "research"
+ },
+ {
+  "file": "research-handling.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 88698,
+  "alt": "A small lizard held gently between a researcher's fingers",
+  "use": "research"
+ },
+ {
+  "file": "research-hatchling.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 114244,
+  "alt": "A hatchling lizard in a labelled cup of vermiculite held in a hand",
+  "use": "research"
+ },
+ {
+  "file": "research-incubator.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 205515,
+  "alt": "Hands adjusting labelled cups on an incubator rack",
+  "use": "research"
+ },
+ {
+  "file": "research-lizard-bark.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 140042,
+  "alt": "A small lizard sheltering under a piece of bark beside a pipe hide",
+  "use": "research"
+ },
+ {
+  "file": "research-lizard-pipe.jpg",
+  "width": 1600,
+  "height": 1600,
+  "bytes": 222166,
+  "alt": "A small lizard emerging from a pipe hide onto green mesh in its enclosure",
+  "use": "research"
+ },
+ {
+  "file": "gallery-01-lab-shelving-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 41583,
+  "alt": "Shelving units of clear plastic lizard enclosures under strip lights and heat lamps",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-01-lab-shelving.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 166203,
+  "alt": "Shelving units of clear plastic lizard enclosures under strip lights and heat lamps",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-02-animal-room-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 50822,
+  "alt": "Rows of labelled clear plastic enclosures on black shelving in the lizard animal room",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-02-animal-room.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 214497,
+  "alt": "Rows of labelled clear plastic enclosures on black shelving in the lizard animal room",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-03-heat-lamps-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 27764,
+  "alt": "Clear plastic enclosures beneath strip lights and heat lamps",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-03-heat-lamps.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 107342,
+  "alt": "Clear plastic enclosures beneath strip lights and heat lamps",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-04-enclosures-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 31950,
+  "alt": "Labelled clear plastic enclosures with record cards on a shelf",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-04-enclosures.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 125855,
+  "alt": "Labelled clear plastic enclosures with record cards on a shelf",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-05-shelving-tall-thumb.jpg",
+  "width": 400,
+  "height": 600,
+  "bytes": 40060,
+  "alt": "Tall shelving of clear enclosures and heat lamps, viewed from below",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-05-shelving-tall.jpg",
+  "width": 1067,
+  "height": 1600,
+  "bytes": 156616,
+  "alt": "Tall shelving of clear enclosures and heat lamps, viewed from below",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-06-lizard-bark-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 25901,
+  "alt": "A small lizard sheltering under a piece of bark beside a pipe hide",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-06-lizard-bark.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 139326,
+  "alt": "A small lizard sheltering under a piece of bark beside a pipe hide",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-07-lizard-pipe-thumb.jpg",
+  "width": 600,
+  "height": 600,
+  "bytes": 49358,
+  "alt": "A small lizard emerging from a pipe hide onto green mesh in its enclosure",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-07-lizard-pipe.jpg",
+  "width": 1600,
+  "height": 1600,
+  "bytes": 222166,
+  "alt": "A small lizard emerging from a pipe hide onto green mesh in its enclosure",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-08-lizard-in-hand-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 15171,
+  "alt": "A small lizard held gently between a researcher's fingers",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-08-lizard-in-hand.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 88233,
+  "alt": "A small lizard held gently between a researcher's fingers",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-09-hatchling-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 22151,
+  "alt": "A hatchling lizard in a labelled cup of vermiculite held in a hand",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-09-hatchling.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 113859,
+  "alt": "A hatchling lizard in a labelled cup of vermiculite held in a hand",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-10-egg-cups-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 43425,
+  "alt": "Labelled cups of vermiculite, covered with film, on incubator racks",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-10-egg-cups.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 228461,
+  "alt": "Labelled cups of vermiculite, covered with film, on incubator racks",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-11-incubator-hands-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 39199,
+  "alt": "Hands adjusting labelled cups on an incubator rack",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-11-incubator-hands.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 204633,
+  "alt": "Hands adjusting labelled cups on an incubator rack",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-12-incubator-check-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 30992,
+  "alt": "A researcher examining a small cup beside laboratory incubators",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-12-incubator-check.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 147537,
+  "alt": "A researcher examining a small cup beside laboratory incubators",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-13-incubator-loading-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 32723,
+  "alt": "A researcher placing cups of vermiculite into an incubator",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-13-incubator-loading.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 157300,
+  "alt": "A researcher placing cups of vermiculite into an incubator",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-14-crickets-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 20581,
+  "alt": "Crickets in a plastic container",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-14-crickets.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 99218,
+  "alt": "Crickets in a plastic container",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-15-animal-room-work-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 52717,
+  "alt": "A researcher working at a bench in the lizard animal room, surrounded by shelves of enclosures",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-15-animal-room-work.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 237085,
+  "alt": "A researcher working at a bench in the lizard animal room, surrounded by shelves of enclosures",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-16-checking-tubs-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 37418,
+  "alt": "A researcher checking enclosures at a bench",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-16-checking-tubs.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 171422,
+  "alt": "A researcher checking enclosures at a bench",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-17-shelf-tub-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 34369,
+  "alt": "A researcher reaching into a shelf of enclosures, holding a small tub",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-17-shelf-tub.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 145477,
+  "alt": "A researcher reaching into a shelf of enclosures, holding a small tub",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-18-stack-of-tubs-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 43401,
+  "alt": "A researcher smiling while holding a stack of small tubs beside shelves of enclosures",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-18-stack-of-tubs.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 197604,
+  "alt": "A researcher smiling while holding a stack of small tubs beside shelves of enclosures",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-19-lab-bench-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 35829,
+  "alt": "Two researchers preparing small tubs at a laboratory bench",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-19-lab-bench.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 161361,
+  "alt": "Two researchers preparing small tubs at a laboratory bench",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-20-holding-tubs-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 42239,
+  "alt": "A researcher holding a stack of small tubs in the animal room",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-20-holding-tubs.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 183575,
+  "alt": "A researcher holding a stack of small tubs in the animal room",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-21-inspecting-tubs-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 36159,
+  "alt": "A researcher inspecting a stack of small tubs",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-21-inspecting-tubs.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 157524,
+  "alt": "A researcher inspecting a stack of small tubs",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-22-conversation-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 23296,
+  "alt": "A researcher in conversation in the laboratory",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-22-conversation.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 109947,
+  "alt": "A researcher in conversation in the laboratory",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-23-researcher-cup-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 41315,
+  "alt": "A researcher holding a small cup in front of shelves of enclosures",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-23-researcher-cup.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 173423,
+  "alt": "A researcher holding a small cup in front of shelves of enclosures",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-24-lab-doorway-thumb.jpg",
+  "width": 400,
+  "height": 600,
+  "bytes": 33894,
+  "alt": "Doorway into laboratory room G.31 with shelves of enclosures visible",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-24-lab-doorway.jpg",
+  "width": 1067,
+  "height": 1600,
+  "bytes": 138667,
+  "alt": "Doorway into laboratory room G.31 with shelves of enclosures visible",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-25-eggs-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 45813,
+  "alt": "Four small white eggs on vermiculite in a plastic container",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-25-eggs.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 218787,
+  "alt": "Four small white eggs on vermiculite in a plastic container",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-26-animal-room-wide-thumb.jpg",
+  "width": 600,
+  "height": 600,
+  "bytes": 60932,
+  "alt": "Wide view of the lizard animal room with shelving units of enclosures and a work trolley",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-26-animal-room-wide.jpg",
+  "width": 1600,
+  "height": 1600,
+  "bytes": 270812,
+  "alt": "Wide view of the lizard animal room with shelving units of enclosures and a work trolley",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-27-bench-prep-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 37742,
+  "alt": "Two researchers preparing tubs at a laboratory sink bench",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-27-bench-prep.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 164321,
+  "alt": "Two researchers preparing tubs at a laboratory sink bench",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-28-incubator-researcher-thumb.jpg",
+  "width": 600,
+  "height": 400,
+  "bytes": 32912,
+  "alt": "A researcher beside a laboratory incubator",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-28-incubator-researcher.jpg",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 169838,
+  "alt": "A researcher beside a laboratory incubator",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-29-lab-outing-thumb.jpg",
+  "width": 600,
+  "height": 450,
+  "bytes": 62044,
+  "alt": "Seven people standing in front of a Riddle Room Canberra sign, two of them holding small signs",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-29-lab-outing.jpg",
+  "width": 1600,
+  "height": 1200,
+  "bytes": 316214,
+  "alt": "Seven people standing in front of a Riddle Room Canberra sign, two of them holding small signs",
+  "use": "gallery"
+ },
+ {
+  "file": "people-daniel-noble-2025.jpg",
+  "width": 600,
+  "height": 900,
+  "bytes": 54923,
+  "alt": "Portrait of Daniel Noble in a grey jacket and white shirt",
+  "use": "portrait"
+ },
+ {
+  "file": "people-daniel-noble.jpg",
+  "width": 617,
+  "height": 900,
+  "bytes": 82242,
+  "alt": "Head-and-shoulders portrait of Daniel Noble",
+  "use": "portrait"
+ },
+ {
+  "file": "gallery-field-02-painted-dragon-thumb.jpg",
+  "width": 450,
+  "height": 600,
+  "bytes": 65551,
+  "alt": "A dragon lizard on a weathered log in red sand country",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-02-painted-dragon.jpg",
+  "width": 1200,
+  "height": 1600,
+  "bytes": 380772,
+  "alt": "A dragon lizard on a weathered log in red sand country",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-23-unhappy-sleepy-lizard-thumb.jpg",
+  "width": 450,
+  "height": 600,
+  "bytes": 70211,
+  "alt": "A large stout-bodied lizard on red sand with its mouth open",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-23-unhappy-sleepy-lizard.jpg",
+  "width": 1050,
+  "height": 1400,
+  "bytes": 396049,
+  "alt": "A large stout-bodied lizard on red sand with its mouth open",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-24-sand-monitor-thumb.jpg",
+  "width": 450,
+  "height": 600,
+  "bytes": 84104,
+  "alt": "A long-tailed lizard on red earth beside a pale-leaved shrub, casting a shadow",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-24-sand-monitor.jpg",
+  "width": 1050,
+  "height": 1400,
+  "bytes": 386450,
+  "alt": "A long-tailed lizard on red earth beside a pale-leaved shrub, casting a shadow",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-25-pygmy-bluetongue-thumb.jpg",
+  "width": 450,
+  "height": 600,
+  "bytes": 49832,
+  "alt": "A small lizard resting in an open hand",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-25-pygmy-bluetongue.jpg",
+  "width": 1200,
+  "height": 1600,
+  "bytes": 256414,
+  "alt": "A small lizard resting in an open hand",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-26-maria-island-tasmania-thumb.jpg",
+  "width": 600,
+  "height": 176,
+  "bytes": 18884,
+  "alt": "Panorama of grassland and scattered trees running to sea cliffs under cloud",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-26-maria-island-tasmania.jpg",
+  "width": 1600,
+  "height": 469,
+  "bytes": 120623,
+  "alt": "Panorama of grassland and scattered trees running to sea cliffs under cloud",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-28-sleepy-lizard-thumb.jpg",
+  "width": 450,
+  "height": 600,
+  "bytes": 92209,
+  "alt": "A large stout-bodied lizard on red soil among leaf litter, mouth open",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-28-sleepy-lizard.jpg",
+  "width": 1050,
+  "height": 1400,
+  "bytes": 392805,
+  "alt": "A large stout-bodied lizard on red soil among leaf litter, mouth open",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-37-lab-experiments-thumb.jpg",
+  "width": 450,
+  "height": 600,
+  "bytes": 56464,
+  "alt": "A blue trolley of small yellow-capped cups in a laboratory, with a person working at the far bench",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-37-lab-experiments.jpg",
+  "width": 1200,
+  "height": 1600,
+  "bytes": 256019,
+  "alt": "A blue trolley of small yellow-capped cups in a laboratory, with a person working at the far bench",
+  "use": "gallery"
+ },
+ {
+  "file": "people-amelia-peardon.jpg",
+  "width": 600,
+  "height": 500,
+  "bytes": 54620,
+  "alt": "Portrait of Amelia Peardon in the lizard animal room",
+  "use": "portrait"
+ },
+ {
+  "file": "people-dalton-leibold.jpg",
+  "width": 400,
+  "height": 373,
+  "bytes": 31172,
+  "alt": "Portrait of Dalton Leibold, holding a lizard",
+  "use": "portrait"
+ },
+ {
+  "file": "people-essie-rodgers.jpg",
+  "width": 225,
+  "height": 225,
+  "bytes": 10349,
+  "alt": "Portrait of Essie Rodgers, holding a small crocodile",
+  "use": "portrait"
+ },
+ {
+  "file": "people-joel-treutlein.jpg",
+  "width": 575,
+  "height": 537,
+  "bytes": 51520,
+  "alt": "Portrait of Joel Treutlein",
+  "use": "portrait"
+ },
+ {
+  "file": "people-kris-wild.jpg",
+  "width": 600,
+  "height": 596,
+  "bytes": 118335,
+  "alt": "Portrait of Kris Wild, seated on the forest floor",
+  "use": "portrait"
+ },
+ {
+  "file": "people-naomi-laven.jpg",
+  "width": 400,
+  "height": 371,
+  "bytes": 23361,
+  "alt": "Portrait of Naomi Laven",
+  "use": "portrait"
+ },
+ {
+  "file": "people-niamh-okelly.jpg",
+  "width": 600,
+  "height": 497,
+  "bytes": 54375,
+  "alt": "Portrait of Niamh O'Kelly",
+  "use": "portrait"
+ },
+ {
+  "file": "people-ondi-crino.jpg",
+  "width": 384,
+  "height": 384,
+  "bytes": 39598,
+  "alt": "Portrait of Ondi Crino",
+  "use": "portrait"
+ },
+ {
+  "file": "people-pablo-recio.jpg",
+  "width": 300,
+  "height": 281,
+  "bytes": 23101,
+  "alt": "Portrait of Pablo Recio, handling a snake",
+  "use": "portrait"
+ },
+ {
+  "file": "people-patrice-pottier.jpg",
+  "width": 258,
+  "height": 259,
+  "bytes": 28157,
+  "alt": "Portrait of Patrice Pottier",
+  "use": "portrait"
+ },
+ {
+  "file": "people-xingyi-xiu.jpg",
+  "width": 214,
+  "height": 177,
+  "bytes": 6197,
+  "alt": "Portrait of Xingyi Xiu",
+  "use": "portrait"
+ },
+ {
+  "file": "bg-hero-red-rock-lizard.jpg",
+  "width": 2048,
+  "height": 1360,
+  "bytes": 147105,
+  "alt": "Small pale lizard perched on a red rock against blurred orange ground",
+  "use": "background"
+ },
+ {
+  "file": "bg-hero-red-rock-lizard-mobile.jpg",
+  "width": 1080,
+  "height": 1360,
+  "bytes": 96014,
+  "alt": "Small pale lizard perched on a red rock against blurred orange ground",
+  "use": "background"
+ },
+ {
+  "file": "bg-hero-face.jpg",
+  "width": 1600,
+  "height": 1000,
+  "bytes": 127954,
+  "alt": "Small pale lizard perched on a red rock against blurred orange ground",
+  "use": "background"
+ },
+ {
+  "file": "bg-hero-scales.jpg",
+  "width": 2048,
+  "height": 1174,
+  "bytes": 445681,
+  "alt": "Close-up of patterned reptile scales, dark with pale and orange blotches",
+  "use": "background"
+ },
+ {
+  "file": "bg-hero-lizard-mesh.jpg",
+  "width": 2400,
+  "height": 1600,
+  "bytes": 327453,
+  "alt": "A small lizard emerging from a white pipe onto green mesh",
+  "use": "background"
+ },
+ {
+  "file": "bg-research-rock-lizard.jpg",
+  "width": 2048,
+  "height": 1360,
+  "bytes": 428762,
+  "alt": "Large spotted lizard emerging from beneath a red rock overhang among dry grass",
+  "use": "background"
+ },
+ {
+  "file": "bg-people-grass-lizard.jpg",
+  "width": 2048,
+  "height": 1360,
+  "bytes": 300308,
+  "alt": "Small lizard basking on a red rock among dry grass stems",
+  "use": "background"
+ },
+ {
+  "file": "bg-publications-leaf-frog.jpg",
+  "width": 2048,
+  "height": 1536,
+  "bytes": 439868,
+  "alt": "Mottled green-brown frog sitting on a large green leaf",
+  "use": "background"
+ },
+ {
+  "file": "bg-software-green-beetle.jpg",
+  "width": 2048,
+  "height": 1536,
+  "bytes": 255127,
+  "alt": "Metallic green beetle on mossy, lichen-covered bark",
+  "use": "background"
+ },
+ {
+  "file": "bg-software-face.jpg",
+  "width": 1768,
+  "height": 1079,
+  "bytes": 417676,
+  "alt": "Large crocodilian lying on damp bare ground among leaf litter and grass",
+  "use": "background"
+ },
+ {
+  "file": "bg-teaching-spotted-frogs.jpg",
+  "width": 2048,
+  "height": 1536,
+  "bytes": 443770,
+  "alt": "Two yellow-brown spotted frogs on a wet rock",
+  "use": "background"
+ },
+ {
+  "file": "bg-gallery-painted-dragon.jpg",
+  "width": 1536,
+  "height": 1024,
+  "bytes": 355221,
+  "alt": "Painted dragon on a weathered log in red-sand country",
+  "use": "background"
+ },
+ {
+  "file": "bg-gallery-painted-dragon-mobile.jpg",
+  "width": 1097,
+  "height": 900,
+  "bytes": 264970,
+  "alt": "Painted dragon on a weathered log in red-sand country",
+  "use": "background"
+ },
+ {
+  "file": "bg-opportunities-sleepy-lizard.jpg",
+  "width": 1536,
+  "height": 1024,
+  "bytes": 444692,
+  "alt": "Sleepy lizard on red soil among leaf litter, mouth open",
+  "use": "background"
+ },
+ {
+  "file": "bg-news-maria-island.jpg",
+  "width": 2048,
+  "height": 600,
+  "bytes": 198623,
+  "alt": "Panorama of open grassland running to coastal hills under low cloud, Maria Island, Tasmania",
+  "use": "background"
+ },
+ {
+  "file": "bg-contact-karst-lake.jpg",
+  "width": 2048,
+  "height": 1536,
+  "bytes": 323790,
+  "alt": "Steep forested rocky hills and trees reflected in a still lake under a pale sky",
+  "use": "background"
+ },
+ {
+  "file": "theme-1-1.png",
+  "width": 1600,
+  "height": 1120,
+  "bytes": 206951,
+  "alt": "Figure: coupled mechanistic models of thermal exposure/sensitivity",
+  "use": "theme-figure"
+ },
+ {
+  "file": "theme-1-2.jpg",
+  "width": 1600,
+  "height": 705,
+  "bytes": 247193,
+  "alt": "Figure: plant/grasshopper multi-panel diagram",
+  "use": "theme-figure"
+ },
+ {
+  "file": "theme-2-1.jpg",
+  "width": 1305,
+  "height": 1600,
+  "bytes": 271656,
+  "alt": "Figure: population ecology / energy allocation / mitochondrial bioenergetics flow diagram",
+  "use": "theme-figure"
+ },
+ {
+  "file": "theme-2-2.jpg",
+  "width": 1600,
+  "height": 1312,
+  "bytes": 328366,
+  "alt": "Figure: orchard plot of lnRR Q10 by habitat",
+  "use": "theme-figure"
+ },
+ {
+  "file": "theme-3-1.jpg",
+  "width": 1121,
+  "height": 1600,
+  "bytes": 140576,
+  "alt": "Figure: polar plot and trait-space diagram of plasticity vectors",
+  "use": "theme-figure"
+ },
+ {
+  "file": "theme-3-2.png",
+  "width": 540,
+  "height": 425,
+  "bytes": 24346,
+  "alt": "Figure: stacked bar chart of variance components",
+  "use": "theme-figure"
+ },
+ {
+  "file": "theme-3-3.png",
+  "width": 1600,
+  "height": 895,
+  "bytes": 334429,
+  "alt": "Figure: luminance/chromatic contrast vs background environment with chameleon illustrations",
+  "use": "theme-figure"
+ },
+ {
+  "file": "theme-4-1.png",
+  "width": 1600,
+  "height": 774,
+  "bytes": 201243,
+  "alt": "Figure: effect-size taxonomy",
+  "use": "theme-figure"
+ },
+ {
+  "file": "theme-4-2.jpg",
+  "width": 1600,
+  "height": 1268,
+  "bytes": 193903,
+  "alt": "Figure: \"nuisance heterogeneity\" standardising effects diagram with animal silhouettes and temperature bubbles",
+  "use": "theme-figure"
+ },
+ {
+  "file": "anu-logo.png",
+  "width": 576,
+  "height": 221,
+  "bytes": 110988,
+  "alt": "The Australian National University",
+  "use": "logo",
+  "source": ".claude/assets/anu_logo.png (ANU letterhead logo; white background made transparent)",
+  "notes": "Footer and home-page affiliation row; links to anu.edu.au"
+ },
+ {
+  "file": "people-daniel-noble-garden.jpg",
+  "width": 900,
+  "height": 900,
+  "bytes": 127583,
+  "alt": "Portrait of Daniel Noble",
+  "use": "portrait",
+  "source": "ANU_Profile_Pics/IMG_6889.jpg (square centre crop, EXIF/GPS stripped)",
+  "notes": "PI photo from 29 Aug 2026 at Daniel's request; replaces people-daniel-noble-2025.jpg"
+ },
+ {
+  "file": "hex-metadigitise.png",
+  "width": 259,
+  "height": 300,
+  "bytes": 22164,
+  "alt": "metaDigitise hex sticker",
+  "use": "logo",
+  "source": "https://raw.githubusercontent.com/EIvimeyCook/shinyDigitise/HEAD/inst/shinyDigitise/www/img/metaDigitise_logo.png (downscaled to 300 px tall, transparency kept, metadata stripped)",
+  "notes": "Software page card for metaDigitise"
+ },
+ {
+  "file": "hex-shinydigitise.png",
+  "width": 259,
+  "height": 300,
+  "bytes": 34999,
+  "alt": "shinyDigitise hex sticker",
+  "use": "logo",
+  "source": "https://raw.githubusercontent.com/EIvimeyCook/shinyDigitise/HEAD/inst/shinyDigitise/www/img/shinyDigitise.png (downscaled to 300 px tall, transparency kept, metadata stripped)",
+  "notes": "Software page card for shinyDigitise"
+ },
+ {
+  "file": "bg-hero-lizard-right.jpg",
+  "source": "photos_01_banner__2010-05-29 18.22.41.jpg (full-resolution original from Camera Uploads/Photos; crop (163, 496, 2885, 2068); EXIF stripped)",
+  "width": 2722,
+  "height": 1572,
+  "bytes": 231827,
+  "alt": "Small pale lizard perched on a red rock against blurred orange ground",
+  "use": "background",
+  "notes": "Home hero at desktop: 1.73:1 crop. Re-cropped 6 Sep 2026 (window slid 190 px left in the source) so the lizard sits further right and its head clears the wordmark."
+ },
+ {
+  "file": "collage-painted-dragon.jpg",
+  "width": 900,
+  "height": 900,
+  "bytes": 211230,
+  "alt": "A painted dragon on a weathered log in red-sand country",
+  "use": "collage"
+ },
+ {
+  "file": "collage-red-frog.jpg",
+  "width": 900,
+  "height": 900,
+  "bytes": 135259,
+  "alt": "A small bright red frog with pale blue legs on a mossy tree trunk",
+  "use": "collage"
+ },
+ {
+  "file": "collage-green-beetle.jpg",
+  "width": 900,
+  "height": 900,
+  "bytes": 125668,
+  "alt": "A metallic green beetle on lichen-covered bark",
+  "use": "collage"
+ },
+ {
+  "file": "collage-caterpillar.jpg",
+  "width": 900,
+  "height": 900,
+  "bytes": 150885,
+  "alt": "A bright orange hairy caterpillar on a green plant stem",
+  "use": "collage"
+ },
+ {
+  "file": "collage-crested-lizard.jpg",
+  "width": 900,
+  "height": 900,
+  "bytes": 127069,
+  "alt": "A crested lizard gripping a plant stem at night",
+  "use": "collage"
+ },
+ {
+  "file": "collage-butterfly.jpg",
+  "width": 900,
+  "height": 900,
+  "bytes": 237065,
+  "alt": "A brown and white butterfly resting on stony ground",
+  "use": "collage"
+ },
+ {
+  "file": "bg-news-karst-bay.jpg",
+  "source": "content/gs_images/photos_14_fieldwork-uncaptioned.jpg (old-site fieldwork photo; EXIF stripped)",
+  "width": 2048,
+  "height": 1536,
+  "bytes": 356458,
+  "alt": "Steep forested hills rising from a calm bay with mangroves under a blue sky",
+  "use": "background",
+  "notes": "News page header (replaces the Maria Island panorama); swap for an Australian coastal landscape when Daniel supplies one"
+ },
+ {
+  "file": "bg-software-croc-head.jpg",
+  "source": "content/gs_images/photos_13_fieldwork-uncaptioned.jpg (crop 0,380–1768,1229; EXIF stripped)",
+  "width": 1768,
+  "height": 849,
+  "bytes": 408872,
+  "alt": "Head and forequarters of a large crocodilian lying on damp ground among leaf litter",
+  "use": "background",
+  "notes": "Software page header; head across the right half of the band (Daniel, 29 Aug 2026)"
+ },
+ {
+  "file": "bg-software-green-snake.jpg",
+  "source": "content/gs_images/photos_10_fieldwork-uncaptioned.jpg (crop 0,0–1564,1536 so the head sits at 72% of the width; EXIF stripped)",
+  "width": 1564,
+  "height": 1536,
+  "bytes": 146835,
+  "alt": "A bright green snake and a small lizard on a large green leaf",
+  "use": "background",
+  "notes": "Software page header (Daniel asked for the animal's full head in view, 29 Aug 2026); crocodile crop kept as bg-software-croc-head.jpg"
+ },
+ {
+  "file": "theme-1-1.webp",
+  "source": "theme-1-1.png with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+  "width": 1400,
+  "height": 980,
+  "bytes": 443798,
+  "alt": "Figure: coupled mechanistic models of thermal exposure/sensitivity",
+  "use": "theme-figure",
+  "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+ },
+ {
+  "file": "theme-1-2.webp",
+  "source": "theme-1-2.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+  "width": 1400,
+  "height": 617,
+  "bytes": 264056,
+  "alt": "Figure: plant/grasshopper multi-panel diagram",
+  "use": "theme-figure",
+  "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+ },
+ {
+  "file": "theme-2-1.webp",
+  "source": "theme-2-1.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+  "width": 1142,
+  "height": 1400,
+  "bytes": 323428,
+  "alt": "Figure: population ecology / energy allocation / mitochondrial bioenergetics flow diagram",
+  "use": "theme-figure",
+  "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+ },
+ {
+  "file": "theme-2-2.webp",
+  "source": "theme-2-2.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+  "width": 1400,
+  "height": 1148,
+  "bytes": 457138,
+  "alt": "Figure: orchard plot of lnRR Q10 by habitat",
+  "use": "theme-figure",
+  "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+ },
+ {
+  "file": "theme-3-1.webp",
+  "source": "theme-3-1.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+  "width": 981,
+  "height": 1400,
+  "bytes": 198140,
+  "alt": "Figure: polar plot and trait-space diagram of plasticity vectors",
+  "use": "theme-figure",
+  "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+ },
+ {
+  "file": "theme-3-2.webp",
+  "source": "theme-3-2.png with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+  "width": 540,
+  "height": 425,
+  "bytes": 12490,
+  "alt": "Figure: stacked bar chart of variance components",
+  "use": "theme-figure",
+  "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+ },
+ {
+  "file": "theme-3-3.webp",
+  "source": "theme-3-3.png with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+  "width": 1400,
+  "height": 783,
+  "bytes": 152770,
+  "alt": "Figure: luminance/chromatic contrast vs background environment with chameleon illustrations",
+  "use": "theme-figure",
+  "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+ },
+ {
+  "file": "theme-4-1.webp",
+  "source": "theme-4-1.png with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+  "width": 1400,
+  "height": 677,
+  "bytes": 87512,
+  "alt": "Figure: effect-size taxonomy",
+  "use": "theme-figure",
+  "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+ },
+ {
+  "file": "theme-4-2.webp",
+  "source": "theme-4-2.jpg with the white ground made transparent (min-RGB >= 246 -> alpha 0, 228-246 soft edge), WebP with alpha; longest side <= 1400 px",
+  "width": 1400,
+  "height": 1110,
+  "bytes": 221946,
+  "alt": "Figure: \"nuisance heterogeneity\" standardising effects diagram with animal silhouettes and temperature bubbles",
+  "use": "theme-figure",
+  "notes": "Blends with any page/card background; replaces the opaque original in THEMES"
+ },
+ {
+  "file": "bg-people-grass-lizard-right.jpg",
+  "source": "home_02__2010-05-29 18.23.52.jpg (full-resolution original from Camera Uploads/Photos; crop (209, 628, 2931, 2847); EXIF stripped)",
+  "width": 2600,
+  "height": 2119,
+  "bytes": 642975,
+  "alt": "Small lizard basking on a red rock among dry grass",
+  "use": "background",
+  "notes": "People page header; lizard across the right of the band (Daniel, 29 Aug 2026)"
+ },
+ {
+  "file": "bg-software-green-snake-hires.jpg",
+  "source": "photos_10__2007-05-28 01.55.21.jpg (full-resolution original from Camera Uploads/Photos; crop (0, 337, 1687, 1350); EXIF stripped)",
+  "width": 1687,
+  "height": 1013,
+  "bytes": 237957,
+  "alt": "A bright green snake and a small lizard on a large green leaf",
+  "use": "background",
+  "notes": "Software page header, replacing bg-software-green-snake.jpg, which Daniel found soft (29 Aug 2026). photos_10 is the sharper of the two frames of this scene: Laplacian variance over the snake's head is 451 against 88 for photos_20, and 46 against 19 over the whole frame. Exported at native pixels and 1500 px wide so the 1440 band never upscales it; head at about 66-85% across, clear of the title."
+ },
+ {
+  "file": "bg-research-goanna-right.jpg",
+  "source": "home_03__2010-05-29 21.55.59.jpg (full-resolution original from Camera Uploads/Photos; crop (0, 560, 2000, 1810); EXIF stripped)",
+  "width": 2000,
+  "height": 1250,
+  "bytes": 417459,
+  "alt": "Large spotted lizard emerging from beneath a red rock overhang among dry grass",
+  "use": "background",
+  "notes": "Research page header (Daniel asked for less background and the head right of the title, 29 Aug 2026). Native-pixel crop of the left 1440 px, so the animal reads about 1.4x larger than the full frame did. Its head lands at 40-53% of the band: it cannot go further right without upscaling, because the head sits only a third of the way into the source frame."
+ },
+ {
+  "file": "bg-publications-leaf-frog-right.jpg",
+  "source": "photos_21__2007-05-22 08.12.53.jpg (full-resolution original from Camera Uploads/Photos; crop (0, 337, 1800, 1462); EXIF stripped)",
+  "width": 1800,
+  "height": 1125,
+  "bytes": 484744,
+  "alt": "Mottled green-brown frog sitting on a large green leaf",
+  "use": "background",
+  "notes": "Publications page header (Daniel asked for the frog moved right to fill the space beside the title, 29 Aug 2026). 1600 px wide so the frog's head is not clipped by the 1.09 slow-zoom; frog runs from about 49% to 94% across, head and eye at the right."
+ },
+ {
+  "file": "bg-teaching-red-frog.jpg",
+  "source": "photos_03__2005-02-23 18.51.39.jpg (full-resolution original from Camera Uploads/Photos; crop (0, 0, 1440, 700); EXIF stripped)",
+  "width": 1440,
+  "height": 700,
+  "bytes": 169263,
+  "alt": "Bright red frog with blue legs on a mossy tree trunk",
+  "use": "background",
+  "notes": "Teaching page header, replacing bg-teaching-spotted-frogs.jpg (Daniel, 29 Aug 2026). Native-pixel crop of the left 1440 px; frog at about 64-80% across with the head in view, mossy bark behind the title."
+ },
+ {
+  "file": "bg-gallery-painted-dragon-right.jpg",
+  "source": "content/gs_images/photos_02_fieldwork-painted-dragon.jpg (crop 0,250–1440,1250; EXIF stripped)",
+  "width": 1440,
+  "height": 1000,
+  "bytes": 413784,
+  "alt": "Painted dragon on a weathered log in red-sand country",
+  "use": "background",
+  "notes": "Gallery page header (Daniel asked for the dragon featured on the right, 29 Aug 2026). The source is portrait 1536x2048, so 1440 px is the narrowest crop that still avoids upscaling and pushes the animal as far right as the pixels allow: head at 50-64% across, only log and sand behind the title. The band is deepened to 400 px so the head and forelegs clear the fixed header."
+ },
+ {
+  "file": "hex-orchard.png",
+  "source": "https://raw.githubusercontent.com/daniel1noble/orchaRd/HEAD/hex/orchaRd_hex.png (repo commit \"Adding hex sticker\", 29 Aug 2026); downscaled to 300 px, metadata stripped",
+  "width": 260,
+  "height": 300,
+  "bytes": 54392,
+  "alt": "orchaRd hex sticker",
+  "use": "logo"
+ },
+ {
+  "file": "figure-orchard.webp",
+  "source": "Figure embedded in the orchaRd package README at https://daniel1noble.github.io/orchaRd/ (figure 20 of 36); white ground made transparent",
+  "width": 1344,
+  "height": 960,
+  "bytes": 42554,
+  "alt": "Orchard plot of log response ratios for four trait categories, with precision-scaled points, mean estimates and intervals",
+  "use": "figure",
+  "notes": "Software page, orchaRd card, in place of a video"
+ },
+ {
+  "file": "figure-freqtls.webp",
+  "source": "Figure 5 of the 2026 preprint (10.64898/2026.07.16.738378): thermal sensitivity (z) and critical thermal limit (CTmax) estimated across four case studies — from the manuscript folder output/figs/fig4_case_study_densities.png; white ground made transparent",
+  "width": 1800,
+  "height": 1280,
+  "bytes": 261844,
+  "alt": "Posterior densities of thermal sensitivity (z) and the critical thermal limit (CTmax) across four case studies",
+  "use": "figure",
+  "notes": "Software page, freqTLS card; source is only 672 px wide"
+ },
+ {
+  "file": "figure-bayestls.webp",
+  "source": "Figure 6 of the 2026 preprint (10.64898/2026.07.16.738378): heat-injury accumulation and predicted survival under field temperature series, for a vinegar fly by sex and three cereal aphid species — from the manuscript folder output/figs/fig5_heat_injury.png; white ground made transparent",
+  "width": 1800,
+  "height": 1469,
+  "bytes": 449352,
+  "alt": "Heat-injury accumulation and predicted survival under field temperature–time series, panels for a vinegar fly by sex and three cereal aphid species",
+  "use": "figure",
+  "notes": "Software page, bayesTLS card"
+ },
+ {
+  "file": "bg-research-goanna-ledge.jpg",
+  "source": "Camera Uploads/Photos/Alice Springs Photos/2010-05-29 20.07.05.jpg (4288x2848 native; crop (0, 1087, 3300, 2004); resampled to 2000 px wide; EXIF stripped) (crop (0, 1040, 4288, 2350), full frame width so the whole head clears the bottom fade; EXIF stripped)",
+  "width": 2400,
+  "height": 733,
+  "bytes": 192082,
+  "alt": "Large monitor lizard lying along a red sandstone ledge in side profile, head and neck lit against deep shade",
+  "use": "background",
+  "notes": "Research page header, replacing bg-research-goanna-right.jpg. Daniel said the monitor was still not positioned correctly and asked for a frame more focused on the lizard (29 Aug 2026). Every Alice Springs frame containing a monitor was contact-sheeted; this one is the only one where the animal already faces right with its head near the right of the frame, so the crop does not have to fight the composition. The crop is the band's own 3.6:1, which makes the vertical object-position inert on desktop and leaves x free to steer phones. Eye at 72% and snout at about 85% of the band, well clear of the title; the animal runs the full width."
+ },
+ {
+  "file": "bg-publications-leaf-frog-wide.jpg",
+  "source": "Camera Uploads/Photos/Vietnam 2007/2007-05-22 08.12.53.jpg (2304x1728 native; crop (0, 529, 2100, 1112); resampled to 2000 px wide; EXIF stripped)",
+  "width": 2000,
+  "height": 555,
+  "bytes": 273177,
+  "alt": "Mottled green-brown frog resting on a large green leaf, its eye and speckled flank facing the camera",
+  "use": "background",
+  "notes": "Publications page header, replacing bg-publications-leaf-frog-right.jpg. Daniel asked for the frog moved up so more of it shows and less leaf (29 Aug 2026). Raising the vertical object-position on the old 1800 px crop could not do it: the band only ever shows a 3.6:1 slice, and the frog was taller than that slice, so every step down traded head for haunches. Cutting wider from the 2304 px original shrinks the frog against the frame instead, and now head, eye, back and flank all fit. Eye at about 76% across."
+ },
+ {
+  "file": "bg-software-broad-headed-snake.jpg",
+  "source": "Camera Uploads/Photos/Morton National Park- Broad-headed Snakes/2010-07-05 05.51.43.jpg (3888x2592 native; crop (0, 950, 3100, 1811); resampled to 2000 px wide; EXIF stripped)",
+  "width": 2000,
+  "height": 555,
+  "bytes": 227343,
+  "alt": "Broad-headed snake coiled on flat grey ground, its dark body banded and spotted with pale yellow",
+  "use": "background",
+  "notes": "Software page header, replacing bg-software-green-snake-hires.jpg, which Daniel still found blurry (29 Aug 2026). Both Morton National Park albums were contact-sheeted; the only snake frames in either are six of this animal, and this is the frame where the flattened head lies clear of the coils rather than tucked under them. It is also far sharper and much higher in contrast than the Vietnam frame, which matters because this band renders very pale. Coil fills the band from about 30% to 86% across with the head at 82%; imageOpacity raised to 0.95 so the pattern reads rather than dissolving into texture."
+ },
+ {
+  "file": "bg-gallery-dragon-rock.jpg",
+  "source": "Camera Uploads/Photos/Alice Springs Photos/2010-05-29 18.24.30.jpg (4288x2848 native; crop (0, 430, 3700, 1458); resampled to 2000 px wide; EXIF stripped)",
+  "width": 2000,
+  "height": 556,
+  "bytes": 99158,
+  "alt": "Small dragon lizard on a red sandstone boulder, head raised, against blurred grass",
+  "use": "background",
+  "notes": "Gallery page header, replacing bg-gallery-painted-dragon-right.jpg. Daniel asked for the lizard further right again (29 Aug 2026), which the old portrait 1536 px source could not give: its head could not pass about 64% without upscaling. This landscape 4288 px frame puts the eye at 78% and the snout at about 88%. The source is intrinsically low in contrast - a pale orange lizard on pale orange rock - so imageOpacity is 1: the head and eye read clearly, the body behind it stays faint."
+ },
+ {
+  "file": "bg-opportunities-grasshopper.jpg",
+  "source": "Camera Uploads/Photos/Panama/2006-06-18 15.00.00.jpg (2304x1728 native; crop (0, 460, 2160, 1060); resampled to 2000 px wide; EXIF stripped)",
+  "width": 2000,
+  "height": 556,
+  "bytes": 129048,
+  "alt": "Large dark grasshopper edged with orange walking along a pale bare stem, long antennae raised",
+  "use": "background",
+  "notes": "Join the lab page header, replacing bg-opportunities-pygmy-bluetongue.jpg. Daniel asked for a new header image, an insect if possible, high resolution (29 Aug 2026). All seven fully downloaded Camera Uploads albums (1211 frames) were contact-sheeted for insects. Nothing usable exists above 2304 px: the four albums that shoot larger hold only a mantid (2848x4288) which is vertical and cannot fit a 3.6:1 band, and hand-held frames that show a person. This is the strongest of the 2304 px frames - the same resolution as the Vietnam originals - and the boldest tonally, which the pale band needs. Whole animal in frame, antennae to hind foot, head at 73% across. The band is deepened from 320 to the 400 px the other photographic heroes use; at 320 the band's slice is shorter than the insect and clips it."
+ },
+ {
+  "file": "gallery-30-mesocosms.jpg",
+  "source": "IMG_6539.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
+  "width": 1600,
+  "height": 1200,
+  "bytes": 517867,
+  "alt": "Rows of circular outdoor mesocosm tanks under shade-cloth netting, with greenhouses behind",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-30-mesocosms-thumb.jpg",
+  "source": "IMG_6539.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
+  "width": 600,
+  "height": 450,
+  "bytes": 68299,
+  "alt": "Rows of circular outdoor mesocosm tanks under shade-cloth netting, with greenhouses behind",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-31-mesocosms-netting.jpg",
+  "source": "IMG_6411.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
+  "width": 1600,
+  "height": 1200,
+  "bytes": 669895,
+  "alt": "Circular mesocosm tanks under fine netting on a gravel pad",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-31-mesocosms-netting-thumb.jpg",
+  "source": "IMG_6411.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
+  "width": 600,
+  "height": 450,
+  "bytes": 105555,
+  "alt": "Circular mesocosm tanks under fine netting on a gravel pad",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-32-mesocosm-tank.jpg",
+  "source": "IMG_8874.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
+  "width": 1600,
+  "height": 1200,
+  "bytes": 500529,
+  "alt": "A circular mesocosm tank with a gravel and rock centre, greenhouses behind",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-32-mesocosm-tank-thumb.jpg",
+  "source": "IMG_8874.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
+  "width": 600,
+  "height": 450,
+  "bytes": 76772,
+  "alt": "A circular mesocosm tank with a gravel and rock centre, greenhouses behind",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-33-mesocosm-compound.jpg",
+  "source": "IMG_6452.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
+  "width": 1600,
+  "height": 1200,
+  "bytes": 446839,
+  "alt": "The mesocosm compound under construction on a gravel pad, seen from the road",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-33-mesocosm-compound-thumb.jpg",
+  "source": "IMG_6452.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
+  "width": 600,
+  "height": 450,
+  "bytes": 63020,
+  "alt": "The mesocosm compound under construction on a gravel pad, seen from the road",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-34-fms.jpg",
+  "source": "IMG_2235.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
+  "width": 1200,
+  "height": 1600,
+  "bytes": 315467,
+  "alt": "A Sable Systems FMS respirometry unit in its case, with tubing and cables connected",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-34-fms-thumb.jpg",
+  "source": "IMG_2235.HEIC in ANU_Website/ (added by Daniel 29 Aug 2026; EXIF stripped)",
+  "width": 450,
+  "height": 600,
+  "bytes": 57710,
+  "alt": "A Sable Systems FMS respirometry unit in its case, with tubing and cables connected",
+  "use": "gallery"
+ },
+ {
+  "file": "lab-life-outing.jpg",
+  "source": "IMG_5832-full.jpg in ANU_Website/",
+  "width": 1600,
+  "height": 1200,
+  "bytes": 367522,
+  "alt": "Seven lab members standing in front of a \"Riddle Room Canberra\" sign",
+  "use": "lab-life"
+ },
+ {
+  "file": "lab-life-ash-2025.jpg",
+  "source": "home_19_ash-meeting-coffs-harbour-2025.jpg (old Google Site home carousel, caption verbatim)",
+  "width": 1600,
+  "height": 998,
+  "bytes": 313288,
+  "alt": "Five lab members under a green and black balloon arch at a conference social",
+  "use": "lab-life"
+ },
+ {
+  "file": "gallery-field-40-broad-headed-snake.jpg",
+  "source": "Camera Uploads/Photos/Morton National Park- Broad-headed Snakes/2010-07-05 05.51.43.jpg (EXIF stripped)",
+  "width": 1600,
+  "height": 1067,
+  "bytes": 394091,
+  "alt": "A broad-headed snake coiled on dark rock, banded head clear at the edge of the coil",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-40-broad-headed-snake-thumb.jpg",
+  "source": "Camera Uploads/Photos/Morton National Park- Broad-headed Snakes/2010-07-05 05.51.43.jpg (EXIF stripped)",
+  "width": 600,
+  "height": 400,
+  "bytes": 73223,
+  "alt": "A broad-headed snake coiled on dark rock, banded head clear at the edge of the coil",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-41-india-viper.jpg",
+  "source": "Camera Uploads/India/2023-06-18 02.05.43.jpg (EXIF/GPS stripped)",
+  "width": 1600,
+  "height": 1023,
+  "bytes": 436913,
+  "alt": "A saw-scaled viper coiled on granite at night",
+  "use": "gallery",
+  "notes": "Species confirmed by Daniel, 29 Aug 2026"
+ },
+ {
+  "file": "gallery-field-41-india-viper-thumb.jpg",
+  "source": "Camera Uploads/India/2023-06-18 02.05.43.jpg (EXIF/GPS stripped)",
+  "width": 600,
+  "height": 384,
+  "bytes": 75324,
+  "alt": "A saw-scaled viper coiled on granite at night",
+  "use": "gallery",
+  "notes": "Species confirmed by Daniel, 29 Aug 2026"
+ },
+ {
+  "file": "gallery-field-42-india-gecko.jpg",
+  "source": "Camera Uploads/India/2023-06-18 02.32.29.jpg (EXIF/GPS stripped)",
+  "width": 1600,
+  "height": 991,
+  "bytes": 493593,
+  "alt": "A marbled gecko in profile on pale granite at night",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-42-india-gecko-thumb.jpg",
+  "source": "Camera Uploads/India/2023-06-18 02.32.29.jpg (EXIF/GPS stripped)",
+  "width": 600,
+  "height": 371,
+  "bytes": 78755,
+  "alt": "A marbled gecko in profile on pale granite at night",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-43-india-golden-frog.jpg",
+  "source": "Camera Uploads/India/2023-06-18 01.51.16.jpg (EXIF/GPS stripped)",
+  "width": 1600,
+  "height": 1200,
+  "bytes": 409087,
+  "alt": "A golden-brown frog sitting on a rock among grass at night",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-43-india-golden-frog-thumb.jpg",
+  "source": "Camera Uploads/India/2023-06-18 01.51.16.jpg (EXIF/GPS stripped)",
+  "width": 600,
+  "height": 450,
+  "bytes": 82174,
+  "alt": "A golden-brown frog sitting on a rock among grass at night",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-44-india-rock-lizard.jpg",
+  "source": "Camera Uploads/India/2023-06-18 02.34.13.jpg (EXIF/GPS stripped)",
+  "width": 1200,
+  "height": 1600,
+  "bytes": 522444,
+  "alt": "A lizard with orange limbs pressed against granite at night",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-44-india-rock-lizard-thumb.jpg",
+  "source": "Camera Uploads/India/2023-06-18 02.34.13.jpg (EXIF/GPS stripped)",
+  "width": 450,
+  "height": 600,
+  "bytes": 90724,
+  "alt": "A lizard with orange limbs pressed against granite at night",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-45-india-toad.jpg",
+  "source": "Camera Uploads/India/2023-06-14 19.28.03.jpg (EXIF/GPS stripped)",
+  "width": 1600,
+  "height": 1200,
+  "bytes": 339293,
+  "alt": "A warty toad in profile on a concrete step",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-45-india-toad-thumb.jpg",
+  "source": "Camera Uploads/India/2023-06-14 19.28.03.jpg (EXIF/GPS stripped)",
+  "width": 600,
+  "height": 450,
+  "bytes": 56277,
+  "alt": "A warty toad in profile on a concrete step",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-46-india-moth.jpg",
+  "source": "Camera Uploads/India/2023-06-13 07.19.48.jpg (EXIF/GPS stripped)",
+  "width": 1600,
+  "height": 1200,
+  "bytes": 486777,
+  "alt": "A moth with eyespot wing markings resting on a rendered wall",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-46-india-moth-thumb.jpg",
+  "source": "Camera Uploads/India/2023-06-13 07.19.48.jpg (EXIF/GPS stripped)",
+  "width": 600,
+  "height": 450,
+  "bytes": 101232,
+  "alt": "A moth with eyespot wing markings resting on a rendered wall",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-35-fms-unit.jpg",
+  "source": "Miscellaneous/resp_pics/2016-01-13 15.09.00.jpg (EXIF stripped)",
+  "width": 1600,
+  "height": 1200,
+  "bytes": 247031,
+  "alt": "A Sable Systems Field Metabolic System unit in its case",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-35-fms-unit-thumb.jpg",
+  "source": "Miscellaneous/resp_pics/2016-01-13 15.09.00.jpg (EXIF stripped)",
+  "width": 600,
+  "height": 450,
+  "bytes": 52568,
+  "alt": "A Sable Systems Field Metabolic System unit in its case",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-36-respirometry-rig.jpg",
+  "source": "Miscellaneous/resp_pics/2016-03-02 11.25.07.jpg (EXIF stripped)",
+  "width": 1600,
+  "height": 1200,
+  "bytes": 210821,
+  "alt": "A flow multiplexer and gas analyser with tubing on a lab bench",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-36-respirometry-rig-thumb.jpg",
+  "source": "Miscellaneous/resp_pics/2016-03-02 11.25.07.jpg (EXIF stripped)",
+  "width": 600,
+  "height": 450,
+  "bytes": 44122,
+  "alt": "A flow multiplexer and gas analyser with tubing on a lab bench",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-37-respirometry-chambers.jpg",
+  "source": "Miscellaneous/resp_pics/2016-03-02 17.05.12.jpg (EXIF stripped)",
+  "width": 1600,
+  "height": 1200,
+  "bytes": 228655,
+  "alt": "A row of small respirometry chambers connected by tubing to a multiplexer",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-37-respirometry-chambers-thumb.jpg",
+  "source": "Miscellaneous/resp_pics/2016-03-02 17.05.12.jpg (EXIF stripped)",
+  "width": 600,
+  "height": 450,
+  "bytes": 47760,
+  "alt": "A row of small respirometry chambers connected by tubing to a multiplexer",
+  "use": "gallery"
+ },
+ {
+  "file": "bg-software-chameleon.jpg",
+  "source": "Camera Uploads/India/2023-06-18 00.54.26.jpg (full width, rows 27–50%; EXIF stripped)",
+  "width": 3024,
+  "height": 928,
+  "bytes": 574335,
+  "alt": "A bright green chameleon in profile on a hand at night, head to the right",
+  "use": "background",
+  "notes": "Software page header (Daniel, 29 Aug 2026); replaces the broad-headed snake, which stays on disk"
+ },
+ {
+  "file": "gallery-field-47-india-chameleon.jpg",
+  "source": "Camera Uploads/India/2023-06-18 00.54.24.jpg (EXIF stripped)",
+  "width": 1200,
+  "height": 1600,
+  "bytes": 283149,
+  "alt": "A bright green chameleon in full profile held on fingers at night",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-47-india-chameleon-thumb.jpg",
+  "source": "Camera Uploads/India/2023-06-18 00.54.24.jpg (EXIF stripped)",
+  "width": 450,
+  "height": 600,
+  "bytes": 43198,
+  "alt": "A bright green chameleon in full profile held on fingers at night",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-48-india-vine-snake.jpg",
+  "source": "Camera Uploads/India/2023-06-18 00.45.12.jpg (EXIF stripped)",
+  "width": 1200,
+  "height": 1600,
+  "bytes": 197415,
+  "alt": "A slender green vine snake looped through a hand at night, head raised",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-48-india-vine-snake-thumb.jpg",
+  "source": "Camera Uploads/India/2023-06-18 00.45.12.jpg (EXIF stripped)",
+  "width": 450,
+  "height": 600,
+  "bytes": 39078,
+  "alt": "A slender green vine snake looped through a hand at night, head raised",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-49-india-lizard.jpg",
+  "source": "Camera Uploads/India/2023-06-15 15.58.30.jpg (EXIF stripped)",
+  "width": 1200,
+  "height": 1600,
+  "bytes": 167297,
+  "alt": "A lizard held upright in a hand with its mouth open, showing an orange and black throat",
+  "use": "gallery"
+ },
+ {
+  "file": "gallery-field-49-india-lizard-thumb.jpg",
+  "source": "Camera Uploads/India/2023-06-15 15.58.30.jpg (EXIF stripped)",
+  "width": 450,
+  "height": 600,
+  "bytes": 28880,
+  "alt": "A lizard held upright in a hand with its mouth open, showing an orange and black throat",
+  "use": "gallery"
+ },
+ {
+  "file": "cover-science-advances-2022.jpg",
+  "source": "old Google Site publications page (publications_02_unknown-a.jpg); metadata stripped",
+  "width": 874,
+  "height": 1200,
+  "bytes": 232533,
+  "alt": "Science Advances cover, 13 May 2022: a horned chameleon on a branch",
+  "use": "cover"
+ },
+ {
+  "file": "cover-jeb-evol-biol-2021.jpg",
+  "source": "old Google Site publications page (publications_03_unknown-b.jpg); metadata stripped",
+  "width": 730,
+  "height": 1000,
+  "bytes": 167850,
+  "alt": "Journal of Evolutionary Biology cover, volume 34 issue 3, March 2021: a lizard on leaf litter",
+  "use": "cover"
+ },
+ {
+  "file": "cover-j-exp-biol-2024.jpg",
+  "source": "old Google Site publications page (publications_04_jeb-issue-227-24-link-thumbnail.png); metadata stripped",
+  "width": 520,
+  "height": 675,
+  "bytes": 81097,
+  "alt": "Journal of Experimental Biology cover, volume 227 issue 24, December 2024: a skink on a dead leaf",
+  "use": "cover"
+ },
+ {
+  "file": "cover-evol-ecol-2022.jpg",
+  "source": "https://media.springernature.com/full/springer-static/cover-hires/journal/10682/36/2 (Springer issue cover, fetched 30 Aug 2026; matches the old site thumbnail)",
+  "width": 827,
+  "height": 1263,
+  "bytes": 233922,
+  "alt": "Evolutionary Ecology cover, volume 36 number 2, 2022: several dark skinks on pale bark",
+  "use": "cover"
+ },
+ {
+  "file": "logo-mark.png",
+  "source": "ANU_Website/lab_logo2.png (Daniel, 30 Aug 2026); outer ground flood-filled to transparency, trimmed, 512 px",
+  "width": 512,
+  "height": 504,
+  "bytes": 224449,
+  "alt": "Noble Lab logo",
+  "use": "logo"
+ },
+ {
+  "file": "../favicon-32.png",
+  "source": "public/images/logo-mark.png, squared and resized",
+  "width": 32,
+  "height": 32,
+  "bytes": 2708,
+  "alt": "Noble Lab logo",
+  "use": "favicon"
+ },
+ {
+  "file": "../apple-touch-icon.png",
+  "source": "public/images/logo-mark.png, squared and resized",
+  "width": 180,
+  "height": 180,
+  "bytes": 33766,
+  "alt": "Noble Lab logo",
+  "use": "favicon"
+ },
+ {
+  "file": "../icon-512.png",
+  "source": "public/images/logo-mark.png, squared and resized",
+  "width": 512,
+  "height": 512,
+  "bytes": 218979,
+  "alt": "Noble Lab logo",
+  "use": "favicon"
+ },
+ {
+  "file": "people-qian-hu.jpg",
+  "source": "originals/people/QIAN.jpg (supplied by Daniel, 31 Aug 2026); metadata stripped",
+  "width": 586,
+  "height": 600,
+  "bytes": 54496,
+  "alt": "Portrait of Qian Hu",
+  "use": "portrait"
+ },
+ {
+  "file": "hex-bayestls.png",
+  "source": "originals/hex/bayesTLS-hex.png (hex sticker made by Daniel, 1 Sep 2026); resized to 300 px",
+  "width": 262,
+  "height": 300,
+  "bytes": 75334,
+  "alt": "bayesTLS hex sticker",
+  "use": "logo"
+ },
+ {
+  "file": "hex-freqtls.png",
+  "source": "originals/hex/freqTLS-hex.png (hex sticker made by Daniel, 1 Sep 2026); resized to 300 px",
+  "width": 262,
+  "height": 300,
+  "bytes": 53128,
+  "alt": "freqTLS hex sticker",
+  "use": "logo"
+ },
+ {
+  "file": "hex-bace.png",
+  "width": 300,
+  "height": 300,
+  "bytes": 93170,
+  "alt": "BACE hex sticker",
+  "use": "logo",
+  "source": "vignettes/figs/bace_hex_sticker.png in github.com/daniel1noble/BACE (downscaled to 300 px, transparency kept)",
+  "notes": "Software page card for BACE"
+ },
+ {
+  "file": "people-fonti-kar.jpg",
+  "source": "https://fontikar.github.io/images/fonti_moss.jpg (her own website); square centre crop, metadata stripped (1 Sep 2026)",
+  "width": 600,
+  "height": 600,
+  "bytes": 135310,
+  "alt": "Portrait of Fonti Kar",
+  "use": "portrait"
+ },
+ {
+  "file": "people-birgit-szabo.jpg",
+  "source": "https://ecobird.ugent.be/images/t/pasted-image-450.jpg (Ghent University group page); square centre crop, metadata stripped (1 Sep 2026)",
+  "width": 450,
+  "height": 450,
+  "bytes": 29628,
+  "alt": "Portrait of Birgit Szabo",
+  "use": "portrait"
+ },
+ {
+  "file": "people-julia-riley.jpg",
+  "source": "https://www.mta.ca/directory/julia-riley (Mount Allison University staff page); square centre crop, metadata stripped (1 Sep 2026)",
+  "width": 280,
+  "height": 280,
+  "bytes": 22915,
+  "alt": "Portrait of Julia Riley",
+  "use": "portrait"
+ },
+ {
+  "file": "people-maider-iglesias-carrasco.jpg",
+  "source": "The Conversation author profile (theconversation.com/profiles/maider-iglesias-carrasco-1536710); square centre crop, metadata stripped (1 Sep 2026)",
+  "width": 238,
+  "height": 238,
+  "bytes": 17372,
+  "alt": "Portrait of Maider Iglesias-Carrasco",
+  "use": "portrait"
+ }
 ]

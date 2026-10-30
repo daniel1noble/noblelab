@@ -8,6 +8,7 @@ on:
 
 permissions:
   contents: write
+  actions: write # to dispatch the Pages deploy after a data commit
 
 jobs:
   refresh:
@@ -26,6 +27,12 @@ jobs:
         run: node scripts/fetch-data.mjs
 
       - name: Commit if anything changed
+        # Pushes made with GITHUB_TOKEN deliberately do not fire `on: push`
+        # workflows (GitHub's recursion guard), so the data commits here never
+        # reached the live site until the next human push. workflow_dispatch is
+        # exempt from that guard, so dispatch the Pages deploy explicitly.
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
@@ -36,3 +43,4 @@ jobs:
           git add public/data
           git commit -m "data: refresh publications and collaborators from OpenAlex"
           git push
+          gh workflow run pages.yml --ref main

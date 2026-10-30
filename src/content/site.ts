@@ -889,6 +889,23 @@ export type SoftwarePackage = {
  */
 export const SOFTWARE: SoftwarePackage[] = [
   {
+    // description: the first sentence of the Description field in the
+    // repository's DESCRIPTION (github.com/daniel1noble/BACE), quoted as
+    // written minus its inline Hadfield 2010 DOI citation. Not yet on CRAN
+    // (submission in preparation, Oct 2026); version and authors from the same
+    // DESCRIPTION. Hex sticker: vignettes/figs/bace_hex_sticker.png in the
+    // repository.
+    name: "BACE",
+    description:
+      "Multiple imputation of missing data in phylogenetic comparative datasets by chained equations, where every per-variable imputation model is a Bayesian phylogenetic mixed model fitted with 'MCMCglmm', so that closely related taxa inform each other's imputations.",
+    href: "https://daniel1noble.github.io/BACE/",
+    github: "https://github.com/daniel1noble/BACE",
+    version: "0.1.0",
+    authors:
+      "Daniel Noble [aut, cre], Szymon Drobniak [aut], Ayumi Mizuno [aut], Patrice Pottier [aut], Shinichi Nakagawa [aut]",
+    hex: "/images/hex-bace.png",
+  },
+  {
     // description: the repository's own one-line description on GitHub.
     // Version and authors: https://CRAN.R-project.org/package=bayesTLS
     // (1.0.0, published 2026-07-21). No hex sticker exists.
