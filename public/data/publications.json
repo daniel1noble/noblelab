@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31",
+ "updated": "2026-11-01",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -3526,7 +3526,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/ele.14144",
    "url": "https://doi.org/10.1111/ele.14144",
-   "citations": 122,
+   "citations": 123,
    "abstract": "The log response ratio, lnRR, is the most frequently used effect size statistic for meta-analysis in ecology. However, often missing standard deviations (SDs) prevent estimation of the sampling variance of lnRR. We propose new methods to deal with missing SDs via a weighted average coefficient of variation (CV) estimated from studies in the dataset that do report SDs. Across a suite of simulated conditions, we find that using the average CV to estimate sampling variances for all observations, regardless of missingness, performs with minimal bias. Surprisingly, even with missing SDs, this simple method outperforms the conventional approach (basing each effect size on its individual study-specific CV) with complete data. This is because the conventional method ultimately yields less precise estimates of the sampling variances than using the pooled CV from multiple studies. Our approach is broadly applicable and can be implemented in all meta-analyses of lnRR, regardless of 'missingness'.",
    "preprintUrl": null,
    "altmetric": null
@@ -5407,7 +5407,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/ga2qz",
    "url": "https://doi.org/10.1016/j.tree.2018.11.007",
-   "citations": 261,
+   "citations": 262,
    "abstract": "We propose a new framework for research synthesis of both evidence and influence, named research weaving. It summarizes and visualizes information content, history, and networks among a collection of documents on any given topic. Research weaving achieves this feat by combining the power of two methods: systematic mapping and bibliometrics. Systematic mapping provides a snapshot of the current state of knowledge, identifying areas needing more research attention and those ready for full synthesis. Bibliometrics enables researchers to see how pieces of evidence are connected, revealing the structure and development of a field. We explain how researchers can use some or all of these tools to gain a deeper, more nuanced understanding of the scientific literature.",
    "preprintUrl": null,
    "altmetric": null
@@ -6404,7 +6404,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 577,
+   "citations": 578,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
