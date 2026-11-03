@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02",
+ "updated": "2026-11-03",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -3318,7 +3318,7 @@
    "isOA": true,
    "oaUrl": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2023.0019",
    "url": "https://doi.org/10.1098/rsbl.2023.0019",
-   "citations": 16,
+   "citations": 15,
    "abstract": "On a global scale, organisms face significant challenges due to climate change and anthropogenic disturbance. In many ectotherms, developmental and physiological processes are sensitive to changes in temperature and resources. Developmental plasticity in thermal physiology may provide adaptive advantages to environmental extremes if early environmental conditions are predictive of late-life environments. Here, we conducted a laboratory experiment to test how developmental temperature and maternal resource investment influence thermal physiological traits (critical thermal maximum: CT max and thermal preference: T pref ) in a common skink ( Lampropholis delicata ). We then compared our experimental findings more broadly across reptiles (snakes, lizards and turtles) using meta-analysis. In both our experimental study and meta-analysis, we did not find evidence that developmental environments influence CT max or T pref . Furthermore, the effects of developmental environments on thermal physiology did not vary by age, taxon or climate zone (temperate/tropical). Overall, the magnitude of developmental plasticity on thermal physiology appears to be limited across reptile taxa suggesting that behavioural or evolutionary processes may be more important. However, there is a paucity of information across most reptile taxa, and a broader focus on thermal performance curves themselves will be critical in understanding the impacts of changing thermal conditions on reptiles in the future.",
    "preprintUrl": null,
    "altmetric": null
@@ -4382,48 +4382,6 @@
    "altmetric": null
   },
   {
-   "id": "10.1002/ecy.3490",
-   "doi": "10.1002/ecy.3490",
-   "title": "An assessment of statistical methods for nonindependent data in ecological meta‐analyses: Comment",
-   "authors": [
-    {
-     "name": "Shinichi Nakagawa",
-     "orcid": "https://orcid.org/0000-0002-7765-5182",
-     "isSelf": false
-    },
-    {
-     "name": "Alistair M. Senior",
-     "orcid": "https://orcid.org/0000-0001-9805-7280",
-     "isSelf": false
-    },
-    {
-     "name": "Wolfgang Viechtbauer",
-     "orcid": "https://orcid.org/0000-0003-3463-4063",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    }
-   ],
-   "authorLine": "Shinichi Nakagawa, Alistair M. Senior, Wolfgang Viechtbauer, Daniel W. A. Noble",
-   "journal": "Ecology",
-   "year": 2021,
-   "date": "2021-10-20",
-   "volume": "103",
-   "issue": "1",
-   "pages": "e03490",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://doi.org/10.32942/osf.io/w96nv",
-   "url": "https://doi.org/10.1002/ecy.3490",
-   "citations": 28,
-   "abstract": "Recently, Song et al. (2020) conducted a simulation study using different methods to deal with non-independence resulting from effect sizes originating from the same paper – a common occurrence in ecological meta-analyses. The main methods that were of interest in their simulations were: 1) a standard random-effects model used in combination with a weighted average effect size for each paper (i.e., a two-step method), 2) a standard random-effects model after randomly choosing one effect size per paper, 3) a multilevel (hierarchical) meta-analysis model, modelling paper identity as a random factor, and 4) a meta-analysis making use of a robust variance estimation method. Based on their simulation results, they recommend that meta-analysts should either use the two-step method, which involves taking a weighted paper mean followed by analysis with a random-effects model, or the robust variance estimation method.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
    "id": "10.1093/beheco/arab019",
    "doi": "10.1093/beheco/arab019",
    "title": "Spontaneous quantity discrimination in a family-living lizard",
@@ -4467,6 +4425,48 @@
    "url": "https://doi.org/10.1093/beheco/arab019",
    "citations": 28,
    "abstract": "Abstract While foraging or during social interactions, animals may benefit from judging relative quantity. Individuals may select larger prey or a patch with more food and, likewise, it may pay to track the number and type of individuals and social interactions. We tested for spontaneous quantity discrimination in the gidgee skink (Egernia stokesii), a family-living lizard. Lizards were presented with food quantities differing in number or size and were able to select the larger quantity of food items when they differed in number but not when items differed in size. We show, for the first time, superior spontaneous discrimination of items differing in number over size in a lizard species, which contrasts with previous findings. Our simple method, however, did not include controls for the use of continuous quantities, and further tests are required to determine the role of such information during quantity discrimination. Our results provide support for the use of the parallel individuation system for the discrimination of small quantities (four or fewer items). Lizards might, however, still use the approximate number system if items in larger quantities (more than four) are presented. Overall, we uncovered evidence that species might possess specific cognitive abilities potentially adapted to their niche with respect to quantity information (discrete and/or continuous) and the processing system used when judging quantities. Importantly, our results highlight the need for testing multiple species using similar testing procedures to gain a better understanding of the underlying causes leading to differences across species.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1002/ecy.3490",
+   "doi": "10.1002/ecy.3490",
+   "title": "An assessment of statistical methods for nonindependent data in ecological meta‐analyses: Comment",
+   "authors": [
+    {
+     "name": "Shinichi Nakagawa",
+     "orcid": "https://orcid.org/0000-0002-7765-5182",
+     "isSelf": false
+    },
+    {
+     "name": "Alistair M. Senior",
+     "orcid": "https://orcid.org/0000-0001-9805-7280",
+     "isSelf": false
+    },
+    {
+     "name": "Wolfgang Viechtbauer",
+     "orcid": "https://orcid.org/0000-0003-3463-4063",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    }
+   ],
+   "authorLine": "Shinichi Nakagawa, Alistair M. Senior, Wolfgang Viechtbauer, Daniel W. A. Noble",
+   "journal": "Ecology",
+   "year": 2021,
+   "date": "2021-10-20",
+   "volume": "103",
+   "issue": "1",
+   "pages": "e03490",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://doi.org/10.32942/osf.io/w96nv",
+   "url": "https://doi.org/10.1002/ecy.3490",
+   "citations": 27,
+   "abstract": "Recently, Song et al. (2020) conducted a simulation study using different methods to deal with non-independence resulting from effect sizes originating from the same paper – a common occurrence in ecological meta-analyses. The main methods that were of interest in their simulations were: 1) a standard random-effects model used in combination with a weighted average effect size for each paper (i.e., a two-step method), 2) a standard random-effects model after randomly choosing one effect size per paper, 3) a multilevel (hierarchical) meta-analysis model, modelling paper identity as a random factor, and 4) a meta-analysis making use of a robust variance estimation method. Based on their simulation results, they recommend that meta-analysts should either use the two-step method, which involves taking a weighted paper mean followed by analysis with a random-effects model, or the robust variance estimation method.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -6718,7 +6718,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/eep/article-pdf/2/1/dvv014/23747241/dvv014.pdf",
    "url": "https://doi.org/10.1093/eep/dvv014",
-   "citations": 153,
+   "citations": 154,
    "abstract": "Rapid environmental change is predicted to compromise population survival, and the resulting strong selective pressure can erode genetic variation, making evolutionary rescue unlikely. Non-genetic inheritance may provide a solution to this problem and help explain the current lack of fit between purely genetic evolutionary models and empirical data. We hypothesize that epigenetic modifications can facilitate evolutionary rescue through 'epigenetic buffering'. By facilitating the inheritance of novel phenotypic variants that are generated by environmental change-a strategy we call 'heritable bet hedging'-epigenetic modifications could maintain and increase the evolutionary potential of a population. This process may facilitate genetic adaptation by preserving existing genetic variation, releasing cryptic genetic variation and/or facilitating mutations in functional loci. Although we show that examples of non-genetic inheritance are often maladaptive in the short term, accounting for phenotypic variance and non-adaptive plasticity may reveal important evolutionary implications over longer time scales. We also discuss the possibility that maladaptive epigenetic responses may be due to 'epigenetic traps', whereby evolutionarily novel factors (e.g. endocrine disruptors) hack into the existing epigenetic machinery. We stress that more ecologically relevant work on transgenerational epigenetic inheritance is required. Researchers conducting studies on transgenerational environmental effects should report measures of phenotypic variance, so that the possibility of both bet hedging and heritable bet hedging can be assessed. Future empirical and theoretical work is required to assess the relative importance of genetic and epigenetic variation, and their interaction, for evolutionary rescue.",
    "preprintUrl": null,
    "altmetric": null
