@@ -1,19 +1,19 @@
 {
- "updated": "2026-11-04",
+ "updated": "2026-11-05",
  "sources": [
   "ORCID",
   "Crossref",
   "OpenAlex"
  ],
  "orcid": "0000-0001-9460-8743",
- "citations": 7484,
- "hIndex": 40,
- "i10Index": 93,
+ "citations": 7462,
+ "hIndex": 41,
+ "i10Index": 95,
  "works": 131,
  "articles": 130,
  "preprints": 1,
  "firstAuthor": 20,
- "coAuthors": 416,
+ "coAuthors": 413,
  "countries": 28,
  "citationsByYear": [
   {
@@ -38,43 +38,43 @@
   },
   {
    "year": 2017,
-   "cited_by_count": 108
+   "cited_by_count": 107
   },
   {
    "year": 2018,
-   "cited_by_count": 236
+   "cited_by_count": 235
   },
   {
    "year": 2019,
-   "cited_by_count": 284
+   "cited_by_count": 285
   },
   {
    "year": 2020,
-   "cited_by_count": 394
+   "cited_by_count": 386
   },
   {
    "year": 2021,
-   "cited_by_count": 579
+   "cited_by_count": 560
   },
   {
    "year": 2022,
-   "cited_by_count": 841
+   "cited_by_count": 818
   },
   {
    "year": 2023,
-   "cited_by_count": 945
+   "cited_by_count": 854
   },
   {
    "year": 2024,
-   "cited_by_count": 1172
+   "cited_by_count": 1142
   },
   {
    "year": 2025,
-   "cited_by_count": 1346
+   "cited_by_count": 1371
   },
   {
    "year": 2026,
-   "cited_by_count": 1289
+   "cited_by_count": 1414
   }
  ]
 }
