@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05",
+ "updated": "2026-11-06",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -503,53 +503,6 @@
    "altmetric": null
   },
   {
-   "id": "10.1111/1365-2435.70473",
-   "doi": "10.1111/1365-2435.70473",
-   "title": "The effect of prenatal environment on brain mitochondrial function and prey detection in a lizard",
-   "authors": [
-    {
-     "name": "Pablo Recio",
-     "orcid": "https://orcid.org/0000-0002-5890-0218",
-     "isSelf": false
-    },
-    {
-     "name": "Dalton C. Leibold",
-     "orcid": "https://orcid.org/0000-0001-9645-2033",
-     "isSelf": false
-    },
-    {
-     "name": "Ondi L. Crino",
-     "orcid": "https://orcid.org/0000-0001-5700-1387",
-     "isSelf": false
-    },
-    {
-     "name": "Christopher R. Friesen",
-     "orcid": "https://orcid.org/0000-0001-5338-7454",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    }
-   ],
-   "authorLine": "Pablo Recio, Dalton C. Leibold, Ondi L. Crino, Christopher R. Friesen, Daniel W. A. Noble",
-   "journal": "Functional Ecology",
-   "year": 2026,
-   "date": "2026-10-12",
-   "volume": "40",
-   "issue": "11",
-   "pages": "3382-3397",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2435.70473",
-   "url": "https://doi.org/10.1111/1365-2435.70473",
-   "citations": 0,
-   "abstract": "Abstract The ability to detect prey is crucial for survival in many animals. However, prey detection is a cognitive process that can be influenced by early life conditions such as prenatal stress or temperature. Mitochondrial function is likely to underlie these effects because cognitive abilities are energetically demanding (i.e. dependent on efficient metabolic function) and because metabolic‐derived oxidative stress and oxidative damage can impair cognitive function. Yet, whether prenatal stress and thermal environments affect prey detection, and whether mitochondrial function mediates such effects, remains poorly understood. Here, we investigated the links between prenatal environments, mitochondrial function and prey detection in the delicate skink ( Lampropholis delicata ). We manipulated egg corticosterone (CORT) levels—a key stress hormone in reptiles—and incubation temperature and assessed the ability of lizards to detect chemical and visual prey stimuli. Then, using flow cytometry, we measured metabolic function, oxidative stress and oxidative damage in the olfactory bulbs and optic tecta, two brain regions involved in sensory processing. While metabolic function and oxidative stress remained robust to early life conditions, CORT and temperature interacted to influence oxidative damage. Particularly, CORT decreased DNA damage in the olfactory bulbs of cold‐incubated lizards but had no effect on hot‐incubated lizards. In both brain regions, lipid peroxidation was lower in CORT‐treated lizards incubated at high temperatures compared to CORT‐treated cold‐incubated lizards, but no other between‐treatment differences were detected. Additionally, CORT‐treated lizards responded faster when presented with chemical cues but not visual stimuli. We did not find any relationship between mitochondrial function and prey detection. Our findings suggest that prenatal conditions have lasting effects on DNA damage and prey detection, but prey detection appears decoupled from mitochondrial function in L. delicata . Read the free Plain Language Summary for this article on the Journal blog.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
    "id": "10.1002/brv.70205",
    "doi": "10.1002/brv.70205",
    "title": "A global meta‐analysis of non‐lethal mammal browsing control in forests",
@@ -593,58 +546,6 @@
    "url": "https://doi.org/10.1002/brv.70205",
    "citations": 0,
    "abstract": "Increasing resource demand, desire to sequester atmospheric carbon, and conservation goals are driving a need for forests to be managed more effectively in the face of numerous challenges. One such challenge is damage perpetrated by browsing mammals, which can cause substantial financial and ecological impacts. Current practices focus on lethal control measures for mitigating mammal browsing damage, however stakeholder pressure is calling for a transition to non-lethal alternatives. Little is known about the relative efficacy of different non-lethal control methods for mitigating browsing damage by mammals other than deer. Using a multilevel meta-analytical framework across 1,908 effect sizes, we investigate the relative efficacy and longevity of different non-lethal control methods implemented against a broad suite of browsing mammals across different spatial scales. We found that tree guards, repellents and exclusion fencing all significantly reduce mammal browsing damage and retain their effect for long periods. There was, however, substantial variation in efficacy within individual control strategies highlighting the importance to forest managers of selecting the correct method from within the broad strategies we identified. We then discuss other factors to consider when implementing non-lethal mammal browsing control so that forest managers are well informed when implementing a control strategy.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1007/s10682-026-10412-4",
-   "doi": "10.1007/s10682-026-10412-4",
-   "title": "Quantity discrimination, decision-making, and the role of early-life conditions in a lizard",
-   "authors": [
-    {
-     "name": "Pablo Recio",
-     "orcid": "https://orcid.org/0000-0002-5890-0218",
-     "isSelf": false
-    },
-    {
-     "name": "Dalton C. Leibold",
-     "orcid": "https://orcid.org/0000-0001-9645-2033",
-     "isSelf": false
-    },
-    {
-     "name": "Ondi L. Crino",
-     "orcid": "https://orcid.org/0000-0001-5700-1387",
-     "isSelf": false
-    },
-    {
-     "name": "Christopher R. Friesen",
-     "orcid": "https://orcid.org/0000-0001-5338-7454",
-     "isSelf": false
-    },
-    {
-     "name": "Amelia Y. Peardon",
-     "orcid": "https://orcid.org/0009-0005-6227-8379",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    }
-   ],
-   "authorLine": "Pablo Recio, Dalton C. Leibold, Ondi L. Crino, Christopher R. Friesen, Amelia Y. Peardon, Daniel W. A. Noble",
-   "journal": "Evolutionary Ecology",
-   "year": 2026,
-   "date": "2026-07-22",
-   "volume": "40",
-   "issue": "4",
-   "pages": null,
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://link.springer.com/content/pdf/10.1007/s10682-026-10412-4.pdf",
-   "url": "https://doi.org/10.1007/s10682-026-10412-4",
-   "citations": 0,
-   "abstract": "Abstract From social behaviour to navigating complex environments, quantitative abilities can be crucial to fitness. However, early life conditions can impact brain development to affect quantitative competence. For example, early thermal conditions or glucocorticoid concentrations (GCs) – stress-related hormones transmitted by the parents – can play a prominent role in shaping cognition through their effects on brain physiology. Furthermore, temperature can lead to increased levels of GCs that can be transmitted to offspring, emphasizing the need to study the combined effects of these two factors. Here, we investigated the effects of elevated prenatal corticosterone (CORT) – the main GC in reptiles – and incubation temperature on numerical discrimination in the common garden skink (Lampropholis guichenoti). We assessed numerical abilities through a spontaneous choice test with food as a stimulus. Employing a repeated measures design, we subjected lizards to five numerical tests each differing in the ratios between the two choices (1 VS 4, 1 VS 3, 2 VS 4, 2 VS 3, 3 VS 4). Contrary to our predictions, we found no evidence for treatment effects on lizard behaviour and no use of numerical discrimination during foraging in L. guichenoti. Our findings build on previous studies suggesting that reptiles feeding on live prey may have difficulty distinguishing between different prey quantities. Despite our results, further investigation of numerical abilities in live-prey-feeding reptiles and the impact of early conditions on other taxa is warranted, as these areas remain understudied.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -707,6 +608,105 @@
    "url": "https://doi.org/10.1002/brv.70199",
    "citations": 0,
    "abstract": "The environmental conditions organisms experience during early development can have powerful and sustained effects on morphology, physiology, behaviour, and performance. Such developmental effects can influence reproductive success, survival, and life-history strategies and can be transmitted across generations (i.e. trans and intergenerational effects). In this way, developmental effects can be powerful drivers of evolutionary change. Given the developmental environment affects a range of phenotypic traits, it has been proposed that physiological responses to developmental conditions are modulated through cellular mechanisms that are shared across cell and tissue types, such as mitochondrial function. Mitochondrial respiratory function is highly sensitive to environmental conditions and exposure to adverse conditions during development can have sustained effects on different aspects of aerobic respiration in mitochondria. However, it is currently unknown if these effects are widespread across taxonomic groups and which components of mitochondrial respiratory function are most likely to be affected by the environment during development. We compiled data from 86 studies to examine the effects of developmental stressors (nutritional imbalance, glucocorticoid hormone exposure, parental care deprivation, and psychological disturbance) on mitochondrial respiratory function using meta-analysis. We sought to uncover whether there are general effects of developmental stressors on different aspects of mitochondrial respiratory function (antioxidants, metabolic capacity, oxidative damage, oxidative stress, and aerobic respiration). We tested how the type of developmental stressor, together with timing of exposure (prenatal versus postnatal), and sex and taxon of the test subjects influenced the magnitude, direction, and duration of effects on mitochondrial respiratory function. Finally, we tested which aspects of mitochondrial respiratory function were most impacted by developmental stressors. We found that exposure to glucocorticoids, parental care deprivation, and psychological disturbances during development generally decreased mitochondrial respiratory function. Generally, these developmental stressors increased the production of reactive oxygen species and oxidative damage and reduced aerobic respiration, metabolic capacity, and antioxidant levels. Nutritional imbalances during development (including both restricted and excessive nutrition) had a slight negative effect on mitochondrial respiratory function, but this effect may be influenced by publication bias. Overall, our results show that exposure to stressors during development negatively affects mitochondrial respiratory function, suggesting that changes in cellular metabolism may link developmental stressors to variation in whole animal traits and individual fitness.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1111/1365-2435.70473",
+   "doi": "10.1111/1365-2435.70473",
+   "title": "The effect of prenatal environment on brain mitochondrial function and prey detection in a lizard",
+   "authors": [
+    {
+     "name": "Pablo Recio",
+     "orcid": "https://orcid.org/0000-0002-5890-0218",
+     "isSelf": false
+    },
+    {
+     "name": "Dalton C. Leibold",
+     "orcid": "https://orcid.org/0000-0001-9645-2033",
+     "isSelf": false
+    },
+    {
+     "name": "Ondi L. Crino",
+     "orcid": "https://orcid.org/0000-0001-5700-1387",
+     "isSelf": false
+    },
+    {
+     "name": "Christopher R. Friesen",
+     "orcid": "https://orcid.org/0000-0001-5338-7454",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    }
+   ],
+   "authorLine": "Pablo Recio, Dalton C. Leibold, Ondi L. Crino, Christopher R. Friesen, Daniel W. A. Noble",
+   "journal": "Functional Ecology",
+   "year": 2026,
+   "date": "2026-10-12",
+   "volume": "40",
+   "issue": "11",
+   "pages": "3382-3397",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2435.70473",
+   "url": "https://doi.org/10.1111/1365-2435.70473",
+   "citations": 0,
+   "abstract": "Abstract The ability to detect prey is crucial for survival in many animals. However, prey detection is a cognitive process that can be influenced by early life conditions such as prenatal stress or temperature. Mitochondrial function is likely to underlie these effects because cognitive abilities are energetically demanding (i.e. dependent on efficient metabolic function) and because metabolic‐derived oxidative stress and oxidative damage can impair cognitive function. Yet, whether prenatal stress and thermal environments affect prey detection, and whether mitochondrial function mediates such effects, remains poorly understood. Here, we investigated the links between prenatal environments, mitochondrial function and prey detection in the delicate skink ( Lampropholis delicata ). We manipulated egg corticosterone (CORT) levels—a key stress hormone in reptiles—and incubation temperature and assessed the ability of lizards to detect chemical and visual prey stimuli. Then, using flow cytometry, we measured metabolic function, oxidative stress and oxidative damage in the olfactory bulbs and optic tecta, two brain regions involved in sensory processing. While metabolic function and oxidative stress remained robust to early life conditions, CORT and temperature interacted to influence oxidative damage. Particularly, CORT decreased DNA damage in the olfactory bulbs of cold‐incubated lizards but had no effect on hot‐incubated lizards. In both brain regions, lipid peroxidation was lower in CORT‐treated lizards incubated at high temperatures compared to CORT‐treated cold‐incubated lizards, but no other between‐treatment differences were detected. Additionally, CORT‐treated lizards responded faster when presented with chemical cues but not visual stimuli. We did not find any relationship between mitochondrial function and prey detection. Our findings suggest that prenatal conditions have lasting effects on DNA damage and prey detection, but prey detection appears decoupled from mitochondrial function in L. delicata . Read the free Plain Language Summary for this article on the Journal blog.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1007/s10682-026-10412-4",
+   "doi": "10.1007/s10682-026-10412-4",
+   "title": "Quantity discrimination, decision-making, and the role of early-life conditions in a lizard",
+   "authors": [
+    {
+     "name": "Pablo Recio",
+     "orcid": "https://orcid.org/0000-0002-5890-0218",
+     "isSelf": false
+    },
+    {
+     "name": "Dalton C. Leibold",
+     "orcid": "https://orcid.org/0000-0001-9645-2033",
+     "isSelf": false
+    },
+    {
+     "name": "Ondi L. Crino",
+     "orcid": "https://orcid.org/0000-0001-5700-1387",
+     "isSelf": false
+    },
+    {
+     "name": "Christopher R. Friesen",
+     "orcid": "https://orcid.org/0000-0001-5338-7454",
+     "isSelf": false
+    },
+    {
+     "name": "Amelia Y. Peardon",
+     "orcid": "https://orcid.org/0009-0005-6227-8379",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    }
+   ],
+   "authorLine": "Pablo Recio, Dalton C. Leibold, Ondi L. Crino, Christopher R. Friesen, Amelia Y. Peardon, Daniel W. A. Noble",
+   "journal": "Evolutionary Ecology",
+   "year": 2026,
+   "date": "2026-07-22",
+   "volume": "40",
+   "issue": "4",
+   "pages": null,
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://link.springer.com/content/pdf/10.1007/s10682-026-10412-4.pdf",
+   "url": "https://doi.org/10.1007/s10682-026-10412-4",
+   "citations": 0,
+   "abstract": "Abstract From social behaviour to navigating complex environments, quantitative abilities can be crucial to fitness. However, early life conditions can impact brain development to affect quantitative competence. For example, early thermal conditions or glucocorticoid concentrations (GCs) – stress-related hormones transmitted by the parents – can play a prominent role in shaping cognition through their effects on brain physiology. Furthermore, temperature can lead to increased levels of GCs that can be transmitted to offspring, emphasizing the need to study the combined effects of these two factors. Here, we investigated the effects of elevated prenatal corticosterone (CORT) – the main GC in reptiles – and incubation temperature on numerical discrimination in the common garden skink (Lampropholis guichenoti). We assessed numerical abilities through a spontaneous choice test with food as a stimulus. Employing a repeated measures design, we subjected lizards to five numerical tests each differing in the ratios between the two choices (1 VS 4, 1 VS 3, 2 VS 4, 2 VS 3, 3 VS 4). Contrary to our predictions, we found no evidence for treatment effects on lizard behaviour and no use of numerical discrimination during foraging in L. guichenoti. Our findings build on previous studies suggesting that reptiles feeding on live prey may have difficulty distinguishing between different prey quantities. Despite our results, further investigation of numerical abilities in live-prey-feeding reptiles and the impact of early conditions on other taxa is warranted, as these areas remain understudied.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2274,7 +2274,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/2041-210x.14377",
    "url": "https://doi.org/10.1111/2041-210x.14377",
-   "citations": 28,
+   "citations": 29,
    "abstract": "Abstract Meta‐analysis produces a quantitative synthesis of evidence‐based knowledge, shaping not only research trends but also policies and practices in biology. However, two statistical issues, selective reporting and statistical dependence, can severely distort meta‐analytic parameter estimation and inference. Here, we re‐analyse 448 meta‐analyses to demonstrate a new two‐step procedure to deal with two common challenges in biological meta‐analyses that often occur simultaneously: publication bias and non‐independence. First, we employ bias‐robust weighting schemes under the generalized least square estimator to obtain average effect sizes that are more robust to selective reporting. We then use cluster‐robust variance estimation to account for statistical dependence, reducing bias in estimating standard errors and ensuring valid statistical inference. The first step of our approach demonstrates comparable performance in estimating average effect sizes to the existing publication‐bias adjustment methods in the presence of selective reporting. This equivalence holds across two publication bias selection processes. The second step achieves estimates of standard errors consistent with the multilevel meta‐analytic model, a benchmark method with adequate control of Type I error rates for multiple, statistically dependent effect sizes. Re‐analyses of 448 meta‐analyses show that ignoring these two issues tends to overestimate effect sizes by an average of 110% and underestimate standard errors by 120%. To facilitate implementation, we have developed a website including a step‐by‐step tutorial. Complementing current meta‐analytic workflows with the proposed method as a sensitivity analysis can facilitate a transition to a more robust approach in quantitative evidence synthesis.",
    "preprintUrl": null,
    "altmetric": null
@@ -2919,7 +2919,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/counter/pdf/10.1186/s12915-022-01485-y",
    "url": "https://doi.org/10.1186/s12915-022-01485-y",
-   "citations": 94,
+   "citations": 95,
    "abstract": "Collaborative efforts to directly replicate empirical studies in the medical and social sciences have revealed alarmingly low rates of replicability, a phenomenon dubbed the 'replication crisis'. Poor replicability has spurred cultural changes targeted at improving reliability in these disciplines. Given the absence of equivalent replication projects in ecology and evolutionary biology, two inter-related indicators offer the opportunity to retrospectively assess replicability: publication bias and statistical power. This registered report assesses the prevalence and severity of small-study (i.e., smaller studies reporting larger effect sizes) and decline effects (i.e., effect sizes decreasing over time) across ecology and evolutionary biology using 87 meta-analyses comprising 4,250 primary studies and 17,638 effect sizes. Further, we estimate how publication bias might distort the estimation of effect sizes, statistical power, and errors in magnitude (Type M or exaggeration ratio) and sign (Type S). We show strong evidence for the pervasiveness of both small-study and decline effects in ecology and evolution. There was widespread prevalence of publication bias that resulted in meta-analytic means being over-estimated by (at least) 0.12 standard deviations. The prevalence of publication bias distorted confidence in meta-analytic results, with 66% of initially statistically significant meta-analytic means becoming non-significant after correcting for publication bias. Ecological and evolutionary studies consistently had low statistical power (15%) with a 4-fold exaggeration of effects on average (Type M error rates = 4.4). Notably, publication bias reduced power from 23% to 15% and increased type M error rates from 2.7 to 4.4 because it creates a non-random sample of effect size evidence. The sign errors of effect sizes (Type S error) increased from 5% to 8% because of publication bias. Our research provides clear evidence that many published ecological and evolutionary findings are inflated. Our results highlight the importance of designing high-power empirical studies (e.g., via collaborative team science), promoting and encouraging replication studies, testing and correcting for publication bias in meta-analyses, and adopting open and transparent research practices, such as (pre)registration, data- and code-sharing, and transparent reporting.",
    "preprintUrl": null,
    "altmetric": null
@@ -4049,7 +4049,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 455,
+   "citations": 456,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4945,7 +4945,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.7554/elife.63170",
    "url": "https://doi.org/10.7554/elife.63170",
-   "citations": 102,
+   "citations": 101,
    "abstract": "Biomedical and clinical sciences are experiencing a renewed interest in the fact that males and females differ in many anatomic, physiological, and behavioural traits. Sex differences in trait variability, however, are yet to receive similar recognition. In medical science, mammalian females are assumed to have higher trait variability due to estrous cycles (the 'estrus-mediated variability hypothesis'); historically in biomedical research, females have been excluded for this reason. Contrastingly, evolutionary theory and associated data support the 'greater male variability hypothesis'. Here, we test these competing hypotheses in 218 traits measured in >26,900 mice, using meta-analysis methods. Neither hypothesis could universally explain patterns in trait variability. Sex bias in variability was trait-dependent. While greater male variability was found in morphological traits, females were much more variable in immunological traits. Sex-specific variability has eco-evolutionary ramifications, including sex-dependent responses to climate change, as well as statistical implications including power analysis considering sex difference in variance.",
    "preprintUrl": "https://doi.org/10.1101/2020.05.23.106146",
    "altmetric": null
