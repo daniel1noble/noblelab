@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "total": 413,
  "countries": 28,
  "institutions": 154,
@@ -763,7 +763,7 @@
    "lon": 7.62571
   },
   {
-   "name": "Charlie Kinahan Cornwallis",
+   "name": "Charlie K. Cornwallis",
    "orcid": "https://orcid.org/0000-0003-1308-3995",
    "openalex": "https://openalex.org/A5052166449",
    "works": 2,
@@ -1283,7 +1283,7 @@
    "lon": 149.12807
   },
   {
-   "name": "Russell Bonduriansky A",
+   "name": "Russell Bonduriansky",
    "orcid": "https://orcid.org/0000-0002-5786-6951",
    "openalex": "https://openalex.org/A5073861127",
    "works": 2,
@@ -3974,7 +3974,7 @@
    "lon": 144.96332
   },
   {
-   "name": "Maria Helena Hällfors",
+   "name": "Maria Hällfors",
    "orcid": "https://orcid.org/0000-0002-6890-8942",
    "openalex": "https://openalex.org/A5061823944",
    "works": 1,
@@ -4455,7 +4455,7 @@
    "lon": 151.20732
   },
   {
-   "name": "Petri Toivo Niemelä",
+   "name": "Petri T. Niemelä",
    "orcid": "https://orcid.org/0000-0002-7518-4057",
    "openalex": "https://openalex.org/A5041958219",
    "works": 1,

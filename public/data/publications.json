@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06",
+ "updated": "2026-11-07",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -381,7 +381,7 @@
    "pages": "e70428",
    "kind": "article",
    "isOA": true,
-   "oaUrl": "https://doi.org/10.1111/ele.70428",
+   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.70428",
    "url": "https://doi.org/10.1111/ele.70428",
    "citations": 2,
    "abstract": "ABSTRACT Meta‐analyses in ecology and evolution sometimes target the magnitude of differences between groups rather than their direction, for example, when the question concerns deviation from a biological optimum or divergence from a reference state. A common practice is to convert signed effects into magnitudes by taking absolute values, but this can induce upward distortion and non‐normal sampling distributions under standard meta‐analytic models. Here we introduce lnM, a log‐ratio effect size for the magnitude of difference between two groups, defined from one‐way ANOVA components. lnM is asymptotically normal, supports standard multilevel meta‐analysis and meta‐regression and applies to both ratio‐ and interval‐scale traits. Using theory, simulations and worked examples, we show when delta‐method and single‐fit bootstrap estimators perform well, and how lnM can be used to assess publication bias.",
@@ -542,7 +542,7 @@
    "pages": "2901-2919",
    "kind": "article",
    "isOA": true,
-   "oaUrl": "https://doi.org/10.1002/brv.70205",
+   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/brv.70205",
    "url": "https://doi.org/10.1002/brv.70205",
    "citations": 0,
    "abstract": "Increasing resource demand, desire to sequester atmospheric carbon, and conservation goals are driving a need for forests to be managed more effectively in the face of numerous challenges. One such challenge is damage perpetrated by browsing mammals, which can cause substantial financial and ecological impacts. Current practices focus on lethal control measures for mitigating mammal browsing damage, however stakeholder pressure is calling for a transition to non-lethal alternatives. Little is known about the relative efficacy of different non-lethal control methods for mitigating browsing damage by mammals other than deer. Using a multilevel meta-analytical framework across 1,908 effect sizes, we investigate the relative efficacy and longevity of different non-lethal control methods implemented against a broad suite of browsing mammals across different spatial scales. We found that tree guards, repellents and exclusion fencing all significantly reduce mammal browsing damage and retain their effect for long periods. There was, however, substantial variation in efficacy within individual control strategies highlighting the importance to forest managers of selecting the correct method from within the broad strategies we identified. We then discuss other factors to consider when implementing non-lethal mammal browsing control so that forest managers are well informed when implementing a control strategy.",
@@ -947,53 +947,6 @@
    "altmetric": null
   },
   {
-   "id": "10.1111/1365-2656.70095",
-   "doi": "10.1111/1365-2656.70095",
-   "title": "Fluctuating salinity during development impacts fish life histories",
-   "authors": [
-    {
-     "name": "Meng‐Han Joseph Chung",
-     "orcid": "https://orcid.org/0000-0001-9214-1190",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    },
-    {
-     "name": "Rebecca J. Fox",
-     "orcid": "https://orcid.org/0000-0003-3442-4189",
-     "isSelf": false
-    },
-    {
-     "name": "Lauren M. Harrison",
-     "orcid": "https://orcid.org/0000-0002-6690-5035",
-     "isSelf": false
-    },
-    {
-     "name": "Michael D. Jennions",
-     "orcid": "https://orcid.org/0000-0001-9221-2788",
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Meng‐Han Joseph Chung, Daniel W. A. Noble, Rebecca J. Fox, Lauren M. Harrison, Michael D. Jennions",
-   "journal": "Journal of Animal Ecology",
-   "year": 2025,
-   "date": "2025-07",
-   "volume": "94",
-   "issue": "9",
-   "pages": "1848-1865",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.70095",
-   "url": "https://doi.org/10.1111/1365-2656.70095",
-   "citations": 14,
-   "abstract": "Climate change and human activities are elevating the level and variability of salinity in freshwater ecosystems. Consequently, many aquatic species now experience more extreme developmental environments. Resultant shifts in developmental trajectories could change key life-history traits that persist into adulthood. The 'silver spoon' hypothesis posits that favourable developmental conditions lead to faster growth, earlier maturation and greater reproductive success. In contrast, the 'predictable adaptive response' hypothesis suggests that faster growth and earlier reproduction should be selected for under stressful developmental conditions because stress provides cues about a higher risk of mortality in future environments. To understand life-history responses to salinity during development, we reared a global pest, mosquitofish (Gambusia holbrooki), from birth in either freshwater control (0‰), stable-saline (10‰), or fluctuating-saline environments (0‰-20‰; mean = 10‰) until maturation. We then monitored their performance in early and late adulthood in a common garden setting. Fish in fluctuating salinity grew more slowly and had a reduced reproductive output (lower sperm count, smaller eggs) than those in stable elevated salinity. These differences are consistent with a more stable environment providing a 'silver spoon' effect. Conversely, fish in stable elevated salinity grew faster and matured earlier than those in freshwater, supporting a 'predictive adaptive response' whereby salinity is a stressor triggering faster development and accelerates reproduction. In addition, fluctuations in salinity altered the effect of higher salinity on self-maintenance. Stable elevated salinity caused a decrease in male telomere length and female gut length, but fluctuating salinity caused an increase in female gut length. Our results suggest that fluctuating versus stable salinity during development leads to distinct fish life histories. The effect sizes for some traits differed significantly between males and females, suggesting sex-specific responses to climate fluctuations.",
-   "preprintUrl": "https://doi.org/10.1101/2024.02.01.578515",
-   "altmetric": null
-  },
-  {
    "id": "10.1111/2041-210x.70155",
    "doi": "10.1111/2041-210x.70155",
    "title": "A pluralistic framework for measuring, interpreting and decomposing heterogeneity in meta‐analysis",
@@ -1040,9 +993,56 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/2041-210x.70155",
    "url": "https://doi.org/10.1111/2041-210x.70155",
-   "citations": 13,
+   "citations": 14,
    "abstract": "Abstract Measuring heterogeneity, or inconsistency, among effect sizes is a crucial step for interpreting meta‐analytic evidence across diverse taxonomic groups and spatiotemporal contexts. However, ecologists and evolutionary biologists often interpret overall mean effects (mean population effects) as consistent across contexts, either explicitly or implicitly, without properly quantifying and interpreting heterogeneity. Here, we present a pluralistic approach that aims to quantify heterogeneity by introducing complementary metrics, each of which decomposes heterogeneity into within‐study, between‐study and between‐species (species and phylogenetic) variances. These metrics include the traditional I 2 (variance‐standardized metric), the newly derived coefficient of variation for heterogeneity ( CVH family; mean‐standardized metric), the second‐order coefficient of variation ( M family; variance–mean‐standardized metric) and their stratified variants. To demonstrate the benefits of the combined use of these measures, we synthesize heterogeneity estimates from 512 ecological and evolutionary meta‐analyses. We show that total heterogeneity (variance of true effects) is, on average, 10 times larger than statistical noise (sampling error variance), contributing to 91% of the observed variance (median I 2 = 91%). This amount of heterogeneity is nearly twice the size of the mean population effect (median CVH = 1.8 and M = 0.6), indicating substantial variation among studies within a meta‐analysis. Moreover, different effect size types yield different values of heterogeneity metrics because they are inherently influenced by statistical properties of their effect size estimators. As such, comparisons of heterogeneity across effect size types should be made with caution, albeit the proposed heterogeneity metrics are unit‐free. Our large‐scale synthesis also provides new benchmarks for the interpretation of heterogeneity and recommendations on how to quantify and report heterogeneity. New extensions for stratifying heterogeneity metrics will clarify our understanding of the generalisability, and at what level of meta‐analytic effects in ecology and evolution.",
    "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1111/1365-2656.70095",
+   "doi": "10.1111/1365-2656.70095",
+   "title": "Fluctuating salinity during development impacts fish life histories",
+   "authors": [
+    {
+     "name": "Meng‐Han Joseph Chung",
+     "orcid": "https://orcid.org/0000-0001-9214-1190",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Rebecca J. Fox",
+     "orcid": "https://orcid.org/0000-0003-3442-4189",
+     "isSelf": false
+    },
+    {
+     "name": "Lauren M. Harrison",
+     "orcid": "https://orcid.org/0000-0002-6690-5035",
+     "isSelf": false
+    },
+    {
+     "name": "Michael D. Jennions",
+     "orcid": "https://orcid.org/0000-0001-9221-2788",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Meng‐Han Joseph Chung, Daniel W. A. Noble, Rebecca J. Fox, Lauren M. Harrison, Michael D. Jennions",
+   "journal": "Journal of Animal Ecology",
+   "year": 2025,
+   "date": "2025-07",
+   "volume": "94",
+   "issue": "9",
+   "pages": "1848-1865",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.70095",
+   "url": "https://doi.org/10.1111/1365-2656.70095",
+   "citations": 14,
+   "abstract": "Climate change and human activities are elevating the level and variability of salinity in freshwater ecosystems. Consequently, many aquatic species now experience more extreme developmental environments. Resultant shifts in developmental trajectories could change key life-history traits that persist into adulthood. The 'silver spoon' hypothesis posits that favourable developmental conditions lead to faster growth, earlier maturation and greater reproductive success. In contrast, the 'predictable adaptive response' hypothesis suggests that faster growth and earlier reproduction should be selected for under stressful developmental conditions because stress provides cues about a higher risk of mortality in future environments. To understand life-history responses to salinity during development, we reared a global pest, mosquitofish (Gambusia holbrooki), from birth in either freshwater control (0‰), stable-saline (10‰), or fluctuating-saline environments (0‰-20‰; mean = 10‰) until maturation. We then monitored their performance in early and late adulthood in a common garden setting. Fish in fluctuating salinity grew more slowly and had a reduced reproductive output (lower sperm count, smaller eggs) than those in stable elevated salinity. These differences are consistent with a more stable environment providing a 'silver spoon' effect. Conversely, fish in stable elevated salinity grew faster and matured earlier than those in freshwater, supporting a 'predictive adaptive response' whereby salinity is a stressor triggering faster development and accelerates reproduction. In addition, fluctuations in salinity altered the effect of higher salinity on self-maintenance. Stable elevated salinity caused a decrease in male telomere length and female gut length, but fluctuating salinity caused an increase in female gut length. Our results suggest that fluctuating versus stable salinity during development leads to distinct fish life histories. The effect sizes for some traits differed significantly between males and females, suggesting sex-specific responses to climate fluctuations.",
+   "preprintUrl": "https://doi.org/10.1101/2024.02.01.578515",
    "altmetric": null
   },
   {
@@ -2274,7 +2274,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/2041-210x.14377",
    "url": "https://doi.org/10.1111/2041-210x.14377",
-   "citations": 29,
+   "citations": 30,
    "abstract": "Abstract Meta‐analysis produces a quantitative synthesis of evidence‐based knowledge, shaping not only research trends but also policies and practices in biology. However, two statistical issues, selective reporting and statistical dependence, can severely distort meta‐analytic parameter estimation and inference. Here, we re‐analyse 448 meta‐analyses to demonstrate a new two‐step procedure to deal with two common challenges in biological meta‐analyses that often occur simultaneously: publication bias and non‐independence. First, we employ bias‐robust weighting schemes under the generalized least square estimator to obtain average effect sizes that are more robust to selective reporting. We then use cluster‐robust variance estimation to account for statistical dependence, reducing bias in estimating standard errors and ensuring valid statistical inference. The first step of our approach demonstrates comparable performance in estimating average effect sizes to the existing publication‐bias adjustment methods in the presence of selective reporting. This equivalence holds across two publication bias selection processes. The second step achieves estimates of standard errors consistent with the multilevel meta‐analytic model, a benchmark method with adequate control of Type I error rates for multiple, statistically dependent effect sizes. Re‐analyses of 448 meta‐analyses show that ignoring these two issues tends to overestimate effect sizes by an average of 110% and underestimate standard errors by 120%. To facilitate implementation, we have developed a website including a step‐by‐step tutorial. Complementing current meta‐analytic workflows with the proposed method as a sensitivity analysis can facilitate a transition to a more robust approach in quantitative evidence synthesis.",
    "preprintUrl": null,
    "altmetric": null
@@ -3474,7 +3474,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14083",
    "url": "https://doi.org/10.1111/ele.14083",
-   "citations": 147,
+   "citations": 148,
    "abstract": "Understanding the factors affecting thermal tolerance is crucial for predicting the impact climate change will have on ectotherms. However, the role developmental plasticity plays in allowing populations to cope with thermal extremes is poorly understood. Here, we meta-analyse how thermal tolerance is initially and persistently impacted by early (embryonic and juvenile) thermal environments by using data from 150 experimental studies on 138 ectothermic species. Thermal tolerance only increased by 0.13°C per 1°C change in developmental temperature and substantial variation in plasticity (~36%) was the result of shared evolutionary history and species ecology. Aquatic ectotherms were more than three times as plastic as terrestrial ectotherms. Notably, embryos expressed weaker but more heterogenous plasticity than older life stages, with numerous responses appearing as non-adaptive. While developmental temperatures did not have persistent effects on thermal tolerance overall, persistent effects were vastly under-studied, and their direction and magnitude varied with ontogeny. Embryonic stages may represent a critical window of vulnerability to changing environments and we urge researchers to consider early life stages when assessing the climate vulnerability of ectotherms. Overall, our synthesis suggests that developmental changes in thermal tolerance rarely reach levels of perfect compensation and may provide limited benefit in changing environments.",
    "preprintUrl": "https://doi.org/10.22541/au.164573834.49438532/v1",
    "altmetric": null
@@ -3526,7 +3526,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/ele.14144",
    "url": "https://doi.org/10.1111/ele.14144",
-   "citations": 123,
+   "citations": 124,
    "abstract": "The log response ratio, lnRR, is the most frequently used effect size statistic for meta-analysis in ecology. However, often missing standard deviations (SDs) prevent estimation of the sampling variance of lnRR. We propose new methods to deal with missing SDs via a weighted average coefficient of variation (CV) estimated from studies in the dataset that do report SDs. Across a suite of simulated conditions, we find that using the average CV to estimate sampling variances for all observations, regardless of missingness, performs with minimal bias. Surprisingly, even with missing SDs, this simple method outperforms the conventional approach (basing each effect size on its individual study-specific CV) with complete data. This is because the conventional method ultimately yields less precise estimates of the sampling variances than using the pooled CV from multiple studies. Our approach is broadly applicable and can be implemented in all meta-analyses of lnRR, regardless of 'missingness'.",
    "preprintUrl": null,
    "altmetric": null
@@ -3583,7 +3583,7 @@
    "isOA": true,
    "oaUrl": "https://journals.biologists.com/jeb/article-pdf/225/Suppl_1/jeb243225/2135035/jeb243225.pdf",
    "url": "https://doi.org/10.1242/jeb.243225",
-   "citations": 48,
+   "citations": 49,
    "abstract": "Meta-analysis is a powerful tool used to generate quantitatively informed answers to pressing global challenges. By distilling data from broad sets of research designs and study systems into standardised effect sizes, meta-analyses provide physiologists with opportunities to estimate overall effect sizes and understand the drivers of effect variability. Despite this ambition, research designs in the field of comparative physiology can appear, at the outset, as being vastly different to each other because of 'nuisance heterogeneity' (e.g. different temperatures or treatment dosages used across studies). Methodological differences across studies have led many to believe that meta-analysis is an exercise in comparing 'apples with oranges'. Here, we dispel this myth by showing how standardised effect sizes can be used in conjunction with multilevel meta-regression models to both account for the factors driving differences across studies and make them more comparable. We assess the prevalence of nuisance heterogeneity in the comparative physiology literature - showing it is common and often not accounted for in analyses. We then formalise effect size measures (e.g. the temperature coefficient, Q10) that provide comparative physiologists with a means to remove nuisance heterogeneity without the need to resort to more complex statistical models that may be harder to interpret. We also describe more general approaches that can be applied to a variety of different contexts to derive new effect sizes and sampling variances, opening up new possibilities for quantitative synthesis. By using effect sizes that account for components of effect heterogeneity, in combination with existing meta-analytic models, comparative physiologists can explore exciting new questions while making results from large-scale data sets more accessible, comparable and widely interpretable.",
    "preprintUrl": null,
    "altmetric": null
@@ -3982,7 +3982,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 770,
+   "citations": 771,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4049,7 +4049,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 456,
+   "citations": 458,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4789,7 +4789,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/epqa7",
    "url": "https://doi.org/10.1002/jrsm.1424",
-   "citations": 216,
+   "citations": 217,
    "abstract": "\"Classic\" forest plots show the effect sizes from individual studies and the aggregate effect from a meta-analysis. However, in ecology and evolution, meta-analyses routinely contain over 100 effect sizes, making the classic forest plot of limited use. We surveyed 102 meta-analyses in ecology and evolution, finding that only 11% use the classic forest plot. Instead, most used a \"forest-like plot,\" showing point estimates (with 95% confidence intervals [CIs]) from a series of subgroups or categories in a meta-regression. We propose a modification of the forest-like plot, which we name the \"orchard plot.\" Orchard plots, in addition to showing overall mean effects and CIs from meta-analyses/regressions, also include 95% prediction intervals (PIs), and the individual effect sizes scaled by their precision. The PI allows the user and reader to see the range in which an effect size from a future study may be expected to fall. The PI, therefore, provides an intuitive interpretation of any heterogeneity in the data. Supplementing the PI, the inclusion of underlying effect sizes also allows the user to see any influential or outlying effect sizes. We showcase the orchard plot with example datasets from ecology and evolution, using the R package, orchard, including several functions for visualizing meta-analytic data using forest-plot derivatives. We consider the orchard plot as a variant on the classic forest plot, cultivated to the needs of meta-analysts in ecology and evolution. Hopefully, the orchard plot will prove fruitful for visualizing large collections of heterogeneous effect sizes regardless of the field of study.",
    "preprintUrl": null,
    "altmetric": null
@@ -6483,7 +6483,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/mec.14031",
-   "citations": 258,
+   "citations": 259,
    "abstract": "Meta-analysis is an important tool for synthesizing research on a variety of topics in ecology and evolution, including molecular ecology, but can be susceptible to nonindependence. Nonindependence can affect two major interrelated components of a meta-analysis: (i) the calculation of effect size statistics and (ii) the estimation of overall meta-analytic estimates and their uncertainty. While some solutions to nonindependence exist at the statistical analysis stages, there is little advice on what to do when complex analyses are not possible, or when studies with nonindependent experimental designs exist in the data. Here we argue that exploring the effects of procedural decisions in a meta-analysis (e.g. inclusion of different quality data, choice of effect size) and statistical assumptions (e.g. assuming no phylogenetic covariance) using sensitivity analyses are extremely important in assessing the impact of nonindependence. Sensitivity analyses can provide greater confidence in results and highlight important limitations of empirical work (e.g. impact of study design on overall effects). Despite their importance, sensitivity analyses are seldom applied to problems of nonindependence. To encourage better practice for dealing with nonindependence in meta-analytic studies, we present accessible examples demonstrating the impact that ignoring nonindependence can have on meta-analytic estimates. We also provide pragmatic solutions for dealing with nonindependent study designs, and for analysing dependent effect sizes. Additionally, we offer reporting guidelines that will facilitate disclosure of the sources of nonindependence in meta-analyses, leading to greater transparency and more robust conclusions.",
    "preprintUrl": null,
    "altmetric": null
