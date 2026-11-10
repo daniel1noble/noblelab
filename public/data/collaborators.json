@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-09",
- "total": 413,
+ "updated": "2026-11-10",
+ "total": 410,
  "countries": 28,
  "institutions": 154,
  "byCountry": {
   "Japan": 2,
-  "Australia": 176,
+  "Australia": 175,
   "Germany": 21,
   "United Kingdom": 38,
+  "Sweden": 17,
   "Switzerland": 10,
   "Canada": 20,
   "Poland": 2,
-  "Sweden": 19,
   "Spain": 3,
   "China": 7,
   "United States": 50,
@@ -217,6 +217,19 @@
    "lon": -2.79902
   },
   {
+   "name": "Tobias Uller",
+   "orcid": "https://orcid.org/0000-0003-1293-5842",
+   "openalex": "https://openalex.org/A5004876984",
+   "works": 9,
+   "lastYear": 2023,
+   "institution": "Lund University",
+   "city": "Lund",
+   "country": "Sweden",
+   "countryCode": "SE",
+   "lat": 55.70584,
+   "lon": 13.19321
+  },
+  {
    "name": "Yefeng Yang",
    "orcid": "https://orcid.org/0000-0002-8610-4016",
    "openalex": "https://openalex.org/A5022684670",
@@ -280,19 +293,6 @@
    "countryCode": "PL",
    "lat": 50.06143,
    "lon": 19.93658
-  },
-  {
-   "name": "Tobias Uller",
-   "orcid": "https://orcid.org/0000-0003-1293-5842",
-   "openalex": "https://openalex.org/A5004876984",
-   "works": 8,
-   "lastYear": 2023,
-   "institution": "Lund University",
-   "city": "Lund",
-   "country": "Sweden",
-   "countryCode": "SE",
-   "lat": 55.70584,
-   "lon": 13.19321
   },
   {
    "name": "Michael D. Jennions",
@@ -828,6 +828,19 @@
    "lon": 151.20732
   },
   {
+   "name": "Danielle A. Way",
+   "orcid": "https://orcid.org/0000-0003-4801-5319",
+   "openalex": "https://openalex.org/A5080483170",
+   "works": 2,
+   "lastYear": 2026,
+   "institution": "Australian National University",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.28346,
+   "lon": 149.12807
+  },
+  {
    "name": "David S. Tait",
    "orcid": "https://orcid.org/0000-0001-5310-7731",
    "openalex": "https://openalex.org/A5102893905",
@@ -1164,6 +1177,19 @@
    "countryCode": "AU",
    "lat": -35.28346,
    "lon": 149.12807
+  },
+  {
+   "name": "Nathalie Feiner",
+   "orcid": "https://orcid.org/0000-0003-4648-6950",
+   "openalex": "https://openalex.org/A5004935819",
+   "works": 2,
+   "lastYear": 2023,
+   "institution": "Lund University",
+   "city": "Lund",
+   "country": "Sweden",
+   "countryCode": "SE",
+   "lat": 55.70584,
+   "lon": 13.19321
   },
   {
    "name": "Neal Haddaway",
@@ -2295,32 +2321,6 @@
    "countryCode": "AU",
    "lat": -33.86785,
    "lon": 151.20732
-  },
-  {
-   "name": "Danielle A. Way",
-   "orcid": null,
-   "openalex": null,
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
-  },
-  {
-   "name": "Danielle A. Way",
-   "orcid": "https://orcid.org/0000-0003-4801-5319",
-   "openalex": "https://openalex.org/A5080483170",
-   "works": 1,
-   "lastYear": 2025,
-   "institution": "Australian National University",
-   "city": "Canberra",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -35.28346,
-   "lon": 149.12807
   },
   {
    "name": "David Moher",
@@ -4286,32 +4286,6 @@
    "lon": -2.79902
   },
   {
-   "name": "Nathalie Feiner",
-   "orcid": "https://orcid.org/0000-0003-4648-6950",
-   "openalex": "https://openalex.org/A5004935819",
-   "works": 1,
-   "lastYear": 2023,
-   "institution": "Lund University",
-   "city": "Lund",
-   "country": "Sweden",
-   "countryCode": "SE",
-   "lat": 55.70584,
-   "lon": 13.19321
-  },
-  {
-   "name": "Nathalie Feiner",
-   "orcid": "https://orcid.org/0000-0003-4648-6950",
-   "openalex": null,
-   "works": 1,
-   "lastYear": 2021,
-   "institution": "Lund University",
-   "city": "Lund",
-   "country": "Sweden",
-   "countryCode": "SE",
-   "lat": 55.70584,
-   "lon": 13.19321
-  },
-  {
    "name": "Nicholas G. Smith",
    "orcid": "https://orcid.org/0000-0001-7048-4387",
    "openalex": "https://openalex.org/A5005437803",
@@ -5142,19 +5116,6 @@
    "countryCode": "DE",
    "lat": 50.11552,
    "lon": 8.68417
-  },
-  {
-   "name": "Tobias Uller",
-   "orcid": "https://orcid.org/0000-0003-1293-5842",
-   "openalex": null,
-   "works": 1,
-   "lastYear": 2021,
-   "institution": "Lund University",
-   "city": "Lund",
-   "country": "Sweden",
-   "countryCode": "SE",
-   "lat": 55.70584,
-   "lon": 13.19321
   },
   {
    "name": "Tom R. Bishop",
