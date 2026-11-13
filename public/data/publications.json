@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12",
+ "updated": "2026-11-13",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -1731,6 +1731,68 @@
    "altmetric": null
   },
   {
+   "id": "10.1093/beheco/araf048",
+   "doi": "10.1093/beheco/araf048",
+   "title": "Cognitive processes are robust to early environmental conditions in two lizard species",
+   "authors": [
+    {
+     "name": "Pablo Recio",
+     "orcid": "https://orcid.org/0000-0002-5890-0218",
+     "isSelf": false
+    },
+    {
+     "name": "Dalton C Leibold",
+     "orcid": "https://orcid.org/0000-0001-9645-2033",
+     "isSelf": false
+    },
+    {
+     "name": "Ondi L Crino",
+     "orcid": "https://orcid.org/0000-0001-5700-1387",
+     "isSelf": false
+    },
+    {
+     "name": "Kristoffer H Wild",
+     "orcid": "https://orcid.org/0000-0001-6714-3311",
+     "isSelf": false
+    },
+    {
+     "name": "Christopher R Friesen",
+     "orcid": "https://orcid.org/0000-0001-5338-7454",
+     "isSelf": false
+    },
+    {
+     "name": "Basile Mauclaire",
+     "orcid": "https://orcid.org/0000-0003-3956-6055",
+     "isSelf": false
+    },
+    {
+     "name": "Amelia Y Peardon",
+     "orcid": "https://orcid.org/0009-0005-6227-8379",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W A Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    }
+   ],
+   "authorLine": "Pablo Recio, Dalton C Leibold, Ondi L Crino, Kristoffer H Wild, Christopher R Friesen, Basile Mauclaire, Amelia Y Peardon, Daniel W A Noble",
+   "journal": "Behavioral Ecology",
+   "year": 2025,
+   "date": "2025-05-30",
+   "volume": "36",
+   "issue": "4",
+   "pages": "araf048",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://academic.oup.com/beheco/advance-article-pdf/doi/10.1093/beheco/araf048/63401092/araf048.pdf",
+   "url": "https://doi.org/10.1093/beheco/araf048",
+   "citations": 4,
+   "abstract": "Abstract Animals must acquire new information through learning to adjust their behavior adaptively. However, learning ability can be constrained by conditions experienced during early development, when the brain is especially susceptible to environmental conditions. For example, temperature can result in phenotypically plastic adjustments to growth, metabolism, and learning in ectotherms. In vertebrates, thermal conditions can increase the production of glucocorticoid (GCs) - ‘stress’ hormones. Maternal GCs can be transmitted to offspring during development, potentially impacting their learning abilities. GCs and thermal environments are, therefore, predicted to have interactive effects on the development of learning in ectotherms. Here, we investigated the combined effects of prenatal corticosterone (CORT) - the main GC in reptiles—and incubation temperature on associative learning using two species of lizards, Lampropholis delicata and L. guichenoti. We manipulated CORT levels and temperature in a 2 × 2 factorial design, and then subjected juveniles to a color-associative learning task. We predicted that elevated CORT and low temperatures would impair associative learning. However, both species showed similar learning rates independently of treatment. Our results suggest that these two species may have evolved mechanisms to maintain learning performance despite prenatal challenges. We also found that color affected decision-making in both species. Overall, we observed a non-learned preference towards blue, underscoring the need to carefully select the color used in cognitive tests involving visual stimuli.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
    "id": "10.1016/j.anbehav.2025.123106",
    "doi": "10.1016/j.anbehav.2025.123106",
    "title": "Early environmental conditions do not impact behavioural flexibility in an invasive and noninvasive lizard species",
@@ -1789,68 +1851,6 @@
    "url": "https://doi.org/10.1016/j.anbehav.2025.123106",
    "citations": 4,
    "abstract": "Behavioural flexibility, the ability to adjust behaviour adaptively in response to internal or external changes, is expected to be crucial for animals adapting to environmental fluctuations. However, conditions experienced during early development can profoundly impact behavioural flexibility, making it unclear how populations will respond to novel circumstances. Stressful situations faced by the parents can have a direct impact on offspring cognition through the transmission of glucocorticoids, stress-related hormones that affect offspring cognition. At the same time, stressful conditions can influence parental behaviours during nesting and, consequently, the thermal developmental conditions that offspring experience. Here, we investigated the interactive effects of prenatal corticosterone (CORT) levels and temperature on behavioural flexibility in two lizard species: Lampropholis delicata and Lampropholis guichenoti . We manipulated prenatal CORT levels and incubation temperature in a 2 × 2 factorial design and then assessed behavioural flexibility through a reversal learning task. We hypothesized that prenatal CORT levels and cold temperatures would impair performance in the reversal task. We expected L. delicata , given its success as an invasive species, to show more flexibility and be less susceptible to early environmental conditions. Contrary to our expectations, behavioural flexibility appears robust to prenatal temperatures and CORT levels in both species. The lack of difference in reversal learning between L. delicata and L. guichenoti suggests that novel environments are unlikely to influence flexible behavioural learning, and behavioural flexibility itself is unlikely to explain differences in invasion success between these species. • Behavioural flexibility is key for adapting to environmental changes. • Prenatal stress and incubation temperature were predicted to affect flexibility. • Flexibility remained robust under both prenatal conditions in both species. • No significant differences in reversal learning were found between species.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1093/beheco/araf048",
-   "doi": "10.1093/beheco/araf048",
-   "title": "Cognitive processes are robust to early environmental conditions in two lizard species",
-   "authors": [
-    {
-     "name": "Pablo Recio",
-     "orcid": "https://orcid.org/0000-0002-5890-0218",
-     "isSelf": false
-    },
-    {
-     "name": "Dalton C Leibold",
-     "orcid": "https://orcid.org/0000-0001-9645-2033",
-     "isSelf": false
-    },
-    {
-     "name": "Ondi L Crino",
-     "orcid": "https://orcid.org/0000-0001-5700-1387",
-     "isSelf": false
-    },
-    {
-     "name": "Kristoffer H Wild",
-     "orcid": "https://orcid.org/0000-0001-6714-3311",
-     "isSelf": false
-    },
-    {
-     "name": "Christopher R Friesen",
-     "orcid": "https://orcid.org/0000-0001-5338-7454",
-     "isSelf": false
-    },
-    {
-     "name": "Basile Mauclaire",
-     "orcid": "https://orcid.org/0000-0003-3956-6055",
-     "isSelf": false
-    },
-    {
-     "name": "Amelia Y Peardon",
-     "orcid": "https://orcid.org/0009-0005-6227-8379",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W A Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    }
-   ],
-   "authorLine": "Pablo Recio, Dalton C Leibold, Ondi L Crino, Kristoffer H Wild, Christopher R Friesen, Basile Mauclaire, Amelia Y Peardon, Daniel W A Noble",
-   "journal": "Behavioral Ecology",
-   "year": 2025,
-   "date": "2025-05-30",
-   "volume": "36",
-   "issue": "4",
-   "pages": "araf048",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://academic.oup.com/beheco/advance-article-pdf/doi/10.1093/beheco/araf048/63401092/araf048.pdf",
-   "url": "https://doi.org/10.1093/beheco/araf048",
-   "citations": 3,
-   "abstract": "Abstract Animals must acquire new information through learning to adjust their behavior adaptively. However, learning ability can be constrained by conditions experienced during early development, when the brain is especially susceptible to environmental conditions. For example, temperature can result in phenotypically plastic adjustments to growth, metabolism, and learning in ectotherms. In vertebrates, thermal conditions can increase the production of glucocorticoid (GCs) - ‘stress’ hormones. Maternal GCs can be transmitted to offspring during development, potentially impacting their learning abilities. GCs and thermal environments are, therefore, predicted to have interactive effects on the development of learning in ectotherms. Here, we investigated the combined effects of prenatal corticosterone (CORT) - the main GC in reptiles—and incubation temperature on associative learning using two species of lizards, Lampropholis delicata and L. guichenoti. We manipulated CORT levels and temperature in a 2 × 2 factorial design, and then subjected juveniles to a color-associative learning task. We predicted that elevated CORT and low temperatures would impair associative learning. However, both species showed similar learning rates independently of treatment. Our results suggest that these two species may have evolved mechanisms to maintain learning performance despite prenatal challenges. We also found that color affected decision-making in both species. Overall, we observed a non-learned preference towards blue, underscoring the need to carefully select the color used in cognitive tests involving visual stimuli.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2919,7 +2919,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/counter/pdf/10.1186/s12915-022-01485-y",
    "url": "https://doi.org/10.1186/s12915-022-01485-y",
-   "citations": 111,
+   "citations": 112,
    "abstract": "Collaborative efforts to directly replicate empirical studies in the medical and social sciences have revealed alarmingly low rates of replicability, a phenomenon dubbed the 'replication crisis'. Poor replicability has spurred cultural changes targeted at improving reliability in these disciplines. Given the absence of equivalent replication projects in ecology and evolutionary biology, two inter-related indicators offer the opportunity to retrospectively assess replicability: publication bias and statistical power. This registered report assesses the prevalence and severity of small-study (i.e., smaller studies reporting larger effect sizes) and decline effects (i.e., effect sizes decreasing over time) across ecology and evolutionary biology using 87 meta-analyses comprising 4,250 primary studies and 17,638 effect sizes. Further, we estimate how publication bias might distort the estimation of effect sizes, statistical power, and errors in magnitude (Type M or exaggeration ratio) and sign (Type S). We show strong evidence for the pervasiveness of both small-study and decline effects in ecology and evolution. There was widespread prevalence of publication bias that resulted in meta-analytic means being over-estimated by (at least) 0.12 standard deviations. The prevalence of publication bias distorted confidence in meta-analytic results, with 66% of initially statistically significant meta-analytic means becoming non-significant after correcting for publication bias. Ecological and evolutionary studies consistently had low statistical power (15%) with a 4-fold exaggeration of effects on average (Type M error rates = 4.4). Notably, publication bias reduced power from 23% to 15% and increased type M error rates from 2.7 to 4.4 because it creates a non-random sample of effect size evidence. The sign errors of effect sizes (Type S error) increased from 5% to 8% because of publication bias. Our research provides clear evidence that many published ecological and evolutionary findings are inflated. Our results highlight the importance of designing high-power empirical studies (e.g., via collaborative team science), promoting and encouraging replication studies, testing and correcting for publication bias in meta-analyses, and adopting open and transparent research practices, such as (pre)registration, data- and code-sharing, and transparent reporting.",
    "preprintUrl": null,
    "altmetric": null
@@ -3036,7 +3036,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/evlett/advance-article-pdf/doi/10.1093/evlett/qrad038/53940395/qrad038.pdf",
    "url": "https://doi.org/10.1093/evlett/qrad038",
-   "citations": 101,
+   "citations": 104,
    "abstract": "Predicting if, when, and how populations can adapt to climate change constitutes one of the greatest challenges in science today. Here, we build from contributions to the special issue on evolutionary adaptation to climate change, a survey of its authors, and recent literature to explore the limits and opportunities for predicting adaptive responses to climate change. We outline what might be predictable now, in the future, and perhaps never even with our best efforts. More accurate predictions are expected for traits characterized by a well-understood mapping between genotypes and phenotypes and traits experiencing strong, direct selection due to climate change. A meta-analysis revealed an overall moderate trait heritability and evolvability in studies performed under future climate conditions but indicated no significant change between current and future climate conditions, suggesting neither more nor less genetic variation for adapting to future climates. Predicting population persistence and evolutionary rescue remains uncertain, especially for the many species without sufficient ecological data. Still, when polled, authors contributing to this special issue were relatively optimistic about our ability to predict future evolutionary responses to climate change. Predictions will improve as we expand efforts to understand diverse organisms, their ecology, and their adaptive potential. Advancements in functional genomic resources, especially their extension to non-model species and the union of evolutionary experiments and \"omics,\" should also enhance predictions. Although predicting evolutionary responses to climate change remains challenging, even small advances will reduce the substantial uncertainties surrounding future evolutionary responses to climate change.",
    "preprintUrl": null,
    "altmetric": null
@@ -3583,8 +3583,60 @@
    "isOA": true,
    "oaUrl": "https://journals.biologists.com/jeb/article-pdf/225/Suppl_1/jeb243225/2135035/jeb243225.pdf",
    "url": "https://doi.org/10.1242/jeb.243225",
-   "citations": 53,
+   "citations": 54,
    "abstract": "Meta-analysis is a powerful tool used to generate quantitatively informed answers to pressing global challenges. By distilling data from broad sets of research designs and study systems into standardised effect sizes, meta-analyses provide physiologists with opportunities to estimate overall effect sizes and understand the drivers of effect variability. Despite this ambition, research designs in the field of comparative physiology can appear, at the outset, as being vastly different to each other because of 'nuisance heterogeneity' (e.g. different temperatures or treatment dosages used across studies). Methodological differences across studies have led many to believe that meta-analysis is an exercise in comparing 'apples with oranges'. Here, we dispel this myth by showing how standardised effect sizes can be used in conjunction with multilevel meta-regression models to both account for the factors driving differences across studies and make them more comparable. We assess the prevalence of nuisance heterogeneity in the comparative physiology literature - showing it is common and often not accounted for in analyses. We then formalise effect size measures (e.g. the temperature coefficient, Q10) that provide comparative physiologists with a means to remove nuisance heterogeneity without the need to resort to more complex statistical models that may be harder to interpret. We also describe more general approaches that can be applied to a variety of different contexts to derive new effect sizes and sampling variances, opening up new possibilities for quantitative synthesis. By using effect sizes that account for components of effect heterogeneity, in combination with existing meta-analytic models, comparative physiologists can explore exciting new questions while making results from large-scale data sets more accessible, comparable and widely interpretable.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1126/sciadv.abn2415",
+   "doi": "10.1126/sciadv.abn2415",
+   "title": "Invasive chameleons released from predation display more conspicuous colors",
+   "authors": [
+    {
+     "name": "Martin J. Whiting",
+     "orcid": "https://orcid.org/0000-0002-4662-0227",
+     "isSelf": false
+    },
+    {
+     "name": "Brenden S. Holland",
+     "orcid": "https://orcid.org/0000-0002-7832-8589",
+     "isSelf": false
+    },
+    {
+     "name": "J. Scott Keogh",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": null,
+     "isSelf": true
+    },
+    {
+     "name": "Katrina J. Rankin",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Devi Stuart-Fox",
+     "orcid": "https://orcid.org/0000-0003-3362-1412",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Martin J. Whiting, Brenden S. Holland, J. Scott Keogh, Daniel W. A. Noble, Katrina J. Rankin, Devi Stuart-Fox",
+   "journal": "Science Advances",
+   "year": 2022,
+   "date": "2022-05-13",
+   "volume": "8",
+   "issue": "19",
+   "pages": "eabn2415",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://doi.org/10.1126/sciadv.abn2415",
+   "url": "https://doi.org/10.1126/sciadv.abn2415",
+   "citations": 28,
+   "abstract": "Conspicuous social and sexual signals are predicted to experience pronounced character release when natural selection via predation is relaxed. However, we have few good examples of this phenomenon in the wild and none in species with dynamic color change. Here, we show that Jackson's chameleons inadvertently introduced from Kenya to Hawaii (Oahu), where there are no coevolved, native lizard predators, experienced pronounced character release of color signals. Hawaiian chameleons displayed more conspicuous social color signals than Kenyan chameleons during male contests and courtship, were less cryptic in response to bird and snake predators, and showed greater change between display and antipredator color states. Hawaiian chameleon display colors were also more conspicuous in their local than ancestral habitats, consistent with local adaptation of social signals. These results demonstrate that relaxed predation pressure can result in character release of dynamic social signals in introduced species experiencing strong sexual selection.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -3642,58 +3694,6 @@
    "url": "https://doi.org/10.1242/jeb.243369",
    "citations": 28,
    "abstract": "During the vulnerable stages of early life, most ectothermic animals experience hourly and diel fluctuations in temperature as air temperatures change. While we know a great deal about how different constant temperatures impact the phenotypes of developing ectotherms, we know remarkably little about the impacts of temperature fluctuations on the development of ectotherms. In this study, we used a meta-analytic approach to compare the mean and variance of phenotypic outcomes from constant and fluctuating incubation temperatures across reptile species. We found that fluctuating temperatures provided a small benefit (higher hatching success and shorter incubation durations) at cool mean temperatures compared with constant temperatures, but had a negative effect at warm mean temperatures. In addition, more extreme temperature fluctuations led to greater reductions in embryonic survival compared with moderate temperature fluctuations. Within the limited data available from species with temperature-dependent sex determination, embryos had a higher chance of developing as female when developing in fluctuating temperatures compared with those developing in constant temperatures. With our meta-analytic approach, we identified average mean nest temperatures across all taxa where reptiles switch from receiving benefits to incurring costs when incubation temperatures fluctuate. More broadly, our study indicates that the impact of fluctuating developmental temperature on some phenotypes in ectothermic taxa are likely to be predictable via integration of developmental temperature profiles with thermal performance curves.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1126/sciadv.abn2415",
-   "doi": "10.1126/sciadv.abn2415",
-   "title": "Invasive chameleons released from predation display more conspicuous colors",
-   "authors": [
-    {
-     "name": "Martin J. Whiting",
-     "orcid": "https://orcid.org/0000-0002-4662-0227",
-     "isSelf": false
-    },
-    {
-     "name": "Brenden S. Holland",
-     "orcid": "https://orcid.org/0000-0002-7832-8589",
-     "isSelf": false
-    },
-    {
-     "name": "J. Scott Keogh",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": null,
-     "isSelf": true
-    },
-    {
-     "name": "Katrina J. Rankin",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Devi Stuart-Fox",
-     "orcid": "https://orcid.org/0000-0003-3362-1412",
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Martin J. Whiting, Brenden S. Holland, J. Scott Keogh, Daniel W. A. Noble, Katrina J. Rankin, Devi Stuart-Fox",
-   "journal": "Science Advances",
-   "year": 2022,
-   "date": "2022-05-13",
-   "volume": "8",
-   "issue": "19",
-   "pages": "eabn2415",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://doi.org/10.1126/sciadv.abn2415",
-   "url": "https://doi.org/10.1126/sciadv.abn2415",
-   "citations": 27,
-   "abstract": "Conspicuous social and sexual signals are predicted to experience pronounced character release when natural selection via predation is relaxed. However, we have few good examples of this phenomenon in the wild and none in species with dynamic color change. Here, we show that Jackson's chameleons inadvertently introduced from Kenya to Hawaii (Oahu), where there are no coevolved, native lizard predators, experienced pronounced character release of color signals. Hawaiian chameleons displayed more conspicuous social color signals than Kenyan chameleons during male contests and courtship, were less cryptic in response to bird and snake predators, and showed greater change between display and antipredator color states. Hawaiian chameleon display colors were also more conspicuous in their local than ancestral habitats, consistent with local adaptation of social signals. These results demonstrate that relaxed predation pressure can result in character release of dynamic social signals in introduced species experiencing strong sexual selection.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -3982,7 +3982,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 826,
+   "citations": 829,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4049,7 +4049,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 512,
+   "citations": 513,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4156,7 +4156,7 @@
    "isOA": true,
    "oaUrl": "https://www.sciencedirect.com/science/article/am/pii/S0169534720303542",
    "url": "https://doi.org/10.1016/j.tree.2020.12.006",
-   "citations": 199,
+   "citations": 200,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -6441,7 +6441,7 @@
    "isOA": true,
    "oaUrl": "http://handle.unsw.edu.au/1959.4/unsworks_45072",
    "url": "https://doi.org/10.1111/brv.12333",
-   "citations": 306,
+   "citations": 308,
    "abstract": "Early environments can profoundly influence an organism in ways that persist over its life. In reptiles, early thermal environments (nest temperatures) can impact offspring phenotype and survival in important ways, yet we still lack an understanding of whether general trends exist and the magnitude of impact. Understanding these patterns is important in predicting how climate change will affect reptile populations and the role of phenotypic plasticity in buffering populations. We compiled data from 175 reptile studies to examine, and quantify, the effect of incubation temperature on phenotype and survival. Using meta-analytic approaches (standardized mean difference between incubation treatments, Hedges' g), we show that across all trait types examined there is, on average, a moderate to large magnitude of effect of incubation temperatures (absolute effect: |g| = 0.75). Unsurprisingly, this influence was extremely large for incubation duration, as predicted, with warmer temperatures decreasing incubation time overall (g = -8.42). Other trait types, including behaviour, physiology, morphology, performance, and survival experienced reduced, but still mostly moderate to large effects, with particularly strong effects on survival. Moreover, the impact of incubation temperature persisted at least one-year post-hatching, suggesting that these effects have the potential to impact fitness in the long term. The magnitude of effect increased as the change in temperature increased (e.g. 6°C versus 2°C) in almost all cases, and tended to decrease when temperatures of the treatments fluctuated around a mean temperature compared to when they were constant. The effect also depended on the mid-temperature of the comparison, but not in consistent ways, with some traits experiencing the greatest effects at extreme temperatures, while others did not. The highly heterogeneous nature of the effects we observe, along with a large amount of unexplained variability, indicates that the shape of reaction norms between phenotype and temperature, along with ecological and/or experimental factors, are important when considering general patterns. Our analyses provide new insights into the effects of incubation environments on reptile phenotype and survival and allow general, albeit coarse, predictions for taxa experiencing warming nest temperatures under climatic change.",
    "preprintUrl": null,
    "altmetric": null
@@ -6483,7 +6483,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/mec.14031",
-   "citations": 275,
+   "citations": 276,
    "abstract": "Meta-analysis is an important tool for synthesizing research on a variety of topics in ecology and evolution, including molecular ecology, but can be susceptible to nonindependence. Nonindependence can affect two major interrelated components of a meta-analysis: (i) the calculation of effect size statistics and (ii) the estimation of overall meta-analytic estimates and their uncertainty. While some solutions to nonindependence exist at the statistical analysis stages, there is little advice on what to do when complex analyses are not possible, or when studies with nonindependent experimental designs exist in the data. Here we argue that exploring the effects of procedural decisions in a meta-analysis (e.g. inclusion of different quality data, choice of effect size) and statistical assumptions (e.g. assuming no phylogenetic covariance) using sensitivity analyses are extremely important in assessing the impact of nonindependence. Sensitivity analyses can provide greater confidence in results and highlight important limitations of empirical work (e.g. impact of study design on overall effects). Despite their importance, sensitivity analyses are seldom applied to problems of nonindependence. To encourage better practice for dealing with nonindependence in meta-analytic studies, we present accessible examples demonstrating the impact that ignoring nonindependence can have on meta-analytic estimates. We also provide pragmatic solutions for dealing with nonindependent study designs, and for analysing dependent effect sizes. Additionally, we offer reporting guidelines that will facilitate disclosure of the sources of nonindependence in meta-analyses, leading to greater transparency and more robust conclusions.",
    "preprintUrl": null,
    "altmetric": null
@@ -7175,7 +7175,7 @@
    "isOA": true,
    "oaUrl": "https://openresearch-repository.anu.edu.au/bitstreams/2cefba66-67ca-4f42-aa21-0ad4eb061d20/download",
    "url": "https://doi.org/10.1086/673535",
-   "citations": 45,
+   "citations": 46,
    "abstract": "Alternative reproductive tactics (ARTs) are predicted to be the result of disruptive correlational selection on suites of morphological, physiological, and behavioral traits. ARTs are most obvious when they occur in discrete morphs with concomitant behavioral tactics. However, ARTs driven by behavior in species lacking obvious phenotypic differences are rarely documented and poorly understood. We quantified selection acting on phenotypic traits predicted to characterize ARTs by observing marked lizards in six seminatural populations. We quantified reproductive fitness for each male using six microsatellite DNA loci from 226 offspring born to 56 females. Candidate models containing directional and correlational selection gradients were equally supported. As predicted, large males with large home ranges and large males that were observed frequently had the highest reproductive success. We also found evidence that large males that moved little but that were observed frequently and large males that moved frequently but that were observed little were predicted to have high fitness. Model predictions support our verbal hypothesis regarding the phenotypes characterizing ARTs and suggest that large males may be adopting subtly different tactics to acquire paternity. Our results suggest that disruptive correlational selection between behavioral traits may drive the evolution of ARTs in \"cryptic\" systems that lack overt polymorphisms.",
    "preprintUrl": null,
    "altmetric": null
@@ -7333,7 +7333,7 @@
    "isOA": true,
    "oaUrl": "https://journals.plos.org/plosone/article/file?id=10.1371/journal.pone.0038856&type=printable",
    "url": "https://doi.org/10.1371/journal.pone.0038856",
-   "citations": 54,
+   "citations": 55,
    "abstract": "Activity patterns and social interactions play a key role in determining reproductive success, although this is poorly understood for species that lack overt social behaviour. We used genetic paternity analysis to quantify both multiple paternity and the relative roles of activity and social behaviour in determining reproductive success in a nondescript Australian lizard. During the breeding season we intensively followed and recorded the behaviour of a group of seven males and 13 females in a naturalistic outdoor enclosure to examine the relative roles of body size, activity and social interactions in determining male fertilization success. We found multiple paternity in 42% of clutches. No single behaviour was a significant predictor of male fertilization success in isolation, but male-female association, interactions and courtship explained 41% of the variation in male fertilization success. Males with the highest number of offspring sired invested heavily in interacting with females but spent very little time in interactions with males. These same males also sired offspring from more clutches. When taken collectively, an index of overall male activity, including locomotion and all social interactions, significantly explained 81% of the variation in the total number of offspring sired and 90% of the variation in the number of clutches in which males sired offspring. We suggest that the most successful male strategy is a form of endurance rivalry in which active mate searching and interactions with females have the greatest fitness benefits.",
    "preprintUrl": null,
    "altmetric": null
@@ -7375,7 +7375,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1371/journal.pone.0041130",
    "url": "https://doi.org/10.1371/journal.pone.0041130",
-   "citations": 32,
+   "citations": 33,
    "abstract": "Shared ecological resources such as burrow complexes can set the stage for social groupings and the evolution of more complex social behavior such as parental care. Paternity testing is increasingly revealing cases of kin-based groupings, and lizards may be a good system to inform on the early evolution of sociality. We examined spatial and social organization in the lizard Phrynocephalus vlangalii from China and tested genetic relatedness (based on eight microsatellite DNA loci) between offspring and parents that shared burrow complexes. Adult males and females had similar spatial patterns: they overlapped most with members of the opposite sex and least with their own sex. Males in better body condition overlapped with more females, and both sexes showed high site fidelity. Most lizards used a single burrow, but some individuals used two or three burrows. While high site fidelity is consistent with sociality in lizards, juveniles did not preferentially share burrows with parents, and we documented only a few cases of parent-offspring associations through burrow sharing. We suggest that P. vlangalii conforms to a classical polygynous mating system in which the burrow forms the core of the male's territory and may be offered as an important resource for females, but this remains to be determined.",
    "preprintUrl": null,
    "altmetric": null
