@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15",
+ "updated": "2026-11-16",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -1902,43 +1902,6 @@
    "altmetric": null
   },
   {
-   "id": "10.1002/oik.11172",
-   "doi": "10.1002/oik.11172",
-   "title": "Do environmental fluctuations during development affect trait variation? An experimental test with salinity",
-   "authors": [
-    {
-     "name": "Meng‐Han Joseph Chung",
-     "orcid": "https://orcid.org/0000-0001-9214-1190",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    },
-    {
-     "name": "Michael D. Jennions",
-     "orcid": "https://orcid.org/0000-0001-9221-2788",
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Meng‐Han Joseph Chung, Daniel W. A. Noble, Michael D. Jennions",
-   "journal": "Oikos",
-   "year": 2025,
-   "date": "2025-06-02",
-   "volume": "2025",
-   "issue": "9",
-   "pages": null,
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/oik.11172",
-   "url": "https://doi.org/10.1002/oik.11172",
-   "citations": 1,
-   "abstract": "Human‐induced climate change is a driver of extinction, with extreme events occurring more frequently. It increases both the amount and fluctuations in environmental stress that organisms experience. In such environments, greater intra‐specific trait variation creates more potential for adaptation through natural selection. Many studies focus on changes in trait means between novel and historic environments but overlook changes in trait variation. Here we tested how salinisation – which currently affects 20–50% of freshwaters worldwide – alters trait variation in a freshwater fish, Gambusia holbrooki . We reared newborn fish in freshwater, stable‐salinity or fluctuating‐salinity water until maturation, and then compared variation in fitness‐related traits in each sex during early and late adulthood. Salinisation had stronger effects on young virgin adults than older mated adults, with sex‐specific impacts (female: gut development; male: age at maturity and body size). When we accounted for the mean trait value in each environment, salinisation also affected relative variation (i.e. the coefficient of variation) in female fecundity (egg size, offspring number). Notably, the fluctuating‐salinity treatment did not magnify the effect of the stable‐salinity treatment on trait variation but sometimes reversed its effect. Our findings suggest that researchers should pay closer attention to fluctuating environmental stressors, as they can differ from stable stressors in how they affect between‐individual variation in trait expression.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
    "id": "10.1016/j.ygcen.2025.114754",
    "doi": "10.1016/j.ygcen.2025.114754",
    "title": "Sex steroid profiles align with phenotype in sex-reversed female lizards",
@@ -1980,8 +1943,45 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1016/j.ygcen.2025.114754",
    "url": "https://doi.org/10.1016/j.ygcen.2025.114754",
-   "citations": 1,
+   "citations": 2,
    "abstract": "Vertebrate sex determination is remarkably diverse. In species with genetic sex determination, reproductive physiology and sex-specific behaviour are influenced by sex chromosomes and sex steroid hormones. However, some species experience sex reversal where the influence of sex chromosomes on sexual development is modulated by mutations or environmental conditions, leading to animals that phenotypically mismatch with their genotype. In these species, sex-reversed ('discordant') individuals can theoretically exhibit traits that are similar to either their phenotypic or genotypic sex. In the central bearded dragon (Pogona vitticeps), high incubation temperatures produce sex-reversed females with male-type sex chromosomes (ZZf). ZZf display a mix of male-like and intermediate traits compared to males (ZZm) and concordant females (ZWf). Sex steroid profiles could drive these differences but are yet to be examined in P. vitticeps. We measured testosterone (T) and estradiol (E2) in ZWf, ZZf, and ZZm dragons at three timepoints across a breeding season. As sex steroids can potentially affect offspring if maternal hormones are transmitted to eggs, we also compared T and E2 levels in egg yolks from ZZf and ZWf females. Sex-reversed ZZf had lower T levels than males and similar T and E2 levels to ZWf across the breeding season. ZWf and ZZf laid eggs with similar levels of T and E2. We found a negative association between maternal and yolk E2 levels, but no association between maternal and yolk T. Our results show that sex steroid profiles in sex-reversed ZZ female P. vitticeps reflect phenotypic, not genotypic sex, suggesting circulating sex steroids do not drive trait differences between discordant and concordant females.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1002/oik.11172",
+   "doi": "10.1002/oik.11172",
+   "title": "Do environmental fluctuations during development affect trait variation? An experimental test with salinity",
+   "authors": [
+    {
+     "name": "Meng‐Han Joseph Chung",
+     "orcid": "https://orcid.org/0000-0001-9214-1190",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Michael D. Jennions",
+     "orcid": "https://orcid.org/0000-0001-9221-2788",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Meng‐Han Joseph Chung, Daniel W. A. Noble, Michael D. Jennions",
+   "journal": "Oikos",
+   "year": 2025,
+   "date": "2025-06-02",
+   "volume": "2025",
+   "issue": "9",
+   "pages": null,
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/oik.11172",
+   "url": "https://doi.org/10.1002/oik.11172",
+   "citations": 1,
+   "abstract": "Human‐induced climate change is a driver of extinction, with extreme events occurring more frequently. It increases both the amount and fluctuations in environmental stress that organisms experience. In such environments, greater intra‐specific trait variation creates more potential for adaptation through natural selection. Many studies focus on changes in trait means between novel and historic environments but overlook changes in trait variation. Here we tested how salinisation – which currently affects 20–50% of freshwaters worldwide – alters trait variation in a freshwater fish, Gambusia holbrooki . We reared newborn fish in freshwater, stable‐salinity or fluctuating‐salinity water until maturation, and then compared variation in fitness‐related traits in each sex during early and late adulthood. Salinisation had stronger effects on young virgin adults than older mated adults, with sex‐specific impacts (female: gut development; male: age at maturity and body size). When we accounted for the mean trait value in each environment, salinisation also affected relative variation (i.e. the coefficient of variation) in female fecundity (egg size, offspring number). Notably, the fluctuating‐salinity treatment did not magnify the effect of the stable‐salinity treatment on trait variation but sometimes reversed its effect. Our findings suggest that researchers should pay closer attention to fluctuating environmental stressors, as they can differ from stable stressors in how they affect between‐individual variation in trait expression.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2852,7 +2852,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14152",
    "url": "https://doi.org/10.1111/2041-210x.14152",
-   "citations": 223,
+   "citations": 224,
    "abstract": "Abstract Although meta‐analysis has become an essential tool in ecology and evolution, reporting of meta‐analytic results can still be much improved. To aid this, we have introduced the orchard plot, which presents not only overall estimates and their confidence intervals, but also shows corresponding heterogeneity (as prediction intervals) and individual effect sizes. Here, we have added significant enhancements by integrating many new functionalities into orchaRd 2.0 . This updated version allows the visualisation of heteroscedasticity (different variances across levels of a categorical moderator), marginal estimates (e.g. marginalising out effects other than the one visualised), conditional estimates (i.e. estimates of different groups conditioned upon specific values of a continuous variable) and visualisations of all types of interactions between two categorical/continuous moderators. orchaRd 2.0 has additional functions which calculate key statistics from multilevel meta‐analytic models such as I 2 and R 2 . Importantly, orchaRd 2.0 contributes to better reporting by complying with PRISMA‐EcoEvo (preferred reporting items for systematic reviews and meta‐analyses in ecology and evolution). Taken together, orchaRd 2.0 can improve the presentation of meta‐analytic results and facilitate the exploration of previously neglected patterns. In addition, as a part of a literature survey, we found that graphical packages are rarely cited (~3%). We plea that researchers credit developers and maintainers of graphical packages, for example, by citations in a figure legend, acknowledging the use of relevant packages.",
    "preprintUrl": null,
    "altmetric": null
@@ -2919,7 +2919,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/counter/pdf/10.1186/s12915-022-01485-y",
    "url": "https://doi.org/10.1186/s12915-022-01485-y",
-   "citations": 112,
+   "citations": 113,
    "abstract": "Collaborative efforts to directly replicate empirical studies in the medical and social sciences have revealed alarmingly low rates of replicability, a phenomenon dubbed the 'replication crisis'. Poor replicability has spurred cultural changes targeted at improving reliability in these disciplines. Given the absence of equivalent replication projects in ecology and evolutionary biology, two inter-related indicators offer the opportunity to retrospectively assess replicability: publication bias and statistical power. This registered report assesses the prevalence and severity of small-study (i.e., smaller studies reporting larger effect sizes) and decline effects (i.e., effect sizes decreasing over time) across ecology and evolutionary biology using 87 meta-analyses comprising 4,250 primary studies and 17,638 effect sizes. Further, we estimate how publication bias might distort the estimation of effect sizes, statistical power, and errors in magnitude (Type M or exaggeration ratio) and sign (Type S). We show strong evidence for the pervasiveness of both small-study and decline effects in ecology and evolution. There was widespread prevalence of publication bias that resulted in meta-analytic means being over-estimated by (at least) 0.12 standard deviations. The prevalence of publication bias distorted confidence in meta-analytic results, with 66% of initially statistically significant meta-analytic means becoming non-significant after correcting for publication bias. Ecological and evolutionary studies consistently had low statistical power (15%) with a 4-fold exaggeration of effects on average (Type M error rates = 4.4). Notably, publication bias reduced power from 23% to 15% and increased type M error rates from 2.7 to 4.4 because it creates a non-random sample of effect size evidence. The sign errors of effect sizes (Type S error) increased from 5% to 8% because of publication bias. Our research provides clear evidence that many published ecological and evolutionary findings are inflated. Our results highlight the importance of designing high-power empirical studies (e.g., via collaborative team science), promoting and encouraging replication studies, testing and correcting for publication bias in meta-analyses, and adopting open and transparent research practices, such as (pre)registration, data- and code-sharing, and transparent reporting.",
    "preprintUrl": null,
    "altmetric": null
@@ -3224,7 +3224,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1093/evlett/qrad031",
    "url": "https://doi.org/10.1093/evlett/qrad031",
-   "citations": 24,
+   "citations": 25,
    "abstract": "Live birth is a key innovation that has evolved from egg-laying ancestors over 100 times in reptiles. However, egg-laying lizards and snakes can have preferred body temperatures that are lethal to developing embryos, which should select against prolonged egg retention. Here, we demonstrate that thermal mismatches between mothers and offspring are widespread across the squamate phylogeny. This mismatch is resolved by gravid females adjusting their body temperature towards the thermal optimum of their embryos. We find that the same response occurs in both live-bearing and egg-laying species, despite the latter only retaining embryos during the early stages of development. Importantly, phylogenetic reconstructions suggest this thermoregulatory behavior in gravid females evolved in egg-laying species prior to the evolution of live birth. Maternal thermoregulatory behavior, therefore, bypasses the constraints imposed by a slowly evolving thermal physiology and has likely been a key facilitator in the repeated transition to live birth.",
    "preprintUrl": "https://doi.org/10.1101/2021.02.07.430163",
    "altmetric": null
@@ -3417,7 +3417,7 @@
    "isOA": true,
    "oaUrl": "https://journals.biologists.com/jeb/article-pdf/doi/10.1242/jeb.245657/2954473/jeb245657.pdf",
    "url": "https://doi.org/10.1242/jeb.245657",
-   "citations": 6,
+   "citations": 7,
    "abstract": "Vertebrate sex is typically determined genetically, but in many ectotherms sex can be determined by genes (genetic sex determination, GSD), temperature (temperature-dependent sex determination, TSD), or interactions between genes and temperature during development. TSD may involve GSD systems with either male or female heterogamety (XX/XY or ZZ/ZW) where temperature overrides chromosomal sex determination to cause a mismatch between genetic sex and phenotypic sex (sex reversal). In these temperature-sensitive lineages, phylogenetic investigations point to recurrent evolutionary shifts between genotypic and temperature-dependent sex determination. These evolutionary transitions in sex determination can occur rapidly if selection favours the reversed sex over the concordant phenotypic sex. To investigate the consequences of sex reversal on offspring phenotypes, we measured two energy-driven traits (metabolism and growth) and 6 month survival in two species of reptile with different patterns of temperature-induced sex reversal. Male sex reversal occurs in Bassiana duperreyi when chromosomal females (female XX) develop male phenotypes (maleSR XX), while female sex reversal occurs in Pogona vitticeps when chromosomal males (male ZZ) develop female phenotypes (femaleSR ZZ). We show metabolism in maleSR XX was like that of male XY; that is, reflective of phenotypic sex and lower than genotypic sex. In contrast, for Pogona vitticeps, femaleSR ZZ metabolism was intermediate between male ZZ and female ZW metabolic rate. For both species, our data indicate that differences in metabolism become more apparent as individuals become larger. Our findings provide some evidence for an energetic advantage from sex reversal in both species but do not exclude energetic processes as a constraint on the distribution of sex reversal in nature.",
    "preprintUrl": null,
    "altmetric": null
@@ -3635,7 +3635,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1126/sciadv.abn2415",
    "url": "https://doi.org/10.1126/sciadv.abn2415",
-   "citations": 28,
+   "citations": 29,
    "abstract": "Conspicuous social and sexual signals are predicted to experience pronounced character release when natural selection via predation is relaxed. However, we have few good examples of this phenomenon in the wild and none in species with dynamic color change. Here, we show that Jackson's chameleons inadvertently introduced from Kenya to Hawaii (Oahu), where there are no coevolved, native lizard predators, experienced pronounced character release of color signals. Hawaiian chameleons displayed more conspicuous social color signals than Kenyan chameleons during male contests and courtship, were less cryptic in response to bird and snake predators, and showed greater change between display and antipredator color states. Hawaiian chameleon display colors were also more conspicuous in their local than ancestral habitats, consistent with local adaptation of social signals. These results demonstrate that relaxed predation pressure can result in character release of dynamic social signals in introduced species experiencing strong sexual selection.",
    "preprintUrl": null,
    "altmetric": null
@@ -3982,7 +3982,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 831,
+   "citations": 840,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4049,7 +4049,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 515,
+   "citations": 519,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4156,7 +4156,7 @@
    "isOA": true,
    "oaUrl": "https://www.sciencedirect.com/science/article/am/pii/S0169534720303542",
    "url": "https://doi.org/10.1016/j.tree.2020.12.006",
-   "citations": 200,
+   "citations": 201,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -4230,7 +4230,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/brv.12818",
-   "citations": 79,
+   "citations": 80,
    "abstract": "The notion that men are more variable than women has become embedded into scientific thinking. For mental traits like personality, greater male variability has been partly attributed to biology, underpinned by claims that there is generally greater variation among males than females in non-human animals due to stronger sexual selection on males. However, evidence for greater male variability is limited to morphological traits, and there is little information regarding sex differences in personality-like behaviours for non-human animals. Here, we meta-analysed sex differences in means and variances for over 2100 effects (204 studies) from 220 species (covering five broad taxonomic groups) across five personality traits: boldness, aggression, activity, sociality and exploration. We also tested if sexual size dimorphism, a proxy for sex-specific sexual selection, explains variation in the magnitude of sex differences in personality. We found no significant differences in personality between the sexes. In addition, sexual size dimorphism did not explain variation in the magnitude of the observed sex differences in the mean or variance in personality for any taxonomic group. In sum, we find no evidence for widespread sex differences in variability in non-human animal personality.",
    "preprintUrl": null,
    "altmetric": null
@@ -4423,7 +4423,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/7bvxy",
    "url": "https://doi.org/10.1016/j.jneumeth.2021.109138",
-   "citations": 27,
+   "citations": 28,
    "abstract": "BACKGROUND: Zebrafish (Danio rerio) are increasingly being used to model anxiety. A common behavioral assay employed for assessing anxiety-like behaviors in zebrafish is the \"novel tank test\". We hypothesized that using deeper tanks in this test would result in greater between-individual variation in behavioral responses and a more 'repeatable' assay. NEW METHODS: After mapping the literature and identifying common behavioral parameters used in analysis, we performed novel tank anxiety tests in both custom-designed 'tall' tanks with increased depth and 'short' trapezoidal tanks. We compared the repeatability of the behavioral parameters between tall and short tanks and also investigated sex differences. RESULTS: Overall, regardless of tank depth, almost all behavioral parameters associated with anxiety in zebrafish were significantly repeatable (R = 0.24 to 0.60). Importantly, our tall tanks better captured between-individual differences, resulting in higher repeatability estimates (average repeatability tall tanks: R = 0.46; average repeatability short tanks: R = 0.36) and clearer sex differences. CONCLUSIONS: Our assay using tall tanks has advantages over tests based on short tanks which underestimate repeatability. We argue that use of deeper tanks will improve the reliability of behavioral data across studies using novel tank tests for zebrafish. Our results also call for increased attention in designing the most appropriate assay in biomedical and behavioral sciences as current methods may lack the sensitivity to detect subtle, yet important, information, such as between-individual variation, an important component in assessing the reliability of behavioral data.",
    "preprintUrl": null,
    "altmetric": null
@@ -4789,7 +4789,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/epqa7",
    "url": "https://doi.org/10.1002/jrsm.1424",
-   "citations": 231,
+   "citations": 232,
    "abstract": "“Classic” forest plots show the effect sizes from individual studies and the aggregate effect from a meta‐analysis. However, in ecology and evolution, meta‐analyses routinely contain over 100 effect sizes, making the classic forest plot of limited use. We surveyed 102 meta‐analyses in ecology and evolution, finding that only 11% use the classic forest plot. Instead, most used a “forest‐like plot,” showing point estimates (with 95% confidence intervals [CIs]) from a series of subgroups or categories in a meta‐regression. We propose a modification of the forest‐like plot, which we name the “orchard plot.” Orchard plots, in addition to showing overall mean effects and CIs from meta‐analyses/regressions, also include 95% prediction intervals (PIs), and the individual effect sizes scaled by their precision. The PI allows the user and reader to see the range in which an effect size from a future study may be expected to fall. The PI, therefore, provides an intuitive interpretation of any heterogeneity in the data. Supplementing the PI, the inclusion of underlying effect sizes also allows the user to see any influential or outlying effect sizes. We showcase the orchard plot with example datasets from ecology and evolution, using the R package, orchard , including several functions for visualizing meta‐analytic data using forest‐plot derivatives. We consider the orchard plot as a variant on the classic forest plot, cultivated to the needs of meta‐analysts in ecology and evolution. Hopefully, the orchard plot will prove fruitful for visualizing large collections of heterogeneous effect sizes regardless of the field of study.",
    "preprintUrl": null,
    "altmetric": null
@@ -4831,7 +4831,7 @@
    "isOA": true,
    "oaUrl": "https://hdl.handle.net/10550/76839",
    "url": "https://doi.org/10.1111/brv.12632",
-   "citations": 125,
+   "citations": 128,
    "abstract": "A central question in ecology and evolution is to understand why sexual selection varies so much in strength across taxa; it has long been known that ecological factors are crucial to this. Temperature is a particularly salient abiotic ecological factor that modulates a wide range of physiological, morphological and behavioural traits, impacting individuals and populations at a global taxonomic scale. Furthermore, temperature exhibits substantial temporal variation (e.g. daily, seasonally and inter-seasonally), and hence for most species in the wild sexual selection will regularly unfold in a dynamic thermal environment. Unfortunately, studies have so far almost completely neglected the role of temperature as a modulator of sexual selection. Here, we outline the main pathways through which temperature can affect the intensity and form (i.e. mechanisms) of sexual selection, via: (i) direct effects on secondary sexual traits and preferences (i.e. trait variance, opportunity for selection and trait-fitness covariance), and (ii) indirect effects on key mating parameters, sex-specific reproductive costs/benefits, trade-offs, demography and correlated abiotic factors. Building upon this framework, we show that, by focusing exclusively on the first-order effects that environmental temperature has on traits linked with individual fitness and population viability, current global warming studies may be ignoring eco-evolutionary feedbacks mediated by sexual selection. Finally, we tested the general prediction that temperature modulates sexual selection by conducting a meta-analysis of available studies experimentally manipulating temperature and reporting effects on the variance of male/female reproductive success and/or traits under sexual selection. Our results show a clear association between temperature and sexual selection measures in both sexes. In short, we suggest that studying the feedback between temperature and sexual selection processes may be vital to developing a better understanding of variation in the strength of sexual selection in nature, and its consequences for population viability in response to environmental change (e.g. global warming).",
    "preprintUrl": null,
    "altmetric": null
@@ -4997,7 +4997,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.13479",
    "url": "https://doi.org/10.1111/ele.13479",
-   "citations": 82,
+   "citations": 83,
    "abstract": "A recent meta-analysis concluded, 'transgenerational effects are widespread, strong and persistent'. We identify biases in the literature search, data and analyses, questioning that conclusion. Re-analyses indicate few studies actually tested transgenerational effects - making it challenging to disentangle condition-transfer from anticipatory parental effects, and providing little insight into the underlying mechanisms.",
    "preprintUrl": null,
    "altmetric": null
@@ -5407,7 +5407,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/ga2qz",
    "url": "https://doi.org/10.1016/j.tree.2018.11.007",
-   "citations": 278,
+   "citations": 287,
    "abstract": "We propose a new framework for research synthesis of both evidence and influence, named research weaving. It summarizes and visualizes information content, history, and networks among a collection of documents on any given topic. Research weaving achieves this feat by combining the power of two methods: systematic mapping and bibliometrics. Systematic mapping provides a snapshot of the current state of knowledge, identifying areas needing more research attention and those ready for full synthesis. Bibliometrics enables researchers to see how pieces of evidence are connected, revealing the structure and development of a field. We explain how researchers can use some or all of these tools to gain a deeper, more nuanced understanding of the scientific literature.",
    "preprintUrl": null,
    "altmetric": null
@@ -5602,7 +5602,7 @@
    "isOA": true,
    "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13118",
    "url": "https://doi.org/10.1111/2041-210x.13118",
-   "citations": 279,
+   "citations": 284,
    "abstract": "Abstract Research synthesis, such as comparative and meta‐analyses, requires the extraction of effect sizes from primary literature, which are commonly calculated from descriptive statistics. However, the exact values of such statistics are commonly hidden in figures. Extracting descriptive statistics from figures can be a slow process that is not easily reproducible. Additionally, current software lacks an ability to incorporate important metadata (e.g. sample sizes, treatment/variable names) about experiments and is not integrated with other software to streamline analysis pipelines. Here we present the r package metaDigitise which extracts descriptive statistics such as means, standard deviations and correlations from four plot types: (a) mean/error plots (e.g. bar graphs with standard errors), (b) box plots, (c) scatter plots and (d) histograms. metaDigitise is user‐friendly and easy to learn as it interactively guides the user through the data extraction process. Notably, it enables large‐scale extraction by automatically loading image files, letting the user stop processing, edit and add to the resulting data‐frame at any point. Digitised data can be easily re‐plotted and checked, facilitating reproducible data extraction from plots with little inter‐observer bias. We hope that by making the process of figure extraction more flexible and easy to conduct, it will improve the transparency and quality of meta‐analyses in the future.",
    "preprintUrl": null,
    "altmetric": null
@@ -5649,7 +5649,7 @@
    "isOA": true,
    "oaUrl": "https://link.springer.com/content/pdf/10.1007%2Fs00265-018-2534-2.pdf",
    "url": "https://doi.org/10.1007/s00265-018-2534-2",
-   "citations": 125,
+   "citations": 127,
    "abstract": "The pace-of-life syndrome (POLS) hypothesis predicts that behavior and physiology covary with life history. Evidence for such covariation is contradictory, possibly because systematic sources of variation (e.g. sex) have been neglected. Sexes often experience different selection pressures leading to sex-specific allocation between reproduction and self-maintenance, facilitating divergence in life-history. Sex-specific differences in means and possibly variances may therefore play a key role in the POLS framework. We investigate whether sexes differ in means and variances along the fast-slow pace-of-life continuum for life history and physiological and behavioral traits. In addition, we test whether social and environmental characteristics such as breeding strategy, mating system, and study environment explain heterogeneity between the sexes. Using meta-analytic methods, we found that populations with a polygynous mating system or for studies conducted on wild populations, males had a faster pace-of-life for developmental life-history traits (e.g., growth rate), behavior, and physiology. In contrast, adult life-history traits (e.g., lifespan) were shifted towards faster pace-of-life in females, deviating from the other trait categories. Phenotypic variances were similar between the sexes across trait categories and were not affected by mating system or study environment. Breeding strategy did not influence sex differences in variances or means. We discuss our results in the light of sex-specific selection that might drive sex-specific differences in pace-of-life and ultimately POLS.",
    "preprintUrl": null,
    "altmetric": null
@@ -5706,7 +5706,7 @@
    "isOA": true,
    "oaUrl": "https://figshare.com/articles/journal_contribution/Patterns_of_developmental_plasticity_in_response_to_incubation_temperature_in_reptiles/22968455",
    "url": "https://doi.org/10.1002/jez.2181",
-   "citations": 113,
+   "citations": 114,
    "abstract": "Early life environments shape phenotypic development in important ways that can lead to long-lasting effects on phenotype and fitness. In reptiles, one aspect of the early environment that impacts development is temperature (termed 'thermal developmental plasticity'). Indeed, the thermal environment during incubation is known to influence morphological, physiological, and behavioral traits, some of which have important consequences for many ecological and evolutionary processes. Despite this, few studies have attempted to synthesize and collate data from this expansive and important body of research. Here, we systematically review research into thermal developmental plasticity across reptiles, structured around the key papers and findings that have shaped the field over the past 50 years. From these papers, we introduce a large database (the 'Reptile Development Database') consisting of 9,773 trait means across 300 studies examining thermal developmental plasticity. This dataset encompasses data on a range of phenotypes, including morphological, physiological, behavioral, and performance traits along with growth rate, incubation duration, sex ratio, and survival (e.g., hatching success) across all major reptile clades. Finally, from our literature synthesis and data exploration, we identify key research themes associated with thermal developmental plasticity, important gaps in empirical research, and demonstrate how future progress can be made through targeted empirical, meta-analytic, and comparative work.",
    "preprintUrl": null,
    "altmetric": null
@@ -5768,7 +5768,7 @@
    "isOA": true,
    "oaUrl": "https://www.nature.com/articles/sdata2018138.pdf",
    "url": "https://doi.org/10.1038/sdata.2018.138",
-   "citations": 45,
+   "citations": 46,
    "abstract": "How temperature influences development has direct relevance to ascertaining the impact of climate change on natural populations. Reptiles have served as empirical models for understanding how the environment experienced by embryos can influence phenotypic variation, including sex ratio, phenology and survival. Such an understanding has important implications for basic eco-evolutionary theory and conservation efforts worldwide. While there is a burgeoning empirical literature of experimental manipulations of embryonic thermal environments, addressing widespread patterns at a comparative level has been hampered by the lack of accessible data in a format that is amendable to updates as new studies emerge. Here, we describe a database with nearly 10, 000 phenotypic estimates from 155 species of reptile, collected from 300 studies manipulating incubation temperature (published between 1974-2016). The data encompass various morphological, physiological, behavioural and performance traits along with growth rates, developmental timing, sex ratio and survival (e.g., hatching success). This resource will serve as an important data repository for addressing overarching questions about thermal plasticity of reptile embryos.",
    "preprintUrl": null,
    "altmetric": null
@@ -6404,7 +6404,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 606,
+   "citations": 612,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
@@ -6441,7 +6441,7 @@
    "isOA": true,
    "oaUrl": "http://handle.unsw.edu.au/1959.4/unsworks_45072",
    "url": "https://doi.org/10.1111/brv.12333",
-   "citations": 309,
+   "citations": 315,
    "abstract": "Early environments can profoundly influence an organism in ways that persist over its life. In reptiles, early thermal environments (nest temperatures) can impact offspring phenotype and survival in important ways, yet we still lack an understanding of whether general trends exist and the magnitude of impact. Understanding these patterns is important in predicting how climate change will affect reptile populations and the role of phenotypic plasticity in buffering populations. We compiled data from 175 reptile studies to examine, and quantify, the effect of incubation temperature on phenotype and survival. Using meta-analytic approaches (standardized mean difference between incubation treatments, Hedges' g), we show that across all trait types examined there is, on average, a moderate to large magnitude of effect of incubation temperatures (absolute effect: |g| = 0.75). Unsurprisingly, this influence was extremely large for incubation duration, as predicted, with warmer temperatures decreasing incubation time overall (g = -8.42). Other trait types, including behaviour, physiology, morphology, performance, and survival experienced reduced, but still mostly moderate to large effects, with particularly strong effects on survival. Moreover, the impact of incubation temperature persisted at least one-year post-hatching, suggesting that these effects have the potential to impact fitness in the long term. The magnitude of effect increased as the change in temperature increased (e.g. 6°C versus 2°C) in almost all cases, and tended to decrease when temperatures of the treatments fluctuated around a mean temperature compared to when they were constant. The effect also depended on the mid-temperature of the comparison, but not in consistent ways, with some traits experiencing the greatest effects at extreme temperatures, while others did not. The highly heterogeneous nature of the effects we observe, along with a large amount of unexplained variability, indicates that the shape of reaction norms between phenotype and temperature, along with ecological and/or experimental factors, are important when considering general patterns. Our analyses provide new insights into the effects of incubation environments on reptile phenotype and survival and allow general, albeit coarse, predictions for taxa experiencing warming nest temperatures under climatic change.",
    "preprintUrl": null,
    "altmetric": null
@@ -6483,7 +6483,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/mec.14031",
-   "citations": 276,
+   "citations": 279,
    "abstract": "Meta-analysis is an important tool for synthesizing research on a variety of topics in ecology and evolution, including molecular ecology, but can be susceptible to nonindependence. Nonindependence can affect two major interrelated components of a meta-analysis: (i) the calculation of effect size statistics and (ii) the estimation of overall meta-analytic estimates and their uncertainty. While some solutions to nonindependence exist at the statistical analysis stages, there is little advice on what to do when complex analyses are not possible, or when studies with nonindependent experimental designs exist in the data. Here we argue that exploring the effects of procedural decisions in a meta-analysis (e.g. inclusion of different quality data, choice of effect size) and statistical assumptions (e.g. assuming no phylogenetic covariance) using sensitivity analyses are extremely important in assessing the impact of nonindependence. Sensitivity analyses can provide greater confidence in results and highlight important limitations of empirical work (e.g. impact of study design on overall effects). Despite their importance, sensitivity analyses are seldom applied to problems of nonindependence. To encourage better practice for dealing with nonindependence in meta-analytic studies, we present accessible examples demonstrating the impact that ignoring nonindependence can have on meta-analytic estimates. We also provide pragmatic solutions for dealing with nonindependent study designs, and for analysing dependent effect sizes. Additionally, we offer reporting guidelines that will facilitate disclosure of the sources of nonindependence in meta-analyses, leading to greater transparency and more robust conclusions.",
    "preprintUrl": null,
    "altmetric": null
@@ -6525,7 +6525,7 @@
    "isOA": true,
    "oaUrl": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.161082",
    "url": "https://doi.org/10.1098/rsos.161082",
-   "citations": 48,
+   "citations": 49,
    "abstract": "Early social environment can play a significant role in shaping behavioural development. For instance, in many social mammals and birds, isolation rearing results in individuals that are less exploratory, shyer, less social and more aggressive than individuals raised in groups. Moreover, dynamic aspects of social environments, such as the nature of relationships between individuals, can also impact the trajectory of development. We tested if being raised alone or socially affects behavioural development in the family-living tree skink, Egernia striolata . Juveniles were raised in two treatments: alone or in a pair. We assayed exploration, boldness, sociability and aggression repeatedly throughout each juvenile's first year of life, and also assessed social interactions between pairs to determine if juveniles formed dominant–subordinate relationships. We found that male and/or the larger skinks within social pairs were dominant. Developing within this social environment reduced skink growth, and subordinate skinks were more prone to tail loss. Thus, living with a conspecific was costly for E. striolata . The predicted negative effects of isolation failed to materialize. Nevertheless, there were significant differences in behavioural traits depending on the social environment (isolated, dominant or subordinate member of a pair). Isolated skinks were more social than subordinate skinks. Subordinate skinks also became more aggressive over time, whereas isolated and dominant skinks showed invariable aggression. Dominant skinks became bolder over time, whereas isolated and subordinate skinks were relatively stable in their boldness. In summary, our study is evidence that isolation rearing does not consistently affect behaviour across all social taxa. Our study also demonstrates that the social environment plays an important role in behavioural development of a family-living lizard.",
    "preprintUrl": null,
    "altmetric": null
@@ -6587,7 +6587,7 @@
    "isOA": true,
    "oaUrl": "http://hdl.handle.net/1959.4/unsworks_48922",
    "url": "https://doi.org/10.1002/jez.2115",
-   "citations": 23,
+   "citations": 24,
    "abstract": "Abstract Coping with novel environments may be facilitated by plastic physiological responses that enable survival during environmentally sensitive life stages. We tested the capacity for embryos of the common wall lizard (Podarcis muralis) from low altitude to cope with low‐oxygen partial pressure (hypoxia) in an alpine environment. Developing embryos subjected to hypoxic atmospheric conditions (15–16% O2sea‐level equivalent) at 2,877 m above sea level exhibited responses common to vertebrates acclimatized to or evolutionarily adapted to high altitude: suppressed metabolism, cardiac hypertrophy, and hyperventilation. These responses might have contributed to the unaltered incubation duration and hatching success relative to the ancestral, low‐altitude, condition. Even so, hypoxia constrained egg energy utilization such that larger eggs produced hatchlings with relatively low mass. These findings highlight the role of physiological plasticity in maintaining fitness‐relevant phenotypes in high‐altitude environments, providing impetus to further explore altitudinal limits to ecological diversification in ectothermic vertebrates.",
    "preprintUrl": null,
    "altmetric": null
@@ -6718,7 +6718,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/eep/article-pdf/2/1/dvv014/23747241/dvv014.pdf",
    "url": "https://doi.org/10.1093/eep/dvv014",
-   "citations": 158,
+   "citations": 159,
    "abstract": "Rapid environmental change is predicted to compromise population survival, and the resulting strong selective pressure can erode genetic variation, making evolutionary rescue unlikely. Non-genetic inheritance may provide a solution to this problem and help explain the current lack of fit between purely genetic evolutionary models and empirical data. We hypothesize that epigenetic modifications can facilitate evolutionary rescue through 'epigenetic buffering'. By facilitating the inheritance of novel phenotypic variants that are generated by environmental change-a strategy we call 'heritable bet hedging'-epigenetic modifications could maintain and increase the evolutionary potential of a population. This process may facilitate genetic adaptation by preserving existing genetic variation, releasing cryptic genetic variation and/or facilitating mutations in functional loci. Although we show that examples of non-genetic inheritance are often maladaptive in the short term, accounting for phenotypic variance and non-adaptive plasticity may reveal important evolutionary implications over longer time scales. We also discuss the possibility that maladaptive epigenetic responses may be due to 'epigenetic traps', whereby evolutionarily novel factors (e.g. endocrine disruptors) hack into the existing epigenetic machinery. We stress that more ecologically relevant work on transgenerational epigenetic inheritance is required. Researchers conducting studies on transgenerational environmental effects should report measures of phenotypic variance, so that the possibility of both bet hedging and heritable bet hedging can be assessed. Future empirical and theoretical work is required to assess the relative importance of genetic and epigenetic variation, and their interaction, for evolutionary rescue.",
    "preprintUrl": null,
    "altmetric": null
@@ -6849,7 +6849,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1016/j.anbehav.2015.05.007",
-   "citations": 56,
+   "citations": 57,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -6886,7 +6886,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/bij.12610",
-   "citations": 13,
+   "citations": 14,
    "abstract": "Measures of physiological performance capacity, such as bite force, form the functional basis of sexual selection. Information about fighting ability may be conveyed through a structural feature such as a rostrum (i.e. horn) or a colour signal and thereby help reduce costly conflict. We quantified sexual dimorphism in key traits likely to be the targets of sexual selection in Tennent's leaf-nosed lizard (Ceratophora tennentii) from Sri Lanka, and examined their relationship to bite force and body condition. We found body length and bite force to be similar for males and females. However, head length was significantly greater in males and they had significantly more conspicuous throats and labials (chromatic contrast and luminance) than females. Males also had a proportionally larger rostrum, which we predicted could be an important source of information about male quality for both sexes. Rostrum length was correlated with throat chromatic contrast in males but not females. Nonetheless, the rostrum and aspects of coloration did not correlate with bite force or body condition as we predicted. We have no information on contest escalation in this species but if they rarely bite, as suggested by a lack of difference in bite force between males and females, then bite force and any associated signals would not be a target of selection. Finally, males and females had similar spectral reflectance of the mouth and tongue and both had a peak in the ultra-violet, and were conspicuous to birds. Lizards only gaped their mouths during capture and not when threatened by a potential predator (hand waving). We hypothesize that conspicuous mouth colour may act as a deimatic signal, startling a potential predator, although this will need careful experimental testing in the future.",
    "preprintUrl": null,
    "altmetric": null
@@ -6928,7 +6928,7 @@
    "isOA": true,
    "oaUrl": "https://www.ncbi.nlm.nih.gov/pmc/articles/3973267",
    "url": "https://doi.org/10.1098/rspb.2013.3275",
-   "citations": 153,
+   "citations": 155,
    "abstract": "Understanding individual differences in cognitive performance is a major challenge to animal behaviour and cognition studies. We used the Eastern water skink (Eulamprus quoyii) to examine associations between exploration, boldness and individual variability in spatial learning, a dimension of lizard cognition with important bearing on fitness. We show that males perform better than females in a biologically relevant spatial learning task. This is the first evidence for sex differences in learning in a reptile, and we argue that it is probably owing to sex-specific selective pressures that may be widespread in lizards. Across the sexes, we found a clear association between boldness after a simulated predatory attack and the probability of learning the spatial task. In contrast to previous studies, we found a nonlinear association between boldness and learning: both 'bold' and 'shy' behavioural types were more successful learners than intermediate males. Our results do not fit with recent predictions suggesting that individual differences in learning may be linked with behavioural types via high-low-risk/reward trade-offs. We suggest the possibility that differences in spatial cognitive performance may arise in lizards as a consequence of the distinct environmental variability and complexity experienced by individuals as a result of their sex and social tactics.",
    "preprintUrl": null,
    "altmetric": null
@@ -7049,7 +7049,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1007/s00265-014-1809-5",
-   "citations": 19,
+   "citations": 20,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -7291,7 +7291,7 @@
    "isOA": true,
    "oaUrl": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2012.0813",
    "url": "https://doi.org/10.1098/rsbl.2012.0813",
-   "citations": 64,
+   "citations": 65,
    "abstract": "Spatial cognition is predicted to be a fundamental component of fitness in many lizard species, and yet some studies suggest that it is relatively slow and inflexible. However, such claims are based on work conducted using experimental designs or in artificial contexts that may underestimate their cognitive abilities. We used a biologically realistic experimental procedure (using simulated predatory attacks) to study spatial learning and its flexibility in the lizard Eulamprus quoyii in semi-natural outdoor enclosures under similar conditions to those experienced by lizards in the wild. To evaluate the flexibility of spatial learning, we conducted a reversal spatial-learning task in which positive and negative reinforcements of learnt spatial stimuli were switched. Nineteen (32%) male lizards learnt both tasks within 10 days (spatial task mean: 8.16 ± 0.69 (s.e.) and reversal spatial task mean: 10.74 ± 0.98 (s.e.) trials). We demonstrate that E. quoyii are capable of flexible spatial learning and suggest that future studies focus on a range of lizard species which differ in phylogeny and/or ecology, using biologically relevant cognitive tasks, in an effort to bridge the cognitive divide between ecto- and endotherms.",
    "preprintUrl": null,
    "altmetric": null
