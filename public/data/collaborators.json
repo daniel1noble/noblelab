@@ -1,16 +1,16 @@
 {
- "updated": "2026-11-16",
- "total": 410,
+ "updated": "2026-11-17",
+ "total": 409,
  "countries": 28,
  "institutions": 154,
  "byCountry": {
   "Japan": 2,
   "Australia": 175,
   "Germany": 21,
+  "Canada": 19,
   "United Kingdom": 38,
   "Sweden": 17,
   "Switzerland": 10,
-  "Canada": 20,
   "Poland": 2,
   "Spain": 3,
   "China": 7,
@@ -178,6 +178,19 @@
    "lon": 151.20732
   },
   {
+   "name": "Julia L. Riley",
+   "orcid": "https://orcid.org/0000-0001-7691-6910",
+   "openalex": null,
+   "works": 9,
+   "lastYear": 2025,
+   "institution": "Mount Allison University",
+   "city": "Sackville",
+   "country": "Canada",
+   "countryCode": "CA",
+   "lat": 45.898681640625,
+   "lon": -64.36836242675781
+  },
+  {
    "name": "Lisa E. Schwanz",
    "orcid": "https://orcid.org/0000-0001-5864-7112",
    "openalex": "https://openalex.org/A5013179590",
@@ -254,19 +267,6 @@
    "countryCode": "CH",
    "lat": 46.94809,
    "lon": 7.44744
-  },
-  {
-   "name": "Julia L. Riley",
-   "orcid": "https://orcid.org/0000-0001-7691-6910",
-   "openalex": null,
-   "works": 8,
-   "lastYear": 2022,
-   "institution": "Mount Allison University",
-   "city": "Sackville",
-   "country": "Canada",
-   "countryCode": "CA",
-   "lat": 45.898681640625,
-   "lon": -64.36836242675781
   },
   {
    "name": "Kristoffer H. Wild",
@@ -1972,9 +1972,9 @@
    "lon": 18.95508
   },
   {
-   "name": "Brajesh K. Singh",
-   "orcid": null,
-   "openalex": null,
+   "name": "Brajesh Kumar Singh",
+   "orcid": "https://orcid.org/0000-0003-4413-4185",
+   "openalex": "https://openalex.org/A5084003811",
    "works": 1,
    "lastYear": 2026,
    "institution": "Western Sydney University",
@@ -3091,8 +3091,8 @@
   },
   {
    "name": "James M. Cook",
-   "orcid": null,
-   "openalex": null,
+   "orcid": "https://orcid.org/0000-0001-8447-6126",
+   "openalex": "https://openalex.org/A5053725915",
    "works": 1,
    "lastYear": 2026,
    "institution": "Western Sydney University",
@@ -3400,19 +3400,6 @@
    "countryCode": "AU",
    "lat": -33.86785,
    "lon": 151.20732
-  },
-  {
-   "name": "Julia L. Riley",
-   "orcid": "https://orcid.org/0000-0001-7691-6910",
-   "openalex": "https://openalex.org/A5070826557",
-   "works": 1,
-   "lastYear": 2025,
-   "institution": "Mount Allison University",
-   "city": "Sackville",
-   "country": "Canada",
-   "countryCode": "CA",
-   "lat": 45.898681640625,
-   "lon": -64.36836242675781
   },
   {
    "name": "Julianne M. O’Reilly-Wapstra",
