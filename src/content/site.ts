@@ -465,19 +465,6 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         ],
       },
       {
-        name: "Dalton Leibold",
-        role: "PhD student",
-        years: "(2022 – Present)",
-        photo: "/images/people-dalton-leibold.jpg",
-        bio: [
-          "Evolutionary ecologist by passion, physiologist by profession. I use reptiles as a system for identifying relationships between the environment, physiological processes, and fitness and all of its associated phenotypes. During my PhD I aim testing the programmatic effects of early-life experiences (i.e., maternal effects and the developmental environment) on physiological biomarkers of fitness (mitochondrial function, oxidative stress, and DNA damage), life-history tradeoffs, and lifetime reproductive success.",
-        ],
-        links: [{ label: "ORCID", href: "https://orcid.org/0000-0001-9645-2033" },
-          { label: "Website", href: "https://biology.anu.edu.au/people/dalton-leibold" },
-          { label: "GitHub", href: "https://github.com/daltonleibold" },
-        ],
-      },
-      {
         name: "Joel Treutlein",
         role: "PhD student",
         years: "(2024 – Present)",
@@ -687,6 +674,23 @@ export const MEMBER_GROUPS: MemberGroup[] = [
         links: [
           { label: "ResearchGate", href: "https://www.researchgate.net/profile/Pablo-Recio" },
           { label: "ORCID", href: "https://orcid.org/0000-0002-5890-0218" },
+        ],
+      },
+      {
+        // Moved from current PhD students on conferral (Daniel, 18 Nov 2026).
+        // Bio as he wrote it, with "I aim testing" put into the past tense for
+        // an alumni entry, matching Dr. Pablo Recio's above.
+        name: "Dr. Dalton Leibold",
+        role: "Past PhD student",
+        years: "(2022 – 2026)",
+        now: "Now an Ecologist in the ACT Government",
+        photo: "/images/people-dalton-leibold.jpg",
+        bio: [
+          "Evolutionary ecologist by passion, physiologist by profession. I use reptiles as a system for identifying relationships between the environment, physiological processes, and fitness and all of its associated phenotypes. During my PhD I tested the programmatic effects of early-life experiences (i.e., maternal effects and the developmental environment) on physiological biomarkers of fitness (mitochondrial function, oxidative stress, and DNA damage), life-history tradeoffs, and lifetime reproductive success.",
+        ],
+        links: [{ label: "ORCID", href: "https://orcid.org/0000-0001-9645-2033" },
+          { label: "Website", href: "https://biology.anu.edu.au/people/dalton-leibold" },
+          { label: "GitHub", href: "https://github.com/daltonleibold" },
         ],
       },
     ],
