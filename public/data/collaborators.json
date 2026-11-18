@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "total": 409,
  "countries": 28,
- "institutions": 154,
+ "institutions": 155,
  "byCountry": {
   "Japan": 2,
   "Australia": 175,
@@ -14,7 +14,7 @@
   "Poland": 2,
   "Spain": 3,
   "China": 7,
-  "United States": 50,
+  "United States": 51,
   "Finland": 6,
   "France": 15,
   "The Netherlands": 5,
@@ -27,7 +27,7 @@
   "Brazil": 3,
   "New Zealand": 2,
   "Costa Rica": 1,
-  "Belgium": 3,
+  "Belgium": 4,
   "Chile": 1,
   "Nigeria": 1,
   "Denmark": 2,
@@ -1613,12 +1613,12 @@
    "openalex": "https://openalex.org/A5020759431",
    "works": 1,
    "lastYear": 2025,
-   "institution": "Zoological Society of San Diego",
-   "city": "San Diego",
+   "institution": "San Diego Zoo Institute for Conservation Research",
+   "city": "Escondido",
    "country": "United States",
    "countryCode": "US",
-   "lat": 32.736183166503906,
-   "lon": -117.15042114257812
+   "lat": 33.11920928955078,
+   "lon": -117.08641815185547
   },
   {
    "name": "Alison R. Bentley",
@@ -2523,12 +2523,12 @@
    "openalex": "https://openalex.org/A5061894374",
    "works": 1,
    "lastYear": 2025,
-   "institution": null,
-   "city": null,
-   "country": null,
-   "countryCode": null,
-   "lat": null,
-   "lon": null
+   "institution": "University of California, Los Angeles",
+   "city": "Los Angeles",
+   "country": "United States",
+   "countryCode": "US",
+   "lat": 34.05223,
+   "lon": -118.24368
   },
   {
    "name": "Elvire Bestion",
@@ -4512,12 +4512,12 @@
    "openalex": "https://openalex.org/A5015313980",
    "works": 1,
    "lastYear": 2025,
-   "institution": null,
-   "city": null,
-   "country": null,
-   "countryCode": null,
-   "lat": null,
-   "lon": null
+   "institution": "KU Leuven",
+   "city": "Leuven",
+   "country": "Belgium",
+   "countryCode": "BE",
+   "lat": 50.87959,
+   "lon": 4.70093
   },
   {
    "name": "Randall L. Small",

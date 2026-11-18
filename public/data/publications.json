@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17",
+ "updated": "2026-11-18",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -1656,7 +1656,7 @@
    "pages": "20241487",
    "kind": "article",
    "isOA": true,
-   "oaUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC11775597/",
+   "oaUrl": "https://lirias.kuleuven.be/retrieve/66e721cf-0196-47ca-8750-aca767873833",
    "url": "https://doi.org/10.1098/rspb.2024.1487",
    "citations": 6,
    "abstract": "Publishing preprints is quickly becoming commonplace in ecology and evolutionary biology. Preprints can facilitate the rapid sharing of scientific knowledge establishing precedence and enabling feedback from the research community before peer review. Yet, significant barriers to preprint use exist, including language barriers, a lack of understanding about the benefits of preprints and a lack of diversity in the types of research outputs accepted (e.g. reports). Community-driven preprint initiatives can allow a research community to come together to break down these barriers to improve equity and coverage of global knowledge. Here, we explore the first preprints uploaded to EcoEvoRxiv ( n = 1216), a community-driven preprint server for ecologists and evolutionary biologists, to characterize preprint use in ecology, evolution and conservation. Our perspective piece highlights some of the unique initiatives that EcoEvoRxiv has taken to break down barriers to scientific publishing by exploring the composition of articles, how gender and career stage influence preprint use, whether preprints are associated with greater open science practices (e.g. code and data sharing) and tracking preprint publication outcomes. Our analysis identifies areas that we still need to improve upon but highlights how community-driven initiatives, such as EcoEvoRxiv , can play a crucial role in shaping publishing practices in biology.",
@@ -2566,6 +2566,48 @@
    "altmetric": null
   },
   {
+   "id": "10.1016/j.anbehav.2024.06.016",
+   "doi": "10.1016/j.anbehav.2024.06.016",
+   "title": "Double trouble: host behaviour influences and is influenced by co-infection with parasites",
+   "authors": [
+    {
+     "name": "Maryane Gradito",
+     "orcid": "https://orcid.org/0009-0004-6609-0229",
+     "isSelf": false
+    },
+    {
+     "name": "Frédérique Dubois",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W.A. Noble",
+     "orcid": null,
+     "isSelf": true
+    },
+    {
+     "name": "Sandra A. Binning",
+     "orcid": null,
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Maryane Gradito, Frédérique Dubois, Daniel W.A. Noble, Sandra A. Binning",
+   "journal": "Animal Behaviour",
+   "year": 2024,
+   "date": "2024-09",
+   "volume": "215",
+   "issue": null,
+   "pages": "31-44",
+   "kind": "article",
+   "isOA": false,
+   "oaUrl": null,
+   "url": "https://doi.org/10.1016/j.anbehav.2024.06.016",
+   "citations": 19,
+   "abstract": null,
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
    "id": "10.1242/jeb.249234",
    "doi": "10.1242/jeb.249234",
    "title": "From eggs to adulthood: sustained effects of early developmental temperature and corticosterone exposure on physiology and body size in an Australian lizard",
@@ -2629,48 +2671,6 @@
    "url": "https://doi.org/10.1242/jeb.249234",
    "citations": 18,
    "abstract": "Developing animals are increasingly exposed to elevated temperatures as global temperatures rise as a result of climate change. Vertebrates can be affected by elevated temperatures during development directly, and indirectly through maternal effects (e.g. exposure to prenatal glucocorticoid hormones). Past studies have examined how elevated temperatures and glucocorticoid exposure during development independently affect vertebrates. However, exposure to elevated temperatures and prenatal corticosterone could have interactive effects on developing animals that affect physiology and life-history traits across life. We tested interactions between incubation temperature and prenatal corticosterone exposure in the delicate skink (Lampropholis delicata). We treated eggs with high or low doses of corticosterone and incubated eggs at 23°C (cool) or 28°C (warm). We measured the effects of these treatments on development time, body size and survival from hatching to adulthood and on adult hormone levels and mitochondrial respiration. We found no evidence for interactive effects of incubation temperature and prenatal corticosterone exposure on phenotype. However, incubation temperature and corticosterone treatment each independently decreased body size at hatching and these effects were sustained into the juvenile period and adulthood. Lizards exposed to low doses of corticosterone during development had elevated levels of baseline corticosterone as adults. Additionally, lizards incubated at cool temperatures had higher levels of baseline corticosterone and more efficient mitochondria as adults compared with lizards incubated at warm temperatures. Our results show that developmental conditions can have sustained effects on morphological and physiological traits in oviparous lizards but suggest that incubation temperature and prenatal corticosterone do not have interactive effects.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1016/j.anbehav.2024.06.016",
-   "doi": "10.1016/j.anbehav.2024.06.016",
-   "title": "Double trouble: host behaviour influences and is influenced by co-infection with parasites",
-   "authors": [
-    {
-     "name": "Maryane Gradito",
-     "orcid": "https://orcid.org/0009-0004-6609-0229",
-     "isSelf": false
-    },
-    {
-     "name": "Frédérique Dubois",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W.A. Noble",
-     "orcid": null,
-     "isSelf": true
-    },
-    {
-     "name": "Sandra A. Binning",
-     "orcid": null,
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Maryane Gradito, Frédérique Dubois, Daniel W.A. Noble, Sandra A. Binning",
-   "journal": "Animal Behaviour",
-   "year": 2024,
-   "date": "2024-09",
-   "volume": "215",
-   "issue": null,
-   "pages": "31-44",
-   "kind": "article",
-   "isOA": false,
-   "oaUrl": null,
-   "url": "https://doi.org/10.1016/j.anbehav.2024.06.016",
-   "citations": 18,
-   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -4049,7 +4049,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 555,
+   "citations": 557,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4156,7 +4156,7 @@
    "isOA": true,
    "oaUrl": "https://www.sciencedirect.com/science/article/am/pii/S0169534720303542",
    "url": "https://doi.org/10.1016/j.tree.2020.12.006",
-   "citations": 202,
+   "citations": 203,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -4193,7 +4193,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/bnugw",
    "url": "https://doi.org/10.1111/2041-210x.13755",
-   "citations": 114,
+   "citations": 115,
    "abstract": "Abstract Organisms use labile traits to respond to different conditions over short time‐scales. When a population experiences the same conditions, we might expect all individuals to adjust their trait expression to the same, optimal, value, thereby minimising phenotypic variation. Instead, variation abounds. Individuals substantially differ not only from each other, but also from their former selves, with the expression of labile traits varying both predictably and unpredictably over time. A powerful tool for studying the evolution of phenotypic variation in labile traits is the mixed model. Here, we review how mixed models are used to quantify individual differences in both means and variability, and their between‐individual correlations. Individuals can differ in their average phenotypes (e.g. behavioural personalities), their variability (known as ‘predictability’ or intra‐individual variability), and their plastic response to different contexts. We provide detailed descriptions and resources for simultaneously modelling individual differences in averages, plasticity and predictability. Empiricists can use these methods to quantify how traits covary across individuals and test theoretical ideas about phenotypic integration. These methods can be extended to incorporate plastic changes in predictability (termed ‘stochastic malleability’). Overall, we showcase the unfulfilled potential of existing statistical tools to test more holistic and nuanced questions about the evolution, function, and maintenance of phenotypic variation, for any trait that is repeatedly expressed.",
    "preprintUrl": null,
    "altmetric": null
@@ -4789,7 +4789,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/epqa7",
    "url": "https://doi.org/10.1002/jrsm.1424",
-   "citations": 241,
+   "citations": 242,
    "abstract": "“Classic” forest plots show the effect sizes from individual studies and the aggregate effect from a meta‐analysis. However, in ecology and evolution, meta‐analyses routinely contain over 100 effect sizes, making the classic forest plot of limited use. We surveyed 102 meta‐analyses in ecology and evolution, finding that only 11% use the classic forest plot. Instead, most used a “forest‐like plot,” showing point estimates (with 95% confidence intervals [CIs]) from a series of subgroups or categories in a meta‐regression. We propose a modification of the forest‐like plot, which we name the “orchard plot.” Orchard plots, in addition to showing overall mean effects and CIs from meta‐analyses/regressions, also include 95% prediction intervals (PIs), and the individual effect sizes scaled by their precision. The PI allows the user and reader to see the range in which an effect size from a future study may be expected to fall. The PI, therefore, provides an intuitive interpretation of any heterogeneity in the data. Supplementing the PI, the inclusion of underlying effect sizes also allows the user to see any influential or outlying effect sizes. We showcase the orchard plot with example datasets from ecology and evolution, using the R package, orchard , including several functions for visualizing meta‐analytic data using forest‐plot derivatives. We consider the orchard plot as a variant on the classic forest plot, cultivated to the needs of meta‐analysts in ecology and evolution. Hopefully, the orchard plot will prove fruitful for visualizing large collections of heterogeneous effect sizes regardless of the field of study.",
    "preprintUrl": null,
    "altmetric": null
@@ -4868,7 +4868,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/evlett/article-pdf/4/4/360/46657546/evlett0360.pdf",
    "url": "https://doi.org/10.1002/evl3.185",
-   "citations": 115,
+   "citations": 116,
    "abstract": "Phenotypic responses to a novel or extreme environment are initially plastic, only later to be followed by genetic change. Whether or not environmentally induced phenotypes are sufficiently recurrent and fit to leave a signature in adaptive evolution is debated. Here, we analyze multivariate data from 34 plant reciprocal transplant studies to test: (1) if plasticity is an adaptive source of developmental bias that makes locally adapted populations resemble the environmentally induced phenotypes of ancestors; and (2) if plasticity, standing phenotypic variation and genetic divergence align during local adaptation. Phenotypic variation increased marginally in foreign environments but, as predicted, the direction of ancestral plasticity was generally well aligned with the phenotypic difference between locally adapted populations, making plasticity appear to \"take the lead\" in adaptive evolution. Plastic responses were sometimes more extreme than the phenotypes of locally adapted plants, which can give the impression that plasticity and evolutionary adaptation oppose each other; however, environmentally induced and locally adapted phenotypes were rarely misaligned. Adaptive fine-tuning of phenotypes-genetic accommodation-did not fall along the main axis of standing phenotypic variation or the direction of plasticity, and local adaptation did not consistently modify the direction or magnitude of plasticity. These results suggest that plasticity is a persistent source of developmental bias that shapes how plant populations adapt to environmental change, even when plasticity does not constrain how populations respond to selection.",
    "preprintUrl": null,
    "altmetric": null
@@ -5407,7 +5407,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/ga2qz",
    "url": "https://doi.org/10.1016/j.tree.2018.11.007",
-   "citations": 298,
+   "citations": 299,
    "abstract": "We propose a new framework for research synthesis of both evidence and influence, named research weaving. It summarizes and visualizes information content, history, and networks among a collection of documents on any given topic. Research weaving achieves this feat by combining the power of two methods: systematic mapping and bibliometrics. Systematic mapping provides a snapshot of the current state of knowledge, identifying areas needing more research attention and those ready for full synthesis. Bibliometrics enables researchers to see how pieces of evidence are connected, revealing the structure and development of a field. We explain how researchers can use some or all of these tools to gain a deeper, more nuanced understanding of the scientific literature.",
    "preprintUrl": null,
    "altmetric": null
@@ -6070,7 +6070,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1093/beheco/ary122",
-   "citations": 20,
+   "citations": 21,
    "abstract": "Fundamental to the definition of parental care is that care confers benefits to the offspring. However, the mechanisms resulting in these benefits remain poorly understood, particularly in species where postnatal care is not obligatory. Here, we address this shortcoming using a lizard, Liopholis whitii, in which family life is facultative and relatively simple—extending to prolonged associations between parents and offspring within the parental territory. Using a split-clutch design, we housed offspring either with their mother or alone during the first 8 weeks of postnatal life and examined whether maternal presence affected 1) the expression of key functional behaviors and 2) learning ability in a biologically relevant antipredatory task. We found that offspring housed with their mothers expressed heightened levels of activity, boldness, and exploration compared with offspring who were housed alone. Furthermore, we show that associating with mothers during early postnatal periods led to improved offspring performance in the antipredation learning task. Together these results suggest that even relatively simple forms of enhanced parent-offspring association can have significant impacts on offspring traits. We argue that such effects may help refine and stabilize parent–offspring associations early in their evolution, potentially setting the stage for the elaboration of both parent and offspring behaviors.",
    "preprintUrl": null,
    "altmetric": null
@@ -6404,7 +6404,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 646,
+   "citations": 647,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
@@ -6483,7 +6483,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/mec.14031",
-   "citations": 294,
+   "citations": 295,
    "abstract": "Meta-analysis is an important tool for synthesizing research on a variety of topics in ecology and evolution, including molecular ecology, but can be susceptible to nonindependence. Nonindependence can affect two major interrelated components of a meta-analysis: (i) the calculation of effect size statistics and (ii) the estimation of overall meta-analytic estimates and their uncertainty. While some solutions to nonindependence exist at the statistical analysis stages, there is little advice on what to do when complex analyses are not possible, or when studies with nonindependent experimental designs exist in the data. Here we argue that exploring the effects of procedural decisions in a meta-analysis (e.g. inclusion of different quality data, choice of effect size) and statistical assumptions (e.g. assuming no phylogenetic covariance) using sensitivity analyses are extremely important in assessing the impact of nonindependence. Sensitivity analyses can provide greater confidence in results and highlight important limitations of empirical work (e.g. impact of study design on overall effects). Despite their importance, sensitivity analyses are seldom applied to problems of nonindependence. To encourage better practice for dealing with nonindependence in meta-analytic studies, we present accessible examples demonstrating the impact that ignoring nonindependence can have on meta-analytic estimates. We also provide pragmatic solutions for dealing with nonindependent study designs, and for analysing dependent effect sizes. Additionally, we offer reporting guidelines that will facilitate disclosure of the sources of nonindependence in meta-analyses, leading to greater transparency and more robust conclusions.",
    "preprintUrl": null,
    "altmetric": null
@@ -6963,7 +6963,7 @@
    "pages": "20140430",
    "kind": "article",
    "isOA": true,
-   "oaUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4126636/",
+   "oaUrl": "https://researchers.mq.edu.au/en/publications/92bd0ae2-ff9d-4b8e-bc9f-02d7127eebd9",
    "url": "https://doi.org/10.1098/rsbl.2014.0430",
    "citations": 98,
    "abstract": "Evidence of social learning, whereby the actions of an animal facilitate the acquisition of new information by another, is taxonomically biased towards mammals, especially primates, and birds. However, social learning need not be limited to group-living animals because species with less interaction can still benefit from learning about potential predators, food sources, rivals and mates. We trained male skinks (Eulamprus quoyii), a mostly solitary lizard from eastern Australia, in a two-step foraging task. Lizards belonging to 'young' and 'old' age classes were presented with a novel instrumental task (displacing a lid) and an association task (reward under blue lid). We did not find evidence for age-dependent learning of the instrumental task; however, young males in the presence of a demonstrator learnt the association task faster than young males without a demonstrator, whereas old males in both treatments had similar success rates. We present the first evidence of age-dependent social learning in a lizard and suggest that the use of social information for learning may be more widespread than previously believed.",
@@ -7004,8 +7004,8 @@
    "issue": "3",
    "pages": "633-640",
    "kind": "article",
-   "isOA": false,
-   "oaUrl": null,
+   "isOA": true,
+   "oaUrl": "https://researchers.mq.edu.au/en/publications/09c0a1fa-3e18-4a35-9eae-b33233e3ec8b",
    "url": "https://doi.org/10.1093/beheco/aru032",
    "citations": 43,
    "abstract": "Evolutionary responses to selection require that traits have a heritable basis, yet maternal effects (the effect of a mother’s phenotype on her offspring’s phenotype) can have profound effects on evolutionary processes. It is therefore essential to understand how maternal effects contribute to phenotypic variation in offspring traits and test key assumptions of additive genetic variance in evolutionary models. We measured 5 traits linked to fitness in lizards (endurance, sprint speed, snout-vent length [SVL], mass, and growth rate) and estimated the contribution of additive genetic and maternal effects in explaining variation in these traits in the Eastern water skink (Eulamprus quoyii). We estimated parentage using 6 microsatellite DNA loci from lizards taking part in a mating experiment in large seminatural enclosures and used animal models to partition variance into additive genetic and maternal effects. We found that only endurance was significantly heritable (h2 = 0.37, 95% credible interval = 0.18–0.50), whereas all other traits were either strongly influenced by maternal effects (mass, sprint speed, SVL, and captive growth rate) or were influenced by environmental variability (wild growth rate). Our study disentangles the relative contributions of additive genetic and maternal effects in contributing to variation in offspring phenotypes and suggests that little additive genetic variance exists for traits often assumed to be heritable. Although the heritability of phenotypic traits is essential in evolutionary models, our results also highlight the important role maternal effects have in explaining variation in phenotypes.",
@@ -7563,7 +7563,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1139/g06-152",
-   "citations": 204,
+   "citations": 203,
    "abstract": "To persist, unisexual and asexual eukaryotes must have reproductive modes that circumvent normal bisexual reproduction. Parthenogenesis, gynogenesis, and hybridogenesis are the modes that have generally been ascribed to various unisexuals. Unisexual Ambystoma are abundant around the Great Lakes region of North America, and have variously been described as having all 3 reproductive modes. Diploid and polyploid unisexuals have nuclear genomes that combine the haploid genomes of 2 to 4 distinct sexual species, but the mtDNA is unlike any of those 4 species and is similar to another species, Ambystoma barbouri. To obtain better resolution of the reproductive mode used by unisexual Ambystoma and to explore the relationship of A. barbouri to the unisexuals, we sequenced the mitochondrial control and highly variable intergenic spacer region of 48 ambystomatids, which included 28 unisexuals, representatives of the 4 sexual species and A. barbouri. The unisexuals have similar sequences over most of their range, and form a close sister group to A. barbouri, with an estimated time of divergence of 2.4-3.9 million years ago. Individuals from the Lake Erie Islands (Kelleys, Pelee, North Bass) have a haplotype that demonstrates an isolation event. We examined highly variable microsatellite loci, and found that the genetic makeup of the unisexuals is highly variable and that unisexual individuals share microsatellite alleles with sexual individuals within populations. Although many progeny from the same female had the same genotype for 5 microsatellite DNA loci, there was no indication that any particular genome is consistently inherited in a clonal fashion in a population. The reproductive mode used by unisexual Ambystoma appears to be unique; we suggest kleptogenesis as a new unisexual reproductive mode that is used by these salamanders.",
    "preprintUrl": null,
    "altmetric": null
