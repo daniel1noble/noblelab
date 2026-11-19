@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -921,7 +921,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.1111/2041-210x.70155",
    "url": "https://doi.org/10.1111/2041-210x.70155",
-   "citations": 24,
+   "citations": 25,
    "abstract": "Abstract Measuring heterogeneity, or inconsistency, among effect sizes is a crucial step for interpreting meta‐analytic evidence across diverse taxonomic groups and spatiotemporal contexts. However, ecologists and evolutionary biologists often interpret overall mean effects (mean population effects) as consistent across contexts, either explicitly or implicitly, without properly quantifying and interpreting heterogeneity. Here, we present a pluralistic approach that aims to quantify heterogeneity by introducing complementary metrics, each of which decomposes heterogeneity into within‐study, between‐study and between‐species (species and phylogenetic) variances. These metrics include the traditional I 2 (variance‐standardized metric), the newly derived coefficient of variation for heterogeneity ( CVH family; mean‐standardized metric), the second‐order coefficient of variation ( M family; variance–mean‐standardized metric) and their stratified variants. To demonstrate the benefits of the combined use of these measures, we synthesize heterogeneity estimates from 512 ecological and evolutionary meta‐analyses. We show that total heterogeneity (variance of true effects) is, on average, 10 times larger than statistical noise (sampling error variance), contributing to 91% of the observed variance (median I 2 = 91%). This amount of heterogeneity is nearly twice the size of the mean population effect (median CVH = 1.8 and M = 0.6), indicating substantial variation among studies within a meta‐analysis. Moreover, different effect size types yield different values of heterogeneity metrics because they are inherently influenced by statistical properties of their effect size estimators. As such, comparisons of heterogeneity across effect size types should be made with caution, albeit the proposed heterogeneity metrics are unit‐free. Our large‐scale synthesis also provides new benchmarks for the interpretation of heterogeneity and recommendations on how to quantify and report heterogeneity. New extensions for stratifying heterogeneity metrics will clarify our understanding of the generalisability, and at what level of meta‐analytic effects in ecology and evolution.",
    "preprintUrl": null,
    "altmetric": null
@@ -1135,7 +1135,7 @@
    "oaUrl": "https://ecoevorxiv.org/repository/object/6962/download/15292/",
    "url": "https://doi.org/10.1016/j.biocon.2024.110912",
    "citations": 8,
-   "abstract": "Toxic baiting has been widely adopted for the control of exotic canines and felines . However, high variability in findings make it difficult to gauge the overall efficacy of this control method. We conducted a meta-analysis of the efficacy of baiting for the feral cat, red fox and dingo; our outcome of interest was apparent predator survival. Our dataset contained 121 effects from 34 studies, comprising 1402 individuals tested. When baits were distributed along tracks they increased the risk of predator death by 46 % relative to controls. However, when baits were distributed more broadly across areas the risk of predator death was comparable between baited and unbaited areas. We found no evidence that baiting was more effective at reducing canine relative to feline populations. We additionally found no evidence that Eradicat® achieved greater cat death than other baits. Higher bait densities achieved a greater risk of predator death for track baiting, but not area baiting. We found no evidence that repeat bait applications over short periods of time achieve a greater risk of predator death than single bait applications; this was consistent across both design types. Similarly, we found no evidence for an effect of bait matrix (fresh meat, dry processed bait, mixture) for either design type. Our study shows that many accepted baiting practices have little empirical support and are premature given the available sparse evidence. Further, rigorous research is of high priority in this field and will assist in clarifying the use of lethal baiting as a conservation tool.",
+   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -1727,7 +1727,7 @@
    "url": "https://doi.org/10.1111/ele.70258",
    "citations": 4,
    "abstract": "Phenotypic plasticity can lead to compensation for potentially adverse effects of variation in the thermal environment so it is important to understand the impacts of changes in mean and fluctuations in temperature on plastic responses. Here we establish the current state of knowledge of how thermal variability influences the expression of phenotypic plasticity in ectothermic animals. Our quantitative synthesis of 46 studies compares the effects of constant and fluctuating temperatures with the same mean on plasticity in different traits, across different ecosystems (terrestrial and aquatic) and between types of phenotypic plasticity (acclimation and developmental plasticity). We found that 98% of studies implemented diel temperature fluctuations and most data were derived from invertebrates. We show that plasticity does not differ between constant and fluctuating environments except for weak effects on developmental time. We conclude that plasticity is more likely to be driven by changes in longer-term mean temperatures.",
-   "preprintUrl": "https://doi.org/10.22541/au.174705149.99511675/v1",
+   "preprintUrl": null,
    "altmetric": null
   },
   {
@@ -1982,6 +1982,73 @@
    "url": "https://doi.org/10.1016/j.ygcen.2025.114754",
    "citations": 2,
    "abstract": "Vertebrate sex determination is remarkably diverse. In species with genetic sex determination, reproductive physiology and sex-specific behaviour are influenced by sex chromosomes and sex steroid hormones. However, some species experience sex reversal where the influence of sex chromosomes on sexual development is modulated by mutations or environmental conditions, leading to animals that phenotypically mismatch with their genotype. In these species, sex-reversed ('discordant') individuals can theoretically exhibit traits that are similar to either their phenotypic or genotypic sex. In the central bearded dragon (Pogona vitticeps), high incubation temperatures produce sex-reversed females with male-type sex chromosomes (ZZf). ZZf display a mix of male-like and intermediate traits compared to males (ZZm) and concordant females (ZWf). Sex steroid profiles could drive these differences but are yet to be examined in P. vitticeps. We measured testosterone (T) and estradiol (E2) in ZWf, ZZf, and ZZm dragons at three timepoints across a breeding season. As sex steroids can potentially affect offspring if maternal hormones are transmitted to eggs, we also compared T and E2 levels in egg yolks from ZZf and ZWf females. Sex-reversed ZZf had lower T levels than males and similar T and E2 levels to ZWf across the breeding season. ZWf and ZZf laid eggs with similar levels of T and E2. We found a negative association between maternal and yolk E2 levels, but no association between maternal and yolk T. Our results show that sex steroid profiles in sex-reversed ZZ female P. vitticeps reflect phenotypic, not genotypic sex, suggesting circulating sex steroids do not drive trait differences between discordant and concordant females.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.22541/au.174705149.99511675/v1",
+   "doi": "10.22541/au.174705149.99511675/v1",
+   "title": "Temperature variability does not influence phenotypic plasticity in ectotherms -- a meta-analysis",
+   "authors": [
+    {
+     "name": "Clayton Stocker",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Stephanie Bamford",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Miki Jahn",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Geoffrey Mazué",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Amanda Pettersen",
+     "orcid": "https://orcid.org/0000-0001-6191-6563",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel Ritchie",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Alexander Rubin",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Daniel Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Frank Seebacher",
+     "orcid": "https://orcid.org/0000-0002-2281-9311",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Clayton Stocker, Stephanie Bamford, Miki Jahn, Geoffrey Mazué, Amanda Pettersen, Daniel Ritchie, Alexander Rubin, Daniel Noble, Frank Seebacher",
+   "journal": null,
+   "year": 2025,
+   "date": "2025-05-12",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "kind": "preprint",
+   "isOA": false,
+   "oaUrl": "https://doi.org/10.22541/au.174705149.99511675/v1",
+   "url": "https://doi.org/10.22541/au.174705149.99511675/v1",
+   "citations": 0,
+   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2409,7 +2476,7 @@
    "oaUrl": "http://www.cell.com/article/S016953472300335X/pdf",
    "url": "https://doi.org/10.1016/j.tree.2023.12.004",
    "citations": 27,
-   "abstract": "Comparative analyses and meta-analyses are key tools to elucidate broad biological principles, yet the two approaches often appear different in purpose. We propose an integrated approach that can generate deeper insights into ecoevolutionary processes. Marrying comparative and meta-analytic approaches will allow for (i) a more accurate investigation of drivers of biological variation, (ii) a greater ability to account for sources of non-independence in experimental data, (iii) more effective control of publication bias, and (iv) improved transparency and reproducibility. Stronger integration of meta-analytic and comparative studies can also broaden the scope from species-centric investigations to community-level responses and function-valued traits (e.g., reaction norms). We illuminate commonalities, differences, and the transformative potential of combining these methodologies for advancing ecology and evolutionary biology.",
+   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2852,7 +2919,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14152",
    "url": "https://doi.org/10.1111/2041-210x.14152",
-   "citations": 241,
+   "citations": 242,
    "abstract": "Abstract Although meta‐analysis has become an essential tool in ecology and evolution, reporting of meta‐analytic results can still be much improved. To aid this, we have introduced the orchard plot, which presents not only overall estimates and their confidence intervals, but also shows corresponding heterogeneity (as prediction intervals) and individual effect sizes. Here, we have added significant enhancements by integrating many new functionalities into orchaRd 2.0 . This updated version allows the visualisation of heteroscedasticity (different variances across levels of a categorical moderator), marginal estimates (e.g. marginalising out effects other than the one visualised), conditional estimates (i.e. estimates of different groups conditioned upon specific values of a continuous variable) and visualisations of all types of interactions between two categorical/continuous moderators. orchaRd 2.0 has additional functions which calculate key statistics from multilevel meta‐analytic models such as I 2 and R 2 . Importantly, orchaRd 2.0 contributes to better reporting by complying with PRISMA‐EcoEvo (preferred reporting items for systematic reviews and meta‐analyses in ecology and evolution). Taken together, orchaRd 2.0 can improve the presentation of meta‐analytic results and facilitate the exploration of previously neglected patterns. In addition, as a part of a literature survey, we found that graphical packages are rarely cited (~3%). We plea that researchers credit developers and maintainers of graphical packages, for example, by citations in a figure legend, acknowledging the use of relevant packages.",
    "preprintUrl": null,
    "altmetric": null
@@ -3982,7 +4049,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 921,
+   "citations": 922,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4466,7 +4533,7 @@
    "oaUrl": "https://doi.org/10.32942/osf.io/7bvxy",
    "url": "https://doi.org/10.1016/j.jneumeth.2021.109138",
    "citations": 28,
-   "abstract": "BACKGROUND: Zebrafish (Danio rerio) are increasingly being used to model anxiety. A common behavioral assay employed for assessing anxiety-like behaviors in zebrafish is the \"novel tank test\". We hypothesized that using deeper tanks in this test would result in greater between-individual variation in behavioral responses and a more 'repeatable' assay. NEW METHODS: After mapping the literature and identifying common behavioral parameters used in analysis, we performed novel tank anxiety tests in both custom-designed 'tall' tanks with increased depth and 'short' trapezoidal tanks. We compared the repeatability of the behavioral parameters between tall and short tanks and also investigated sex differences. RESULTS: Overall, regardless of tank depth, almost all behavioral parameters associated with anxiety in zebrafish were significantly repeatable (R = 0.24 to 0.60). Importantly, our tall tanks better captured between-individual differences, resulting in higher repeatability estimates (average repeatability tall tanks: R = 0.46; average repeatability short tanks: R = 0.36) and clearer sex differences. CONCLUSIONS: Our assay using tall tanks has advantages over tests based on short tanks which underestimate repeatability. We argue that use of deeper tanks will improve the reliability of behavioral data across studies using novel tank tests for zebrafish. Our results also call for increased attention in designing the most appropriate assay in biomedical and behavioral sciences as current methods may lack the sensitivity to detect subtle, yet important, information, such as between-individual variation, an important component in assessing the reliability of behavioral data.",
+   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -5407,8 +5474,8 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/ga2qz",
    "url": "https://doi.org/10.1016/j.tree.2018.11.007",
-   "citations": 299,
-   "abstract": "We propose a new framework for research synthesis of both evidence and influence, named research weaving. It summarizes and visualizes information content, history, and networks among a collection of documents on any given topic. Research weaving achieves this feat by combining the power of two methods: systematic mapping and bibliometrics. Systematic mapping provides a snapshot of the current state of knowledge, identifying areas needing more research attention and those ready for full synthesis. Bibliometrics enables researchers to see how pieces of evidence are connected, revealing the structure and development of a field. We explain how researchers can use some or all of these tools to gain a deeper, more nuanced understanding of the scientific literature.",
+   "citations": 301,
+   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -5602,7 +5669,7 @@
    "isOA": true,
    "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13118",
    "url": "https://doi.org/10.1111/2041-210x.13118",
-   "citations": 303,
+   "citations": 304,
    "abstract": "Abstract Research synthesis, such as comparative and meta‐analyses, requires the extraction of effect sizes from primary literature, which are commonly calculated from descriptive statistics. However, the exact values of such statistics are commonly hidden in figures. Extracting descriptive statistics from figures can be a slow process that is not easily reproducible. Additionally, current software lacks an ability to incorporate important metadata (e.g. sample sizes, treatment/variable names) about experiments and is not integrated with other software to streamline analysis pipelines. Here we present the r package metaDigitise which extracts descriptive statistics such as means, standard deviations and correlations from four plot types: (a) mean/error plots (e.g. bar graphs with standard errors), (b) box plots, (c) scatter plots and (d) histograms. metaDigitise is user‐friendly and easy to learn as it interactively guides the user through the data extraction process. Notably, it enables large‐scale extraction by automatically loading image files, letting the user stop processing, edit and add to the resulting data‐frame at any point. Digitised data can be easily re‐plotted and checked, facilitating reproducible data extraction from plots with little inter‐observer bias. We hope that by making the process of figure extraction more flexible and easy to conduct, it will improve the transparency and quality of meta‐analyses in the future.",
    "preprintUrl": null,
    "altmetric": null
@@ -5706,7 +5773,7 @@
    "isOA": true,
    "oaUrl": "https://figshare.com/articles/journal_contribution/Patterns_of_developmental_plasticity_in_response_to_incubation_temperature_in_reptiles/22968455",
    "url": "https://doi.org/10.1002/jez.2181",
-   "citations": 117,
+   "citations": 118,
    "abstract": "Early life environments shape phenotypic development in important ways that can lead to long-lasting effects on phenotype and fitness. In reptiles, one aspect of the early environment that impacts development is temperature (termed 'thermal developmental plasticity'). Indeed, the thermal environment during incubation is known to influence morphological, physiological, and behavioral traits, some of which have important consequences for many ecological and evolutionary processes. Despite this, few studies have attempted to synthesize and collate data from this expansive and important body of research. Here, we systematically review research into thermal developmental plasticity across reptiles, structured around the key papers and findings that have shaped the field over the past 50 years. From these papers, we introduce a large database (the 'Reptile Development Database') consisting of 9,773 trait means across 300 studies examining thermal developmental plasticity. This dataset encompasses data on a range of phenotypes, including morphological, physiological, behavioral, and performance traits along with growth rate, incubation duration, sex ratio, and survival (e.g., hatching success) across all major reptile clades. Finally, from our literature synthesis and data exploration, we identify key research themes associated with thermal developmental plasticity, important gaps in empirical research, and demonstrate how future progress can be made through targeted empirical, meta-analytic, and comparative work.",
    "preprintUrl": null,
    "altmetric": null
@@ -5857,7 +5924,7 @@
    "isOA": true,
    "oaUrl": "https://research-repository.st-andrews.ac.uk/bitstream/10023/18050/1/Szabo_etal_2018_AAM.pdf",
    "url": "https://doi.org/10.1016/j.anbehav.2018.07.018",
-   "citations": 36,
+   "citations": 35,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -5909,7 +5976,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1007/s00265-017-2435-9",
-   "citations": 29,
+   "citations": 28,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -6018,7 +6085,7 @@
    "isOA": true,
    "oaUrl": "https://www.frontiersin.org/articles/10.3389/fevo.2018.00070/pdf",
    "url": "https://doi.org/10.3389/fevo.2018.00070",
-   "citations": 23,
+   "citations": 22,
    "abstract": "Social learning is widespread among family living species, particularly mammals and birds with relatively high levels of social complexity and overt social interaction. However, the occurrence of social learning has never been documented in lizards with kin-based sociality, which have less obvious social interactions. We tested for social learning in Australian tree skinks (Egernia striolata), a species that commonly lives in family groups in the wild, using a two-step foraging task. Lizards were randomly allocated to either a social learning treatment or a control group and presented first with an instrumental task requiring the displacement of a lid, followed by an association task, consisting of two dishes with different colored lids. Prior to each task, lizards in the social learning treatment observed a trained demonstrator extract a food reward while the control also viewed a conspecific, but in the absence of the foraging task. The social learning treatment and control group solved the instrumental task at similar rates, but in the association task lizards in the social learning treatment made fewer errors and reached our learning criterion sooner. To the best of our knowledge, we present the first evidence for social learning in a lizard with kin-based sociality.",
    "preprintUrl": null,
    "altmetric": null
@@ -6070,7 +6137,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1093/beheco/ary122",
-   "citations": 21,
+   "citations": 20,
    "abstract": "Fundamental to the definition of parental care is that care confers benefits to the offspring. However, the mechanisms resulting in these benefits remain poorly understood, particularly in species where postnatal care is not obligatory. Here, we address this shortcoming using a lizard, Liopholis whitii, in which family life is facultative and relatively simple—extending to prolonged associations between parents and offspring within the parental territory. Using a split-clutch design, we housed offspring either with their mother or alone during the first 8 weeks of postnatal life and examined whether maternal presence affected 1) the expression of key functional behaviors and 2) learning ability in a biologically relevant antipredatory task. We found that offspring housed with their mothers expressed heightened levels of activity, boldness, and exploration compared with offspring who were housed alone. Furthermore, we show that associating with mothers during early postnatal periods led to improved offspring performance in the antipredation learning task. Together these results suggest that even relatively simple forms of enhanced parent-offspring association can have significant impacts on offspring traits. We argue that such effects may help refine and stabilize parent–offspring associations early in their evolution, potentially setting the stage for the elaboration of both parent and offspring behaviors.",
    "preprintUrl": null,
    "altmetric": null
@@ -6154,7 +6221,7 @@
    "isOA": true,
    "oaUrl": "https://link.springer.com/content/pdf/10.1007/s00442-018-4153-z.pdf",
    "url": "https://doi.org/10.1007/s00442-018-4153-z",
-   "citations": 17,
+   "citations": 16,
    "abstract": "Social learning is thought to be advantageous as it allows an animal to gather information quickly without engaging in costly trial-and-error learning. However, animals should be selective about when and whom they learn from. Familiarity is predicted to positively influence an animal's reliance on social learning; yet, few studies have empirically tested this theory. We used a lizard (Liopholis whitii) that forms long-term monogamous pair bonds to examine the effects of partner familiarity on social learning in two novel foraging tasks, an association and a reversal task. We allowed female lizards to observe trained conspecifics that were either familiar (social mate) or unfamiliar execute these tasks and compared these two groups with control females that did not receive social information. Lizards preferentially relied on trial-and-error learning in the association task. In the reversal task, lizards that were demonstrated by familiar partners learnt in fewer trials compared to control lizards and made more correct choices. Our results provide some evidence for context-dependent learning with lizards differentiating between when they utilize social learning, and, to a limited degree, whom they learnt from. Understanding the role of the social context in which learning occurs provides important insights into the benefits of social learning and sociality more generally.",
    "preprintUrl": null,
    "altmetric": null
@@ -6216,7 +6283,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1093/beheco/ary007",
-   "citations": 17,
+   "citations": 16,
    "abstract": "An animal’s social environment can be both dynamic and complex. Thus, social species often garner fitness benefits through being plastic in their social behavior. Yet, social plasticity can be constrained by an individual’s experience. We examined the influence of early social environment on social behavior in the tree skink (Egernia striolata), a family-living lizard. In the first phase of this study, we reared juveniles in 2 different social environments for 1.5 years: either in isolation or in unrelated pairs. We quantified each lizard’s sociability at 4-month intervals using a standardized laboratory assay and found that isolated lizards were more sociable, spending the assay closer to an adult female, than socially-reared lizards. In the second phase of this study (at the end of 1.5 years), we released all lizards into a semi-natural environment, observed their associations, and used social network analysis to quantify social behavior. During the initial 6 weeks post-release, we detected no differences in social behavior between rearing treatments. However, during the following 6 months differences emerged. Isolated lizards were more homogeneous in the strength of their associations than socially-reared lizards. Also, at first, isolated lizards associated more strongly than socially-reared lizards. Over time, isolated lizard associations became weaker and involved fewer lizards. In contrast, the level and number of associations of socially-reared lizards were stable over time. Our findings suggest that early experience influences tree skink social behavior but does not constrain social plasticity: isolation rearing did not limit their ability to respond to a novel social environment.",
    "preprintUrl": null,
    "altmetric": null
@@ -6404,7 +6471,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 647,
+   "citations": 649,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
@@ -6441,7 +6508,7 @@
    "isOA": true,
    "oaUrl": "http://handle.unsw.edu.au/1959.4/unsworks_45072",
    "url": "https://doi.org/10.1111/brv.12333",
-   "citations": 327,
+   "citations": 328,
    "abstract": "Early environments can profoundly influence an organism in ways that persist over its life. In reptiles, early thermal environments (nest temperatures) can impact offspring phenotype and survival in important ways, yet we still lack an understanding of whether general trends exist and the magnitude of impact. Understanding these patterns is important in predicting how climate change will affect reptile populations and the role of phenotypic plasticity in buffering populations. We compiled data from 175 reptile studies to examine, and quantify, the effect of incubation temperature on phenotype and survival. Using meta-analytic approaches (standardized mean difference between incubation treatments, Hedges' g), we show that across all trait types examined there is, on average, a moderate to large magnitude of effect of incubation temperatures (absolute effect: |g| = 0.75). Unsurprisingly, this influence was extremely large for incubation duration, as predicted, with warmer temperatures decreasing incubation time overall (g = -8.42). Other trait types, including behaviour, physiology, morphology, performance, and survival experienced reduced, but still mostly moderate to large effects, with particularly strong effects on survival. Moreover, the impact of incubation temperature persisted at least one-year post-hatching, suggesting that these effects have the potential to impact fitness in the long term. The magnitude of effect increased as the change in temperature increased (e.g. 6°C versus 2°C) in almost all cases, and tended to decrease when temperatures of the treatments fluctuated around a mean temperature compared to when they were constant. The effect also depended on the mid-temperature of the comparison, but not in consistent ways, with some traits experiencing the greatest effects at extreme temperatures, while others did not. The highly heterogeneous nature of the effects we observe, along with a large amount of unexplained variability, indicates that the shape of reaction norms between phenotype and temperature, along with ecological and/or experimental factors, are important when considering general patterns. Our analyses provide new insights into the effects of incubation environments on reptile phenotype and survival and allow general, albeit coarse, predictions for taxa experiencing warming nest temperatures under climatic change.",
    "preprintUrl": null,
    "altmetric": null
@@ -7175,7 +7242,7 @@
    "isOA": true,
    "oaUrl": "https://openresearch-repository.anu.edu.au/bitstreams/2cefba66-67ca-4f42-aa21-0ad4eb061d20/download",
    "url": "https://doi.org/10.1086/673535",
-   "citations": 49,
+   "citations": 48,
    "abstract": "Alternative reproductive tactics (ARTs) are predicted to be the result of disruptive correlational selection on suites of morphological, physiological, and behavioral traits. ARTs are most obvious when they occur in discrete morphs with concomitant behavioral tactics. However, ARTs driven by behavior in species lacking obvious phenotypic differences are rarely documented and poorly understood. We quantified selection acting on phenotypic traits predicted to characterize ARTs by observing marked lizards in six seminatural populations. We quantified reproductive fitness for each male using six microsatellite DNA loci from 226 offspring born to 56 females. Candidate models containing directional and correlational selection gradients were equally supported. As predicted, large males with large home ranges and large males that were observed frequently had the highest reproductive success. We also found evidence that large males that moved little but that were observed frequently and large males that moved frequently but that were observed little were predicted to have high fitness. Model predictions support our verbal hypothesis regarding the phenotypes characterizing ARTs and suggest that large males may be adopting subtly different tactics to acquire paternity. Our results suggest that disruptive correlational selection between behavioral traits may drive the evolution of ARTs in \"cryptic\" systems that lack overt polymorphisms.",
    "preprintUrl": null,
    "altmetric": null

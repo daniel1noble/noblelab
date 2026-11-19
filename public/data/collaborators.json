@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18",
+ "updated": "2026-11-19",
  "total": 409,
  "countries": 28,
  "institutions": 155,
@@ -3753,7 +3753,7 @@
    "lon": 149.12807
   },
   {
-   "name": "Luke A. McGuinness",
+   "name": "Luke Aidan McGuinness",
    "orcid": "https://orcid.org/0000-0001-8730-9761",
    "openalex": "https://openalex.org/A5037094305",
    "works": 1,
