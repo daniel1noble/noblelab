@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19",
+ "updated": "2026-11-20",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -608,6 +608,53 @@
    "url": "https://doi.org/10.1002/brv.70199",
    "citations": 1,
    "abstract": "The environmental conditions organisms experience during early development can have powerful and sustained effects on morphology, physiology, behaviour, and performance. Such developmental effects can influence reproductive success, survival, and life-history strategies and can be transmitted across generations (i.e. trans and intergenerational effects). In this way, developmental effects can be powerful drivers of evolutionary change. Given the developmental environment affects a range of phenotypic traits, it has been proposed that physiological responses to developmental conditions are modulated through cellular mechanisms that are shared across cell and tissue types, such as mitochondrial function. Mitochondrial respiratory function is highly sensitive to environmental conditions and exposure to adverse conditions during development can have sustained effects on different aspects of aerobic respiration in mitochondria. However, it is currently unknown if these effects are widespread across taxonomic groups and which components of mitochondrial respiratory function are most likely to be affected by the environment during development. We compiled data from 86 studies to examine the effects of developmental stressors (nutritional imbalance, glucocorticoid hormone exposure, parental care deprivation, and psychological disturbance) on mitochondrial respiratory function using meta-analysis. We sought to uncover whether there are general effects of developmental stressors on different aspects of mitochondrial respiratory function (antioxidants, metabolic capacity, oxidative damage, oxidative stress, and aerobic respiration). We tested how the type of developmental stressor, together with timing of exposure (prenatal versus postnatal), and sex and taxon of the test subjects influenced the magnitude, direction, and duration of effects on mitochondrial respiratory function. Finally, we tested which aspects of mitochondrial respiratory function were most impacted by developmental stressors. We found that exposure to glucocorticoids, parental care deprivation, and psychological disturbances during development generally decreased mitochondrial respiratory function. Generally, these developmental stressors increased the production of reactive oxygen species and oxidative damage and reduced aerobic respiration, metabolic capacity, and antioxidant levels. Nutritional imbalances during development (including both restricted and excessive nutrition) had a slight negative effect on mitochondrial respiratory function, but this effect may be influenced by publication bias. Overall, our results show that exposure to stressors during development negatively affects mitochondrial respiratory function, suggesting that changes in cellular metabolism may link developmental stressors to variation in whole animal traits and individual fitness.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1038/s41559-026-03221-z",
+   "doi": "10.1038/s41559-026-03221-z",
+   "title": "Meta-analysis shows that immunization reduces amphibian susceptibility to the chytrid fungus",
+   "authors": [
+    {
+     "name": "Meng-Han Joseph Chung",
+     "orcid": "https://orcid.org/0000-0001-9214-1190",
+     "isSelf": false
+    },
+    {
+     "name": "Richard P. Duncan",
+     "orcid": "https://orcid.org/0000-0003-2295-449X",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Benjamin C. Scheele",
+     "orcid": "https://orcid.org/0000-0001-7284-629X",
+     "isSelf": false
+    },
+    {
+     "name": "Simon Clulow",
+     "orcid": null,
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Meng-Han Joseph Chung, Richard P. Duncan, Daniel W. A. Noble, Benjamin C. Scheele, Simon Clulow",
+   "journal": "Nature Ecology & Evolution",
+   "year": 2026,
+   "date": "2026-11-20",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "kind": "article",
+   "isOA": false,
+   "oaUrl": null,
+   "url": "https://doi.org/10.1038/s41559-026-03221-z",
+   "citations": 0,
+   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -1727,7 +1774,7 @@
    "url": "https://doi.org/10.1111/ele.70258",
    "citations": 4,
    "abstract": "Phenotypic plasticity can lead to compensation for potentially adverse effects of variation in the thermal environment so it is important to understand the impacts of changes in mean and fluctuations in temperature on plastic responses. Here we establish the current state of knowledge of how thermal variability influences the expression of phenotypic plasticity in ectothermic animals. Our quantitative synthesis of 46 studies compares the effects of constant and fluctuating temperatures with the same mean on plasticity in different traits, across different ecosystems (terrestrial and aquatic) and between types of phenotypic plasticity (acclimation and developmental plasticity). We found that 98% of studies implemented diel temperature fluctuations and most data were derived from invertebrates. We show that plasticity does not differ between constant and fluctuating environments except for weak effects on developmental time. We conclude that plasticity is more likely to be driven by changes in longer-term mean temperatures.",
-   "preprintUrl": null,
+   "preprintUrl": "https://doi.org/10.22541/au.174705149.99511675/v1",
    "altmetric": null
   },
   {
@@ -1986,73 +2033,6 @@
    "altmetric": null
   },
   {
-   "id": "10.22541/au.174705149.99511675/v1",
-   "doi": "10.22541/au.174705149.99511675/v1",
-   "title": "Temperature variability does not influence phenotypic plasticity in ectotherms -- a meta-analysis",
-   "authors": [
-    {
-     "name": "Clayton Stocker",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Stephanie Bamford",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Miki Jahn",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Geoffrey Mazué",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Amanda Pettersen",
-     "orcid": "https://orcid.org/0000-0001-6191-6563",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel Ritchie",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Alexander Rubin",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Daniel Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    },
-    {
-     "name": "Frank Seebacher",
-     "orcid": "https://orcid.org/0000-0002-2281-9311",
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Clayton Stocker, Stephanie Bamford, Miki Jahn, Geoffrey Mazué, Amanda Pettersen, Daniel Ritchie, Alexander Rubin, Daniel Noble, Frank Seebacher",
-   "journal": null,
-   "year": 2025,
-   "date": "2025-05-12",
-   "volume": null,
-   "issue": null,
-   "pages": null,
-   "kind": "preprint",
-   "isOA": false,
-   "oaUrl": "https://doi.org/10.22541/au.174705149.99511675/v1",
-   "url": "https://doi.org/10.22541/au.174705149.99511675/v1",
-   "citations": 0,
-   "abstract": null,
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
    "id": "10.1002/2688-8319.12303",
    "doi": "10.1002/2688-8319.12303",
    "title": "A systematic map of studies testing the relationship between temperature and animal reproduction",
@@ -2289,7 +2269,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/2688-8319.12303",
    "url": "https://doi.org/10.1002/2688-8319.12303",
-   "citations": 53,
+   "citations": 54,
    "abstract": "Abstract Exposure to extreme temperatures can negatively affect animal reproduction, by disrupting the ability of individuals to produce any offspring (fertility), or the number of offspring produced by fertile individuals (fecundity). This has important ecological consequences, because reproduction is the ultimate measure of population fitness: a reduction in reproductive output lowers the population growth rate and increases the extinction risk. Despite this importance, there have been no large‐scale summaries of the evidence for effect of temperature on reproduction. We provide a systematic map of studies testing the relationship between temperature and animal reproduction. We systematically searched for published studies that statistically test for a direct link between temperature and animal reproduction, in terms of fertility, fecundity or indirect measures of reproductive potential (gamete and gonad traits). Overall, we collated a large and rich evidence base, with 1654 papers that met our inclusion criteria, encompassing 1191 species. The map revealed several important research gaps. Insects made up almost half of the dataset, but reptiles and amphibians were uncommon, as were non‐arthropod invertebrates. Fecundity was the most common reproductive trait examined, and relatively few studies measured fertility. It was uncommon for experimental studies to test exposure of different life stages, exposure to short‐term heat or cold shock, exposure to temperature fluctuations, or to independently assess male and female effects. Studies were most often published in journals focusing on entomology and pest control, ecology and evolution, aquaculture and fisheries science, and marine biology. Finally, while individuals were sampled from every continent, there was a strong sampling bias towards mid‐latitudes in the Northern Hemisphere, such that the tropics and polar regions are less well sampled. This map reveals a rich literature of studies testing the relationship between temperature and animal reproduction, but also uncovers substantial missing treatment of taxa, traits, and thermal regimes. This database will provide a valuable resource for future quantitative meta‐analyses, and direct future studies aiming to fill identified gaps.",
    "preprintUrl": null,
    "altmetric": null
@@ -2410,73 +2390,6 @@
    "url": "https://doi.org/10.1111/ele.14511",
    "citations": 32,
    "abstract": "Climate change is altering temperature means and variation, and both need to be considered in predictions underpinning conservation. However, there is no consensus in the literature regarding the effects of temperature fluctuations on biological functions. Fluctuations may affect biological responses because of inequalities from non-linear responses, endocrine regulation or exposure to damaging temperatures. Here we establish the current state of knowledge of how temperature fluctuations impact biological responses within individuals and populations compared to constant temperatures with the same mean. We conducted a meta-analysis of 143 studies on ectothermic animals (1492 effect sizes, 118 species). In this study, 89% of effect sizes were derived from diel cycles, but there were no significant differences between diel cycles and shorter (<8 h) or longer (>48 h) cycles in their effect on biological responses. We show that temperature fluctuations have little effect overall on trait mean and variance. Nonetheless, temperature fluctuations can be stressful: fluctuations increased 'gene expression' in aquatic animals, which was driven mainly by increased hsp70. Fluctuating temperatures also decreased longevity, and increased amplitudes had negative effects on population responses in aquatic organisms. We conclude that mean temperatures and extreme events such as heat waves are important to consider, but regular (particularly diel) temperature fluctuations are less so.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1016/j.tree.2023.12.004",
-   "doi": "10.1016/j.tree.2023.12.004",
-   "title": "New horizons for comparative studies and meta-analyses",
-   "authors": [
-    {
-     "name": "Patrice Pottier",
-     "orcid": "https://orcid.org/0000-0003-2106-6597",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W.A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    },
-    {
-     "name": "Frank Seebacher",
-     "orcid": "https://orcid.org/0000-0002-2281-9311",
-     "isSelf": false
-    },
-    {
-     "name": "Nicholas C. Wu",
-     "orcid": "https://orcid.org/0000-0002-7130-1279",
-     "isSelf": false
-    },
-    {
-     "name": "Samantha Burke",
-     "orcid": "https://orcid.org/0000-0001-6902-974X",
-     "isSelf": false
-    },
-    {
-     "name": "Malgorzata Lagisz",
-     "orcid": "https://orcid.org/0000-0002-3993-6127",
-     "isSelf": false
-    },
-    {
-     "name": "Lisa E. Schwanz",
-     "orcid": "https://orcid.org/0000-0001-5864-7112",
-     "isSelf": false
-    },
-    {
-     "name": "Szymon M. Drobniak",
-     "orcid": "https://orcid.org/0000-0001-8101-6247",
-     "isSelf": false
-    },
-    {
-     "name": "Shinichi Nakagawa",
-     "orcid": "https://orcid.org/0000-0002-7765-5182",
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Patrice Pottier, Daniel W.A. Noble, Frank Seebacher, Nicholas C. Wu, Samantha Burke, Malgorzata Lagisz, Lisa E. Schwanz, Szymon M. Drobniak, Shinichi Nakagawa",
-   "journal": "Trends in Ecology & Evolution",
-   "year": 2024,
-   "date": "2024-05",
-   "volume": "39",
-   "issue": "5",
-   "pages": "435-445",
-   "kind": "article",
-   "isOA": true,
-   "oaUrl": "http://www.cell.com/article/S016953472300335X/pdf",
-   "url": "https://doi.org/10.1016/j.tree.2023.12.004",
-   "citations": 27,
-   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2627,8 +2540,75 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/jeb/advance-article-pdf/doi/10.1093/jeb/voae021/56671509/voae021.pdf",
    "url": "https://doi.org/10.1093/jeb/voae021",
-   "citations": 27,
+   "citations": 28,
    "abstract": "Critical thermal limits (CTLs) gauge the physiological impact of temperature on survival or critical biological function, aiding predictions of species range shifts and climatic resilience. Two recent Drosophila species studies, using similar approaches to determine temperatures that induce sterility (thermal fertility limits [TFLs]), reveal that TFLs are often lower than CTLs and that TFLs better predict both current species distributions and extinction probability. Moreover, many studies show fertility is more sensitive at less extreme temperatures than survival (thermal sensitivity of fertility [TSF]). These results present a more pessimistic outlook on the consequences of climate change. However, unlike CTLs, TFL data are limited to Drosophila, and variability in TSF methods poses challenges in predicting species responses to increasing temperature. To address these data and methodological gaps, we propose 3 standardized approaches for assessing thermal impacts on fertility. We focus on adult obligate sexual terrestrial invertebrates but also provide modifications for other animal groups and life-history stages. We first outline a \"gold-standard\" protocol for determining TFLs, focussing on the effects of short-term heat shocks and simulating more frequent extreme heat events predicted by climate models. As this approach may be difficult to apply to some organisms, we then provide a standardized TSF protocol. Finally, we provide a framework to quantify fertility loss in response to extreme heat events in nature, given the limitations in laboratory approaches. Applying these standardized approaches across many taxa, similar to CTLs, will allow robust tests of the impact of fertility loss on species responses to increasing temperatures.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.1016/j.tree.2023.12.004",
+   "doi": "10.1016/j.tree.2023.12.004",
+   "title": "New horizons for comparative studies and meta-analyses",
+   "authors": [
+    {
+     "name": "Patrice Pottier",
+     "orcid": "https://orcid.org/0000-0003-2106-6597",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W.A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Frank Seebacher",
+     "orcid": "https://orcid.org/0000-0002-2281-9311",
+     "isSelf": false
+    },
+    {
+     "name": "Nicholas C. Wu",
+     "orcid": "https://orcid.org/0000-0002-7130-1279",
+     "isSelf": false
+    },
+    {
+     "name": "Samantha Burke",
+     "orcid": "https://orcid.org/0000-0001-6902-974X",
+     "isSelf": false
+    },
+    {
+     "name": "Malgorzata Lagisz",
+     "orcid": "https://orcid.org/0000-0002-3993-6127",
+     "isSelf": false
+    },
+    {
+     "name": "Lisa E. Schwanz",
+     "orcid": "https://orcid.org/0000-0001-5864-7112",
+     "isSelf": false
+    },
+    {
+     "name": "Szymon M. Drobniak",
+     "orcid": "https://orcid.org/0000-0001-8101-6247",
+     "isSelf": false
+    },
+    {
+     "name": "Shinichi Nakagawa",
+     "orcid": "https://orcid.org/0000-0002-7765-5182",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Patrice Pottier, Daniel W.A. Noble, Frank Seebacher, Nicholas C. Wu, Samantha Burke, Malgorzata Lagisz, Lisa E. Schwanz, Szymon M. Drobniak, Shinichi Nakagawa",
+   "journal": "Trends in Ecology & Evolution",
+   "year": 2024,
+   "date": "2024-05",
+   "volume": "39",
+   "issue": "5",
+   "pages": "435-445",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "http://www.cell.com/article/S016953472300335X/pdf",
+   "url": "https://doi.org/10.1016/j.tree.2023.12.004",
+   "citations": 27,
+   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2919,7 +2899,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14152",
    "url": "https://doi.org/10.1111/2041-210x.14152",
-   "citations": 242,
+   "citations": 244,
    "abstract": "Abstract Although meta‐analysis has become an essential tool in ecology and evolution, reporting of meta‐analytic results can still be much improved. To aid this, we have introduced the orchard plot, which presents not only overall estimates and their confidence intervals, but also shows corresponding heterogeneity (as prediction intervals) and individual effect sizes. Here, we have added significant enhancements by integrating many new functionalities into orchaRd 2.0 . This updated version allows the visualisation of heteroscedasticity (different variances across levels of a categorical moderator), marginal estimates (e.g. marginalising out effects other than the one visualised), conditional estimates (i.e. estimates of different groups conditioned upon specific values of a continuous variable) and visualisations of all types of interactions between two categorical/continuous moderators. orchaRd 2.0 has additional functions which calculate key statistics from multilevel meta‐analytic models such as I 2 and R 2 . Importantly, orchaRd 2.0 contributes to better reporting by complying with PRISMA‐EcoEvo (preferred reporting items for systematic reviews and meta‐analyses in ecology and evolution). Taken together, orchaRd 2.0 can improve the presentation of meta‐analytic results and facilitate the exploration of previously neglected patterns. In addition, as a part of a literature survey, we found that graphical packages are rarely cited (~3%). We plea that researchers credit developers and maintainers of graphical packages, for example, by citations in a figure legend, acknowledging the use of relevant packages.",
    "preprintUrl": null,
    "altmetric": null
@@ -3103,7 +3083,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/evlett/advance-article-pdf/doi/10.1093/evlett/qrad038/53940395/qrad038.pdf",
    "url": "https://doi.org/10.1093/evlett/qrad038",
-   "citations": 111,
+   "citations": 112,
    "abstract": "Predicting if, when, and how populations can adapt to climate change constitutes one of the greatest challenges in science today. Here, we build from contributions to the special issue on evolutionary adaptation to climate change, a survey of its authors, and recent literature to explore the limits and opportunities for predicting adaptive responses to climate change. We outline what might be predictable now, in the future, and perhaps never even with our best efforts. More accurate predictions are expected for traits characterized by a well-understood mapping between genotypes and phenotypes and traits experiencing strong, direct selection due to climate change. A meta-analysis revealed an overall moderate trait heritability and evolvability in studies performed under future climate conditions but indicated no significant change between current and future climate conditions, suggesting neither more nor less genetic variation for adapting to future climates. Predicting population persistence and evolutionary rescue remains uncertain, especially for the many species without sufficient ecological data. Still, when polled, authors contributing to this special issue were relatively optimistic about our ability to predict future evolutionary responses to climate change. Predictions will improve as we expand efforts to understand diverse organisms, their ecology, and their adaptive potential. Advancements in functional genomic resources, especially their extension to non-model species and the union of evolutionary experiments and \"omics,\" should also enhance predictions. Although predicting evolutionary responses to climate change remains challenging, even small advances will reduce the substantial uncertainties surrounding future evolutionary responses to climate change.",
    "preprintUrl": null,
    "altmetric": null
@@ -4049,7 +4029,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 922,
+   "citations": 924,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4116,7 +4096,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 557,
+   "citations": 559,
    "abstract": "Abstract Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4260,7 +4240,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/bnugw",
    "url": "https://doi.org/10.1111/2041-210x.13755",
-   "citations": 115,
+   "citations": 116,
    "abstract": "Abstract Organisms use labile traits to respond to different conditions over short time‐scales. When a population experiences the same conditions, we might expect all individuals to adjust their trait expression to the same, optimal, value, thereby minimising phenotypic variation. Instead, variation abounds. Individuals substantially differ not only from each other, but also from their former selves, with the expression of labile traits varying both predictably and unpredictably over time. A powerful tool for studying the evolution of phenotypic variation in labile traits is the mixed model. Here, we review how mixed models are used to quantify individual differences in both means and variability, and their between‐individual correlations. Individuals can differ in their average phenotypes (e.g. behavioural personalities), their variability (known as ‘predictability’ or intra‐individual variability), and their plastic response to different contexts. We provide detailed descriptions and resources for simultaneously modelling individual differences in averages, plasticity and predictability. Empiricists can use these methods to quantify how traits covary across individuals and test theoretical ideas about phenotypic integration. These methods can be extended to incorporate plastic changes in predictability (termed ‘stochastic malleability’). Overall, we showcase the unfulfilled potential of existing statistical tools to test more holistic and nuanced questions about the evolution, function, and maintenance of phenotypic variation, for any trait that is repeatedly expressed.",
    "preprintUrl": null,
    "altmetric": null
@@ -4297,7 +4277,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/brv.12818",
-   "citations": 84,
+   "citations": 85,
    "abstract": "The notion that men are more variable than women has become embedded into scientific thinking. For mental traits like personality, greater male variability has been partly attributed to biology, underpinned by claims that there is generally greater variation among males than females in non-human animals due to stronger sexual selection on males. However, evidence for greater male variability is limited to morphological traits, and there is little information regarding sex differences in personality-like behaviours for non-human animals. Here, we meta-analysed sex differences in means and variances for over 2100 effects (204 studies) from 220 species (covering five broad taxonomic groups) across five personality traits: boldness, aggression, activity, sociality and exploration. We also tested if sexual size dimorphism, a proxy for sex-specific sexual selection, explains variation in the magnitude of sex differences in personality. We found no significant differences in personality between the sexes. In addition, sexual size dimorphism did not explain variation in the magnitude of the observed sex differences in the mean or variance in personality for any taxonomic group. In sum, we find no evidence for widespread sex differences in variability in non-human animal personality.",
    "preprintUrl": null,
    "altmetric": null
@@ -4329,7 +4309,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/eva.13273",
    "url": "https://doi.org/10.1111/eva.13273",
-   "citations": 48,
+   "citations": 49,
    "abstract": "Ecological and evolutionary research questions are increasingly requiring the integration of research fields along with larger data sets to address fundamental local- and global-scale problems. Unfortunately, these agendas are often in conflict with limited funding and a need to balance animal welfare concerns. Planned missing data design (PMDD), where data are randomly and deliberately missed during data collection, combined with missing data procedures, can be useful tools when working under greater research constraints. Here, we review how PMDD can be incorporated into existing experimental designs by discussing alternative design approaches and demonstrate with simulated data sets how missing data procedures work with incomplete data. PMDDs can provide researchers with a unique toolkit that can be applied during the experimental design stage. Planning and thinking about missing data early can (1) reduce research costs by allowing for the collection of less expensive measurement variables; (2) provide opportunities to distinguish predictions from alternative hypotheses by allowing more measurement variables to be collected; and (3) minimize distress caused by experimentation by reducing the reliance on invasive procedures or allowing data to be collected on fewer subjects (or less often on a given subject). PMDDs and missing data methods can even provide statistical benefits under certain situations by improving statistical power relative to a complete case design. The impacts of unplanned missing data, which can cause biases in parameter estimates and their uncertainty, can also be ameliorated using missing data procedures. PMDDs are still in their infancy. We discuss some of the difficulties in their implementation and provide tentative solutions. While PMDDs may not always be the best option, missing data procedures are becoming more sophisticated and more easily implemented and it is likely that PMDDs will be effective tools for a wide range of experimental designs, data types and problems in ecology and evolution.",
    "preprintUrl": null,
    "altmetric": null
@@ -4856,7 +4836,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/epqa7",
    "url": "https://doi.org/10.1002/jrsm.1424",
-   "citations": 242,
+   "citations": 243,
    "abstract": "“Classic” forest plots show the effect sizes from individual studies and the aggregate effect from a meta‐analysis. However, in ecology and evolution, meta‐analyses routinely contain over 100 effect sizes, making the classic forest plot of limited use. We surveyed 102 meta‐analyses in ecology and evolution, finding that only 11% use the classic forest plot. Instead, most used a “forest‐like plot,” showing point estimates (with 95% confidence intervals [CIs]) from a series of subgroups or categories in a meta‐regression. We propose a modification of the forest‐like plot, which we name the “orchard plot.” Orchard plots, in addition to showing overall mean effects and CIs from meta‐analyses/regressions, also include 95% prediction intervals (PIs), and the individual effect sizes scaled by their precision. The PI allows the user and reader to see the range in which an effect size from a future study may be expected to fall. The PI, therefore, provides an intuitive interpretation of any heterogeneity in the data. Supplementing the PI, the inclusion of underlying effect sizes also allows the user to see any influential or outlying effect sizes. We showcase the orchard plot with example datasets from ecology and evolution, using the R package, orchard , including several functions for visualizing meta‐analytic data using forest‐plot derivatives. We consider the orchard plot as a variant on the classic forest plot, cultivated to the needs of meta‐analysts in ecology and evolution. Hopefully, the orchard plot will prove fruitful for visualizing large collections of heterogeneous effect sizes regardless of the field of study.",
    "preprintUrl": null,
    "altmetric": null
@@ -4898,7 +4878,7 @@
    "isOA": true,
    "oaUrl": "https://hdl.handle.net/10550/76839",
    "url": "https://doi.org/10.1111/brv.12632",
-   "citations": 132,
+   "citations": 133,
    "abstract": "A central question in ecology and evolution is to understand why sexual selection varies so much in strength across taxa; it has long been known that ecological factors are crucial to this. Temperature is a particularly salient abiotic ecological factor that modulates a wide range of physiological, morphological and behavioural traits, impacting individuals and populations at a global taxonomic scale. Furthermore, temperature exhibits substantial temporal variation (e.g. daily, seasonally and inter-seasonally), and hence for most species in the wild sexual selection will regularly unfold in a dynamic thermal environment. Unfortunately, studies have so far almost completely neglected the role of temperature as a modulator of sexual selection. Here, we outline the main pathways through which temperature can affect the intensity and form (i.e. mechanisms) of sexual selection, via: (i) direct effects on secondary sexual traits and preferences (i.e. trait variance, opportunity for selection and trait-fitness covariance), and (ii) indirect effects on key mating parameters, sex-specific reproductive costs/benefits, trade-offs, demography and correlated abiotic factors. Building upon this framework, we show that, by focusing exclusively on the first-order effects that environmental temperature has on traits linked with individual fitness and population viability, current global warming studies may be ignoring eco-evolutionary feedbacks mediated by sexual selection. Finally, we tested the general prediction that temperature modulates sexual selection by conducting a meta-analysis of available studies experimentally manipulating temperature and reporting effects on the variance of male/female reproductive success and/or traits under sexual selection. Our results show a clear association between temperature and sexual selection measures in both sexes. In short, we suggest that studying the feedback between temperature and sexual selection processes may be vital to developing a better understanding of variation in the strength of sexual selection in nature, and its consequences for population viability in response to environmental change (e.g. global warming).",
    "preprintUrl": null,
    "altmetric": null
@@ -5474,7 +5454,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/ga2qz",
    "url": "https://doi.org/10.1016/j.tree.2018.11.007",
-   "citations": 301,
+   "citations": 303,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -5669,7 +5649,7 @@
    "isOA": true,
    "oaUrl": "https://besjournals.onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13118",
    "url": "https://doi.org/10.1111/2041-210x.13118",
-   "citations": 304,
+   "citations": 305,
    "abstract": "Abstract Research synthesis, such as comparative and meta‐analyses, requires the extraction of effect sizes from primary literature, which are commonly calculated from descriptive statistics. However, the exact values of such statistics are commonly hidden in figures. Extracting descriptive statistics from figures can be a slow process that is not easily reproducible. Additionally, current software lacks an ability to incorporate important metadata (e.g. sample sizes, treatment/variable names) about experiments and is not integrated with other software to streamline analysis pipelines. Here we present the r package metaDigitise which extracts descriptive statistics such as means, standard deviations and correlations from four plot types: (a) mean/error plots (e.g. bar graphs with standard errors), (b) box plots, (c) scatter plots and (d) histograms. metaDigitise is user‐friendly and easy to learn as it interactively guides the user through the data extraction process. Notably, it enables large‐scale extraction by automatically loading image files, letting the user stop processing, edit and add to the resulting data‐frame at any point. Digitised data can be easily re‐plotted and checked, facilitating reproducible data extraction from plots with little inter‐observer bias. We hope that by making the process of figure extraction more flexible and easy to conduct, it will improve the transparency and quality of meta‐analyses in the future.",
    "preprintUrl": null,
    "altmetric": null
@@ -5835,7 +5815,7 @@
    "isOA": true,
    "oaUrl": "https://www.nature.com/articles/sdata2018138.pdf",
    "url": "https://doi.org/10.1038/sdata.2018.138",
-   "citations": 48,
+   "citations": 49,
    "abstract": "How temperature influences development has direct relevance to ascertaining the impact of climate change on natural populations. Reptiles have served as empirical models for understanding how the environment experienced by embryos can influence phenotypic variation, including sex ratio, phenology and survival. Such an understanding has important implications for basic eco-evolutionary theory and conservation efforts worldwide. While there is a burgeoning empirical literature of experimental manipulations of embryonic thermal environments, addressing widespread patterns at a comparative level has been hampered by the lack of accessible data in a format that is amendable to updates as new studies emerge. Here, we describe a database with nearly 10, 000 phenotypic estimates from 155 species of reptile, collected from 300 studies manipulating incubation temperature (published between 1974-2016). The data encompass various morphological, physiological, behavioural and performance traits along with growth rates, developmental timing, sex ratio and survival (e.g., hatching success). This resource will serve as an important data repository for addressing overarching questions about thermal plasticity of reptile embryos.",
    "preprintUrl": null,
    "altmetric": null
@@ -6091,6 +6071,48 @@
    "altmetric": null
   },
   {
+   "id": "10.1007/s10071-018-1194-y",
+   "doi": "10.1007/s10071-018-1194-y",
+   "title": "Testing domain general learning in an Australian lizard",
+   "authors": [
+    {
+     "name": "Yin Qi",
+     "orcid": "https://orcid.org/0000-0003-0973-2307",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Jinzhong Fu",
+     "orcid": "https://orcid.org/0000-0003-4168-507X",
+     "isSelf": false
+    },
+    {
+     "name": "Martin J. Whiting",
+     "orcid": "https://orcid.org/0000-0002-4662-0227",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Yin Qi, Daniel W. A. Noble, Jinzhong Fu, Martin J. Whiting",
+   "journal": "Animal Cognition",
+   "year": 2018,
+   "date": "2018-06-02",
+   "volume": "21",
+   "issue": "4",
+   "pages": "595-602",
+   "kind": "article",
+   "isOA": false,
+   "oaUrl": null,
+   "url": "https://doi.org/10.1007/s10071-018-1194-y",
+   "citations": 20,
+   "abstract": null,
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
    "id": "10.1093/beheco/ary122",
    "doi": "10.1093/beheco/ary122",
    "title": "Maternal presence facilitates plasticity in offspring behavior: insights into the evolution of parental care",
@@ -6139,48 +6161,6 @@
    "url": "https://doi.org/10.1093/beheco/ary122",
    "citations": 20,
    "abstract": "Fundamental to the definition of parental care is that care confers benefits to the offspring. However, the mechanisms resulting in these benefits remain poorly understood, particularly in species where postnatal care is not obligatory. Here, we address this shortcoming using a lizard, Liopholis whitii, in which family life is facultative and relatively simple—extending to prolonged associations between parents and offspring within the parental territory. Using a split-clutch design, we housed offspring either with their mother or alone during the first 8 weeks of postnatal life and examined whether maternal presence affected 1) the expression of key functional behaviors and 2) learning ability in a biologically relevant antipredatory task. We found that offspring housed with their mothers expressed heightened levels of activity, boldness, and exploration compared with offspring who were housed alone. Furthermore, we show that associating with mothers during early postnatal periods led to improved offspring performance in the antipredation learning task. Together these results suggest that even relatively simple forms of enhanced parent-offspring association can have significant impacts on offspring traits. We argue that such effects may help refine and stabilize parent–offspring associations early in their evolution, potentially setting the stage for the elaboration of both parent and offspring behaviors.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1007/s10071-018-1194-y",
-   "doi": "10.1007/s10071-018-1194-y",
-   "title": "Testing domain general learning in an Australian lizard",
-   "authors": [
-    {
-     "name": "Yin Qi",
-     "orcid": "https://orcid.org/0000-0003-0973-2307",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    },
-    {
-     "name": "Jinzhong Fu",
-     "orcid": "https://orcid.org/0000-0003-4168-507X",
-     "isSelf": false
-    },
-    {
-     "name": "Martin J. Whiting",
-     "orcid": "https://orcid.org/0000-0002-4662-0227",
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Yin Qi, Daniel W. A. Noble, Jinzhong Fu, Martin J. Whiting",
-   "journal": "Animal Cognition",
-   "year": 2018,
-   "date": "2018-06-02",
-   "volume": "21",
-   "issue": "4",
-   "pages": "595-602",
-   "kind": "article",
-   "isOA": false,
-   "oaUrl": null,
-   "url": "https://doi.org/10.1007/s10071-018-1194-y",
-   "citations": 19,
-   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -6508,7 +6488,7 @@
    "isOA": true,
    "oaUrl": "http://handle.unsw.edu.au/1959.4/unsworks_45072",
    "url": "https://doi.org/10.1111/brv.12333",
-   "citations": 328,
+   "citations": 329,
    "abstract": "Early environments can profoundly influence an organism in ways that persist over its life. In reptiles, early thermal environments (nest temperatures) can impact offspring phenotype and survival in important ways, yet we still lack an understanding of whether general trends exist and the magnitude of impact. Understanding these patterns is important in predicting how climate change will affect reptile populations and the role of phenotypic plasticity in buffering populations. We compiled data from 175 reptile studies to examine, and quantify, the effect of incubation temperature on phenotype and survival. Using meta-analytic approaches (standardized mean difference between incubation treatments, Hedges' g), we show that across all trait types examined there is, on average, a moderate to large magnitude of effect of incubation temperatures (absolute effect: |g| = 0.75). Unsurprisingly, this influence was extremely large for incubation duration, as predicted, with warmer temperatures decreasing incubation time overall (g = -8.42). Other trait types, including behaviour, physiology, morphology, performance, and survival experienced reduced, but still mostly moderate to large effects, with particularly strong effects on survival. Moreover, the impact of incubation temperature persisted at least one-year post-hatching, suggesting that these effects have the potential to impact fitness in the long term. The magnitude of effect increased as the change in temperature increased (e.g. 6°C versus 2°C) in almost all cases, and tended to decrease when temperatures of the treatments fluctuated around a mean temperature compared to when they were constant. The effect also depended on the mid-temperature of the comparison, but not in consistent ways, with some traits experiencing the greatest effects at extreme temperatures, while others did not. The highly heterogeneous nature of the effects we observe, along with a large amount of unexplained variability, indicates that the shape of reaction norms between phenotype and temperature, along with ecological and/or experimental factors, are important when considering general patterns. Our analyses provide new insights into the effects of incubation environments on reptile phenotype and survival and allow general, albeit coarse, predictions for taxa experiencing warming nest temperatures under climatic change.",
    "preprintUrl": null,
    "altmetric": null
@@ -6550,7 +6530,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/mec.14031",
-   "citations": 295,
+   "citations": 296,
    "abstract": "Meta-analysis is an important tool for synthesizing research on a variety of topics in ecology and evolution, including molecular ecology, but can be susceptible to nonindependence. Nonindependence can affect two major interrelated components of a meta-analysis: (i) the calculation of effect size statistics and (ii) the estimation of overall meta-analytic estimates and their uncertainty. While some solutions to nonindependence exist at the statistical analysis stages, there is little advice on what to do when complex analyses are not possible, or when studies with nonindependent experimental designs exist in the data. Here we argue that exploring the effects of procedural decisions in a meta-analysis (e.g. inclusion of different quality data, choice of effect size) and statistical assumptions (e.g. assuming no phylogenetic covariance) using sensitivity analyses are extremely important in assessing the impact of nonindependence. Sensitivity analyses can provide greater confidence in results and highlight important limitations of empirical work (e.g. impact of study design on overall effects). Despite their importance, sensitivity analyses are seldom applied to problems of nonindependence. To encourage better practice for dealing with nonindependence in meta-analytic studies, we present accessible examples demonstrating the impact that ignoring nonindependence can have on meta-analytic estimates. We also provide pragmatic solutions for dealing with nonindependent study designs, and for analysing dependent effect sizes. Additionally, we offer reporting guidelines that will facilitate disclosure of the sources of nonindependence in meta-analyses, leading to greater transparency and more robust conclusions.",
    "preprintUrl": null,
    "altmetric": null
@@ -6592,7 +6572,7 @@
    "isOA": true,
    "oaUrl": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsos.161082",
    "url": "https://doi.org/10.1098/rsos.161082",
-   "citations": 51,
+   "citations": 52,
    "abstract": "Early social environment can play a significant role in shaping behavioural development. For instance, in many social mammals and birds, isolation rearing results in individuals that are less exploratory, shyer, less social and more aggressive than individuals raised in groups. Moreover, dynamic aspects of social environments, such as the nature of relationships between individuals, can also impact the trajectory of development. We tested if being raised alone or socially affects behavioural development in the family-living tree skink, Egernia striolata . Juveniles were raised in two treatments: alone or in a pair. We assayed exploration, boldness, sociability and aggression repeatedly throughout each juvenile's first year of life, and also assessed social interactions between pairs to determine if juveniles formed dominant–subordinate relationships. We found that male and/or the larger skinks within social pairs were dominant. Developing within this social environment reduced skink growth, and subordinate skinks were more prone to tail loss. Thus, living with a conspecific was costly for E. striolata . The predicted negative effects of isolation failed to materialize. Nevertheless, there were significant differences in behavioural traits depending on the social environment (isolated, dominant or subordinate member of a pair). Isolated skinks were more social than subordinate skinks. Subordinate skinks also became more aggressive over time, whereas isolated and dominant skinks showed invariable aggression. Dominant skinks became bolder over time, whereas isolated and subordinate skinks were relatively stable in their boldness. In summary, our study is evidence that isolation rearing does not consistently affect behaviour across all social taxa. Our study also demonstrates that the social environment plays an important role in behavioural development of a family-living lizard.",
    "preprintUrl": null,
    "altmetric": null
@@ -6660,6 +6640,43 @@
    "altmetric": null
   },
   {
+   "id": "10.1007/s10071-017-1101-y",
+   "doi": "10.1007/s10071-017-1101-y",
+   "title": "Dominance and social information use in a lizard",
+   "authors": [
+    {
+     "name": "Fonti Kar",
+     "orcid": "https://orcid.org/0000-0002-2760-3974",
+     "isSelf": false
+    },
+    {
+     "name": "Martin J. Whiting",
+     "orcid": "https://orcid.org/0000-0002-4662-0227",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W. A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    }
+   ],
+   "authorLine": "Fonti Kar, Martin J. Whiting, Daniel W. A. Noble",
+   "journal": "Animal Cognition",
+   "year": 2017,
+   "date": "2017-06-02",
+   "volume": "20",
+   "issue": "5",
+   "pages": "805-812",
+   "kind": "article",
+   "isOA": false,
+   "oaUrl": null,
+   "url": "https://doi.org/10.1007/s10071-017-1101-y",
+   "citations": 22,
+   "abstract": null,
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
    "id": "10.1098/rsbl.2017.0057",
    "doi": "10.1098/rsbl.2017.0057",
    "title": "Dietary restriction increases variability in longevity",
@@ -6703,43 +6720,6 @@
    "url": "https://doi.org/10.1098/rsbl.2017.0057",
    "citations": 22,
    "abstract": "Nutritional environments, particularly those experienced during early life, are hypothesized to affect longevity. A recent cross-taxa meta-analysis found that, depending upon circumstance, average longevity may be increased or decreased by early-life dietary restriction. Unstudied are the effects of diet during development on among-individual variance in longevity. Here, we address this issue using emerging methods for meta-analysis of variance. We found that, in general, standard deviation (s.d.) in longevity is around 8% higher under early-life dietary restriction than a standard diet. The effects became especially profound when dietary insults were experienced prenatally (s.d. increased by 29%) and/or extended into adulthood (s.d. increased by 36.6%). Early-life dietary restriction may generate variance in longevity as a result of increased variance in resource acquisition or allocation, but the mechanisms underlying these largely overlooked patterns clearly warrant elucidation.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1007/s10071-017-1101-y",
-   "doi": "10.1007/s10071-017-1101-y",
-   "title": "Dominance and social information use in a lizard",
-   "authors": [
-    {
-     "name": "Fonti Kar",
-     "orcid": "https://orcid.org/0000-0002-2760-3974",
-     "isSelf": false
-    },
-    {
-     "name": "Martin J. Whiting",
-     "orcid": "https://orcid.org/0000-0002-4662-0227",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W. A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    }
-   ],
-   "authorLine": "Fonti Kar, Martin J. Whiting, Daniel W. A. Noble",
-   "journal": "Animal Cognition",
-   "year": 2017,
-   "date": "2017-06-02",
-   "volume": "20",
-   "issue": "5",
-   "pages": "805-812",
-   "kind": "article",
-   "isOA": false,
-   "oaUrl": null,
-   "url": "https://doi.org/10.1007/s10071-017-1101-y",
-   "citations": 21,
-   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -7032,7 +7012,7 @@
    "isOA": true,
    "oaUrl": "https://researchers.mq.edu.au/en/publications/92bd0ae2-ff9d-4b8e-bc9f-02d7127eebd9",
    "url": "https://doi.org/10.1098/rsbl.2014.0430",
-   "citations": 98,
+   "citations": 99,
    "abstract": "Evidence of social learning, whereby the actions of an animal facilitate the acquisition of new information by another, is taxonomically biased towards mammals, especially primates, and birds. However, social learning need not be limited to group-living animals because species with less interaction can still benefit from learning about potential predators, food sources, rivals and mates. We trained male skinks (Eulamprus quoyii), a mostly solitary lizard from eastern Australia, in a two-step foraging task. Lizards belonging to 'young' and 'old' age classes were presented with a novel instrumental task (displacing a lid) and an association task (reward under blue lid). We did not find evidence for age-dependent learning of the instrumental task; however, young males in the presence of a demonstrator learnt the association task faster than young males without a demonstrator, whereas old males in both treatments had similar success rates. We present the first evidence of age-dependent social learning in a lizard and suggest that the use of social information for learning may be more widespread than previously believed.",
    "preprintUrl": null,
    "altmetric": null
