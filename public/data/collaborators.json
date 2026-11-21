@@ -1,11 +1,11 @@
 {
- "updated": "2026-11-20",
- "total": 409,
+ "updated": "2026-11-21",
+ "total": 413,
  "countries": 28,
  "institutions": 155,
  "byCountry": {
   "Japan": 2,
-  "Australia": 175,
+  "Australia": 179,
   "Germany": 21,
   "Canada": 20,
   "United Kingdom": 38,
@@ -1918,6 +1918,19 @@
    "countryCode": "AU",
    "lat": -35.2834587097168,
    "lon": 149.12806701660156
+  },
+  {
+   "name": "Benjamin C. Scheele",
+   "orcid": "https://orcid.org/0000-0001-7284-629X",
+   "openalex": "https://openalex.org/A5033071621",
+   "works": 1,
+   "lastYear": 2026,
+   "institution": "Australian National University",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.28346,
+   "lon": 149.12807
   },
   {
    "name": "Benjamin Cole",
@@ -4027,7 +4040,7 @@
   },
   {
    "name": "Marta A. Santos",
-   "orcid": "https://orcid.org/0000-0002-5014-7145",
+   "orcid": "https://orcid.org/0000-0003-1463-6037",
    "openalex": "https://openalex.org/A5031006029",
    "works": 1,
    "lastYear": 2024,
@@ -4180,6 +4193,19 @@
    "countryCode": "BR",
    "lat": -23.5475,
    "lon": -46.63611
+  },
+  {
+   "name": "Meng-Han Joseph Chung",
+   "orcid": null,
+   "openalex": "https://openalex.org/A5126096450",
+   "works": 1,
+   "lastYear": 2026,
+   "institution": "University of Canberra",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.2834587097168,
+   "lon": 149.12806701660156
   },
   {
    "name": "Michael G. Bertram",
@@ -4624,6 +4650,19 @@
    "lon": 22.26869
   },
   {
+   "name": "Richard P. Duncan",
+   "orcid": "https://orcid.org/0000-0003-2295-449X",
+   "openalex": "https://openalex.org/A5021627147",
+   "works": 1,
+   "lastYear": 2026,
+   "institution": "University of Canberra",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.2834587097168,
+   "lon": 149.12806701660156
+  },
+  {
    "name": "Richard Shine",
    "orcid": "https://orcid.org/0000-0001-7529-5657",
    "openalex": "https://openalex.org/A5021604302",
@@ -4882,6 +4921,19 @@
    "countryCode": "US",
    "lat": 40.11059,
    "lon": -88.20727
+  },
+  {
+   "name": "Simon Clulow",
+   "orcid": "https://orcid.org/0000-0002-5700-6345",
+   "openalex": "https://openalex.org/A5038805354",
+   "works": 1,
+   "lastYear": 2026,
+   "institution": "University of Canberra",
+   "city": "Canberra",
+   "country": "Australia",
+   "countryCode": "AU",
+   "lat": -35.2834587097168,
+   "lon": 149.12806701660156
   },
   {
    "name": "Simone Fior",
