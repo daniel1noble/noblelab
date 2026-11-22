@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "sources": [
   "ORCID",
   "Crossref",
@@ -9,9 +9,9 @@
  "citations": 8714,
  "hIndex": 43,
  "i10Index": 101,
- "works": 132,
+ "works": 133,
  "articles": 131,
- "preprints": 1,
+ "preprints": 2,
  "firstAuthor": 20,
  "coAuthors": 413,
  "countries": 28,

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -1774,7 +1774,7 @@
    "url": "https://doi.org/10.1111/ele.70258",
    "citations": 4,
    "abstract": "Phenotypic plasticity can lead to compensation for potentially adverse effects of variation in the thermal environment so it is important to understand the impacts of changes in mean and fluctuations in temperature on plastic responses. Here we establish the current state of knowledge of how thermal variability influences the expression of phenotypic plasticity in ectothermic animals. Our quantitative synthesis of 46 studies compares the effects of constant and fluctuating temperatures with the same mean on plasticity in different traits, across different ecosystems (terrestrial and aquatic) and between types of phenotypic plasticity (acclimation and developmental plasticity). We found that 98% of studies implemented diel temperature fluctuations and most data were derived from invertebrates. We show that plasticity does not differ between constant and fluctuating environments except for weak effects on developmental time. We conclude that plasticity is more likely to be driven by changes in longer-term mean temperatures.",
-   "preprintUrl": "https://doi.org/10.22541/au.174705149.99511675/v1",
+   "preprintUrl": null,
    "altmetric": null
   },
   {
@@ -2029,6 +2029,73 @@
    "url": "https://doi.org/10.1242/jeb.250716",
    "citations": 2,
    "abstract": "Early environmental factors such as heat or stress hormones can impair learning through brain metabolic function, which is crucial for neural development and synaptic plasticity. However, whether early environments always result in cognitive impairment through changes in neural physiology is not well established outside of a few model systems. Here, we investigated the effects of prenatal temperature and corticosterone (CORT) on brain mitochondrial activity and spatial learning in the delicate skink (Lampropholis delicata). We treated eggs with either CORT or a control vehicle and incubated at cold (23±3°C) or hot (28±3°C) temperatures. Juveniles were tested in a spatial learning task over 40 days after which mitochondrial function in the medial cortex was assessed. Despite among-individual variation in learning ability, mitochondrial physiology and spatial learning in L. delicata remained robust to prenatal temperature and CORT exposure. No significant relationship was found between mitochondrial function and cognitive performance, contrary to predictions. Increased metabolic capacity correlated with higher production of reactive oxygen species but did not affect oxidative damage, possibly as a result of protective mechanisms. These findings highlight the physiological and cognitive resilience of L. delicata to early-life challenges. Future research should explore whether this robustness extends to other brain regions, cognitive domains and life stages.",
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
+   "id": "10.22541/au.174705149.99511675/v1",
+   "doi": "10.22541/au.174705149.99511675/v1",
+   "title": "Temperature variability does not influence phenotypic plasticity in ectotherms -- a meta-analysis",
+   "authors": [
+    {
+     "name": "Clayton Stocker",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Stephanie Bamford",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Miki Jahn",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Geoffrey Mazué",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Amanda Pettersen",
+     "orcid": "https://orcid.org/0000-0001-6191-6563",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel Ritchie",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Alexander Rubin",
+     "orcid": null,
+     "isSelf": false
+    },
+    {
+     "name": "Daniel Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Frank Seebacher",
+     "orcid": "https://orcid.org/0000-0002-2281-9311",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Clayton Stocker, Stephanie Bamford, Miki Jahn, Geoffrey Mazué, Amanda Pettersen, Daniel Ritchie, Alexander Rubin, Daniel Noble, Frank Seebacher",
+   "journal": null,
+   "year": 2025,
+   "date": "2025-05-12",
+   "volume": null,
+   "issue": null,
+   "pages": null,
+   "kind": "preprint",
+   "isOA": false,
+   "oaUrl": "https://doi.org/10.22541/au.174705149.99511675/v1",
+   "url": "https://doi.org/10.22541/au.174705149.99511675/v1",
+   "citations": 0,
+   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },

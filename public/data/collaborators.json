@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21",
+ "updated": "2026-11-22",
  "total": 413,
  "countries": 28,
  "institutions": 155,
@@ -551,8 +551,8 @@
    "city": "Guelph",
    "country": "Canada",
    "countryCode": "CA",
-   "lat": 43.54594039916992,
-   "lon": -80.25598907470703
+   "lat": 43.54594,
+   "lon": -80.25599
   },
   {
    "name": "Joel L. Pick",
@@ -902,8 +902,8 @@
    "city": "Regensburg",
    "country": "Germany",
    "countryCode": "DE",
-   "lat": 49.01512908935547,
-   "lon": 12.10161018371582
+   "lat": 49.01513,
+   "lon": 12.10161
   },
   {
    "name": "Geoffrey E. Hill",
@@ -1292,8 +1292,8 @@
    "city": "Guelph",
    "country": "Canada",
    "countryCode": "CA",
-   "lat": 43.54594039916992,
-   "lon": -80.25598907470703
+   "lat": 43.54594,
+   "lon": -80.25599
   },
   {
    "name": "Rose Y. Zhang",
@@ -2449,8 +2449,8 @@
    "city": "Ottawa",
    "country": "Canada",
    "countryCode": "CA",
-   "lat": 45.411170959472656,
-   "lon": -75.6981201171875
+   "lat": 45.41117,
+   "lon": -75.69812
   },
   {
    "name": "Duminda S. B. Dissanayake",
@@ -3346,8 +3346,8 @@
    "city": "Guelph",
    "country": "Canada",
    "countryCode": "CA",
-   "lat": 43.54594039916992,
-   "lon": -80.25598907470703
+   "lat": 43.54594,
+   "lon": -80.25599
   },
   {
    "name": "Jordann Crawford‐Ash",
@@ -3476,8 +3476,8 @@
    "city": "Guelph",
    "country": "Canada",
    "countryCode": "CA",
-   "lat": 43.54594039916992,
-   "lon": -80.25598907470703
+   "lat": 43.54594,
+   "lon": -80.25599
   },
   {
    "name": "Kaitlin J McCloghry",
@@ -5075,8 +5075,8 @@
    "city": "Canberra",
    "country": "Australia",
    "countryCode": "AU",
-   "lat": -35.282989501953125,
-   "lon": 149.123779296875
+   "lat": -35.28346,
+   "lon": 149.12807
   },
   {
    "name": "Susan E. Everingham",
