@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22",
+ "updated": "2026-11-23",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -1774,7 +1774,7 @@
    "url": "https://doi.org/10.1111/ele.70258",
    "citations": 4,
    "abstract": "Phenotypic plasticity can lead to compensation for potentially adverse effects of variation in the thermal environment so it is important to understand the impacts of changes in mean and fluctuations in temperature on plastic responses. Here we establish the current state of knowledge of how thermal variability influences the expression of phenotypic plasticity in ectothermic animals. Our quantitative synthesis of 46 studies compares the effects of constant and fluctuating temperatures with the same mean on plasticity in different traits, across different ecosystems (terrestrial and aquatic) and between types of phenotypic plasticity (acclimation and developmental plasticity). We found that 98% of studies implemented diel temperature fluctuations and most data were derived from invertebrates. We show that plasticity does not differ between constant and fluctuating environments except for weak effects on developmental time. We conclude that plasticity is more likely to be driven by changes in longer-term mean temperatures.",
-   "preprintUrl": null,
+   "preprintUrl": "https://doi.org/10.22541/au.174705149.99511675/v1",
    "altmetric": null
   },
   {
@@ -1934,7 +1934,7 @@
    "oaUrl": "https://doi.org/10.1016/j.anbehav.2025.123106",
    "url": "https://doi.org/10.1016/j.anbehav.2025.123106",
    "citations": 4,
-   "abstract": "Behavioural flexibility, the ability to adjust behaviour adaptively in response to internal or external changes, is expected to be crucial for animals adapting to environmental fluctuations. However, conditions experienced during early development can profoundly impact behavioural flexibility, making it unclear how populations will respond to novel circumstances. Stressful situations faced by the parents can have a direct impact on offspring cognition through the transmission of glucocorticoids, stress-related hormones that affect offspring cognition. At the same time, stressful conditions can influence parental behaviours during nesting and, consequently, the thermal developmental conditions that offspring experience. Here, we investigated the interactive effects of prenatal corticosterone (CORT) levels and temperature on behavioural flexibility in two lizard species: Lampropholis delicata and Lampropholis guichenoti . We manipulated prenatal CORT levels and incubation temperature in a 2 × 2 factorial design and then assessed behavioural flexibility through a reversal learning task. We hypothesized that prenatal CORT levels and cold temperatures would impair performance in the reversal task. We expected L. delicata , given its success as an invasive species, to show more flexibility and be less susceptible to early environmental conditions. Contrary to our expectations, behavioural flexibility appears robust to prenatal temperatures and CORT levels in both species. The lack of difference in reversal learning between L. delicata and L. guichenoti suggests that novel environments are unlikely to influence flexible behavioural learning, and behavioural flexibility itself is unlikely to explain differences in invasion success between these species. • Behavioural flexibility is key for adapting to environmental changes. • Prenatal stress and incubation temperature were predicted to affect flexibility. • Flexibility remained robust under both prenatal conditions in both species. • No significant differences in reversal learning were found between species.",
+   "abstract": "Behavioural flexibility, the ability to adjust behaviour adaptively in response to internal or external changes, is expected to be crucial for animals adapting to environmental fluctuations. However, conditions experienced during early development can profoundly impact behavioural flexibility, making it unclear how populations will respond to novel circumstances. Stressful situations faced by the parents can have a direct impact on offspring cognition through the transmission of glucocorticoids , stress-related hormones that affect offspring cognition. At the same time, stressful conditions can influence parental behaviours during nesting and, consequently, the thermal developmental conditions that offspring experience. Here, we investigated the interactive effects of prenatal corticosterone (CORT) levels and temperature on behavioural flexibility in two lizard species: Lampropholis delicata and Lampropholis guichenoti . We manipulated prenatal CORT levels and incubation temperature in a 2 × 2 factorial design and then assessed behavioural flexibility through a reversal learning task. We hypothesized that prenatal CORT levels and cold temperatures would impair performance in the reversal task. We expected L. delicata , given its success as an invasive species , to show more flexibility and be less susceptible to early environmental conditions. Contrary to our expectations, behavioural flexibility appears robust to prenatal temperatures and CORT levels in both species. The lack of difference in reversal learning between L. delicata and L. guichenoti suggests that novel environments are unlikely to influence flexible behavioural learning, and behavioural flexibility itself is unlikely to explain differences in invasion success between these species.",
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2029,73 +2029,6 @@
    "url": "https://doi.org/10.1242/jeb.250716",
    "citations": 2,
    "abstract": "Early environmental factors such as heat or stress hormones can impair learning through brain metabolic function, which is crucial for neural development and synaptic plasticity. However, whether early environments always result in cognitive impairment through changes in neural physiology is not well established outside of a few model systems. Here, we investigated the effects of prenatal temperature and corticosterone (CORT) on brain mitochondrial activity and spatial learning in the delicate skink (Lampropholis delicata). We treated eggs with either CORT or a control vehicle and incubated at cold (23±3°C) or hot (28±3°C) temperatures. Juveniles were tested in a spatial learning task over 40 days after which mitochondrial function in the medial cortex was assessed. Despite among-individual variation in learning ability, mitochondrial physiology and spatial learning in L. delicata remained robust to prenatal temperature and CORT exposure. No significant relationship was found between mitochondrial function and cognitive performance, contrary to predictions. Increased metabolic capacity correlated with higher production of reactive oxygen species but did not affect oxidative damage, possibly as a result of protective mechanisms. These findings highlight the physiological and cognitive resilience of L. delicata to early-life challenges. Future research should explore whether this robustness extends to other brain regions, cognitive domains and life stages.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.22541/au.174705149.99511675/v1",
-   "doi": "10.22541/au.174705149.99511675/v1",
-   "title": "Temperature variability does not influence phenotypic plasticity in ectotherms -- a meta-analysis",
-   "authors": [
-    {
-     "name": "Clayton Stocker",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Stephanie Bamford",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Miki Jahn",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Geoffrey Mazué",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Amanda Pettersen",
-     "orcid": "https://orcid.org/0000-0001-6191-6563",
-     "isSelf": false
-    },
-    {
-     "name": "Daniel Ritchie",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Alexander Rubin",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Daniel Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
-     "isSelf": true
-    },
-    {
-     "name": "Frank Seebacher",
-     "orcid": "https://orcid.org/0000-0002-2281-9311",
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Clayton Stocker, Stephanie Bamford, Miki Jahn, Geoffrey Mazué, Amanda Pettersen, Daniel Ritchie, Alexander Rubin, Daniel Noble, Frank Seebacher",
-   "journal": null,
-   "year": 2025,
-   "date": "2025-05-12",
-   "volume": null,
-   "issue": null,
-   "pages": null,
-   "kind": "preprint",
-   "isOA": false,
-   "oaUrl": "https://doi.org/10.22541/au.174705149.99511675/v1",
-   "url": "https://doi.org/10.22541/au.174705149.99511675/v1",
-   "citations": 0,
-   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2461,6 +2394,73 @@
    "altmetric": null
   },
   {
+   "id": "10.1016/j.tree.2023.12.004",
+   "doi": "10.1016/j.tree.2023.12.004",
+   "title": "New horizons for comparative studies and meta-analyses",
+   "authors": [
+    {
+     "name": "Patrice Pottier",
+     "orcid": "https://orcid.org/0000-0003-2106-6597",
+     "isSelf": false
+    },
+    {
+     "name": "Daniel W.A. Noble",
+     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "isSelf": true
+    },
+    {
+     "name": "Frank Seebacher",
+     "orcid": "https://orcid.org/0000-0002-2281-9311",
+     "isSelf": false
+    },
+    {
+     "name": "Nicholas C. Wu",
+     "orcid": "https://orcid.org/0000-0002-7130-1279",
+     "isSelf": false
+    },
+    {
+     "name": "Samantha Burke",
+     "orcid": "https://orcid.org/0000-0001-6902-974X",
+     "isSelf": false
+    },
+    {
+     "name": "Malgorzata Lagisz",
+     "orcid": "https://orcid.org/0000-0002-3993-6127",
+     "isSelf": false
+    },
+    {
+     "name": "Lisa E. Schwanz",
+     "orcid": "https://orcid.org/0000-0001-5864-7112",
+     "isSelf": false
+    },
+    {
+     "name": "Szymon M. Drobniak",
+     "orcid": "https://orcid.org/0000-0001-8101-6247",
+     "isSelf": false
+    },
+    {
+     "name": "Shinichi Nakagawa",
+     "orcid": "https://orcid.org/0000-0002-7765-5182",
+     "isSelf": false
+    }
+   ],
+   "authorLine": "Patrice Pottier, Daniel W.A. Noble, Frank Seebacher, Nicholas C. Wu, Samantha Burke, Malgorzata Lagisz, Lisa E. Schwanz, Szymon M. Drobniak, Shinichi Nakagawa",
+   "journal": "Trends in Ecology & Evolution",
+   "year": 2024,
+   "date": "2024-05",
+   "volume": "39",
+   "issue": "5",
+   "pages": "435-445",
+   "kind": "article",
+   "isOA": true,
+   "oaUrl": "http://www.cell.com/article/S016953472300335X/pdf",
+   "url": "https://doi.org/10.1016/j.tree.2023.12.004",
+   "citations": 28,
+   "abstract": null,
+   "preprintUrl": null,
+   "altmetric": null
+  },
+  {
    "id": "10.1093/jeb/voae021",
    "doi": "10.1093/jeb/voae021",
    "title": "Systematic approaches to assessing high-temperature limits to fertility in animals",
@@ -2613,68 +2613,43 @@
    "altmetric": null
   },
   {
-   "id": "10.1016/j.tree.2023.12.004",
-   "doi": "10.1016/j.tree.2023.12.004",
-   "title": "New horizons for comparative studies and meta-analyses",
+   "id": "10.1016/j.anbehav.2024.06.016",
+   "doi": "10.1016/j.anbehav.2024.06.016",
+   "title": "Double trouble: host behaviour influences and is influenced by co-infection with parasites",
    "authors": [
     {
-     "name": "Patrice Pottier",
-     "orcid": "https://orcid.org/0000-0003-2106-6597",
+     "name": "Maryane Gradito",
+     "orcid": "https://orcid.org/0009-0004-6609-0229",
+     "isSelf": false
+    },
+    {
+     "name": "Frédérique Dubois",
+     "orcid": null,
      "isSelf": false
     },
     {
      "name": "Daniel W.A. Noble",
-     "orcid": "https://orcid.org/0000-0001-9460-8743",
+     "orcid": null,
      "isSelf": true
     },
     {
-     "name": "Frank Seebacher",
-     "orcid": "https://orcid.org/0000-0002-2281-9311",
-     "isSelf": false
-    },
-    {
-     "name": "Nicholas C. Wu",
-     "orcid": "https://orcid.org/0000-0002-7130-1279",
-     "isSelf": false
-    },
-    {
-     "name": "Samantha Burke",
-     "orcid": "https://orcid.org/0000-0001-6902-974X",
-     "isSelf": false
-    },
-    {
-     "name": "Malgorzata Lagisz",
-     "orcid": "https://orcid.org/0000-0002-3993-6127",
-     "isSelf": false
-    },
-    {
-     "name": "Lisa E. Schwanz",
-     "orcid": "https://orcid.org/0000-0001-5864-7112",
-     "isSelf": false
-    },
-    {
-     "name": "Szymon M. Drobniak",
-     "orcid": "https://orcid.org/0000-0001-8101-6247",
-     "isSelf": false
-    },
-    {
-     "name": "Shinichi Nakagawa",
-     "orcid": "https://orcid.org/0000-0002-7765-5182",
+     "name": "Sandra A. Binning",
+     "orcid": null,
      "isSelf": false
     }
    ],
-   "authorLine": "Patrice Pottier, Daniel W.A. Noble, Frank Seebacher, Nicholas C. Wu, Samantha Burke, Malgorzata Lagisz, Lisa E. Schwanz, Szymon M. Drobniak, Shinichi Nakagawa",
-   "journal": "Trends in Ecology & Evolution",
+   "authorLine": "Maryane Gradito, Frédérique Dubois, Daniel W.A. Noble, Sandra A. Binning",
+   "journal": "Animal Behaviour",
    "year": 2024,
-   "date": "2024-05",
-   "volume": "39",
-   "issue": "5",
-   "pages": "435-445",
+   "date": "2024-09",
+   "volume": "215",
+   "issue": null,
+   "pages": "31-44",
    "kind": "article",
-   "isOA": true,
-   "oaUrl": "http://www.cell.com/article/S016953472300335X/pdf",
-   "url": "https://doi.org/10.1016/j.tree.2023.12.004",
-   "citations": 27,
+   "isOA": false,
+   "oaUrl": null,
+   "url": "https://doi.org/10.1016/j.anbehav.2024.06.016",
+   "citations": 20,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -2743,48 +2718,6 @@
    "url": "https://doi.org/10.1242/jeb.249234",
    "citations": 19,
    "abstract": "Developing animals are increasingly exposed to elevated temperatures as global temperatures rise as a result of climate change. Vertebrates can be affected by elevated temperatures during development directly, and indirectly through maternal effects (e.g. exposure to prenatal glucocorticoid hormones). Past studies have examined how elevated temperatures and glucocorticoid exposure during development independently affect vertebrates. However, exposure to elevated temperatures and prenatal corticosterone could have interactive effects on developing animals that affect physiology and life-history traits across life. We tested interactions between incubation temperature and prenatal corticosterone exposure in the delicate skink (Lampropholis delicata). We treated eggs with high or low doses of corticosterone and incubated eggs at 23°C (cool) or 28°C (warm). We measured the effects of these treatments on development time, body size and survival from hatching to adulthood and on adult hormone levels and mitochondrial respiration. We found no evidence for interactive effects of incubation temperature and prenatal corticosterone exposure on phenotype. However, incubation temperature and corticosterone treatment each independently decreased body size at hatching and these effects were sustained into the juvenile period and adulthood. Lizards exposed to low doses of corticosterone during development had elevated levels of baseline corticosterone as adults. Additionally, lizards incubated at cool temperatures had higher levels of baseline corticosterone and more efficient mitochondria as adults compared with lizards incubated at warm temperatures. Our results show that developmental conditions can have sustained effects on morphological and physiological traits in oviparous lizards but suggest that incubation temperature and prenatal corticosterone do not have interactive effects.",
-   "preprintUrl": null,
-   "altmetric": null
-  },
-  {
-   "id": "10.1016/j.anbehav.2024.06.016",
-   "doi": "10.1016/j.anbehav.2024.06.016",
-   "title": "Double trouble: host behaviour influences and is influenced by co-infection with parasites",
-   "authors": [
-    {
-     "name": "Maryane Gradito",
-     "orcid": "https://orcid.org/0009-0004-6609-0229",
-     "isSelf": false
-    },
-    {
-     "name": "Frédérique Dubois",
-     "orcid": null,
-     "isSelf": false
-    },
-    {
-     "name": "Daniel W.A. Noble",
-     "orcid": null,
-     "isSelf": true
-    },
-    {
-     "name": "Sandra A. Binning",
-     "orcid": null,
-     "isSelf": false
-    }
-   ],
-   "authorLine": "Maryane Gradito, Frédérique Dubois, Daniel W.A. Noble, Sandra A. Binning",
-   "journal": "Animal Behaviour",
-   "year": 2024,
-   "date": "2024-09",
-   "volume": "215",
-   "issue": null,
-   "pages": "31-44",
-   "kind": "article",
-   "isOA": false,
-   "oaUrl": null,
-   "url": "https://doi.org/10.1016/j.anbehav.2024.06.016",
-   "citations": 19,
-   "abstract": null,
    "preprintUrl": null,
    "altmetric": null
   },
@@ -2966,7 +2899,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.14152",
    "url": "https://doi.org/10.1111/2041-210x.14152",
-   "citations": 245,
+   "citations": 246,
    "abstract": "Although meta‐analysis has become an essential tool in ecology and evolution, reporting of meta‐analytic results can still be much improved. To aid this, we have introduced the orchard plot, which presents not only overall estimates and their confidence intervals, but also shows corresponding heterogeneity (as prediction intervals) and individual effect sizes. Here, we have added significant enhancements by integrating many new functionalities into orchaRd 2.0 . This updated version allows the visualisation of heteroscedasticity (different variances across levels of a categorical moderator), marginal estimates (e.g. marginalising out effects other than the one visualised), conditional estimates (i.e. estimates of different groups conditioned upon specific values of a continuous variable) and visualisations of all types of interactions between two categorical/continuous moderators. orchaRd 2.0 has additional functions which calculate key statistics from multilevel meta‐analytic models such as I 2 and R 2 . Importantly, orchaRd 2.0 contributes to better reporting by complying with PRISMA‐EcoEvo (preferred reporting items for systematic reviews and meta‐analyses in ecology and evolution). Taken together, orchaRd 2.0 can improve the presentation of meta‐analytic results and facilitate the exploration of previously neglected patterns. In addition, as a part of a literature survey, we found that graphical packages are rarely cited (~3%). We plea that researchers credit developers and maintainers of graphical packages, for example, by citations in a figure legend, acknowledging the use of relevant packages.",
    "preprintUrl": null,
    "altmetric": null
@@ -3033,7 +2966,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/counter/pdf/10.1186/s12915-022-01485-y",
    "url": "https://doi.org/10.1186/s12915-022-01485-y",
-   "citations": 123,
+   "citations": 124,
    "abstract": "Collaborative efforts to directly replicate empirical studies in the medical and social sciences have revealed alarmingly low rates of replicability, a phenomenon dubbed the 'replication crisis'. Poor replicability has spurred cultural changes targeted at improving reliability in these disciplines. Given the absence of equivalent replication projects in ecology and evolutionary biology, two inter-related indicators offer the opportunity to retrospectively assess replicability: publication bias and statistical power. This registered report assesses the prevalence and severity of small-study (i.e., smaller studies reporting larger effect sizes) and decline effects (i.e., effect sizes decreasing over time) across ecology and evolutionary biology using 87 meta-analyses comprising 4,250 primary studies and 17,638 effect sizes. Further, we estimate how publication bias might distort the estimation of effect sizes, statistical power, and errors in magnitude (Type M or exaggeration ratio) and sign (Type S). We show strong evidence for the pervasiveness of both small-study and decline effects in ecology and evolution. There was widespread prevalence of publication bias that resulted in meta-analytic means being over-estimated by (at least) 0.12 standard deviations. The prevalence of publication bias distorted confidence in meta-analytic results, with 66% of initially statistically significant meta-analytic means becoming non-significant after correcting for publication bias. Ecological and evolutionary studies consistently had low statistical power (15%) with a 4-fold exaggeration of effects on average (Type M error rates = 4.4). Notably, publication bias reduced power from 23% to 15% and increased type M error rates from 2.7 to 4.4 because it creates a non-random sample of effect size evidence. The sign errors of effect sizes (Type S error) increased from 5% to 8% because of publication bias. Our research provides clear evidence that many published ecological and evolutionary findings are inflated. Our results highlight the importance of designing high-power empirical studies (e.g., via collaborative team science), promoting and encouraging replication studies, testing and correcting for publication bias in meta-analyses, and adopting open and transparent research practices, such as (pre)registration, data- and code-sharing, and transparent reporting.",
    "preprintUrl": null,
    "altmetric": null
@@ -3150,7 +3083,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/evlett/advance-article-pdf/doi/10.1093/evlett/qrad038/53940395/qrad038.pdf",
    "url": "https://doi.org/10.1093/evlett/qrad038",
-   "citations": 114,
+   "citations": 115,
    "abstract": "Predicting if, when, and how populations can adapt to climate change constitutes one of the greatest challenges in science today. Here, we build from contributions to the special issue on evolutionary adaptation to climate change, a survey of its authors, and recent literature to explore the limits and opportunities for predicting adaptive responses to climate change. We outline what might be predictable now, in the future, and perhaps never even with our best efforts. More accurate predictions are expected for traits characterized by a well-understood mapping between genotypes and phenotypes and traits experiencing strong, direct selection due to climate change. A meta-analysis revealed an overall moderate trait heritability and evolvability in studies performed under future climate conditions but indicated no significant change between current and future climate conditions, suggesting neither more nor less genetic variation for adapting to future climates. Predicting population persistence and evolutionary rescue remains uncertain, especially for the many species without sufficient ecological data. Still, when polled, authors contributing to this special issue were relatively optimistic about our ability to predict future evolutionary responses to climate change. Predictions will improve as we expand efforts to understand diverse organisms, their ecology, and their adaptive potential. Advancements in functional genomic resources, especially their extension to non-model species and the union of evolutionary experiments and \"omics,\" should also enhance predictions. Although predicting evolutionary responses to climate change remains challenging, even small advances will reduce the substantial uncertainties surrounding future evolutionary responses to climate change.",
    "preprintUrl": null,
    "altmetric": null
@@ -3588,7 +3521,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.14083",
    "url": "https://doi.org/10.1111/ele.14083",
-   "citations": 175,
+   "citations": 176,
    "abstract": "Understanding the factors affecting thermal tolerance is crucial for predicting the impact climate change will have on ectotherms. However, the role developmental plasticity plays in allowing populations to cope with thermal extremes is poorly understood. Here, we meta-analyse how thermal tolerance is initially and persistently impacted by early (embryonic and juvenile) thermal environments by using data from 150 experimental studies on 138 ectothermic species. Thermal tolerance only increased by 0.13°C per 1°C change in developmental temperature and substantial variation in plasticity (~36%) was the result of shared evolutionary history and species ecology. Aquatic ectotherms were more than three times as plastic as terrestrial ectotherms. Notably, embryos expressed weaker but more heterogenous plasticity than older life stages, with numerous responses appearing as non-adaptive. While developmental temperatures did not have persistent effects on thermal tolerance overall, persistent effects were vastly under-studied, and their direction and magnitude varied with ontogeny. Embryonic stages may represent a critical window of vulnerability to changing environments and we urge researchers to consider early life stages when assessing the climate vulnerability of ectotherms. Overall, our synthesis suggests that developmental changes in thermal tolerance rarely reach levels of perfect compensation and may provide limited benefit in changing environments.",
    "preprintUrl": "https://doi.org/10.22541/au.164573834.49438532/v1",
    "altmetric": null
@@ -3843,7 +3776,7 @@
    "isOA": true,
    "oaUrl": "https://link.springer.com/content/pdf/10.1007/s10682-022-10160-1.pdf",
    "url": "https://doi.org/10.1007/s10682-022-10160-1",
-   "citations": 18,
+   "citations": 19,
    "abstract": "Phenotypic plasticity is an important mechanism that allows populations to adjust to changing environments. Early life experiences can have lasting impacts on how individuals respond to environmental variation later in life (i.e., individual reaction norms), altering the capacity for populations to respond to selection. Here, we incubated lizard embryos (Lampropholis delicata) at two fluctuating developmental temperatures (cold = 23 ºC + / − 3 ºC, hot = 29 ºC + / − 3 ºC, ncold = 26, nhot = 25) to understand how it affected metabolic plasticity to temperature later in life. We repeatedly measured individual reaction norms across six temperatures 10 times over ~ 3.5 months (nobs = 3,818) to estimate the repeatability of average metabolic rate (intercept) and thermal plasticity (slope). The intercept and the slope of the population-level reaction norm was not affected by developmental temperature. Repeatability of average metabolic rate was, on average, 10% lower in hot incubated lizards but stable across all temperatures. The slope of the thermal reaction norm was overall moderately repeatable (R = 0.44, 95% CI = 0.035 – 0.93) suggesting that individual metabolic rate changed consistently with short-term changes in temperature, although credible intervals were quite broad. Importantly, reaction norm repeatability did not depend on early developmental temperature. Identifying factors affecting among-individual variation in thermal plasticity will be increasingly more important for terrestrial ectotherms living in changing climate. Our work implies that thermal metabolic plasticity is robust to early developmental temperatures and has the capacity to evolve, despite there being less consistent variation in metabolic rate under hot environments.",
    "preprintUrl": null,
    "altmetric": null
@@ -3920,7 +3853,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.9511",
    "url": "https://doi.org/10.1002/ece3.9511",
-   "citations": 12,
+   "citations": 13,
    "abstract": "The obesity epidemic, largely driven by the accessibility of ultra‐processed high‐energy foods, is one of the most pressing public health challenges of the 21st century. Consequently, there is increasing concern about the impacts of diet‐induced obesity on behavior and cognition. While research on this matter continues, to date, no study has explicitly investigated the effect of obesogenic diet on variance and covariance (correlation) in behavioral traits. Here, we examined how an obesogenic versus control diet impacts means and (co‐)variances of traits associated with body condition, behavior, and cognition in a laboratory population of ~160 adult zebrafish (Danio rerio). Overall, an obesogenic diet increased variation in several zebrafish traits. Zebrafish on an obesogenic diet were significantly heavier and displayed higher body weight variability; fasting blood glucose levels were similar between control and treatment zebrafish. During behavioral assays, zebrafish on the obesogenic diet displayed more exploratory behavior and were less reactive to video stimuli with conspecifics during a personality test, but these significant differences were sex‐specific. Zebrafish on an obesogenic diet also displayed repeatable responses in aversive learning tests whereas control zebrafish did not, suggesting an obesogenic diet resulted in more consistent, yet impaired, behavioral responses. Where behavioral syndromes existed (inter‐class correlations between personality traits), they did not differ between obesogenic and control zebrafish groups. By integrating a multifaceted, holistic approach that incorporates components of (co‐)variances, future studies will greatly benefit by quantifying neglected dimensions of obesogenic diets on behavioral changes.",
    "preprintUrl": null,
    "altmetric": null
@@ -3982,7 +3915,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ece3.9423",
    "url": "https://doi.org/10.1002/ece3.9423",
-   "citations": 11,
+   "citations": 12,
    "abstract": "The obesity epidemic is concerning as obesity appears to negatively impact cognition and behavior. Furthermore, some studies suggest that this negative effect could be carried across generations from both mothers and fathers although evidence is not consistent. Here, we attempt to address how obesogenic diets in the parental generation (F0) can impact offspring's cognition and anxiety intergenerationally (F1) in a zebrafish model. We compare both mean trait values and their variances. Using a multifactorial design, we created a total of four groups: F1T (treatment mothers × treatment fathers); F1M (treatment mothers × control fathers); F1P (treatment fathers × control mothers); and F1C (control mothers × control fathers, F1C); and subjected them to anxiety tank tests and aversive learning assays. When both parents were exposed, offspring (F1T) displayed the poorest aversive learning, while offspring that only had one parent exposed (F1P and F1M) learnt the aversive learning task the best. Zebrafish in all groups displayed no statistically significant differences in anxiety-associated behaviors. Males and females also performed similarly in both anxiety and aversive learning assays. While all F1 groups had similar levels of fasting blood glucose, variance in glucose levels were reduced in F1P and F1T indicating the importance of investigating heteroskedasticity between groups. Furthermore, anxiety behaviors of these two groups appeared to be less repeatable. To our knowledge, this is the first study to test the intergenerational effects of an obesogenic diet on zebrafish cognition. Our multifactorial design as well as repeated tests also allowed us to disentangle maternal and paternal effects (as well as combined effects) and accurately detect subtle information such as between-individual variation.",
    "preprintUrl": null,
    "altmetric": null
@@ -4096,7 +4029,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 930,
+   "citations": 942,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4163,7 +4096,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 565,
+   "citations": 570,
    "abstract": "Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N , trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4270,7 +4203,7 @@
    "isOA": true,
    "oaUrl": "https://www.sciencedirect.com/science/article/am/pii/S0169534720303542",
    "url": "https://doi.org/10.1016/j.tree.2020.12.006",
-   "citations": 203,
+   "citations": 204,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -4903,7 +4836,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/epqa7",
    "url": "https://doi.org/10.1002/jrsm.1424",
-   "citations": 243,
+   "citations": 244,
    "abstract": "“Classic” forest plots show the effect sizes from individual studies and the aggregate effect from a meta‐analysis. However, in ecology and evolution, meta‐analyses routinely contain over 100 effect sizes, making the classic forest plot of limited use. We surveyed 102 meta‐analyses in ecology and evolution, finding that only 11% use the classic forest plot. Instead, most used a “forest‐like plot,” showing point estimates (with 95% confidence intervals [CIs]) from a series of subgroups or categories in a meta‐regression. We propose a modification of the forest‐like plot, which we name the “orchard plot.” Orchard plots, in addition to showing overall mean effects and CIs from meta‐analyses/regressions, also include 95% prediction intervals (PIs), and the individual effect sizes scaled by their precision. The PI allows the user and reader to see the range in which an effect size from a future study may be expected to fall. The PI, therefore, provides an intuitive interpretation of any heterogeneity in the data. Supplementing the PI, the inclusion of underlying effect sizes also allows the user to see any influential or outlying effect sizes. We showcase the orchard plot with example datasets from ecology and evolution, using the R package, orchard , including several functions for visualizing meta‐analytic data using forest‐plot derivatives. We consider the orchard plot as a variant on the classic forest plot, cultivated to the needs of meta‐analysts in ecology and evolution. Hopefully, the orchard plot will prove fruitful for visualizing large collections of heterogeneous effect sizes regardless of the field of study.",
    "preprintUrl": null,
    "altmetric": null
@@ -4982,7 +4915,7 @@
    "isOA": true,
    "oaUrl": "https://academic.oup.com/evlett/article-pdf/4/4/360/46657546/evlett0360.pdf",
    "url": "https://doi.org/10.1002/evl3.185",
-   "citations": 118,
+   "citations": 119,
    "abstract": "Phenotypic responses to a novel or extreme environment are initially plastic, only later to be followed by genetic change. Whether or not environmentally induced phenotypes are sufficiently recurrent and fit to leave a signature in adaptive evolution is debated. Here, we analyze multivariate data from 34 plant reciprocal transplant studies to test: (1) if plasticity is an adaptive source of developmental bias that makes locally adapted populations resemble the environmentally induced phenotypes of ancestors; and (2) if plasticity, standing phenotypic variation and genetic divergence align during local adaptation. Phenotypic variation increased marginally in foreign environments but, as predicted, the direction of ancestral plasticity was generally well aligned with the phenotypic difference between locally adapted populations, making plasticity appear to \"take the lead\" in adaptive evolution. Plastic responses were sometimes more extreme than the phenotypes of locally adapted plants, which can give the impression that plasticity and evolutionary adaptation oppose each other; however, environmentally induced and locally adapted phenotypes were rarely misaligned. Adaptive fine-tuning of phenotypes-genetic accommodation-did not fall along the main axis of standing phenotypic variation or the direction of plasticity, and local adaptation did not consistently modify the direction or magnitude of plasticity. These results suggest that plasticity is a persistent source of developmental bias that shapes how plant populations adapt to environmental change, even when plasticity does not constrain how populations respond to selection.",
    "preprintUrl": null,
    "altmetric": null
@@ -5380,7 +5313,7 @@
    "isOA": true,
    "oaUrl": "https://cris.maastrichtuniversity.nl/en/publications/3e6fe067-06aa-4553-940d-034840843635",
    "url": "https://doi.org/10.1038/s41559-020-1153-2",
-   "citations": 71,
+   "citations": 72,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -5521,7 +5454,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/ga2qz",
    "url": "https://doi.org/10.1016/j.tree.2018.11.007",
-   "citations": 304,
+   "citations": 307,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -5817,8 +5750,8 @@
    "issue": "4-5",
    "pages": "162-176",
    "kind": "article",
-   "isOA": true,
-   "oaUrl": "https://figshare.com/articles/journal_contribution/Patterns_of_developmental_plasticity_in_response_to_incubation_temperature_in_reptiles/22968455",
+   "isOA": false,
+   "oaUrl": null,
    "url": "https://doi.org/10.1002/jez.2181",
    "citations": 118,
    "abstract": "Early life environments shape phenotypic development in important ways that can lead to long-lasting effects on phenotype and fitness. In reptiles, one aspect of the early environment that impacts development is temperature (termed 'thermal developmental plasticity'). Indeed, the thermal environment during incubation is known to influence morphological, physiological, and behavioral traits, some of which have important consequences for many ecological and evolutionary processes. Despite this, few studies have attempted to synthesize and collate data from this expansive and important body of research. Here, we systematically review research into thermal developmental plasticity across reptiles, structured around the key papers and findings that have shaped the field over the past 50 years. From these papers, we introduce a large database (the 'Reptile Development Database') consisting of 9,773 trait means across 300 studies examining thermal developmental plasticity. This dataset encompasses data on a range of phenotypes, including morphological, physiological, behavioral, and performance traits along with growth rate, incubation duration, sex ratio, and survival (e.g., hatching success) across all major reptile clades. Finally, from our literature synthesis and data exploration, we identify key research themes associated with thermal developmental plasticity, important gaps in empirical research, and demonstrate how future progress can be made through targeted empirical, meta-analytic, and comparative work.",
@@ -6023,7 +5956,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1007/s00265-017-2435-9",
-   "citations": 28,
+   "citations": 29,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -6132,7 +6065,7 @@
    "isOA": true,
    "oaUrl": "https://www.frontiersin.org/articles/10.3389/fevo.2018.00070/pdf",
    "url": "https://doi.org/10.3389/fevo.2018.00070",
-   "citations": 22,
+   "citations": 23,
    "abstract": "Social learning is widespread among family living species, particularly mammals and birds with relatively high levels of social complexity and overt social interaction. However, the occurrence of social learning has never been documented in lizards with kin-based sociality, which have less obvious social interactions. We tested for social learning in Australian tree skinks (Egernia striolata), a species that commonly lives in family groups in the wild, using a two-step foraging task. Lizards were randomly allocated to either a social learning treatment or a control group and presented first with an instrumental task requiring the displacement of a lid, followed by an association task, consisting of two dishes with different colored lids. Prior to each task, lizards in the social learning treatment observed a trained demonstrator extract a food reward while the control also viewed a conspecific, but in the absence of the foraging task. The social learning treatment and control group solved the instrumental task at similar rates, but in the association task lizards in the social learning treatment made fewer errors and reached our learning criterion sooner. To the best of our knowledge, we present the first evidence for social learning in a lizard with kin-based sociality.",
    "preprintUrl": null,
    "altmetric": null
@@ -6174,7 +6107,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1007/s10071-018-1194-y",
-   "citations": 21,
+   "citations": 22,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -6518,7 +6451,7 @@
    "isOA": true,
    "oaUrl": "https://bmcbiol.biomedcentral.com/track/pdf/10.1186/s12915-017-0357-7",
    "url": "https://doi.org/10.1186/s12915-017-0357-7",
-   "citations": 655,
+   "citations": 661,
    "abstract": "Meta-analysis is a statistical procedure for analyzing the combined data from different studies, and can be a major source of concise up-to-date information. The overall conclusions of a meta-analysis, however, depend heavily on the quality of the meta-analytic process, and an appropriate evaluation of the quality of meta-analysis (meta-evaluation) can be challenging. We outline ten questions biologists can ask to critically appraise a meta-analysis. These questions could also act as simple and accessible guidelines for the authors of meta-analyses. We focus on meta-analyses using non-human species, which we term 'biological' meta-analysis. Our ten questions are aimed at enabling a biologist to evaluate whether a biological meta-analysis embodies 'mega-enlightenment', a 'mega-mistake', or something in between.",
    "preprintUrl": null,
    "altmetric": null
@@ -6555,7 +6488,7 @@
    "isOA": true,
    "oaUrl": "http://handle.unsw.edu.au/1959.4/unsworks_45072",
    "url": "https://doi.org/10.1111/brv.12333",
-   "citations": 333,
+   "citations": 334,
    "abstract": "Early environments can profoundly influence an organism in ways that persist over its life. In reptiles, early thermal environments (nest temperatures) can impact offspring phenotype and survival in important ways, yet we still lack an understanding of whether general trends exist and the magnitude of impact. Understanding these patterns is important in predicting how climate change will affect reptile populations and the role of phenotypic plasticity in buffering populations. We compiled data from 175 reptile studies to examine, and quantify, the effect of incubation temperature on phenotype and survival. Using meta-analytic approaches (standardized mean difference between incubation treatments, Hedges' g), we show that across all trait types examined there is, on average, a moderate to large magnitude of effect of incubation temperatures (absolute effect: |g| = 0.75). Unsurprisingly, this influence was extremely large for incubation duration, as predicted, with warmer temperatures decreasing incubation time overall (g = -8.42). Other trait types, including behaviour, physiology, morphology, performance, and survival experienced reduced, but still mostly moderate to large effects, with particularly strong effects on survival. Moreover, the impact of incubation temperature persisted at least one-year post-hatching, suggesting that these effects have the potential to impact fitness in the long term. The magnitude of effect increased as the change in temperature increased (e.g. 6°C versus 2°C) in almost all cases, and tended to decrease when temperatures of the treatments fluctuated around a mean temperature compared to when they were constant. The effect also depended on the mid-temperature of the comparison, but not in consistent ways, with some traits experiencing the greatest effects at extreme temperatures, while others did not. The highly heterogeneous nature of the effects we observe, along with a large amount of unexplained variability, indicates that the shape of reaction norms between phenotype and temperature, along with ecological and/or experimental factors, are important when considering general patterns. Our analyses provide new insights into the effects of incubation environments on reptile phenotype and survival and allow general, albeit coarse, predictions for taxa experiencing warming nest temperatures under climatic change.",
    "preprintUrl": null,
    "altmetric": null
@@ -6597,7 +6530,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/mec.14031",
-   "citations": 300,
+   "citations": 301,
    "abstract": "Meta-analysis is an important tool for synthesizing research on a variety of topics in ecology and evolution, including molecular ecology, but can be susceptible to nonindependence. Nonindependence can affect two major interrelated components of a meta-analysis: (i) the calculation of effect size statistics and (ii) the estimation of overall meta-analytic estimates and their uncertainty. While some solutions to nonindependence exist at the statistical analysis stages, there is little advice on what to do when complex analyses are not possible, or when studies with nonindependent experimental designs exist in the data. Here we argue that exploring the effects of procedural decisions in a meta-analysis (e.g. inclusion of different quality data, choice of effect size) and statistical assumptions (e.g. assuming no phylogenetic covariance) using sensitivity analyses are extremely important in assessing the impact of nonindependence. Sensitivity analyses can provide greater confidence in results and highlight important limitations of empirical work (e.g. impact of study design on overall effects). Despite their importance, sensitivity analyses are seldom applied to problems of nonindependence. To encourage better practice for dealing with nonindependence in meta-analytic studies, we present accessible examples demonstrating the impact that ignoring nonindependence can have on meta-analytic estimates. We also provide pragmatic solutions for dealing with nonindependent study designs, and for analysing dependent effect sizes. Additionally, we offer reporting guidelines that will facilitate disclosure of the sources of nonindependence in meta-analyses, leading to greater transparency and more robust conclusions.",
    "preprintUrl": null,
    "altmetric": null
@@ -7079,7 +7012,7 @@
    "isOA": true,
    "oaUrl": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4126636/",
    "url": "https://doi.org/10.1098/rsbl.2014.0430",
-   "citations": 100,
+   "citations": 101,
    "abstract": "Evidence of social learning, whereby the actions of an animal facilitate the acquisition of new information by another, is taxonomically biased towards mammals, especially primates, and birds. However, social learning need not be limited to group-living animals because species with less interaction can still benefit from learning about potential predators, food sources, rivals and mates. We trained male skinks (Eulamprus quoyii), a mostly solitary lizard from eastern Australia, in a two-step foraging task. Lizards belonging to 'young' and 'old' age classes were presented with a novel instrumental task (displacing a lid) and an association task (reward under blue lid). We did not find evidence for age-dependent learning of the instrumental task; however, young males in the presence of a demonstrator learnt the association task faster than young males without a demonstrator, whereas old males in both treatments had similar success rates. We present the first evidence of age-dependent social learning in a lizard and suggest that the use of social information for learning may be more widespread than previously believed.",
    "preprintUrl": null,
    "altmetric": null
@@ -7247,7 +7180,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1007/s00265-013-1639-x",
-   "citations": 73,
+   "citations": 74,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
