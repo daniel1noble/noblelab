@@ -1,11 +1,12 @@
 {
- "updated": "2026-11-24",
+ "updated": "2026-11-25",
  "total": 413,
  "countries": 28,
  "institutions": 156,
  "byCountry": {
   "Japan": 2,
-  "Australia": 179,
+  "South Africa": 8,
+  "Australia": 178,
   "Germany": 21,
   "Canada": 20,
   "United Kingdom": 38,
@@ -20,7 +21,6 @@
   "The Netherlands": 5,
   "Italy": 3,
   "Netherlands": 2,
-  "South Africa": 7,
   "Portugal": 2,
   "Croatia": 2,
   "Norway": 4,
@@ -53,12 +53,12 @@
    "openalex": "https://openalex.org/A5062640444",
    "works": 32,
    "lastYear": 2022,
-   "institution": "Macquarie University",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
+   "institution": "University of the Witwatersrand",
+   "city": "Johannesburg",
+   "country": "South Africa",
+   "countryCode": "ZA",
+   "lat": -26.20227,
+   "lon": 28.04363
   },
   {
    "name": "Malgorzata Lagisz",
