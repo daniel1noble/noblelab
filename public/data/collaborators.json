@@ -1,12 +1,12 @@
 {
- "updated": "2026-11-25",
- "total": 413,
+ "updated": "2026-11-26",
+ "total": 412,
  "countries": 28,
  "institutions": 156,
  "byCountry": {
   "Japan": 2,
   "South Africa": 8,
-  "Australia": 178,
+  "Australia": 177,
   "Germany": 21,
   "Canada": 20,
   "United Kingdom": 38,
@@ -90,7 +90,7 @@
    "name": "Alistair McNair Senior",
    "orcid": "https://orcid.org/0000-0001-9805-7280",
    "openalex": "https://openalex.org/A5030763843",
-   "works": 12,
+   "works": 13,
    "lastYear": 2026,
    "institution": "The University of Sydney",
    "city": "Sydney",
@@ -1634,19 +1634,6 @@
    "lon": 149.12807
   },
   {
-   "name": "Alistair Senior",
-   "orcid": "https://orcid.org/0000-0001-9805-7280",
-   "openalex": "https://openalex.org/A5137517123",
-   "works": 1,
-   "lastYear": 2026,
-   "institution": "The University of Sydney",
-   "city": "Sydney",
-   "country": "Australia",
-   "countryCode": "AU",
-   "lat": -33.86785,
-   "lon": 151.20732
-  },
-  {
    "name": "Allan H. Edelsparre",
    "orcid": "https://orcid.org/0000-0002-7779-6639",
    "openalex": "https://openalex.org/A5011358679",
@@ -2065,7 +2052,7 @@
   {
    "name": "Carlos Ramon Ruiz-Miranda",
    "orcid": "https://orcid.org/0000-0001-7360-0304",
-   "openalex": "https://openalex.org/A5009527953",
+   "openalex": "https://openalex.org/A5022937717",
    "works": 1,
    "lastYear": 2025,
    "institution": "State University of Norte Fluminense",
