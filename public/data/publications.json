@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -1087,7 +1087,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/1365-2656.70095",
    "url": "https://doi.org/10.1111/1365-2656.70095",
-   "citations": 15,
+   "citations": 16,
    "abstract": "Climate change and human activities are elevating the level and variability of salinity in freshwater ecosystems. Consequently, many aquatic species now experience more extreme developmental environments. Resultant shifts in developmental trajectories could change key life-history traits that persist into adulthood. The 'silver spoon' hypothesis posits that favourable developmental conditions lead to faster growth, earlier maturation and greater reproductive success. In contrast, the 'predictable adaptive response' hypothesis suggests that faster growth and earlier reproduction should be selected for under stressful developmental conditions because stress provides cues about a higher risk of mortality in future environments. To understand life-history responses to salinity during development, we reared a global pest, mosquitofish (Gambusia holbrooki), from birth in either freshwater control (0‰), stable-saline (10‰), or fluctuating-saline environments (0‰-20‰; mean = 10‰) until maturation. We then monitored their performance in early and late adulthood in a common garden setting. Fish in fluctuating salinity grew more slowly and had a reduced reproductive output (lower sperm count, smaller eggs) than those in stable elevated salinity. These differences are consistent with a more stable environment providing a 'silver spoon' effect. Conversely, fish in stable elevated salinity grew faster and matured earlier than those in freshwater, supporting a 'predictive adaptive response' whereby salinity is a stressor triggering faster development and accelerates reproduction. In addition, fluctuations in salinity altered the effect of higher salinity on self-maintenance. Stable elevated salinity caused a decrease in male telomere length and female gut length, but fluctuating salinity caused an increase in female gut length. Our results suggest that fluctuating versus stable salinity during development leads to distinct fish life histories. The effect sizes for some traits differed significantly between males and females, suggesting sex-specific responses to climate fluctuations.",
    "preprintUrl": "https://doi.org/10.1101/2024.02.01.578515",
    "altmetric": null
@@ -4096,7 +4096,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 565,
+   "citations": 566,
    "abstract": "Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N, trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4240,7 +4240,7 @@
    "isOA": true,
    "oaUrl": "https://doi.org/10.32942/osf.io/bnugw",
    "url": "https://doi.org/10.1111/2041-210x.13755",
-   "citations": 119,
+   "citations": 120,
    "abstract": "Organisms use labile traits to respond to different conditions over short time‐scales. When a population experiences the same conditions, we might expect all individuals to adjust their trait expression to the same, optimal, value, thereby minimising phenotypic variation. Instead, variation abounds. Individuals substantially differ not only from each other, but also from their former selves, with the expression of labile traits varying both predictably and unpredictably over time. A powerful tool for studying the evolution of phenotypic variation in labile traits is the mixed model. Here, we review how mixed models are used to quantify individual differences in both means and variability, and their between‐individual correlations. Individuals can differ in their average phenotypes (e.g. behavioural personalities), their variability (known as ‘predictability’ or intra‐individual variability), and their plastic response to different contexts. We provide detailed descriptions and resources for simultaneously modelling individual differences in averages, plasticity and predictability. Empiricists can use these methods to quantify how traits covary across individuals and test theoretical ideas about phenotypic integration. These methods can be extended to incorporate plastic changes in predictability (termed ‘stochastic malleability’). Overall, we showcase the unfulfilled potential of existing statistical tools to test more holistic and nuanced questions about the evolution, function, and maintenance of phenotypic variation, for any trait that is repeatedly expressed.",
    "preprintUrl": null,
    "altmetric": null

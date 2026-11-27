@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26",
+ "updated": "2026-11-27",
  "total": 412,
  "countries": 28,
  "institutions": 156,
@@ -452,7 +452,7 @@
   },
   {
    "name": "Margaret J. Morris",
-   "orcid": "https://orcid.org/0000-0003-2285-5117",
+   "orcid": "https://orcid.org/0000-0002-2830-6488",
    "openalex": "https://openalex.org/A5082402585",
    "works": 4,
    "lastYear": 2022,
@@ -2596,7 +2596,7 @@
    "lon": 2.3488
   },
   {
-   "name": "ERIK I. SVENSSON",
+   "name": "Erik I. Svensson",
    "orcid": "https://orcid.org/0000-0001-9006-016X",
    "openalex": "https://openalex.org/A5015610644",
    "works": 1,
