@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27",
+ "updated": "2026-11-28",
  "publications": [
   {
    "id": "10.1016/j.tree.2026.01.009",
@@ -4029,7 +4029,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/brv.12721",
    "url": "https://doi.org/10.1111/brv.12721",
-   "citations": 938,
+   "citations": 942,
    "abstract": "Since the early 1990s, ecologists and evolutionary biologists have aggregated primary research using meta-analytic methods to understand ecological and evolutionary phenomena. Meta-analyses can resolve long-standing disputes, dispel spurious claims, and generate new research questions. At their worst, however, meta-analysis publications are wolves in sheep's clothing: subjective with biased conclusions, hidden under coats of objective authority. Conclusions can be rendered unreliable by inappropriate statistical methods, problems with the methods used to select primary research, or problems within the primary research itself. Because of these risks, meta-analyses are increasingly conducted as part of systematic reviews, which use structured, transparent, and reproducible methods to collate and summarise evidence. For readers to determine whether the conclusions from a systematic review or meta-analysis should be trusted - and to be able to build upon the review - authors need to report what they did, why they did it, and what they found. Complete, transparent, and reproducible reporting is measured by 'reporting quality'. To assess perceptions and standards of reporting quality of systematic reviews and meta-analyses published in ecology and evolutionary biology, we surveyed 208 researchers with relevant experience (as authors, reviewers, or editors), and conducted detailed evaluations of 102 systematic review and meta-analysis papers published between 2010 and 2019. Reporting quality was far below optimal and approximately normally distributed. Measured reporting quality was lower than what the community perceived, particularly for the systematic review methods required to measure trustworthiness. The minority of assessed papers that referenced a guideline (~16%) showed substantially higher reporting quality than average, and surveyed researchers showed interest in using a reporting guideline to improve reporting quality. The leading guideline for improving reporting quality of systematic reviews is the Preferred Reporting Items for Systematic reviews and Meta-Analyses (PRISMA) statement. Here we unveil an extension of PRISMA to serve the meta-analysis community in ecology and evolutionary biology: PRISMA-EcoEvo (version 1.0). PRISMA-EcoEvo is a checklist of 27 main items that, when applicable, should be reported in systematic review and meta-analysis publications summarising primary research in ecology and evolutionary biology. In this explanation and elaboration document, we provide guidance for authors, reviewers, and editors, with explanations for each item on the checklist, including supplementary examples from published papers. Authors can consult this PRISMA-EcoEvo guideline both in the planning and writing stages of a systematic review and meta-analysis, to increase reporting quality of submitted manuscripts. Reviewers and editors can use the checklist to assess reporting quality in the manuscripts they review. Overall, PRISMA-EcoEvo is a resource for the ecology and evolutionary biology community to facilitate transparent and comprehensively reported systematic reviews and meta-analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4096,7 +4096,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/2041-210X.13724",
    "url": "https://doi.org/10.1111/2041-210x.13724",
-   "citations": 566,
+   "citations": 568,
    "abstract": "Publication bias threatens the validity of quantitative evidence from meta‐analyses as it results in some findings being overrepresented in meta‐analytic datasets because they are published more frequently or sooner (e.g. ‘positive’ results). Unfortunately, methods to test for the presence of publication bias, or assess its impact on meta‐analytic results, are unsuitable for datasets with high heterogeneity and non‐independence, as is common in ecology and evolutionary biology. We first review both classic and emerging publication bias tests (e.g. funnel plots, Egger's regression, cumulative meta‐analysis, fail‐safe N, trim‐and‐fill tests, p ‐curve and selection models), showing that some tests cannot handle heterogeneity, and, more importantly, none of the methods can deal with non‐independence. For each method, we estimate current usage in ecology and evolutionary biology, based on a representative sample of 102 meta‐analyses published in the last 10 years. Then, we propose a new method using multilevel meta‐regression, which can model both heterogeneity and non‐independence, by extending existing regression‐based methods (i.e. Egger's regression). We describe how our multilevel meta‐regression can test not only publication bias, but also time‐lag bias, and how it can be supplemented by residual funnel plots. Overall, we provide ecologists and evolutionary biologists with practical recommendations on which methods are appropriate to employ given independent and non‐independent effect sizes. No method is ideal, and more simulation studies are required to understand how Type 1 and Type 2 error rates are impacted by complex data structures. Still, the limitations of these methods do not justify ignoring publication bias in ecological and evolutionary meta‐analyses.",
    "preprintUrl": null,
    "altmetric": null
@@ -4203,7 +4203,7 @@
    "isOA": true,
    "oaUrl": "https://www.sciencedirect.com/science/article/am/pii/S0169534720303542",
    "url": "https://doi.org/10.1016/j.tree.2020.12.006",
-   "citations": 207,
+   "citations": 209,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -5044,7 +5044,7 @@
    "isOA": true,
    "oaUrl": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1111/ele.13479",
    "url": "https://doi.org/10.1111/ele.13479",
-   "citations": 91,
+   "citations": 92,
    "abstract": "A recent meta-analysis concluded, 'transgenerational effects are widespread, strong and persistent'. We identify biases in the literature search, data and analyses, questioning that conclusion. Re-analyses indicate few studies actually tested transgenerational effects - making it challenging to disentangle condition-transfer from anticipatory parental effects, and providing little insight into the underlying mechanisms.",
    "preprintUrl": null,
    "altmetric": null
@@ -5528,7 +5528,7 @@
    "isOA": true,
    "oaUrl": "https://boris.unibe.ch/147983/",
    "url": "https://doi.org/10.1007/s10071-019-01245-6",
-   "citations": 32,
+   "citations": 33,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -6055,7 +6055,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1007/s10071-018-1194-y",
-   "citations": 21,
+   "citations": 22,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -6530,7 +6530,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1111/mec.14031",
-   "citations": 293,
+   "citations": 294,
    "abstract": "Meta-analysis is an important tool for synthesizing research on a variety of topics in ecology and evolution, including molecular ecology, but can be susceptible to nonindependence. Nonindependence can affect two major interrelated components of a meta-analysis: (i) the calculation of effect size statistics and (ii) the estimation of overall meta-analytic estimates and their uncertainty. While some solutions to nonindependence exist at the statistical analysis stages, there is little advice on what to do when complex analyses are not possible, or when studies with nonindependent experimental designs exist in the data. Here we argue that exploring the effects of procedural decisions in a meta-analysis (e.g. inclusion of different quality data, choice of effect size) and statistical assumptions (e.g. assuming no phylogenetic covariance) using sensitivity analyses are extremely important in assessing the impact of nonindependence. Sensitivity analyses can provide greater confidence in results and highlight important limitations of empirical work (e.g. impact of study design on overall effects). Despite their importance, sensitivity analyses are seldom applied to problems of nonindependence. To encourage better practice for dealing with nonindependence in meta-analytic studies, we present accessible examples demonstrating the impact that ignoring nonindependence can have on meta-analytic estimates. We also provide pragmatic solutions for dealing with nonindependent study designs, and for analysing dependent effect sizes. Additionally, we offer reporting guidelines that will facilitate disclosure of the sources of nonindependence in meta-analyses, leading to greater transparency and more robust conclusions.",
    "preprintUrl": null,
    "altmetric": null
@@ -7180,7 +7180,7 @@
    "isOA": false,
    "oaUrl": null,
    "url": "https://doi.org/10.1007/s00265-013-1639-x",
-   "citations": 74,
+   "citations": 75,
    "abstract": null,
    "preprintUrl": null,
    "altmetric": null
@@ -7338,7 +7338,7 @@
    "isOA": true,
    "oaUrl": "https://royalsocietypublishing.org/doi/pdf/10.1098/rsbl.2012.0813",
    "url": "https://doi.org/10.1098/rsbl.2012.0813",
-   "citations": 67,
+   "citations": 69,
    "abstract": "Spatial cognition is predicted to be a fundamental component of fitness in many lizard species, and yet some studies suggest that it is relatively slow and inflexible. However, such claims are based on work conducted using experimental designs or in artificial contexts that may underestimate their cognitive abilities. We used a biologically realistic experimental procedure (using simulated predatory attacks) to study spatial learning and its flexibility in the lizard Eulamprus quoyii in semi-natural outdoor enclosures under similar conditions to those experienced by lizards in the wild. To evaluate the flexibility of spatial learning, we conducted a reversal spatial-learning task in which positive and negative reinforcements of learnt spatial stimuli were switched. Nineteen (32%) male lizards learnt both tasks within 10 days (spatial task mean: 8.16 ± 0.69 (s.e.) and reversal spatial task mean: 10.74 ± 0.98 (s.e.) trials). We demonstrate that E. quoyii are capable of flexible spatial learning and suggest that future studies focus on a range of lizard species which differ in phylogeny and/or ecology, using biologically relevant cognitive tasks, in an effort to bridge the cognitive divide between ecto- and endotherms.",
    "preprintUrl": null,
    "altmetric": null
@@ -7521,7 +7521,7 @@
    "isOA": true,
    "oaUrl": "https://bmcecolevol.biomedcentral.com/counter/pdf/10.1186/1471-2148-10-197",
    "url": "https://doi.org/10.1186/1471-2148-10-197",
-   "citations": 39,
+   "citations": 40,
    "abstract": "BACKGROUND: Species are fundamental units in biology, yet much debate exists surrounding how we should delineate species in nature. Species discovery now requires the use of separate, corroborating datasets to quantify independently evolving lineages and test species criteria. However, the complexity of the speciation process has ushered in a need to infuse studies with new tools capable of aiding in species delineation. We suggest that model-based assignment tests are one such tool. This method circumvents constraints with traditional population genetic analyses and provides a novel means of describing cryptic and complex diversity in natural systems. Using toad-headed agamas of the Phrynocephalus vlangalii complex as a case study, we apply model-based assignment tests to microsatellite DNA data to test whether P. putjatia, a controversial species that closely resembles P. vlangalii morphologically, represents a valid species. Mitochondrial DNA and geographic data are also included to corroborate the assignment test results. RESULTS: Assignment tests revealed two distinct nuclear DNA clusters with 95% (230/243) of the individuals being assigned to one of the clusters with >90% probability. The nuclear genomes of the two clusters remained distinct in sympatry, particularly at three syntopic sites, suggesting the existence of reproductive isolation between the identified clusters. In addition, a mitochondrial ND2 gene tree revealed two deeply diverged clades, which were largely congruent with the two nuclear DNA clusters, with a few exceptions. Historical mitochondrial introgression events between the two groups might explain the disagreement between the mitochondrial and nuclear DNA data. The nuclear DNA clusters and mitochondrial clades corresponded nicely to the hypothesized distributions of P. vlangalii and P. putjatia. CONCLUSIONS: These results demonstrate that assignment tests based on microsatellite DNA data can be powerful tools for distinguishing closely related species and support the validity of P. putjatia. Assignment tests have the potential to play a significant role in elucidating biodiversity in the era of DNA data. Nonetheless, important limitations do exist and multiple independent datasets should be used to corroborate results from assignment programs.",
    "preprintUrl": null,
    "altmetric": null
